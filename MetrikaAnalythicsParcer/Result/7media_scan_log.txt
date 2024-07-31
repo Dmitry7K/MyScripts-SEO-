@@ -1,0 +1,82 @@
+2024-07-29 15:56:32,210 - INFO - Начинаем сканирование сайта...
+2024-07-29 15:56:32,210 - INFO - Сканирование страницы: https://7media.uz на глубине 0
+2024-07-29 15:56:32,210 - INFO - Запрос страницы: https://7media.uz
+2024-07-29 15:56:38,921 - INFO - Найдено 16 новых ссылок на странице https://7media.uz
+2024-07-29 15:56:38,921 - INFO - Сканирование страницы: https://7media.uz#about на глубине 1
+2024-07-29 15:56:38,921 - INFO - Запрос страницы: https://7media.uz#about
+2024-07-29 15:56:39,610 - INFO - Найдено 15 новых ссылок на странице https://7media.uz#about
+2024-07-29 15:56:39,610 - INFO - Сканирование страницы: https://7media.uz#gradus на глубине 2
+2024-07-29 15:56:39,610 - INFO - Запрос страницы: https://7media.uz#gradus
+2024-07-29 15:56:40,767 - INFO - Найдено 14 новых ссылок на странице https://7media.uz#gradus
+2024-07-29 15:56:40,767 - INFO - Сканирование страницы: https://7media.uz#ekrani на глубине 3
+2024-07-29 15:56:40,767 - INFO - Запрос страницы: https://7media.uz#ekrani
+2024-07-29 15:56:41,980 - INFO - Найдено 13 новых ссылок на странице https://7media.uz#ekrani
+2024-07-29 15:56:41,980 - INFO - Достигнут лимит глубины или количества страниц для https://7media.uz#calculator
+2024-07-29 15:56:41,980 - INFO - Достигнут лимит глубины или количества страниц для https://7media.uz/blog/
+2024-07-29 15:56:41,980 - INFO - Достигнут лимит глубины или количества страниц для https://7media.uz/
+2024-07-29 15:56:41,980 - INFO - Достигнут лимит глубины или количества страниц для https://7media.uz/uz/
+2024-07-29 15:56:41,980 - INFO - Достигнут лимит глубины или количества страниц для https://7media.uz/en/
+2024-07-29 15:56:41,980 - INFO - Достигнут лимит глубины или количества страниц для https://www.instagram.com/7media.uz/
+2024-07-29 15:56:41,980 - INFO - Достигнут лимит глубины или количества страниц для https://7media.uz#1522322738697-88e8c59b-61cc
+2024-07-29 15:56:41,980 - INFO - Достигнут лимит глубины или количества страниц для https://7media.uz#1522322738697-88e8c59b-62cc
+2024-07-29 15:56:41,980 - INFO - Достигнут лимит глубины или количества страниц для https://7media.uz#1522322738697-88e8c59b-63cc
+2024-07-29 15:56:41,980 - INFO - Достигнут лимит глубины или количества страниц для https://7media.uz#1522322738697-88e8c59b-64cc
+2024-07-29 15:56:41,980 - INFO - Достигнут лимит глубины или количества страниц для https://7media.uz#1522322738697-88e8c59b-65cc
+2024-07-29 15:56:41,980 - INFO - Достигнут лимит глубины или количества страниц для https://7media.uz#1522322738697-88e8c59b-66cc
+2024-07-29 15:56:41,980 - INFO - Достигнут лимит глубины или количества страниц для https://7media.uz#1522322738697-88e8c59b-67cc
+2024-07-29 15:56:41,980 - INFO - Всего страниц для проверки: 17
+2024-07-29 15:56:41,980 - INFO - ====== WebDriver manager ======
+2024-07-29 15:56:42,062 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-29 15:56:42,344 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-29 15:56:42,640 - INFO - Driver [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-arm64/chromedriver] found in cache
+2024-07-29 15:56:43,070 - INFO - Обрабатываем страницу: https://7media.uz
+2024-07-29 15:56:49,068 - INFO - Результаты для https://7media.uz: Яндекс Метрика: True, Google Analytics: True, GTM: True
+2024-07-29 15:56:49,069 - INFO - Обработано 1 из 17 страниц.
+2024-07-29 15:56:49,069 - INFO - Обрабатываем страницу: https://7media.uz#about
+2024-07-29 15:56:49,142 - INFO - Результаты для https://7media.uz#about: Яндекс Метрика: <re.Match object; span=(2472, 2492), match='mc.yandex.ru/metrika'>, Google Analytics: False, GTM: <re.Match object; span=(2989, 3016), match='googletagmanager.com/gtm.js'>
+2024-07-29 15:56:49,142 - INFO - Обработано 2 из 17 страниц.
+2024-07-29 15:56:49,142 - INFO - Обрабатываем страницу: https://7media.uz#gradus
+2024-07-29 15:56:49,213 - INFO - Результаты для https://7media.uz#gradus: Яндекс Метрика: <re.Match object; span=(2472, 2492), match='mc.yandex.ru/metrika'>, Google Analytics: False, GTM: <re.Match object; span=(2989, 3016), match='googletagmanager.com/gtm.js'>
+2024-07-29 15:56:49,214 - INFO - Обработано 3 из 17 страниц.
+2024-07-29 15:56:49,214 - INFO - Обрабатываем страницу: https://7media.uz#ekrani
+2024-07-29 15:56:49,297 - INFO - Результаты для https://7media.uz#ekrani: Яндекс Метрика: <re.Match object; span=(2472, 2492), match='mc.yandex.ru/metrika'>, Google Analytics: False, GTM: <re.Match object; span=(2989, 3016), match='googletagmanager.com/gtm.js'>
+2024-07-29 15:56:49,297 - INFO - Обработано 4 из 17 страниц.
+2024-07-29 15:56:49,297 - INFO - Обрабатываем страницу: https://7media.uz#calculator
+2024-07-29 15:56:49,369 - INFO - Результаты для https://7media.uz#calculator: Яндекс Метрика: <re.Match object; span=(2472, 2492), match='mc.yandex.ru/metrika'>, Google Analytics: False, GTM: <re.Match object; span=(2989, 3016), match='googletagmanager.com/gtm.js'>
+2024-07-29 15:56:49,369 - INFO - Обработано 5 из 17 страниц.
+2024-07-29 15:56:49,369 - INFO - Обрабатываем страницу: https://7media.uz/blog/
+2024-07-29 15:56:57,435 - INFO - Результаты для https://7media.uz/blog/: Яндекс Метрика: True, Google Analytics: True, GTM: True
+2024-07-29 15:56:57,435 - INFO - Обработано 6 из 17 страниц.
+2024-07-29 15:56:57,435 - INFO - Обрабатываем страницу: https://7media.uz/
+2024-07-29 15:56:58,637 - INFO - Результаты для https://7media.uz/: Яндекс Метрика: True, Google Analytics: True, GTM: True
+2024-07-29 15:56:58,638 - INFO - Обработано 7 из 17 страниц.
+2024-07-29 15:56:58,638 - INFO - Обрабатываем страницу: https://7media.uz/uz/
+2024-07-29 15:57:02,850 - INFO - Результаты для https://7media.uz/uz/: Яндекс Метрика: True, Google Analytics: True, GTM: True
+2024-07-29 15:57:02,851 - INFO - Обработано 8 из 17 страниц.
+2024-07-29 15:57:02,851 - INFO - Обрабатываем страницу: https://7media.uz/en/
+2024-07-29 15:57:04,038 - INFO - Результаты для https://7media.uz/en/: Яндекс Метрика: True, Google Analytics: True, GTM: True
+2024-07-29 15:57:04,038 - INFO - Обработано 9 из 17 страниц.
+2024-07-29 15:57:04,038 - INFO - Обрабатываем страницу: https://www.instagram.com/7media.uz/
+2024-07-29 15:57:05,568 - INFO - Результаты для https://www.instagram.com/7media.uz/: Яндекс Метрика: True, Google Analytics: False, GTM: False
+2024-07-29 15:57:05,568 - INFO - Обработано 10 из 17 страниц.
+2024-07-29 15:57:05,568 - INFO - Обрабатываем страницу: https://7media.uz#1522322738697-88e8c59b-61cc
+2024-07-29 15:57:06,804 - INFO - Результаты для https://7media.uz#1522322738697-88e8c59b-61cc: Яндекс Метрика: True, Google Analytics: True, GTM: True
+2024-07-29 15:57:06,804 - INFO - Обработано 11 из 17 страниц.
+2024-07-29 15:57:06,804 - INFO - Обрабатываем страницу: https://7media.uz#1522322738697-88e8c59b-62cc
+2024-07-29 15:57:06,874 - INFO - Результаты для https://7media.uz#1522322738697-88e8c59b-62cc: Яндекс Метрика: <re.Match object; span=(2780, 2800), match='mc.yandex.ru/metrika'>, Google Analytics: False, GTM: <re.Match object; span=(2989, 3016), match='googletagmanager.com/gtm.js'>
+2024-07-29 15:57:06,874 - INFO - Обработано 12 из 17 страниц.
+2024-07-29 15:57:06,874 - INFO - Обрабатываем страницу: https://7media.uz#1522322738697-88e8c59b-63cc
+2024-07-29 15:57:06,945 - INFO - Результаты для https://7media.uz#1522322738697-88e8c59b-63cc: Яндекс Метрика: <re.Match object; span=(2780, 2800), match='mc.yandex.ru/metrika'>, Google Analytics: False, GTM: <re.Match object; span=(2989, 3016), match='googletagmanager.com/gtm.js'>
+2024-07-29 15:57:06,945 - INFO - Обработано 13 из 17 страниц.
+2024-07-29 15:57:06,945 - INFO - Обрабатываем страницу: https://7media.uz#1522322738697-88e8c59b-64cc
+2024-07-29 15:57:07,015 - INFO - Результаты для https://7media.uz#1522322738697-88e8c59b-64cc: Яндекс Метрика: <re.Match object; span=(2780, 2800), match='mc.yandex.ru/metrika'>, Google Analytics: False, GTM: <re.Match object; span=(2989, 3016), match='googletagmanager.com/gtm.js'>
+2024-07-29 15:57:07,015 - INFO - Обработано 14 из 17 страниц.
+2024-07-29 15:57:07,015 - INFO - Обрабатываем страницу: https://7media.uz#1522322738697-88e8c59b-65cc
+2024-07-29 15:57:07,085 - INFO - Результаты для https://7media.uz#1522322738697-88e8c59b-65cc: Яндекс Метрика: <re.Match object; span=(2780, 2800), match='mc.yandex.ru/metrika'>, Google Analytics: False, GTM: <re.Match object; span=(2989, 3016), match='googletagmanager.com/gtm.js'>
+2024-07-29 15:57:07,085 - INFO - Обработано 15 из 17 страниц.
+2024-07-29 15:57:07,085 - INFO - Обрабатываем страницу: https://7media.uz#1522322738697-88e8c59b-66cc
+2024-07-29 15:57:07,157 - INFO - Результаты для https://7media.uz#1522322738697-88e8c59b-66cc: Яндекс Метрика: <re.Match object; span=(2780, 2800), match='mc.yandex.ru/metrika'>, Google Analytics: False, GTM: <re.Match object; span=(2989, 3016), match='googletagmanager.com/gtm.js'>
+2024-07-29 15:57:07,157 - INFO - Обработано 16 из 17 страниц.
+2024-07-29 15:57:07,157 - INFO - Обрабатываем страницу: https://7media.uz#1522322738697-88e8c59b-67cc
+2024-07-29 15:57:07,226 - INFO - Результаты для https://7media.uz#1522322738697-88e8c59b-67cc: Яндекс Метрика: <re.Match object; span=(2780, 2800), match='mc.yandex.ru/metrika'>, Google Analytics: False, GTM: <re.Match object; span=(2989, 3016), match='googletagmanager.com/gtm.js'>
+2024-07-29 15:57:07,226 - INFO - Обработано 17 из 17 страниц.

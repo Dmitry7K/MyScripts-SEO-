@@ -1,0 +1,261 @@
+2024-07-29 13:52:18,707 - INFO - Начинаем сканирование сайта...
+2024-07-29 13:52:18,707 - INFO - Сканирование страницы: https://sbssecurity.uz на глубине 0
+2024-07-29 13:52:18,707 - INFO - Запрос страницы: https://sbssecurity.uz
+2024-07-29 13:52:19,728 - INFO - Найдено 108 новых ссылок на странице https://sbssecurity.uz
+2024-07-29 13:52:19,728 - INFO - Сканирование страницы: https://sbssecurity.uz/ на глубине 1
+2024-07-29 13:52:19,728 - INFO - Запрос страницы: https://sbssecurity.uz/
+2024-07-29 13:52:19,980 - INFO - Найдено 92 новых ссылок на странице https://sbssecurity.uz/
+2024-07-29 13:52:19,980 - INFO - Сканирование страницы: https://sbssecurity.uz/uslugi/ на глубине 2
+2024-07-29 13:52:19,980 - INFO - Запрос страницы: https://sbssecurity.uz/uslugi/
+2024-07-29 13:52:20,838 - INFO - Найдено 90 новых ссылок на странице https://sbssecurity.uz/uslugi/
+2024-07-29 13:52:20,838 - INFO - Сканирование страницы: https://sbssecurity.uz/nashi-uslugi/bezopasnost-ob-ektov/ на глубине 3
+2024-07-29 13:52:20,838 - INFO - Запрос страницы: https://sbssecurity.uz/nashi-uslugi/bezopasnost-ob-ektov/
+2024-07-29 13:52:21,672 - INFO - Найдено 76 новых ссылок на странице https://sbssecurity.uz/nashi-uslugi/bezopasnost-ob-ektov/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/object-security/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/soprovozhdenie-gruzov/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/telohraniteli/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/vip-ohrana/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/ohrana-domov
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/ohrana-kvartir
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/ohrana-stroek/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/ohrana-torgovyh-centrov/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/ohrana-meropriyatij/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/nashi-uslugi/videonablyudenie/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/umnyj-dom
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/video-surveillance/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/tekh-obsluzhivanie-sistem-bezopasnosti
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/ohrannaya-signalizaciya
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/cctv-installation/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/sistemy-kontrolya-i-upravleniya-dostupom
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/about-us/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/category/vacansii/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/projects/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/blog/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/for-clients/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/category/akcii/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/contacts/
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/nashi-uslugi/bezopasnost-ob-ektov/#pll_switcher
+2024-07-29 13:52:21,672 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uz/%d0%b3%d0%bb%d0%b0%d0%b2%d0%bd%d0%b0%d1%8f-o%ca%bbzbek/
+2024-07-29 13:52:21,673 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/ohrana-gostinic
+2024-07-29 13:52:21,673 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/ohrana-ofisov/
+2024-07-29 13:52:21,673 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/ohrana-sadov
+2024-07-29 13:52:21,673 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/ohrana-shkol
+2024-07-29 13:52:21,673 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/ohrana-skladov/
+2024-07-29 13:52:21,673 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/ohrana-domov/
+2024-07-29 13:52:21,673 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/ohrana-kvartir/
+2024-07-29 13:52:21,673 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/sistemy-kontrolya-i-upravleniya-dostupom/
+2024-07-29 13:52:21,673 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/umnyj-dom/
+2024-07-29 13:52:21,673 - INFO - Сканирование страницы: https://sbssecurity.uz/uslugi/#pll_switcher на глубине 3
+2024-07-29 13:52:21,673 - INFO - Запрос страницы: https://sbssecurity.uz/uslugi/#pll_switcher
+2024-07-29 13:52:21,744 - INFO - Найдено 86 новых ссылок на странице https://sbssecurity.uz/uslugi/#pll_switcher
+2024-07-29 13:52:21,744 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/ohrannaya-signalizaciya/
+2024-07-29 13:52:21,744 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/uslugi/tekh-obsluzhivanie-sistem-bezopasnosti/
+2024-07-29 13:52:21,744 - INFO - Сканирование страницы: https://sbssecurity.uz/#pll_switcher на глубине 2
+2024-07-29 13:52:21,744 - INFO - Запрос страницы: https://sbssecurity.uz/#pll_switcher
+2024-07-29 13:52:22,468 - INFO - Найдено 86 новых ссылок на странице https://sbssecurity.uz/#pll_switcher
+2024-07-29 13:52:22,468 - INFO - Сканирование страницы: https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/ на глубине 3
+2024-07-29 13:52:22,468 - INFO - Запрос страницы: https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/
+2024-07-29 13:52:23,134 - INFO - Найдено 76 новых ссылок на странице https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/
+2024-07-29 13:52:23,134 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/#pll_switcher
+2024-07-29 13:52:23,134 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/category/novosti/bezopasnost/
+2024-07-29 13:52:23,134 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/category/novosti/
+2024-07-29 13:52:23,134 - INFO - Достигнут лимит глубины или количества страниц для https://www.facebook.com/sharer.php?u=https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/&images=https://sbssecurity.uz/wp-content/uploads/2023/10/4.jpg
+2024-07-29 13:52:23,134 - INFO - Достигнут лимит глубины или количества страниц для https://twitter.com/share?url=https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/&text=%D0%9E%D1%85%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE%20SBS%20Security%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D0%BB%D0%BE%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20Carefour
+2024-07-29 13:52:23,134 - INFO - Достигнут лимит глубины или количества страниц для https://www.linkedin.com/shareArticle?mini=true&url=https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/&title=%D0%9E%D1%85%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE%20SBS%20Security%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D0%BB%D0%BE%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20Carefour
+2024-07-29 13:52:23,134 - INFO - Достигнут лимит глубины или количества страниц для https://reddit.com/submit?url=https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/&title=%D0%9E%D1%85%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE%20SBS%20Security%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D0%BB%D0%BE%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20Carefour
+2024-07-29 13:52:23,134 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/
+2024-07-29 13:52:23,134 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/#respond
+2024-07-29 13:52:23,134 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/nashi-uslugi/%d0%be%d1%85%d1%80%d0%b0%d0%bd%d0%b0-%d0%be%d0%b1%d1%8a%d0%b5%d0%ba%d1%82%d0%be%d0%b2/
+2024-07-29 13:52:23,134 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/nashi-uslugi/pozharnaya-signalizatsiya/
+2024-07-29 13:52:23,134 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/category/novosti/zashita-dannih/
+2024-07-29 13:52:23,134 - INFO - Сканирование страницы: https://sbssecurity.uz/author/optimize/ на глубине 3
+2024-07-29 13:52:23,134 - INFO - Запрос страницы: https://sbssecurity.uz/author/optimize/
+2024-07-29 13:52:23,904 - INFO - Найдено 74 новых ссылок на странице https://sbssecurity.uz/author/optimize/
+2024-07-29 13:52:23,904 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/author/optimize/#pll_switcher
+2024-07-29 13:52:23,905 - INFO - Сканирование страницы: https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/#respond на глубине 3
+2024-07-29 13:52:23,905 - INFO - Запрос страницы: https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/#respond
+2024-07-29 13:52:24,677 - INFO - Найдено 77 новых ссылок на странице https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/#respond
+2024-07-29 13:52:24,677 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/#pll_switcher
+2024-07-29 13:52:24,677 - INFO - Достигнут лимит глубины или количества страниц для https://www.facebook.com/sharer.php?u=https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/&images=https://sbssecurity.uz/wp-content/uploads/2023/10/2.jpg
+2024-07-29 13:52:24,677 - INFO - Достигнут лимит глубины или количества страниц для https://twitter.com/share?url=https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/&text=SBS%20Security%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%20%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%83%20%D0%BD%D0%B0%20%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%20Coke%20Studio%20Fest%202023
+2024-07-29 13:52:24,677 - INFO - Достигнут лимит глубины или количества страниц для https://www.linkedin.com/shareArticle?mini=true&url=https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/&title=SBS%20Security%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%20%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%83%20%D0%BD%D0%B0%20%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%20Coke%20Studio%20Fest%202023
+2024-07-29 13:52:24,677 - INFO - Достигнут лимит глубины или количества страниц для https://reddit.com/submit?url=https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/&title=SBS%20Security%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%20%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%83%20%D0%BD%D0%B0%20%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%20Coke%20Studio%20Fest%202023
+2024-07-29 13:52:24,677 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/operator-videonablyudeniya/
+2024-07-29 13:52:24,677 - INFO - Сканирование страницы: https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/ на глубине 3
+2024-07-29 13:52:24,677 - INFO - Запрос страницы: https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/
+2024-07-29 13:52:25,387 - INFO - Найдено 78 новых ссылок на странице https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/
+2024-07-29 13:52:25,387 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/#pll_switcher
+2024-07-29 13:52:25,387 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/tag/%d0%b1%d0%b5%d0%b7%d0%be%d0%bf%d0%b0%d1%81%d0%bd%d0%be%d1%81%d1%82%d1%8c/
+2024-07-29 13:52:25,387 - INFO - Достигнут лимит глубины или количества страниц для https://www.facebook.com/sharer.php?u=https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/&images=https://sbssecurity.uz/wp-content/uploads/2019/04/img18.jpg
+2024-07-29 13:52:25,387 - INFO - Достигнут лимит глубины или количества страниц для https://twitter.com/share?url=https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/&text=%D0%A0%D0%B0%D0%B2%D0%BD%D1%8B%D0%BC%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%BC%20%D1%81%D0%BB%D0%BE%D0%B6%D0%B8%D0%B2%D1%88%D0%B0%D1%8F%D1%81%D1%8F%20%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8
+2024-07-29 13:52:25,387 - INFO - Достигнут лимит глубины или количества страниц для https://www.linkedin.com/shareArticle?mini=true&url=https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/&title=%D0%A0%D0%B0%D0%B2%D0%BD%D1%8B%D0%BC%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%BC%20%D1%81%D0%BB%D0%BE%D0%B6%D0%B8%D0%B2%D1%88%D0%B0%D1%8F%D1%81%D1%8F%20%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8
+2024-07-29 13:52:25,387 - INFO - Достигнут лимит глубины или количества страниц для https://reddit.com/submit?url=https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/&title=%D0%A0%D0%B0%D0%B2%D0%BD%D1%8B%D0%BC%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%BC%20%D1%81%D0%BB%D0%BE%D0%B6%D0%B8%D0%B2%D1%88%D0%B0%D1%8F%D1%81%D1%8F%20%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8
+2024-07-29 13:52:25,387 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in/
+2024-07-29 13:52:25,387 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/ohrannik/
+2024-07-29 13:52:25,387 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/#respond
+2024-07-29 13:52:25,387 - INFO - Сканирование страницы: https://sbssecurity.uz/author/admin/ на глубине 3
+2024-07-29 13:52:25,387 - INFO - Запрос страницы: https://sbssecurity.uz/author/admin/
+2024-07-29 13:52:26,165 - INFO - Найдено 81 новых ссылок на странице https://sbssecurity.uz/author/admin/
+2024-07-29 13:52:26,165 - INFO - Достигнут лимит глубины или количества страниц для https://sbssecurity.uz/author/admin/#pll_switcher
+2024-07-29 13:52:26,165 - INFO - Сканирование страницы: https://sbssecurity.uz#pll_switcher на глубине 1
+2024-07-29 13:52:26,165 - INFO - Запрос страницы: https://sbssecurity.uz#pll_switcher
+2024-07-29 13:52:26,840 - INFO - Найдено 76 новых ссылок на странице https://sbssecurity.uz#pll_switcher
+2024-07-29 13:52:26,840 - INFO - Всего страниц для проверки: 77
+2024-07-29 13:52:26,840 - INFO - ====== WebDriver manager ======
+2024-07-29 13:52:26,931 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-29 13:52:27,222 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-29 13:52:27,522 - INFO - Driver [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-arm64/chromedriver] found in cache
+2024-07-29 13:52:28,125 - INFO - Обрабатываем страницу: https://sbssecurity.uz
+2024-07-29 13:52:32,080 - INFO - Обработано 1 из 77 страниц.
+2024-07-29 13:52:32,080 - INFO - Обрабатываем страницу: https://sbssecurity.uz/
+2024-07-29 13:52:33,228 - INFO - Обработано 2 из 77 страниц.
+2024-07-29 13:52:33,228 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/
+2024-07-29 13:52:34,599 - INFO - Обработано 3 из 77 страниц.
+2024-07-29 13:52:34,599 - INFO - Обрабатываем страницу: https://sbssecurity.uz/nashi-uslugi/bezopasnost-ob-ektov/
+2024-07-29 13:52:36,719 - INFO - Обработано 4 из 77 страниц.
+2024-07-29 13:52:36,719 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/object-security/
+2024-07-29 13:52:37,887 - INFO - Обработано 5 из 77 страниц.
+2024-07-29 13:52:37,887 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/soprovozhdenie-gruzov/
+2024-07-29 13:52:39,015 - INFO - Обработано 6 из 77 страниц.
+2024-07-29 13:52:39,015 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/telohraniteli/
+2024-07-29 13:52:40,009 - INFO - Обработано 7 из 77 страниц.
+2024-07-29 13:52:40,009 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/vip-ohrana/
+2024-07-29 13:52:40,984 - INFO - Обработано 8 из 77 страниц.
+2024-07-29 13:52:40,984 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/ohrana-domov
+2024-07-29 13:52:43,429 - INFO - Обработано 9 из 77 страниц.
+2024-07-29 13:52:43,429 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/ohrana-kvartir
+2024-07-29 13:52:45,372 - INFO - Обработано 10 из 77 страниц.
+2024-07-29 13:52:45,372 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/ohrana-stroek/
+2024-07-29 13:52:46,535 - INFO - Обработано 11 из 77 страниц.
+2024-07-29 13:52:46,535 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/ohrana-torgovyh-centrov/
+2024-07-29 13:52:47,649 - INFO - Обработано 12 из 77 страниц.
+2024-07-29 13:52:47,649 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/ohrana-meropriyatij/
+2024-07-29 13:52:48,833 - INFO - Обработано 13 из 77 страниц.
+2024-07-29 13:52:48,833 - INFO - Обрабатываем страницу: https://sbssecurity.uz/nashi-uslugi/videonablyudenie/
+2024-07-29 13:52:49,783 - INFO - Обработано 14 из 77 страниц.
+2024-07-29 13:52:49,783 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/umnyj-dom
+2024-07-29 13:52:51,741 - INFO - Обработано 15 из 77 страниц.
+2024-07-29 13:52:51,741 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/video-surveillance/
+2024-07-29 13:52:52,582 - INFO - Обработано 16 из 77 страниц.
+2024-07-29 13:52:52,582 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/tekh-obsluzhivanie-sistem-bezopasnosti
+2024-07-29 13:52:54,755 - INFO - Обработано 17 из 77 страниц.
+2024-07-29 13:52:54,755 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/ohrannaya-signalizaciya
+2024-07-29 13:52:56,903 - INFO - Обработано 18 из 77 страниц.
+2024-07-29 13:52:56,903 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/cctv-installation/
+2024-07-29 13:52:57,710 - INFO - Обработано 19 из 77 страниц.
+2024-07-29 13:52:57,710 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/sistemy-kontrolya-i-upravleniya-dostupom
+2024-07-29 13:52:59,490 - INFO - Обработано 20 из 77 страниц.
+2024-07-29 13:52:59,490 - INFO - Обрабатываем страницу: https://sbssecurity.uz/about-us/
+2024-07-29 13:53:00,440 - INFO - Обработано 21 из 77 страниц.
+2024-07-29 13:53:00,440 - INFO - Обрабатываем страницу: https://sbssecurity.uz/category/vacansii/
+2024-07-29 13:53:01,315 - INFO - Обработано 22 из 77 страниц.
+2024-07-29 13:53:01,315 - INFO - Обрабатываем страницу: https://sbssecurity.uz/projects/
+2024-07-29 13:53:02,500 - INFO - Обработано 23 из 77 страниц.
+2024-07-29 13:53:02,500 - INFO - Обрабатываем страницу: https://sbssecurity.uz/blog/
+2024-07-29 13:53:03,443 - INFO - Обработано 24 из 77 страниц.
+2024-07-29 13:53:03,443 - INFO - Обрабатываем страницу: https://sbssecurity.uz/for-clients/
+2024-07-29 13:53:04,159 - INFO - Обработано 25 из 77 страниц.
+2024-07-29 13:53:04,159 - INFO - Обрабатываем страницу: https://sbssecurity.uz/category/akcii/
+2024-07-29 13:53:05,066 - INFO - Обработано 26 из 77 страниц.
+2024-07-29 13:53:05,066 - INFO - Обрабатываем страницу: https://sbssecurity.uz/contacts/
+2024-07-29 13:53:06,224 - INFO - Обработано 27 из 77 страниц.
+2024-07-29 13:53:06,224 - INFO - Обрабатываем страницу: https://sbssecurity.uz/nashi-uslugi/bezopasnost-ob-ektov/#pll_switcher
+2024-07-29 13:53:07,020 - INFO - Обработано 28 из 77 страниц.
+2024-07-29 13:53:07,020 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uz/%d0%b3%d0%bb%d0%b0%d0%b2%d0%bd%d0%b0%d1%8f-o%ca%bbzbek/
+2024-07-29 13:53:08,302 - INFO - Обработано 29 из 77 страниц.
+2024-07-29 13:53:08,302 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/ohrana-gostinic
+2024-07-29 13:53:10,077 - INFO - Обработано 30 из 77 страниц.
+2024-07-29 13:53:10,077 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/ohrana-ofisov/
+2024-07-29 13:53:11,021 - INFO - Обработано 31 из 77 страниц.
+2024-07-29 13:53:11,021 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/ohrana-sadov
+2024-07-29 13:53:13,023 - INFO - Обработано 32 из 77 страниц.
+2024-07-29 13:53:13,023 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/ohrana-shkol
+2024-07-29 13:53:15,013 - INFO - Обработано 33 из 77 страниц.
+2024-07-29 13:53:15,013 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/ohrana-skladov/
+2024-07-29 13:53:16,116 - INFO - Обработано 34 из 77 страниц.
+2024-07-29 13:53:16,116 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/ohrana-domov/
+2024-07-29 13:53:16,702 - INFO - Обработано 35 из 77 страниц.
+2024-07-29 13:53:16,702 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/ohrana-kvartir/
+2024-07-29 13:53:17,575 - INFO - Обработано 36 из 77 страниц.
+2024-07-29 13:53:17,575 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/sistemy-kontrolya-i-upravleniya-dostupom/
+2024-07-29 13:53:18,298 - INFO - Обработано 37 из 77 страниц.
+2024-07-29 13:53:18,298 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/umnyj-dom/
+2024-07-29 13:53:18,978 - INFO - Обработано 38 из 77 страниц.
+2024-07-29 13:53:18,978 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/#pll_switcher
+2024-07-29 13:53:19,591 - INFO - Обработано 39 из 77 страниц.
+2024-07-29 13:53:19,591 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/ohrannaya-signalizaciya/
+2024-07-29 13:53:20,247 - INFO - Обработано 40 из 77 страниц.
+2024-07-29 13:53:20,247 - INFO - Обрабатываем страницу: https://sbssecurity.uz/uslugi/tekh-obsluzhivanie-sistem-bezopasnosti/
+2024-07-29 13:53:20,882 - INFO - Обработано 41 из 77 страниц.
+2024-07-29 13:53:20,882 - INFO - Обрабатываем страницу: https://sbssecurity.uz/#pll_switcher
+2024-07-29 13:53:21,563 - INFO - Обработано 42 из 77 страниц.
+2024-07-29 13:53:21,563 - INFO - Обрабатываем страницу: https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/
+2024-07-29 13:53:22,429 - INFO - Обработано 43 из 77 страниц.
+2024-07-29 13:53:22,429 - INFO - Обрабатываем страницу: https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/#pll_switcher
+2024-07-29 13:53:22,446 - INFO - Обработано 44 из 77 страниц.
+2024-07-29 13:53:22,446 - INFO - Обрабатываем страницу: https://sbssecurity.uz/category/novosti/bezopasnost/
+2024-07-29 13:53:23,071 - INFO - Обработано 45 из 77 страниц.
+2024-07-29 13:53:23,071 - INFO - Обрабатываем страницу: https://sbssecurity.uz/category/novosti/
+2024-07-29 13:53:23,707 - INFO - Обработано 46 из 77 страниц.
+2024-07-29 13:53:23,707 - INFO - Обрабатываем страницу: https://www.facebook.com/sharer.php?u=https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/&images=https://sbssecurity.uz/wp-content/uploads/2023/10/4.jpg
+2024-07-29 13:53:25,332 - INFO - Обработано 47 из 77 страниц.
+2024-07-29 13:53:25,332 - INFO - Обрабатываем страницу: https://twitter.com/share?url=https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/&text=%D0%9E%D1%85%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE%20SBS%20Security%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D0%BB%D0%BE%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20Carefour
+2024-07-29 13:53:27,941 - INFO - Обработано 48 из 77 страниц.
+2024-07-29 13:53:27,942 - INFO - Обрабатываем страницу: https://www.linkedin.com/shareArticle?mini=true&url=https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/&title=%D0%9E%D1%85%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE%20SBS%20Security%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D0%BB%D0%BE%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20Carefour
+2024-07-29 13:53:29,109 - INFO - Обработано 49 из 77 страниц.
+2024-07-29 13:53:29,111 - INFO - Обрабатываем страницу: https://reddit.com/submit?url=https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/&title=%D0%9E%D1%85%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE%20SBS%20Security%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D0%BB%D0%BE%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20Carefour
+2024-07-29 13:53:29,941 - INFO - Обработано 50 из 77 страниц.
+2024-07-29 13:53:29,941 - INFO - Обрабатываем страницу: https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/
+2024-07-29 13:53:30,609 - INFO - Обработано 51 из 77 страниц.
+2024-07-29 13:53:30,609 - INFO - Обрабатываем страницу: https://sbssecurity.uz/sbssecurity-obespechilo-bezopasnost-carefour/#respond
+2024-07-29 13:53:31,372 - INFO - Обработано 52 из 77 страниц.
+2024-07-29 13:53:31,372 - INFO - Обрабатываем страницу: https://sbssecurity.uz/nashi-uslugi/%d0%be%d1%85%d1%80%d0%b0%d0%bd%d0%b0-%d0%be%d0%b1%d1%8a%d0%b5%d0%ba%d1%82%d0%be%d0%b2/
+2024-07-29 13:53:32,226 - INFO - Обработано 53 из 77 страниц.
+2024-07-29 13:53:32,226 - INFO - Обрабатываем страницу: https://sbssecurity.uz/nashi-uslugi/pozharnaya-signalizatsiya/
+2024-07-29 13:53:33,236 - INFO - Обработано 54 из 77 страниц.
+2024-07-29 13:53:33,236 - INFO - Обрабатываем страницу: https://sbssecurity.uz/category/novosti/zashita-dannih/
+2024-07-29 13:53:34,113 - INFO - Обработано 55 из 77 страниц.
+2024-07-29 13:53:34,113 - INFO - Обрабатываем страницу: https://sbssecurity.uz/author/optimize/
+2024-07-29 13:53:34,627 - INFO - Обработано 56 из 77 страниц.
+2024-07-29 13:53:34,627 - INFO - Обрабатываем страницу: https://sbssecurity.uz/author/optimize/#pll_switcher
+2024-07-29 13:53:34,656 - INFO - Обработано 57 из 77 страниц.
+2024-07-29 13:53:34,657 - INFO - Обрабатываем страницу: https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/#respond
+2024-07-29 13:53:35,281 - INFO - Обработано 58 из 77 страниц.
+2024-07-29 13:53:35,281 - INFO - Обрабатываем страницу: https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/#pll_switcher
+2024-07-29 13:53:35,297 - INFO - Обработано 59 из 77 страниц.
+2024-07-29 13:53:35,297 - INFO - Обрабатываем страницу: https://www.facebook.com/sharer.php?u=https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/&images=https://sbssecurity.uz/wp-content/uploads/2023/10/2.jpg
+2024-07-29 13:53:35,830 - INFO - Обработано 60 из 77 страниц.
+2024-07-29 13:53:35,830 - INFO - Обрабатываем страницу: https://twitter.com/share?url=https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/&text=SBS%20Security%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%20%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%83%20%D0%BD%D0%B0%20%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%20Coke%20Studio%20Fest%202023
+2024-07-29 13:53:36,631 - INFO - Обработано 61 из 77 страниц.
+2024-07-29 13:53:36,631 - INFO - Обрабатываем страницу: https://www.linkedin.com/shareArticle?mini=true&url=https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/&title=SBS%20Security%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%20%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%83%20%D0%BD%D0%B0%20%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%20Coke%20Studio%20Fest%202023
+2024-07-29 13:53:37,342 - INFO - Обработано 62 из 77 страниц.
+2024-07-29 13:53:37,342 - INFO - Обрабатываем страницу: https://reddit.com/submit?url=https://sbssecurity.uz/sbssecurity-organizovalo-ohranu/&title=SBS%20Security%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%20%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%83%20%D0%BD%D0%B0%20%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%20Coke%20Studio%20Fest%202023
+2024-07-29 13:53:37,548 - INFO - Обработано 63 из 77 страниц.
+2024-07-29 13:53:37,549 - INFO - Обрабатываем страницу: https://sbssecurity.uz/operator-videonablyudeniya/
+2024-07-29 13:53:38,168 - INFO - Обработано 64 из 77 страниц.
+2024-07-29 13:53:38,168 - INFO - Обрабатываем страницу: https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/
+2024-07-29 13:53:38,870 - INFO - Обработано 65 из 77 страниц.
+2024-07-29 13:53:38,870 - INFO - Обрабатываем страницу: https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/#pll_switcher
+2024-07-29 13:53:38,889 - INFO - Обработано 66 из 77 страниц.
+2024-07-29 13:53:38,889 - INFO - Обрабатываем страницу: https://sbssecurity.uz/tag/%d0%b1%d0%b5%d0%b7%d0%be%d0%bf%d0%b0%d1%81%d0%bd%d0%be%d1%81%d1%82%d1%8c/
+2024-07-29 13:53:39,691 - INFO - Обработано 67 из 77 страниц.
+2024-07-29 13:53:39,691 - INFO - Обрабатываем страницу: https://www.facebook.com/sharer.php?u=https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/&images=https://sbssecurity.uz/wp-content/uploads/2019/04/img18.jpg
+2024-07-29 13:53:40,246 - INFO - Обработано 68 из 77 страниц.
+2024-07-29 13:53:40,246 - INFO - Обрабатываем страницу: https://twitter.com/share?url=https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/&text=%D0%A0%D0%B0%D0%B2%D0%BD%D1%8B%D0%BC%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%BC%20%D1%81%D0%BB%D0%BE%D0%B6%D0%B8%D0%B2%D1%88%D0%B0%D1%8F%D1%81%D1%8F%20%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8
+2024-07-29 13:53:41,047 - INFO - Обработано 69 из 77 страниц.
+2024-07-29 13:53:41,047 - INFO - Обрабатываем страницу: https://www.linkedin.com/shareArticle?mini=true&url=https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/&title=%D0%A0%D0%B0%D0%B2%D0%BD%D1%8B%D0%BC%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%BC%20%D1%81%D0%BB%D0%BE%D0%B6%D0%B8%D0%B2%D1%88%D0%B0%D1%8F%D1%81%D1%8F%20%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8
+2024-07-29 13:53:41,748 - INFO - Обработано 70 из 77 страниц.
+2024-07-29 13:53:41,748 - INFO - Обрабатываем страницу: https://reddit.com/submit?url=https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/&title=%D0%A0%D0%B0%D0%B2%D0%BD%D1%8B%D0%BC%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%BC%20%D1%81%D0%BB%D0%BE%D0%B6%D0%B8%D0%B2%D1%88%D0%B0%D1%8F%D1%81%D1%8F%20%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8
+2024-07-29 13:53:41,954 - INFO - Обработано 71 из 77 страниц.
+2024-07-29 13:53:41,954 - INFO - Обрабатываем страницу: https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in/
+2024-07-29 13:53:42,793 - INFO - Обработано 72 из 77 страниц.
+2024-07-29 13:53:42,793 - INFO - Обрабатываем страницу: https://sbssecurity.uz/ohrannik/
+2024-07-29 13:53:43,423 - INFO - Обработано 73 из 77 страниц.
+2024-07-29 13:53:43,423 - INFO - Обрабатываем страницу: https://sbssecurity.uz/ullamcorper-amet-feugiat-wisi-id-metus-ultrices-mauris-in-mattis/#respond
+2024-07-29 13:53:44,026 - INFO - Обработано 74 из 77 страниц.
+2024-07-29 13:53:44,026 - INFO - Обрабатываем страницу: https://sbssecurity.uz/author/admin/
+2024-07-29 13:53:44,659 - INFO - Обработано 75 из 77 страниц.
+2024-07-29 13:53:44,659 - INFO - Обрабатываем страницу: https://sbssecurity.uz/author/admin/#pll_switcher
+2024-07-29 13:53:44,674 - INFO - Обработано 76 из 77 страниц.
+2024-07-29 13:53:44,674 - INFO - Обрабатываем страницу: https://sbssecurity.uz#pll_switcher
+2024-07-29 13:53:45,449 - INFO - Обработано 77 из 77 страниц.

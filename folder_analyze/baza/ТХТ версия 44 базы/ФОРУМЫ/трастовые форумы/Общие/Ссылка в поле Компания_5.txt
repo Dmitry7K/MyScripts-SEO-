@@ -1,0 +1,5 @@
+http://audiolit.ru/personal/reg.php?register=yes&backurl=%2Fforum%2Findex.php%3FPAGE_NAME%3Duser_list
+http://momo65.net.ru/communication/forum/index.php?backurl=%2Fcommunication%2Fforum%2Findex.php&register=yes&backurl=%2Fcommunication%2Fforum%2Findex.php
+http://mosvuz.ru/forum/?register=yes&backurl=%2Fforum%2F
+http://ulrgo.ru/forum/forum3/?register=yes&backurl=%2Fforum%2Fforum3%2F
+http://www.south-rus.org/auth/?register=yes&backurl=%2Fforum%2F

@@ -1,0 +1,98 @@
+2024-07-25 12:41:35,262 - INFO - Начинаем сканирование сайта...
+2024-07-25 12:41:35,262 - INFO - Сканирование страницы: https://leading.uz/ на глубине 0
+2024-07-25 12:41:35,262 - INFO - Запрос страницы: https://leading.uz/
+2024-07-25 12:41:35,728 - INFO - Найдено 45 новых ссылок на странице https://leading.uz/
+2024-07-25 12:41:35,728 - INFO - Сканирование страницы: https://leading.uz на глубине 1
+2024-07-25 12:41:35,728 - INFO - Запрос страницы: https://leading.uz
+2024-07-25 12:41:36,126 - INFO - Найдено 41 новых ссылок на странице https://leading.uz
+2024-07-25 12:41:36,126 - INFO - Сканирование страницы: https://leading.uz/servis-1s-lizing на глубине 2
+2024-07-25 12:41:36,126 - INFO - Запрос страницы: https://leading.uz/servis-1s-lizing
+2024-07-25 12:41:36,515 - INFO - Найдено 35 новых ссылок на странице https://leading.uz/servis-1s-lizing
+2024-07-25 12:41:36,516 - INFO - Сканирование страницы: https://leading.uz/reshenie-1s-predpriyatie-8-arenda-i-upravlenie-nedvizhimostyu на глубине 3
+2024-07-25 12:41:36,516 - INFO - Запрос страницы: https://leading.uz/reshenie-1s-predpriyatie-8-arenda-i-upravlenie-nedvizhimostyu
+2024-07-25 12:41:36,898 - INFO - Найдено 32 новых ссылок на странице https://leading.uz/reshenie-1s-predpriyatie-8-arenda-i-upravlenie-nedvizhimostyu
+2024-07-25 12:41:36,898 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/kompleksnaya-podderzhka-1s-1s-its
+2024-07-25 12:41:36,898 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/konsultirovanie-po-1s-besplatno
+2024-07-25 12:41:36,898 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/1s-predpriyatie-8-upravlenie-aptechnoy-setyu-2
+2024-07-25 12:41:36,898 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/strahovanie
+2024-07-25 12:41:36,899 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/uslugi
+2024-07-25 12:41:36,899 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/1c-buhgalteriya
+2024-07-25 12:41:36,899 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/1c-buxgalteriya-korp-msfo
+2024-07-25 12:41:36,899 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/1s-zarplata-i-upravlenie-personalom
+2024-07-25 12:41:36,899 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/1s-dokumentooborot
+2024-07-25 12:41:36,899 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/1s-upravlenie-kompaniey
+2024-07-25 12:41:36,899 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/1c-erp-3
+2024-07-25 12:41:36,899 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/producti
+2024-07-25 12:41:36,899 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/o-nas
+2024-07-25 12:41:36,899 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/kontakti
+2024-07-25 12:41:36,899 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/blogi
+2024-07-25 12:41:36,899 - INFO - Достигнут лимит глубины или количества страниц для https://leading.uz/reshenie-1s-predpriyatie-8-arenda-i-upravlenie-nedvizhimostyu#contact-form
+2024-07-25 12:41:36,899 - INFO - Достигнут лимит глубины или количества страниц для https://www.instagram.com/leading.uz/
+2024-07-25 12:41:36,899 - INFO - Сканирование страницы: https://leading.uz/servis-1s-lizing#contact-form на глубине 3
+2024-07-25 12:41:36,899 - INFO - Запрос страницы: https://leading.uz/servis-1s-lizing#contact-form
+2024-07-25 12:41:37,359 - INFO - Найдено 30 новых ссылок на странице https://leading.uz/servis-1s-lizing#contact-form
+2024-07-25 12:41:37,360 - INFO - Сканирование страницы: https://leading.uz#contact-form на глубине 2
+2024-07-25 12:41:37,360 - INFO - Запрос страницы: https://leading.uz#contact-form
+2024-07-25 12:41:37,777 - INFO - Найдено 32 новых ссылок на странице https://leading.uz#contact-form
+2024-07-25 12:41:37,777 - INFO - Сканирование страницы: https://leading.uz/#contact-form на глубине 1
+2024-07-25 12:41:37,777 - INFO - Запрос страницы: https://leading.uz/#contact-form
+2024-07-25 12:41:38,133 - INFO - Найдено 32 новых ссылок на странице https://leading.uz/#contact-form
+2024-07-25 12:41:38,133 - INFO - Всего страниц для проверки: 24
+2024-07-25 12:41:38,133 - INFO - ====== WebDriver manager ======
+2024-07-25 12:41:38,268 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-25 12:41:38,571 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-25 12:41:38,886 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-25 12:41:39,597 - INFO - WebDriver version 126.0.6478.182 selected
+2024-07-25 12:41:39,600 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.182/mac-arm64/chromedriver-mac-arm64.zip
+2024-07-25 12:41:39,600 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.182/mac-arm64/chromedriver-mac-arm64.zip
+2024-07-25 12:41:39,923 - INFO - Driver downloading response is 200
+2024-07-25 12:41:41,308 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-25 12:41:41,706 - INFO - Driver has been saved in cache [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182]
+2024-07-25 12:41:42,303 - INFO - Обрабатываем страницу: https://leading.uz/
+2024-07-25 12:41:43,786 - INFO - Обработано 1 из 24 страниц.
+2024-07-25 12:41:43,786 - INFO - Обрабатываем страницу: https://leading.uz
+2024-07-25 12:41:44,253 - INFO - Обработано 2 из 24 страниц.
+2024-07-25 12:41:44,253 - INFO - Обрабатываем страницу: https://leading.uz/servis-1s-lizing
+2024-07-25 12:41:44,705 - INFO - Обработано 3 из 24 страниц.
+2024-07-25 12:41:44,705 - INFO - Обрабатываем страницу: https://leading.uz/reshenie-1s-predpriyatie-8-arenda-i-upravlenie-nedvizhimostyu
+2024-07-25 12:41:45,190 - INFO - Обработано 4 из 24 страниц.
+2024-07-25 12:41:45,190 - INFO - Обрабатываем страницу: https://leading.uz/kompleksnaya-podderzhka-1s-1s-its
+2024-07-25 12:41:45,678 - INFO - Обработано 5 из 24 страниц.
+2024-07-25 12:41:45,679 - INFO - Обрабатываем страницу: https://leading.uz/konsultirovanie-po-1s-besplatno
+2024-07-25 12:41:46,128 - INFO - Обработано 6 из 24 страниц.
+2024-07-25 12:41:46,128 - INFO - Обрабатываем страницу: https://leading.uz/1s-predpriyatie-8-upravlenie-aptechnoy-setyu-2
+2024-07-25 12:41:46,576 - INFO - Обработано 7 из 24 страниц.
+2024-07-25 12:41:46,576 - INFO - Обрабатываем страницу: https://leading.uz/strahovanie
+2024-07-25 12:41:47,019 - INFO - Обработано 8 из 24 страниц.
+2024-07-25 12:41:47,019 - INFO - Обрабатываем страницу: https://leading.uz/uslugi
+2024-07-25 12:41:47,464 - INFO - Обработано 9 из 24 страниц.
+2024-07-25 12:41:47,464 - INFO - Обрабатываем страницу: https://leading.uz/1c-buhgalteriya
+2024-07-25 12:41:48,456 - INFO - Обработано 10 из 24 страниц.
+2024-07-25 12:41:48,456 - INFO - Обрабатываем страницу: https://leading.uz/1c-buxgalteriya-korp-msfo
+2024-07-25 12:41:48,933 - INFO - Обработано 11 из 24 страниц.
+2024-07-25 12:41:48,933 - INFO - Обрабатываем страницу: https://leading.uz/1s-zarplata-i-upravlenie-personalom
+2024-07-25 12:41:49,409 - INFO - Обработано 12 из 24 страниц.
+2024-07-25 12:41:49,409 - INFO - Обрабатываем страницу: https://leading.uz/1s-dokumentooborot
+2024-07-25 12:41:49,873 - INFO - Обработано 13 из 24 страниц.
+2024-07-25 12:41:49,873 - INFO - Обрабатываем страницу: https://leading.uz/1s-upravlenie-kompaniey
+2024-07-25 12:41:50,326 - INFO - Обработано 14 из 24 страниц.
+2024-07-25 12:41:50,327 - INFO - Обрабатываем страницу: https://leading.uz/1c-erp-3
+2024-07-25 12:41:50,802 - INFO - Обработано 15 из 24 страниц.
+2024-07-25 12:41:50,802 - INFO - Обрабатываем страницу: https://leading.uz/producti
+2024-07-25 12:41:51,367 - INFO - Обработано 16 из 24 страниц.
+2024-07-25 12:41:51,367 - INFO - Обрабатываем страницу: https://leading.uz/o-nas
+2024-07-25 12:41:52,136 - INFO - Обработано 17 из 24 страниц.
+2024-07-25 12:41:52,136 - INFO - Обрабатываем страницу: https://leading.uz/kontakti
+2024-07-25 12:41:53,404 - INFO - Обработано 18 из 24 страниц.
+2024-07-25 12:41:53,404 - INFO - Обрабатываем страницу: https://leading.uz/blogi
+2024-07-25 12:41:53,865 - INFO - Обработано 19 из 24 страниц.
+2024-07-25 12:41:53,865 - INFO - Обрабатываем страницу: https://leading.uz/reshenie-1s-predpriyatie-8-arenda-i-upravlenie-nedvizhimostyu#contact-form
+2024-07-25 12:41:54,329 - INFO - Обработано 20 из 24 страниц.
+2024-07-25 12:41:54,329 - INFO - Обрабатываем страницу: https://www.instagram.com/leading.uz/
+2024-07-25 12:41:55,935 - INFO - Обработано 21 из 24 страниц.
+2024-07-25 12:41:55,935 - INFO - Обрабатываем страницу: https://leading.uz/servis-1s-lizing#contact-form
+2024-07-25 12:41:56,446 - INFO - Обработано 22 из 24 страниц.
+2024-07-25 12:41:56,446 - INFO - Обрабатываем страницу: https://leading.uz#contact-form
+2024-07-25 12:41:56,917 - INFO - Обработано 23 из 24 страниц.
+2024-07-25 12:41:56,917 - INFO - Обрабатываем страницу: https://leading.uz/#contact-form
+2024-07-25 12:41:56,952 - INFO - Обработано 24 из 24 страниц.

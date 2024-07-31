@@ -1,0 +1,293 @@
+2024-07-26 15:38:36,768 - INFO - Начинаем сканирование сайта...
+2024-07-26 15:38:36,768 - INFO - Сканирование страницы: https://tengebank.uz/ на глубине 0
+2024-07-26 15:38:36,768 - INFO - Запрос страницы: https://tengebank.uz/
+2024-07-26 15:38:38,654 - INFO - Найдено 112 новых ссылок на странице https://tengebank.uz/
+2024-07-26 15:38:38,654 - INFO - Сканирование страницы: https://tengebank.uz/uz/branches_atm/branch на глубине 1
+2024-07-26 15:38:38,654 - INFO - Запрос страницы: https://tengebank.uz/uz/branches_atm/branch
+2024-07-26 15:38:39,948 - INFO - Найдено 95 новых ссылок на странице https://tengebank.uz/uz/branches_atm/branch
+2024-07-26 15:38:39,948 - INFO - Сканирование страницы: https://tengebank.uz/uz/auth на глубине 2
+2024-07-26 15:38:39,948 - INFO - Запрос страницы: https://tengebank.uz/uz/auth
+2024-07-26 15:38:41,552 - INFO - Найдено 90 новых ссылок на странице https://tengebank.uz/uz/auth
+2024-07-26 15:38:41,552 - INFO - Сканирование страницы: https://tengebank.uz/uz на глубине 3
+2024-07-26 15:38:41,552 - INFO - Запрос страницы: https://tengebank.uz/uz
+2024-07-26 15:38:43,329 - INFO - Найдено 105 новых ссылок на странице https://tengebank.uz/uz
+2024-07-26 15:38:43,329 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/business
+2024-07-26 15:38:43,329 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/organizations/financialinstitution/korrespondentskie-otnosheniya
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about/press_center
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/more/prava-klientov
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/quiz-polls
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/promo
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/credits/ipoteka
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/credits/mikrozajmy
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/credits/dosrochnoe-pogashenie-kredita
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/cards/debetovye-karty
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/cards/7-yoshdan-bolalar-uchun-kartalar
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/deposit/srochnye-vklady
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/deposit/garantirovanie-vseh-vkladov
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/transfer/mezhdunarodnye-perevody-na-schyot
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/transfer/mezhdunarodnye-perevody-nalichnymi
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/transfer/perevody-v-prilozhenii-halyk
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/transfer/perevody-mezhdu-kartami
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/transfer/perevody-v-kazahstan
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/other/kassovye
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/more/tenge24
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/more/tenge-market
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/cashback
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz#nav-private
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz#nav-business
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz#nav-organizations
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz#nav-about
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about-bank/kontakty-i-rekvizity
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/business/services/tranzakcionnoe-obsluzhivanie
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/business/acquiring/pos-terminaly
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/business/acquiring/american-express-ae
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/business/smelendings/na-lyubye-biznes-celi
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для http://tengebank.uz/uz/business/smelending/finansirovanie-na-investicionnye-celi
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/business/smelending/online-business
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about/property
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/business/tradefinance_categories/garantii
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/business/tradefinance_categories/akkreditivy
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/business/lendingcorporate/investicionnye-celi
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/business/lendingcorporate/na-popolnenie-oborotnyh-sredstv
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/business/service/zarplatnyj-proekt
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/business/services/produkty-kaznachejstva
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/business/more/depozity
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/business/more/tenge-business
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/business/more/tenge-market
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/organizations/financialinstitutions/korrespondentskie-otnosheniya
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about-bank/o-banke
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about-bank/akcioneram
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about-bank/korporativnoe-upravlenie
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about-bank/virtualnaya-priemnaya
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about-bank/finansovaya-otchetnost
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about-bank/upravleniye-vnutrennego-kontrolya
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about-bank/tendery
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about-bank/tekushchie-rejtingi
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about-bank/bezopasnost
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about-bank/biznes-plan
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about-bank/vykup-akcij
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about-bank/dividendlar
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about-bank/plan-esg
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about/leadership
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/tenge-bankda-martaba
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/about-bank/informaciya-ob-akcionerah
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/promo/67
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/promo/63
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/promo/74
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://www.tengebank.uz/uz/credit/ipoteka-na-vtorichnoe-zhile
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://www.tengebank.uz/uz/deposit/srochnye-vklady
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/exchange-rates
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/tariffs
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/site-map
+2024-07-26 15:38:43,330 - INFO - Достигнут лимит глубины или количества страниц для https://www.tengebank.uz/t24-download?utm_source=link&utm_medium=site&utm_campaign=tenge24
+2024-07-26 15:38:43,331 - INFO - Достигнут лимит глубины или количества страниц для https://www.facebook.com/tengebank.uz
+2024-07-26 15:38:43,331 - INFO - Сканирование страницы: https://tengebank.uz/uz/auth#nav-private на глубине 3
+2024-07-26 15:38:43,331 - INFO - Запрос страницы: https://tengebank.uz/uz/auth#nav-private
+2024-07-26 15:38:44,781 - INFO - Найдено 87 новых ссылок на странице https://tengebank.uz/uz/auth#nav-private
+2024-07-26 15:38:44,781 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/auth#nav-business
+2024-07-26 15:38:44,781 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/auth#nav-organizations
+2024-07-26 15:38:44,781 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/auth#nav-about
+2024-07-26 15:38:44,781 - INFO - Сканирование страницы: https://tengebank.uz/uz/branches_atm/branch#nav-private на глубине 2
+2024-07-26 15:38:44,781 - INFO - Запрос страницы: https://tengebank.uz/uz/branches_atm/branch#nav-private
+2024-07-26 15:38:46,129 - INFO - Найдено 90 новых ссылок на странице https://tengebank.uz/uz/branches_atm/branch#nav-private
+2024-07-26 15:38:46,129 - INFO - Сканирование страницы: https://tengebank.uz/uz/branches_atm/branch#nav-business на глубине 3
+2024-07-26 15:38:46,129 - INFO - Запрос страницы: https://tengebank.uz/uz/branches_atm/branch#nav-business
+2024-07-26 15:38:47,361 - INFO - Найдено 89 новых ссылок на странице https://tengebank.uz/uz/branches_atm/branch#nav-business
+2024-07-26 15:38:47,361 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/branches_atm/branch#nav-organizations
+2024-07-26 15:38:47,361 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/branches_atm/branch#nav-about
+2024-07-26 15:38:47,361 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/branches_atm/universal_cash
+2024-07-26 15:38:47,361 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/branches_atm
+2024-07-26 15:38:47,361 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/uz/branches_atm/cartomat
+2024-07-26 15:38:47,361 - INFO - Сканирование страницы: https://tengebank.uz/#nav-private на глубине 1
+2024-07-26 15:38:47,361 - INFO - Запрос страницы: https://tengebank.uz/#nav-private
+2024-07-26 15:38:49,028 - INFO - Найдено 104 новых ссылок на странице https://tengebank.uz/#nav-private
+2024-07-26 15:38:49,028 - INFO - Сканирование страницы: https://tengebank.uz/#nav-business на глубине 2
+2024-07-26 15:38:49,028 - INFO - Запрос страницы: https://tengebank.uz/#nav-business
+2024-07-26 15:38:51,142 - INFO - Найдено 103 новых ссылок на странице https://tengebank.uz/#nav-business
+2024-07-26 15:38:51,142 - INFO - Сканирование страницы: https://tengebank.uz/#nav-organizations на глубине 3
+2024-07-26 15:38:51,142 - INFO - Запрос страницы: https://tengebank.uz/#nav-organizations
+2024-07-26 15:38:52,855 - INFO - Найдено 102 новых ссылок на странице https://tengebank.uz/#nav-organizations
+2024-07-26 15:38:52,855 - INFO - Достигнут лимит глубины или количества страниц для https://tengebank.uz/#nav-about
+2024-07-26 15:38:52,855 - INFO - Всего страниц для проверки: 89
+2024-07-26 15:38:52,855 - INFO - ====== WebDriver manager ======
+2024-07-26 15:38:52,947 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-26 15:38:53,257 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-26 15:38:53,561 - INFO - Driver [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-arm64/chromedriver] found in cache
+2024-07-26 15:38:54,149 - INFO - Обрабатываем страницу: https://tengebank.uz/
+2024-07-26 15:38:58,292 - INFO - Обработано 1 из 89 страниц.
+2024-07-26 15:38:58,294 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/branches_atm/branch
+2024-07-26 15:39:00,528 - INFO - Обработано 2 из 89 страниц.
+2024-07-26 15:39:00,528 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/auth
+2024-07-26 15:39:02,433 - INFO - Обработано 3 из 89 страниц.
+2024-07-26 15:39:02,433 - INFO - Обрабатываем страницу: https://tengebank.uz/uz
+2024-07-26 15:39:04,156 - INFO - Обработано 4 из 89 страниц.
+2024-07-26 15:39:04,156 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/business
+2024-07-26 15:39:05,710 - INFO - Обработано 5 из 89 страниц.
+2024-07-26 15:39:05,710 - INFO - Обрабатываем страницу: https://tengebank.uz/organizations/financialinstitution/korrespondentskie-otnosheniya
+2024-07-26 15:39:08,390 - INFO - Обработано 6 из 89 страниц.
+2024-07-26 15:39:08,390 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about/press_center
+2024-07-26 15:39:09,981 - INFO - Обработано 7 из 89 страниц.
+2024-07-26 15:39:09,982 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/more/prava-klientov
+2024-07-26 15:39:12,393 - INFO - Обработано 8 из 89 страниц.
+2024-07-26 15:39:12,393 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/quiz-polls
+2024-07-26 15:39:14,146 - INFO - Обработано 9 из 89 страниц.
+2024-07-26 15:39:14,146 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/promo
+2024-07-26 15:39:15,738 - INFO - Обработано 10 из 89 страниц.
+2024-07-26 15:39:15,739 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/credits/ipoteka
+2024-07-26 15:39:17,144 - INFO - Обработано 11 из 89 страниц.
+2024-07-26 15:39:17,144 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/credits/mikrozajmy
+2024-07-26 15:39:18,471 - INFO - Обработано 12 из 89 страниц.
+2024-07-26 15:39:18,471 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/credits/dosrochnoe-pogashenie-kredita
+2024-07-26 15:39:22,646 - INFO - Обработано 13 из 89 страниц.
+2024-07-26 15:39:22,646 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/cards/debetovye-karty
+2024-07-26 15:39:24,051 - INFO - Обработано 14 из 89 страниц.
+2024-07-26 15:39:24,051 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/cards/7-yoshdan-bolalar-uchun-kartalar
+2024-07-26 15:39:28,149 - INFO - Обработано 15 из 89 страниц.
+2024-07-26 15:39:28,149 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/deposit/srochnye-vklady
+2024-07-26 15:39:31,262 - INFO - Обработано 16 из 89 страниц.
+2024-07-26 15:39:31,262 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/deposit/garantirovanie-vseh-vkladov
+2024-07-26 15:39:34,161 - INFO - Обработано 17 из 89 страниц.
+2024-07-26 15:39:34,161 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/transfer/mezhdunarodnye-perevody-na-schyot
+2024-07-26 15:40:06,455 - INFO - Обработано 18 из 89 страниц.
+2024-07-26 15:40:06,455 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/transfer/mezhdunarodnye-perevody-nalichnymi
+2024-07-26 15:40:23,764 - INFO - Обработано 19 из 89 страниц.
+2024-07-26 15:40:23,765 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/transfer/perevody-v-prilozhenii-halyk
+2024-07-26 15:40:26,048 - INFO - Обработано 20 из 89 страниц.
+2024-07-26 15:40:26,049 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/transfer/perevody-mezhdu-kartami
+2024-07-26 15:40:28,033 - INFO - Обработано 21 из 89 страниц.
+2024-07-26 15:40:28,033 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/transfer/perevody-v-kazahstan
+2024-07-26 15:40:29,839 - INFO - Обработано 22 из 89 страниц.
+2024-07-26 15:40:29,839 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/other/kassovye
+2024-07-26 15:40:32,243 - INFO - Обработано 23 из 89 страниц.
+2024-07-26 15:40:32,243 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/more/tenge24
+2024-07-26 15:40:35,525 - INFO - Обработано 24 из 89 страниц.
+2024-07-26 15:40:35,526 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/more/tenge-market
+2024-07-26 15:40:37,740 - INFO - Обработано 25 из 89 страниц.
+2024-07-26 15:40:37,740 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/cashback
+2024-07-26 15:40:41,193 - INFO - Обработано 26 из 89 страниц.
+2024-07-26 15:40:41,193 - INFO - Обрабатываем страницу: https://tengebank.uz/uz#nav-private
+2024-07-26 15:40:42,828 - INFO - Обработано 27 из 89 страниц.
+2024-07-26 15:40:42,829 - INFO - Обрабатываем страницу: https://tengebank.uz/uz#nav-business
+2024-07-26 15:40:42,842 - INFO - Обработано 28 из 89 страниц.
+2024-07-26 15:40:42,843 - INFO - Обрабатываем страницу: https://tengebank.uz/uz#nav-organizations
+2024-07-26 15:40:42,856 - INFO - Обработано 29 из 89 страниц.
+2024-07-26 15:40:42,856 - INFO - Обрабатываем страницу: https://tengebank.uz/uz#nav-about
+2024-07-26 15:40:42,870 - INFO - Обработано 30 из 89 страниц.
+2024-07-26 15:40:42,870 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about-bank/kontakty-i-rekvizity
+2024-07-26 15:40:44,008 - INFO - Обработано 31 из 89 страниц.
+2024-07-26 15:40:44,008 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/business/services/tranzakcionnoe-obsluzhivanie
+2024-07-26 15:40:45,312 - INFO - Обработано 32 из 89 страниц.
+2024-07-26 15:40:45,312 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/business/acquiring/pos-terminaly
+2024-07-26 15:41:18,071 - INFO - Обработано 33 из 89 страниц.
+2024-07-26 15:41:18,072 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/business/acquiring/american-express-ae
+2024-07-26 15:41:21,229 - INFO - Обработано 34 из 89 страниц.
+2024-07-26 15:41:21,229 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/business/smelendings/na-lyubye-biznes-celi
+2024-07-26 15:41:22,615 - INFO - Обработано 35 из 89 страниц.
+2024-07-26 15:41:22,615 - INFO - Обрабатываем страницу: http://tengebank.uz/uz/business/smelending/finansirovanie-na-investicionnye-celi
+2024-07-26 15:41:34,778 - INFO - Обработано 36 из 89 страниц.
+2024-07-26 15:41:34,778 - INFO - Обрабатываем страницу: https://tengebank.uz/business/smelending/online-business
+2024-07-26 15:41:38,804 - INFO - Обработано 37 из 89 страниц.
+2024-07-26 15:41:38,804 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about/property
+2024-07-26 15:41:40,111 - INFO - Обработано 38 из 89 страниц.
+2024-07-26 15:41:40,111 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/business/tradefinance_categories/garantii
+2024-07-26 15:41:42,710 - INFO - Обработано 39 из 89 страниц.
+2024-07-26 15:41:42,710 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/business/tradefinance_categories/akkreditivy
+2024-07-26 15:41:44,569 - INFO - Обработано 40 из 89 страниц.
+2024-07-26 15:41:44,569 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/business/lendingcorporate/investicionnye-celi
+2024-07-26 15:41:45,679 - INFO - Обработано 41 из 89 страниц.
+2024-07-26 15:41:45,679 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/business/lendingcorporate/na-popolnenie-oborotnyh-sredstv
+2024-07-26 15:41:48,873 - INFO - Обработано 42 из 89 страниц.
+2024-07-26 15:41:48,874 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/business/service/zarplatnyj-proekt
+2024-07-26 15:41:51,801 - INFO - Обработано 43 из 89 страниц.
+2024-07-26 15:41:51,801 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/business/services/produkty-kaznachejstva
+2024-07-26 15:41:53,242 - INFO - Обработано 44 из 89 страниц.
+2024-07-26 15:41:53,242 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/business/more/depozity
+2024-07-26 15:41:55,660 - INFO - Обработано 45 из 89 страниц.
+2024-07-26 15:41:55,660 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/business/more/tenge-business
+2024-07-26 15:41:59,148 - INFO - Обработано 46 из 89 страниц.
+2024-07-26 15:41:59,148 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/business/more/tenge-market
+2024-07-26 15:42:32,536 - INFO - Обработано 47 из 89 страниц.
+2024-07-26 15:42:32,537 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/organizations/financialinstitutions/korrespondentskie-otnosheniya
+2024-07-26 15:42:33,831 - INFO - Обработано 48 из 89 страниц.
+2024-07-26 15:42:33,831 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about-bank/o-banke
+2024-07-26 15:43:06,033 - INFO - Обработано 49 из 89 страниц.
+2024-07-26 15:43:06,033 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about-bank/akcioneram
+2024-07-26 15:43:07,642 - INFO - Обработано 50 из 89 страниц.
+2024-07-26 15:43:07,642 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about-bank/korporativnoe-upravlenie
+2024-07-26 15:43:10,231 - INFO - Обработано 51 из 89 страниц.
+2024-07-26 15:43:10,231 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about-bank/virtualnaya-priemnaya
+2024-07-26 15:43:14,527 - INFO - Обработано 52 из 89 страниц.
+2024-07-26 15:43:14,527 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about-bank/finansovaya-otchetnost
+2024-07-26 15:43:16,036 - INFO - Обработано 53 из 89 страниц.
+2024-07-26 15:43:16,037 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about-bank/upravleniye-vnutrennego-kontrolya
+2024-07-26 15:43:17,589 - INFO - Обработано 54 из 89 страниц.
+2024-07-26 15:43:17,589 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about-bank/tendery
+2024-07-26 15:43:18,867 - INFO - Обработано 55 из 89 страниц.
+2024-07-26 15:43:18,867 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about-bank/tekushchie-rejtingi
+2024-07-26 15:43:20,368 - INFO - Обработано 56 из 89 страниц.
+2024-07-26 15:43:20,368 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about-bank/bezopasnost
+2024-07-26 15:43:21,845 - INFO - Обработано 57 из 89 страниц.
+2024-07-26 15:43:21,845 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about-bank/biznes-plan
+2024-07-26 15:43:26,308 - INFO - Обработано 58 из 89 страниц.
+2024-07-26 15:43:26,308 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about-bank/vykup-akcij
+2024-07-26 15:43:29,690 - INFO - Обработано 59 из 89 страниц.
+2024-07-26 15:43:29,690 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about-bank/dividendlar
+2024-07-26 15:43:32,022 - INFO - Обработано 60 из 89 страниц.
+2024-07-26 15:43:32,022 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about-bank/plan-esg
+2024-07-26 15:43:33,751 - INFO - Обработано 61 из 89 страниц.
+2024-07-26 15:43:33,751 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about/leadership
+2024-07-26 15:43:35,336 - INFO - Обработано 62 из 89 страниц.
+2024-07-26 15:43:35,336 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/tenge-bankda-martaba
+2024-07-26 15:43:38,229 - INFO - Обработано 63 из 89 страниц.
+2024-07-26 15:43:38,229 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/about-bank/informaciya-ob-akcionerah
+2024-07-26 15:43:40,032 - INFO - Обработано 64 из 89 страниц.
+2024-07-26 15:43:40,032 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/promo/67
+2024-07-26 15:43:41,626 - INFO - Обработано 65 из 89 страниц.
+2024-07-26 15:43:41,626 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/promo/63
+2024-07-26 15:43:43,632 - INFO - Обработано 66 из 89 страниц.
+2024-07-26 15:43:43,632 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/promo/74
+2024-07-26 15:43:45,698 - INFO - Обработано 67 из 89 страниц.
+2024-07-26 15:43:45,698 - INFO - Обрабатываем страницу: https://www.tengebank.uz/uz/credit/ipoteka-na-vtorichnoe-zhile
+2024-07-26 15:43:48,994 - INFO - Обработано 68 из 89 страниц.
+2024-07-26 15:43:48,994 - INFO - Обрабатываем страницу: https://www.tengebank.uz/uz/deposit/srochnye-vklady
+2024-07-26 15:43:52,680 - INFO - Обработано 69 из 89 страниц.
+2024-07-26 15:43:52,680 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/exchange-rates
+2024-07-26 15:43:54,087 - INFO - Обработано 70 из 89 страниц.
+2024-07-26 15:43:54,087 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/tariffs
+2024-07-26 15:43:55,379 - INFO - Обработано 71 из 89 страниц.
+2024-07-26 15:43:55,379 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/site-map
+2024-07-26 15:43:56,593 - INFO - Обработано 72 из 89 страниц.
+2024-07-26 15:43:56,594 - INFO - Обрабатываем страницу: https://www.tengebank.uz/t24-download?utm_source=link&utm_medium=site&utm_campaign=tenge24
+2024-07-26 15:43:59,624 - INFO - Обработано 73 из 89 страниц.
+2024-07-26 15:43:59,624 - INFO - Обрабатываем страницу: https://www.facebook.com/tengebank.uz
+2024-07-26 15:44:01,417 - INFO - Обработано 74 из 89 страниц.
+2024-07-26 15:44:01,417 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/auth#nav-private
+2024-07-26 15:44:02,587 - INFO - Обработано 75 из 89 страниц.
+2024-07-26 15:44:02,587 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/auth#nav-business
+2024-07-26 15:44:02,599 - INFO - Обработано 76 из 89 страниц.
+2024-07-26 15:44:02,599 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/auth#nav-organizations
+2024-07-26 15:44:02,612 - INFO - Обработано 77 из 89 страниц.
+2024-07-26 15:44:02,612 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/auth#nav-about
+2024-07-26 15:44:02,625 - INFO - Обработано 78 из 89 страниц.
+2024-07-26 15:44:02,625 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/branches_atm/branch#nav-private
+2024-07-26 15:44:04,188 - INFO - Обработано 79 из 89 страниц.
+2024-07-26 15:44:04,188 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/branches_atm/branch#nav-business
+2024-07-26 15:44:04,207 - INFO - Обработано 80 из 89 страниц.
+2024-07-26 15:44:04,207 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/branches_atm/branch#nav-organizations
+2024-07-26 15:44:04,228 - INFO - Обработано 81 из 89 страниц.
+2024-07-26 15:44:04,228 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/branches_atm/branch#nav-about
+2024-07-26 15:44:04,248 - INFO - Обработано 82 из 89 страниц.
+2024-07-26 15:44:04,248 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/branches_atm/universal_cash
+2024-07-26 15:44:06,029 - INFO - Обработано 83 из 89 страниц.
+2024-07-26 15:44:06,029 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/branches_atm
+2024-07-26 15:44:07,448 - INFO - Обработано 84 из 89 страниц.
+2024-07-26 15:44:07,448 - INFO - Обрабатываем страницу: https://tengebank.uz/uz/branches_atm/cartomat
+2024-07-26 15:44:09,019 - INFO - Обработано 85 из 89 страниц.
+2024-07-26 15:44:09,019 - INFO - Обрабатываем страницу: https://tengebank.uz/#nav-private
+2024-07-26 15:44:10,569 - INFO - Обработано 86 из 89 страниц.
+2024-07-26 15:44:10,569 - INFO - Обрабатываем страницу: https://tengebank.uz/#nav-business
+2024-07-26 15:44:12,299 - INFO - Обработано 87 из 89 страниц.
+2024-07-26 15:44:12,299 - INFO - Обрабатываем страницу: https://tengebank.uz/#nav-organizations
+2024-07-26 15:44:14,040 - INFO - Обработано 88 из 89 страниц.
+2024-07-26 15:44:14,040 - INFO - Обрабатываем страницу: https://tengebank.uz/#nav-about
+2024-07-26 15:44:15,451 - INFO - Обработано 89 из 89 страниц.

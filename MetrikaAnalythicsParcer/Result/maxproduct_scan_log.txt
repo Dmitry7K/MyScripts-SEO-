@@ -1,0 +1,295 @@
+2024-07-27 16:43:28,379 - INFO - Начинаем сканирование сайта...
+2024-07-27 16:43:28,379 - INFO - Сканирование страницы: https://maxproduct.uz// на глубине 0
+2024-07-27 16:43:28,379 - INFO - Запрос страницы: https://maxproduct.uz//
+2024-07-27 16:43:32,224 - INFO - Найдено 71 новых ссылок на странице https://maxproduct.uz//
+2024-07-27 16:43:32,224 - INFO - Сканирование страницы: https://maxproduct.uz/ на глубине 1
+2024-07-27 16:43:32,224 - INFO - Запрос страницы: https://maxproduct.uz/
+2024-07-27 16:43:33,461 - INFO - Найдено 67 новых ссылок на странице https://maxproduct.uz/
+2024-07-27 16:43:33,461 - INFO - Сканирование страницы: https://maxproduct.uz/uz/ на глубине 2
+2024-07-27 16:43:33,461 - INFO - Запрос страницы: https://maxproduct.uz/uz/
+2024-07-27 16:43:34,662 - INFO - Найдено 38 новых ссылок на странице https://maxproduct.uz/uz/
+2024-07-27 16:43:34,662 - INFO - Сканирование страницы: https://maxproduct.uz/uz/sample-page/ на глубине 3
+2024-07-27 16:43:34,662 - INFO - Запрос страницы: https://maxproduct.uz/uz/sample-page/
+2024-07-27 16:43:35,778 - INFO - Найдено 36 новых ссылок на странице https://maxproduct.uz/uz/sample-page/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/en/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/biz-haqimizda/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/sample-page/##
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/product-category/tom-uchun-sendvich-panellar/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/product-category/devor-uchun-sendvich-panellar/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/product-category/qoshimcha-elementlar/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/product-category/quyosh-panel/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/product-category/gipsokarton-uchun-profillar/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/proektlar/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/yangiliklar/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/biz-bilan-boglaning/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/kalkulyator/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/project/kia-zavodi/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/project/qandolat-firmasi/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/project/savdo-majmuasi/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/project/ofis-va-omborxona/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/project/coca-cola-firmasi-uchun-omborxona/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/sample-page/Посмотреть все ссылки проекты
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/news-post/693/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/news-post/maxproduct-bilan-kelajakka-qadam-qoyish-vaqti-keldi/
+2024-07-27 16:43:35,778 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/sample-page/Все материалы новости ссылки
+2024-07-27 16:43:35,778 - INFO - Сканирование страницы: https://maxproduct.uz/uz/## на глубине 3
+2024-07-27 16:43:35,778 - INFO - Запрос страницы: https://maxproduct.uz/uz/##
+2024-07-27 16:43:36,862 - INFO - Найдено 35 новых ссылок на странице https://maxproduct.uz/uz/##
+2024-07-27 16:43:36,862 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/Посмотреть все ссылки проекты
+2024-07-27 16:43:36,862 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/uz/Все материалы новости ссылки
+2024-07-27 16:43:36,862 - INFO - Сканирование страницы: https://maxproduct.uz/o-nas/ на глубине 2
+2024-07-27 16:43:36,862 - INFO - Запрос страницы: https://maxproduct.uz/o-nas/
+2024-07-27 16:43:37,875 - INFO - Найдено 23 новых ссылок на странице https://maxproduct.uz/o-nas/
+2024-07-27 16:43:37,875 - INFO - Сканирование страницы: https://maxproduct.uz/en/about-us/ на глубине 3
+2024-07-27 16:43:37,875 - INFO - Запрос страницы: https://maxproduct.uz/en/about-us/
+2024-07-27 16:43:38,873 - INFO - Найдено 25 новых ссылок на странице https://maxproduct.uz/en/about-us/
+2024-07-27 16:43:38,873 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/en/sendwich-panels-in-uzbekistan/
+2024-07-27 16:43:38,874 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/en/about-us/###
+2024-07-27 16:43:38,874 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/en/product-category/roof-sandwich-panels/
+2024-07-27 16:43:38,874 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/en/product-category/wall-sandwich-panels/
+2024-07-27 16:43:38,874 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/en/product-category/solar-panel/
+2024-07-27 16:43:38,874 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/en/product-category/profile-for-drywall/
+2024-07-27 16:43:38,874 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/en/product-category/additional-elements/
+2024-07-27 16:43:38,874 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/en/projects/
+2024-07-27 16:43:38,874 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/en/news/
+2024-07-27 16:43:38,874 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/en/contacts/
+2024-07-27 16:43:38,874 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/en/about-us/Посмотреть все ссылки
+2024-07-27 16:43:38,874 - INFO - Сканирование страницы: https://maxproduct.uz/product-category/solnechnye-paneli/ на глубине 3
+2024-07-27 16:43:38,874 - INFO - Запрос страницы: https://maxproduct.uz/product-category/solnechnye-paneli/
+2024-07-27 16:43:39,875 - INFO - Найдено 22 новых ссылок на странице https://maxproduct.uz/product-category/solnechnye-paneli/
+2024-07-27 16:43:39,875 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/product-category/krovelnye-paneli/
+2024-07-27 16:43:39,875 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/product-category/dobornye-elementy/
+2024-07-27 16:43:39,875 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/product-category/stenovye-paneli/
+2024-07-27 16:43:39,875 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/product-category/profili-dlya-gipsokartona/
+2024-07-27 16:43:39,875 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/proekty/
+2024-07-27 16:43:39,875 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/novosti/
+2024-07-27 16:43:39,875 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/kontakty/
+2024-07-27 16:43:39,875 - INFO - Сканирование страницы: https://maxproduct.uz/o-nas/Посмотреть все ссылки на глубине 3
+2024-07-27 16:43:39,875 - INFO - Запрос страницы: https://maxproduct.uz/o-nas/Посмотреть все ссылки
+2024-07-27 16:43:41,160 - INFO - Найдено 60 новых ссылок на странице https://maxproduct.uz/o-nas/Посмотреть все ссылки
+2024-07-27 16:43:41,160 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/project/zavod-kompanii-kia/
+2024-07-27 16:43:41,160 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/project/remontnaya-zona/
+2024-07-27 16:43:41,160 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/o-nas/Посмотреть все ссылки проекты
+2024-07-27 16:43:41,160 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/utepliteli-dlya-sendvich-panelej-vidy-i-preimushhestva/
+2024-07-27 16:43:41,160 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/stoimost-sendvich-panelej-chto-ee-opredelyaet/
+2024-07-27 16:43:41,160 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/transportirovka-sendvich-panelej/
+2024-07-27 16:43:41,160 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/kak-temperatura-vliyaet-na-ekspluatacziyu-sendvich-panelej/
+2024-07-27 16:43:41,160 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/krysha-iz-sendvich-panelej/
+2024-07-27 16:43:41,160 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/osobennosti-metallicheskih-sendvich-panelej/
+2024-07-27 16:43:41,160 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/tehnologiya-proizvodstva-sendvich-panelej/
+2024-07-27 16:43:41,160 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/vidy-sendvich-panelej-i-ih-klassifikacziya/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/solnechnye-paneli-dlya-domov/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/princzip-raboty-solnechnoj-batarei/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/sposoby-soedineniya-sendvich-panelej/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/garazh-iz-sendvich-panelej/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/sendvich-paneli-dlya-holodilnyh-kamer/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/skolko-sluzhat-sendvich-paneli/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/poliuretan-osobennosti-materiala-i-primenenie-v-sendvich-panelyah/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/teploizoliruyushhie-materialy-dlya-sendvich-panelej/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/penopolistirol-osobennosti-i-primenenie-v-sendvich-panelyah/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/bystrovozvodimye-zdaniya-iz-sendvich-panelej-novaya-era-v-stroitelstve/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/mineralnaya-vata-idealnoe-reshenie-dlya-effektivnoj-teploizolyacii/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/stroitelstvo-domov-iz-sendvich-panelej/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/pravila-montazha-sendvich-panelej/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/kak-pravilno-podobrat-tolshchinu-sendvich-paneley/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/factors_when_choosing_solar_panel/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/vremya-sdelat-shag-v-budushhee-s-maxproduct/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/5-rasprostranennyh-oshibok-v-montazhe-krovelnyh-sendvich-panelej/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/ekspluatacziya-i-remont-sendvich-panelej/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/480/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/proizvodstvo-mineralovaty/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/pryamye-postavki-v-afganistan/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/news-post/trubnyj-zavod-v-ahangarane/
+2024-07-27 16:43:41,161 - INFO - Достигнут лимит глубины или количества страниц для https://maxproduct.uz/o-nas/Все материалы новости ссылки
+2024-07-27 16:43:41,161 - INFO - Сканирование страницы: https://maxproduct.uz/Посмотреть все ссылки проекты на глубине 2
+2024-07-27 16:43:41,161 - INFO - Запрос страницы: https://maxproduct.uz/Посмотреть все ссылки проекты
+2024-07-27 16:43:42,685 - INFO - Найдено 59 новых ссылок на странице https://maxproduct.uz/Посмотреть все ссылки проекты
+2024-07-27 16:43:42,685 - INFO - Сканирование страницы: https://maxproduct.uz/Все материалы новости ссылки на глубине 3
+2024-07-27 16:43:42,685 - INFO - Запрос страницы: https://maxproduct.uz/Все материалы новости ссылки
+2024-07-27 16:43:43,983 - INFO - Найдено 58 новых ссылок на странице https://maxproduct.uz/Все материалы новости ссылки
+2024-07-27 16:43:43,983 - INFO - Всего страниц для проверки: 87
+2024-07-27 16:43:43,983 - INFO - ====== WebDriver manager ======
+2024-07-27 16:43:44,117 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-27 16:43:44,549 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-27 16:43:44,907 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-27 16:43:45,620 - INFO - WebDriver version 126.0.6478.182 selected
+2024-07-27 16:43:45,623 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.182/mac-arm64/chromedriver-mac-arm64.zip
+2024-07-27 16:43:45,624 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.182/mac-arm64/chromedriver-mac-arm64.zip
+2024-07-27 16:43:46,200 - INFO - Driver downloading response is 200
+2024-07-27 16:43:47,360 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-27 16:43:47,862 - INFO - Driver has been saved in cache [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182]
+2024-07-27 16:43:48,672 - INFO - Обрабатываем страницу: https://maxproduct.uz//
+2024-07-27 16:43:57,467 - INFO - Обработано 1 из 87 страниц.
+2024-07-27 16:43:57,467 - INFO - Обрабатываем страницу: https://maxproduct.uz/
+2024-07-27 16:43:58,751 - INFO - Обработано 2 из 87 страниц.
+2024-07-27 16:43:58,751 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/
+2024-07-27 16:44:02,546 - INFO - Обработано 3 из 87 страниц.
+2024-07-27 16:44:02,546 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/sample-page/
+2024-07-27 16:44:04,007 - INFO - Обработано 4 из 87 страниц.
+2024-07-27 16:44:04,007 - INFO - Обрабатываем страницу: https://maxproduct.uz/en/
+2024-07-27 16:44:05,397 - INFO - Обработано 5 из 87 страниц.
+2024-07-27 16:44:05,398 - INFO - Обрабатываем страницу: https://maxproduct.uz
+2024-07-27 16:44:06,741 - INFO - Обработано 6 из 87 страниц.
+2024-07-27 16:44:06,741 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/biz-haqimizda/
+2024-07-27 16:44:08,033 - INFO - Обработано 7 из 87 страниц.
+2024-07-27 16:44:08,033 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/sample-page/##
+2024-07-27 16:44:09,539 - INFO - Обработано 8 из 87 страниц.
+2024-07-27 16:44:09,539 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/product-category/tom-uchun-sendvich-panellar/
+2024-07-27 16:44:10,931 - INFO - Обработано 9 из 87 страниц.
+2024-07-27 16:44:10,931 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/product-category/devor-uchun-sendvich-panellar/
+2024-07-27 16:44:12,326 - INFO - Обработано 10 из 87 страниц.
+2024-07-27 16:44:12,326 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/product-category/qoshimcha-elementlar/
+2024-07-27 16:44:13,613 - INFO - Обработано 11 из 87 страниц.
+2024-07-27 16:44:13,613 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/product-category/quyosh-panel/
+2024-07-27 16:44:14,819 - INFO - Обработано 12 из 87 страниц.
+2024-07-27 16:44:14,819 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/product-category/gipsokarton-uchun-profillar/
+2024-07-27 16:44:16,015 - INFO - Обработано 13 из 87 страниц.
+2024-07-27 16:44:16,015 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/proektlar/
+2024-07-27 16:44:17,177 - INFO - Обработано 14 из 87 страниц.
+2024-07-27 16:44:17,177 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/yangiliklar/
+2024-07-27 16:44:18,580 - INFO - Обработано 15 из 87 страниц.
+2024-07-27 16:44:18,580 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/biz-bilan-boglaning/
+2024-07-27 16:44:19,738 - INFO - Обработано 16 из 87 страниц.
+2024-07-27 16:44:19,738 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/kalkulyator/
+2024-07-27 16:44:21,489 - INFO - Обработано 17 из 87 страниц.
+2024-07-27 16:44:21,490 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/project/kia-zavodi/
+2024-07-27 16:44:23,588 - INFO - Обработано 18 из 87 страниц.
+2024-07-27 16:44:23,588 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/project/qandolat-firmasi/
+2024-07-27 16:44:24,894 - INFO - Обработано 19 из 87 страниц.
+2024-07-27 16:44:24,894 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/project/savdo-majmuasi/
+2024-07-27 16:44:26,126 - INFO - Обработано 20 из 87 страниц.
+2024-07-27 16:44:26,126 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/project/ofis-va-omborxona/
+2024-07-27 16:44:30,315 - INFO - Обработано 21 из 87 страниц.
+2024-07-27 16:44:30,315 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/project/coca-cola-firmasi-uchun-omborxona/
+2024-07-27 16:44:33,266 - INFO - Обработано 22 из 87 страниц.
+2024-07-27 16:44:33,266 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/sample-page/Посмотреть все ссылки проекты
+2024-07-27 16:44:34,768 - INFO - Обработано 23 из 87 страниц.
+2024-07-27 16:44:34,768 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/news-post/693/
+2024-07-27 16:44:36,065 - INFO - Обработано 24 из 87 страниц.
+2024-07-27 16:44:36,065 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/news-post/maxproduct-bilan-kelajakka-qadam-qoyish-vaqti-keldi/
+2024-07-27 16:44:37,299 - INFO - Обработано 25 из 87 страниц.
+2024-07-27 16:44:37,300 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/sample-page/Все материалы новости ссылки
+2024-07-27 16:44:38,576 - INFO - Обработано 26 из 87 страниц.
+2024-07-27 16:44:38,576 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/##
+2024-07-27 16:44:39,925 - INFO - Обработано 27 из 87 страниц.
+2024-07-27 16:44:39,925 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/Посмотреть все ссылки проекты
+2024-07-27 16:44:41,229 - INFO - Обработано 28 из 87 страниц.
+2024-07-27 16:44:41,229 - INFO - Обрабатываем страницу: https://maxproduct.uz/uz/Все материалы новости ссылки
+2024-07-27 16:44:42,870 - INFO - Обработано 29 из 87 страниц.
+2024-07-27 16:44:42,870 - INFO - Обрабатываем страницу: https://maxproduct.uz/o-nas/
+2024-07-27 16:44:44,140 - INFO - Обработано 30 из 87 страниц.
+2024-07-27 16:44:44,140 - INFO - Обрабатываем страницу: https://maxproduct.uz/en/about-us/
+2024-07-27 16:44:45,341 - INFO - Обработано 31 из 87 страниц.
+2024-07-27 16:44:45,341 - INFO - Обрабатываем страницу: https://maxproduct.uz/en/sendwich-panels-in-uzbekistan/
+2024-07-27 16:44:46,610 - INFO - Обработано 32 из 87 страниц.
+2024-07-27 16:44:46,610 - INFO - Обрабатываем страницу: https://maxproduct.uz/en/about-us/###
+2024-07-27 16:44:47,777 - INFO - Обработано 33 из 87 страниц.
+2024-07-27 16:44:47,778 - INFO - Обрабатываем страницу: https://maxproduct.uz/en/product-category/roof-sandwich-panels/
+2024-07-27 16:44:49,443 - INFO - Обработано 34 из 87 страниц.
+2024-07-27 16:44:49,443 - INFO - Обрабатываем страницу: https://maxproduct.uz/en/product-category/wall-sandwich-panels/
+2024-07-27 16:44:50,763 - INFO - Обработано 35 из 87 страниц.
+2024-07-27 16:44:50,763 - INFO - Обрабатываем страницу: https://maxproduct.uz/en/product-category/solar-panel/
+2024-07-27 16:44:51,918 - INFO - Обработано 36 из 87 страниц.
+2024-07-27 16:44:51,919 - INFO - Обрабатываем страницу: https://maxproduct.uz/en/product-category/profile-for-drywall/
+2024-07-27 16:44:53,078 - INFO - Обработано 37 из 87 страниц.
+2024-07-27 16:44:53,078 - INFO - Обрабатываем страницу: https://maxproduct.uz/en/product-category/additional-elements/
+2024-07-27 16:44:54,908 - INFO - Обработано 38 из 87 страниц.
+2024-07-27 16:44:54,908 - INFO - Обрабатываем страницу: https://maxproduct.uz/en/projects/
+2024-07-27 16:44:56,161 - INFO - Обработано 39 из 87 страниц.
+2024-07-27 16:44:56,161 - INFO - Обрабатываем страницу: https://maxproduct.uz/en/news/
+2024-07-27 16:44:57,355 - INFO - Обработано 40 из 87 страниц.
+2024-07-27 16:44:57,355 - INFO - Обрабатываем страницу: https://maxproduct.uz/en/contacts/
+2024-07-27 16:44:58,534 - INFO - Обработано 41 из 87 страниц.
+2024-07-27 16:44:58,534 - INFO - Обрабатываем страницу: https://maxproduct.uz/en/about-us/Посмотреть все ссылки
+2024-07-27 16:44:59,953 - INFO - Обработано 42 из 87 страниц.
+2024-07-27 16:44:59,953 - INFO - Обрабатываем страницу: https://maxproduct.uz/product-category/solnechnye-paneli/
+2024-07-27 16:45:01,804 - INFO - Обработано 43 из 87 страниц.
+2024-07-27 16:45:01,804 - INFO - Обрабатываем страницу: https://maxproduct.uz/product-category/krovelnye-paneli/
+2024-07-27 16:45:03,007 - INFO - Обработано 44 из 87 страниц.
+2024-07-27 16:45:03,007 - INFO - Обрабатываем страницу: https://maxproduct.uz/product-category/dobornye-elementy/
+2024-07-27 16:45:04,387 - INFO - Обработано 45 из 87 страниц.
+2024-07-27 16:45:04,387 - INFO - Обрабатываем страницу: https://maxproduct.uz/product-category/stenovye-paneli/
+2024-07-27 16:45:05,729 - INFO - Обработано 46 из 87 страниц.
+2024-07-27 16:45:05,729 - INFO - Обрабатываем страницу: https://maxproduct.uz/product-category/profili-dlya-gipsokartona/
+2024-07-27 16:45:07,016 - INFO - Обработано 47 из 87 страниц.
+2024-07-27 16:45:07,017 - INFO - Обрабатываем страницу: https://maxproduct.uz/proekty/
+2024-07-27 16:45:08,551 - INFO - Обработано 48 из 87 страниц.
+2024-07-27 16:45:08,551 - INFO - Обрабатываем страницу: https://maxproduct.uz/novosti/
+2024-07-27 16:45:09,978 - INFO - Обработано 49 из 87 страниц.
+2024-07-27 16:45:09,978 - INFO - Обрабатываем страницу: https://maxproduct.uz/kontakty/
+2024-07-27 16:45:11,238 - INFO - Обработано 50 из 87 страниц.
+2024-07-27 16:45:11,238 - INFO - Обрабатываем страницу: https://maxproduct.uz/o-nas/Посмотреть все ссылки
+2024-07-27 16:45:12,698 - INFO - Обработано 51 из 87 страниц.
+2024-07-27 16:45:12,698 - INFO - Обрабатываем страницу: https://maxproduct.uz/project/zavod-kompanii-kia/
+2024-07-27 16:45:13,941 - INFO - Обработано 52 из 87 страниц.
+2024-07-27 16:45:13,941 - INFO - Обрабатываем страницу: https://maxproduct.uz/project/remontnaya-zona/
+2024-07-27 16:45:15,171 - INFO - Обработано 53 из 87 страниц.
+2024-07-27 16:45:15,172 - INFO - Обрабатываем страницу: https://maxproduct.uz/o-nas/Посмотреть все ссылки проекты
+2024-07-27 16:45:16,516 - INFO - Обработано 54 из 87 страниц.
+2024-07-27 16:45:16,516 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/utepliteli-dlya-sendvich-panelej-vidy-i-preimushhestva/
+2024-07-27 16:45:17,778 - INFO - Обработано 55 из 87 страниц.
+2024-07-27 16:45:17,778 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/stoimost-sendvich-panelej-chto-ee-opredelyaet/
+2024-07-27 16:45:19,000 - INFO - Обработано 56 из 87 страниц.
+2024-07-27 16:45:19,000 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/transportirovka-sendvich-panelej/
+2024-07-27 16:45:20,331 - INFO - Обработано 57 из 87 страниц.
+2024-07-27 16:45:20,331 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/kak-temperatura-vliyaet-na-ekspluatacziyu-sendvich-panelej/
+2024-07-27 16:45:21,923 - INFO - Обработано 58 из 87 страниц.
+2024-07-27 16:45:21,923 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/krysha-iz-sendvich-panelej/
+2024-07-27 16:45:23,300 - INFO - Обработано 59 из 87 страниц.
+2024-07-27 16:45:23,300 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/osobennosti-metallicheskih-sendvich-panelej/
+2024-07-27 16:45:25,179 - INFO - Обработано 60 из 87 страниц.
+2024-07-27 16:45:25,180 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/tehnologiya-proizvodstva-sendvich-panelej/
+2024-07-27 16:45:26,519 - INFO - Обработано 61 из 87 страниц.
+2024-07-27 16:45:26,519 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/vidy-sendvich-panelej-i-ih-klassifikacziya/
+2024-07-27 16:45:27,883 - INFO - Обработано 62 из 87 страниц.
+2024-07-27 16:45:27,883 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/solnechnye-paneli-dlya-domov/
+2024-07-27 16:45:29,147 - INFO - Обработано 63 из 87 страниц.
+2024-07-27 16:45:29,147 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/princzip-raboty-solnechnoj-batarei/
+2024-07-27 16:45:31,075 - INFO - Обработано 64 из 87 страниц.
+2024-07-27 16:45:31,075 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/sposoby-soedineniya-sendvich-panelej/
+2024-07-27 16:45:32,311 - INFO - Обработано 65 из 87 страниц.
+2024-07-27 16:45:32,311 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/garazh-iz-sendvich-panelej/
+2024-07-27 16:45:33,516 - INFO - Обработано 66 из 87 страниц.
+2024-07-27 16:45:33,516 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/sendvich-paneli-dlya-holodilnyh-kamer/
+2024-07-27 16:45:34,730 - INFO - Обработано 67 из 87 страниц.
+2024-07-27 16:45:34,731 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/skolko-sluzhat-sendvich-paneli/
+2024-07-27 16:45:36,018 - INFO - Обработано 68 из 87 страниц.
+2024-07-27 16:45:36,018 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/poliuretan-osobennosti-materiala-i-primenenie-v-sendvich-panelyah/
+2024-07-27 16:45:37,305 - INFO - Обработано 69 из 87 страниц.
+2024-07-27 16:45:37,305 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/teploizoliruyushhie-materialy-dlya-sendvich-panelej/
+2024-07-27 16:45:38,933 - INFO - Обработано 70 из 87 страниц.
+2024-07-27 16:45:38,933 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/penopolistirol-osobennosti-i-primenenie-v-sendvich-panelyah/
+2024-07-27 16:45:40,193 - INFO - Обработано 71 из 87 страниц.
+2024-07-27 16:45:40,194 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/bystrovozvodimye-zdaniya-iz-sendvich-panelej-novaya-era-v-stroitelstve/
+2024-07-27 16:45:41,878 - INFO - Обработано 72 из 87 страниц.
+2024-07-27 16:45:41,878 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/mineralnaya-vata-idealnoe-reshenie-dlya-effektivnoj-teploizolyacii/
+2024-07-27 16:45:43,340 - INFO - Обработано 73 из 87 страниц.
+2024-07-27 16:45:43,340 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/stroitelstvo-domov-iz-sendvich-panelej/
+2024-07-27 16:45:44,653 - INFO - Обработано 74 из 87 страниц.
+2024-07-27 16:45:44,653 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/pravila-montazha-sendvich-panelej/
+2024-07-27 16:45:46,023 - INFO - Обработано 75 из 87 страниц.
+2024-07-27 16:45:46,023 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/kak-pravilno-podobrat-tolshchinu-sendvich-paneley/
+2024-07-27 16:45:47,317 - INFO - Обработано 76 из 87 страниц.
+2024-07-27 16:45:47,318 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/factors_when_choosing_solar_panel/
+2024-07-27 16:45:48,598 - INFO - Обработано 77 из 87 страниц.
+2024-07-27 16:45:48,598 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/vremya-sdelat-shag-v-budushhee-s-maxproduct/
+2024-07-27 16:45:49,792 - INFO - Обработано 78 из 87 страниц.
+2024-07-27 16:45:49,792 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/5-rasprostranennyh-oshibok-v-montazhe-krovelnyh-sendvich-panelej/
+2024-07-27 16:45:56,536 - INFO - Обработано 79 из 87 страниц.
+2024-07-27 16:45:56,536 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/ekspluatacziya-i-remont-sendvich-panelej/
+2024-07-27 16:46:38,054 - INFO - Обработано 80 из 87 страниц.
+2024-07-27 16:46:38,054 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/480/
+2024-07-27 16:46:40,125 - INFO - Обработано 81 из 87 страниц.
+2024-07-27 16:46:40,125 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/proizvodstvo-mineralovaty/
+2024-07-27 16:46:41,428 - INFO - Обработано 82 из 87 страниц.
+2024-07-27 16:46:41,428 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/pryamye-postavki-v-afganistan/
+2024-07-27 16:46:42,826 - INFO - Обработано 83 из 87 страниц.
+2024-07-27 16:46:42,826 - INFO - Обрабатываем страницу: https://maxproduct.uz/news-post/trubnyj-zavod-v-ahangarane/
+2024-07-27 16:46:44,178 - INFO - Обработано 84 из 87 страниц.
+2024-07-27 16:46:44,178 - INFO - Обрабатываем страницу: https://maxproduct.uz/o-nas/Все материалы новости ссылки
+2024-07-27 16:46:45,604 - INFO - Обработано 85 из 87 страниц.
+2024-07-27 16:46:45,604 - INFO - Обрабатываем страницу: https://maxproduct.uz/Посмотреть все ссылки проекты
+2024-07-27 16:46:47,087 - INFO - Обработано 86 из 87 страниц.
+2024-07-27 16:46:47,087 - INFO - Обрабатываем страницу: https://maxproduct.uz/Все материалы новости ссылки
+2024-07-27 16:46:48,503 - INFO - Обработано 87 из 87 страниц.

@@ -1,0 +1,2 @@
+http://advertising.yandex.ru/price/other/catalog.xml
+http://www.yaca.yandex.ru/add_free.xml

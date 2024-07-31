@@ -1,0 +1,4 @@
+http://invalid24.ru/forum/index.php?register=yes&backurl=%2Fforum%2Findex.php
+http://medicinarf.ru/forum/?register=yes&backurl=%2Fforum%2F
+http://srcn.ru/communication/forum/?register=yes&backurl=%2Fcommunication%2Fforum%2F
+http://www.china-capsula.ru/forum/index.php?register=yes&backurl=%2Fforum%2Findex.php

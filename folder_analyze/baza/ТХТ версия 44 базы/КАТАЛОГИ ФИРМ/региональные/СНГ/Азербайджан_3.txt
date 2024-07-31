@@ -1,0 +1,3 @@
+http://biznesinfo.az/business/participation/addcompany/params/ln/ru
+http://geo.navigator.az/add_firm.php
+http://www.spr.az/checkplus.php

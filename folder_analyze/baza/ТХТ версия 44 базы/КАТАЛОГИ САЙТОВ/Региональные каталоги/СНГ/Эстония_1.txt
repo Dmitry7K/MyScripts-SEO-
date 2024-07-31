@@ -1,0 +1,1 @@
+http://rus.log.ee/index.php?t=add_link&addlink_cats=123,&addlink_cur_cat=123

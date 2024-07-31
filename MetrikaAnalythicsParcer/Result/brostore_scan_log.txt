@@ -1,0 +1,1278 @@
+2024-07-23 17:27:05,446 - INFO - Начинаем сканирование сайта...
+2024-07-23 17:27:05,446 - INFO - Сканирование страницы: https://brostore.uz/ на глубине 0
+2024-07-23 17:27:05,446 - INFO - Запрос страницы: https://brostore.uz/
+2024-07-23 17:27:06,330 - INFO - Найдено 271 новых ссылок на странице https://brostore.uz/
+2024-07-23 17:27:06,330 - INFO - Сканирование страницы: https://brostore.uz/#main-content на глубине 1
+2024-07-23 17:27:06,330 - INFO - Запрос страницы: https://brostore.uz/#main-content
+2024-07-23 17:27:06,768 - INFO - Найдено 270 новых ссылок на странице https://brostore.uz/#main-content
+2024-07-23 17:27:06,768 - INFO - Сканирование страницы: https://brostore.uz/collections/monobloki-imac на глубине 2
+2024-07-23 17:27:06,768 - INFO - Запрос страницы: https://brostore.uz/collections/monobloki-imac
+2024-07-23 17:27:07,523 - INFO - Найдено 217 новых ссылок на странице https://brostore.uz/collections/monobloki-imac
+2024-07-23 17:27:07,523 - INFO - Сканирование страницы: https://brostore.uz/collections/monobloki-imac#main-content на глубине 3
+2024-07-23 17:27:07,523 - INFO - Запрос страницы: https://brostore.uz/collections/monobloki-imac#main-content
+2024-07-23 17:27:07,922 - INFO - Найдено 216 новых ссылок на странице https://brostore.uz/collections/monobloki-imac#main-content
+2024-07-23 17:27:07,922 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/macbook-pro
+2024-07-23 17:27:07,922 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/macbook-air
+2024-07-23 17:27:07,922 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/iphone-15
+2024-07-23 17:27:07,922 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/iphone-14
+2024-07-23 17:27:07,922 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/iphone-13
+2024-07-23 17:27:07,922 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/iphone-12
+2024-07-23 17:27:07,922 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/iphone-11
+2024-07-23 17:27:07,922 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/iphone-xs
+2024-07-23 17:27:07,922 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/iphone-xr
+2024-07-23 17:27:07,922 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/iphone-se
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/iphone-8
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/iphone-7
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/galaxy-s
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/galaxy-z
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/galaxy-a
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/galaxy-m
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/aster
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple-ipad-pro
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple-ipad-air
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple-ipad-mini
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple-ipad
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/galaxy-tab
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/apple-mac-studio
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/apple-mac-mini
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/apple-watch-ultra
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/apple-watch-series
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/apple-watch-se
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/samsung-galaxy-watch
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/besprovodnye-naushniki-apple
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/provodnye-naushniki-apple
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/naushniki-samsung
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/naushniki-beats
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/naushniki-marshall
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/naushniki-sony
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/naushniki-anker
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monitory-apple
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/akustika-jbl
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/akustika-marshall
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/akustika-harman-kardon
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/akustika-yandex
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/akustika-sony
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/akustika-anker
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/pristavki-apple-tv
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/umnye-kolonki-apple
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/klaviatury-apple
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/pleery-apple
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/stilusy-apple
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/besprovodnye-myshi-apple
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/koshelki-apple
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/opticheskie-privody-apple
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/zaryadnye-ustrojstva-apple
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/trekpady-apple
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/klaviatury-samsung
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/zaryadnye-ustrojstva
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/chekhly
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/remeshki-watch
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/aksessuary-golden-concept
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/aksessuary-pitaka
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/aksessuary-saramonic
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/aksessuary-y24
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/aksessuary-bose
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/aksessuary-anker
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/igrovye-pristavki
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/ochki-virtualnoj-realnosti
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/dyson
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/roborock
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/uvlazhniteli-i-ochistiteli-vozduha
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/knopochnye-telefony-samsung
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/smartfony-apple-bu
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/noutbuki-apple-bu
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/umnye-chasy-apple-watch-bu
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monobloki-imac-bu
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple-bu
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/nastolnye-kompyutery-apple-bu
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monitory-apple-bu
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/pages/broservice
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/blogs/news
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/account/login
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monobloki
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/noutbuki
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/noutbuki-apple
+2024-07-23 17:27:07,923 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/smartfony
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/smartfony-apple
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/smartfony-samsung
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/smartfony-vertu
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-samsung
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/nastolnye-kompyutery
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/umnye-chasy
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/apple-watch
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/naushniki
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/naushniki-apple
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/akustika/yand
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/aksessuary
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/aksessuary-apple
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/aksessuary-samsung
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/drugie-tovary
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/knopochnye-telefony
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/gadzhety-bu
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/search
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cart
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/all
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monobloki-imac#SideFilters
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monobloki-imac/products/monoblok-apple-imac-24-inch-m3
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monobloki-imac/products/%D0%BC%D0%BE%D0%BD%D0%BE%D0%B1%D0%BB%D0%BE%D0%BA-apple-imac-24-inch-m3-8-10-24-2tb-blue-russian
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monobloki-imac/products/%D0%BC%D0%BE%D0%BD%D0%BE%D0%B1%D0%BB%D0%BE%D0%BA-apple-imac-24-inch-m3-10-16-512gb-silver
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monobloki-imac/products/monoblok-apple-imac-24-inch-m3-10-8-256gb
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monobloki-imac/products/monoblok-apple-imac-27-inch-intel-i7
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monobloki-imac/products/monoblok-apple-imac-27-inch-intel-i5
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monobloki-imac/products/monoblok-apple-imac-24-inch
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monobloki-imac/products/monoblok-apple-imac-24-inch-m1-7-8-256gb
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/pages/o-nas
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/pages/adresa-magazinov
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/pages/dostavka
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/pages/contact
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/products/iphone-15-pro
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monobloki-imac/products/iphone-15-pro-max
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monobloki-imac/products/iphone-15-pro
+2024-07-23 17:27:07,924 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/monobloki-imac/products/iphone-15-plus
+2024-07-23 17:27:07,924 - INFO - Сканирование страницы: https://brostore.uz/collections/ipad-series на глубине 2
+2024-07-23 17:27:07,924 - INFO - Запрос страницы: https://brostore.uz/collections/ipad-series
+2024-07-23 17:27:08,902 - INFO - Найдено 232 новых ссылок на странице https://brostore.uz/collections/ipad-series
+2024-07-23 17:27:08,902 - INFO - Сканирование страницы: https://brostore.uz/collections/ipad-series#main-content на глубине 3
+2024-07-23 17:27:08,902 - INFO - Запрос страницы: https://brostore.uz/collections/ipad-series#main-content
+2024-07-23 17:27:09,587 - INFO - Найдено 231 новых ссылок на странице https://brostore.uz/collections/ipad-series#main-content
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/ipad-series#SideFilters
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/%D0%BF%D0%BB%D0%B0%D0%BD%D1%88%D0%B5%D1%82-apple-ipad-pro-13-inch-m4
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/%D0%BF%D0%BB%D0%B0%D0%BD%D1%88%D0%B5%D1%82-apple-ipad-pro-11-inch-m4
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/%D0%BF%D0%BB%D0%B0%D0%BD%D1%88%D0%B5%D1%82-apple-ipad-air-13-inch-m2
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-pro-12-9-inch-m2
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-pro-11-inch-m2
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-10th-gen
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-air-5th-gen-m1
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-mini-6
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-pro-11-inch-m1-1
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-pro-11-2nd-gen-1
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-air-4
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-9
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/%D0%BF%D0%BB%D0%B0%D0%BD%D1%88%D0%B5%D1%82-apple-ipad-pro-12-9-inch-1st-gen
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/%D0%BF%D0%BB%D0%B0%D0%BD%D1%88%D0%B5%D1%82-apple-ipad-pro-10-5-inch
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/iphone-15-pro-max
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/iphone-15-pro
+2024-07-23 17:27:09,587 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/planshety-apple/products/iphone-15-plus
+2024-07-23 17:27:09,587 - INFO - Сканирование страницы: https://brostore.uz/collections/noutbuki/products/%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-apple-macbook-air-13-inch-m3 на глубине 2
+2024-07-23 17:27:09,587 - INFO - Запрос страницы: https://brostore.uz/collections/noutbuki/products/%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-apple-macbook-air-13-inch-m3
+2024-07-23 17:27:10,399 - INFO - Найдено 222 новых ссылок на странице https://brostore.uz/collections/noutbuki/products/%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-apple-macbook-air-13-inch-m3
+2024-07-23 17:27:10,399 - INFO - Сканирование страницы: https://brostore.uz/collections/noutbuki/products/%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-apple-macbook-air-13-inch-m3#main-content на глубине 3
+2024-07-23 17:27:10,399 - INFO - Запрос страницы: https://brostore.uz/collections/noutbuki/products/%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-apple-macbook-air-13-inch-m3#main-content
+2024-07-23 17:27:10,809 - INFO - Найдено 221 новых ссылок на странице https://brostore.uz/collections/noutbuki/products/%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-apple-macbook-air-13-inch-m3#main-content
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/4_bb2d57c8-5a0b-459d-aba8-e6ee869c21f1.png?v=1712041927
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/5_d2bede80-958a-4d56-9f59-c0e601515b22.png?v=1712041927
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/9_fa4c5d6e-e5a8-461c-a1dc-088910833d80.png?v=1712041927
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/13_72a0e04b-9354-4ced-8e29-9040f4325560.png?v=1712041927
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/25_ef8918fc-7671-4ecf-8d95-6eee365878d5.png?v=1712041927
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_37a9c18f-d076-4a28-b431-fe9e9bfaad65.png?v=1712041948
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/8_4fb85f5e-371a-48a3-acf0-7ed790618e67.png?v=1712041949
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/12_97d4d0c0-9670-4f45-8d4f-4d5e79d735db.png?v=1712041949
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/22_3bef64be-62ad-4ea0-8d31-3130567e3740.png?v=1712041949
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/24_c82fd202-1ad5-4038-82b7-169c527187af.png?v=1712041949
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_218d1ae2-268a-48e9-a093-be594b726237.png?v=1712041978
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/7_d04d9314-edfc-47e2-a75d-ca776f9395e8.png?v=1712041978
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/11_16f597ba-c71e-47b3-8c32-0d14b3da92a1.png?v=1712041978
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/21_a32075ee-67fc-4252-9ced-c8e5ee3fb4f4.png?v=1712041977
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/23_884b54b5-ad87-401e-8123-b8b849451f05.png?v=1712042057
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_9f6c9e3b-f3ad-460f-9b9c-d820c8f6abc5.png?v=1712042057
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/6_8ff80e88-0006-4d55-a977-fc519a09330f.png?v=1712042057
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/10_0f46085c-7112-4a32-bb23-a8f642b6f682.png?v=1712042057
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/14_86caabeb-365f-4251-be5c-c9082096339a.png?v=1712042057
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/26_ce9c3f9a-565d-4614-9bb7-7853b0aa1dc0.png?v=1712042057
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/vendors?q=Apple
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/noutbuki/products/iphone-15-pro-max
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/noutbuki/products/iphone-15-pro
+2024-07-23 17:27:10,809 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/noutbuki/products/iphone-15-plus
+2024-07-23 17:27:10,809 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-15-pro-max на глубине 2
+2024-07-23 17:27:10,809 - INFO - Запрос страницы: https://brostore.uz/products/iphone-15-pro-max
+2024-07-23 17:27:11,743 - INFO - Найдено 216 новых ссылок на странице https://brostore.uz/products/iphone-15-pro-max
+2024-07-23 17:27:11,744 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-15-pro-max#main-content на глубине 3
+2024-07-23 17:27:11,744 - INFO - Запрос страницы: https://brostore.uz/products/iphone-15-pro-max#main-content
+2024-07-23 17:27:12,178 - INFO - Найдено 215 новых ссылок на странице https://brostore.uz/products/iphone-15-pro-max#main-content
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_da22d22e-6c4d-469e-8106-cf061096fd01.png?v=1700566370
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/5_558fbb11-1a32-459c-8602-1e6f84506b6a.png?v=1700566370
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/9_279035b4-b17c-406f-a909-c1e7dba38c1c.png?v=1700566370
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/13_a19b3510-2f47-4886-819d-32c3534f0469.png?v=1710766021
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_e94252bf-8cb3-449e-b9de-99fbc7f4774e.png?v=1710766021
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/7_f554ce90-70c9-4e3f-bd23-2ed500c45313.png?v=1710766021
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/11_9f35dee6-01c3-46c3-9078-80a7c7a51528.png?v=1710766021
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/15_d49eece8-4b51-4266-85bb-0efc92d0d347.png?v=1710766021
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_3a40da33-ac67-425e-9147-76ec5c28799e.png?v=1710765984
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/6_839ad5a1-70eb-4912-ac29-6d63459465fd.png?v=1710765984
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/10_690c65de-84ec-44bc-86bf-ebc9108f8f19.png?v=1710765984
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/14_86f1ecd2-2681-452b-ab06-bc21b45afd93.png?v=1710765984
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/4_c1768aed-ebab-4011-af4d-84b7718844f6.png?v=1700566370
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/8_b0e506ba-ef7a-46de-aff9-baacb0e9a481.png?v=1700566370
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/12_df756b34-6e2b-4113-b5b9-0ba0b4327981.png?v=1700566370
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/16_79a86676-48ca-4ea8-b19c-880a8bd3c18e.png?v=1700566370
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/collections/iphone
+2024-07-23 17:27:12,179 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/products/iphone-15-plus
+2024-07-23 17:27:12,179 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-15 на глубине 2
+2024-07-23 17:27:12,179 - INFO - Запрос страницы: https://brostore.uz/products/iphone-15
+2024-07-23 17:27:12,997 - INFO - Найдено 214 новых ссылок на странице https://brostore.uz/products/iphone-15
+2024-07-23 17:27:12,997 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-15#main-content на глубине 3
+2024-07-23 17:27:12,997 - INFO - Запрос страницы: https://brostore.uz/products/iphone-15#main-content
+2024-07-23 17:27:13,425 - INFO - Найдено 213 новых ссылок на странице https://brostore.uz/products/iphone-15#main-content
+2024-07-23 17:27:13,425 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/5_9d2a3f64-88a3-4440-86d9-7fc9b426d2da.png?v=1698328733
+2024-07-23 17:27:13,425 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/8_f9b2feef-7f0f-4844-bcb6-b91ac9ecf4b7.png?v=1698328740
+2024-07-23 17:27:13,425 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/15_52c0d127-a3a7-4884-8e65-b7064c739d72.png?v=1698328745
+2024-07-23 17:27:13,425 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/4_af812949-96be-4d41-9a2d-d305cb1a55b4.png?v=1698328758
+2024-07-23 17:27:13,425 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/10_986c7f9a-75b8-4baf-8c2f-2fb209bb5738.png?v=1698328767
+2024-07-23 17:27:13,426 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/12_237704db-80d0-49a3-91c7-77f8a61b4931.png?v=1698328772
+2024-07-23 17:27:13,426 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_f401dd75-8293-4ab8-806a-40fe99bc7853.png?v=1698328781
+2024-07-23 17:27:13,426 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/9_0ae84325-0b0e-411a-b077-70752f36b53e.png?v=1698328788
+2024-07-23 17:27:13,426 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/14_aa1a1149-a945-4f53-afb3-dc03d570d715.png?v=1698328793
+2024-07-23 17:27:13,426 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_8075925c-8b97-409b-9490-eb09a1ce5eb1.png?v=1698328806
+2024-07-23 17:27:13,426 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/6_b78818bc-7cd4-483b-94e4-1e316a5f90c3.png?v=1698328812
+2024-07-23 17:27:13,426 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/11_f0959016-0baa-49f5-a4ba-21063a968fdf.png?v=1698328821
+2024-07-23 17:27:13,426 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_0e651548-671a-443e-8ec5-db30e0cc11c0.png?v=1698328836
+2024-07-23 17:27:13,426 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/7_de9f08ab-76e6-488f-829b-a11030748c03.png?v=1698328842
+2024-07-23 17:27:13,426 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/13_8b61c246-174e-4cdb-a997-2eea6988e7a3.png?v=1698328847
+2024-07-23 17:27:13,426 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-14-pro-max на глубине 2
+2024-07-23 17:27:13,426 - INFO - Запрос страницы: https://brostore.uz/products/iphone-14-pro-max
+2024-07-23 17:27:14,214 - INFO - Найдено 214 новых ссылок на странице https://brostore.uz/products/iphone-14-pro-max
+2024-07-23 17:27:14,214 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-14-pro-max#main-content на глубине 3
+2024-07-23 17:27:14,214 - INFO - Запрос страницы: https://brostore.uz/products/iphone-14-pro-max#main-content
+2024-07-23 17:27:14,632 - INFO - Найдено 213 новых ссылок на странице https://brostore.uz/products/iphone-14-pro-max#main-content
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_6691f632-cb01-4c54-8efc-92bbd1cf0218.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/8_fbbb5af9-a6fe-4ca7-b673-9b3c6614f4d8.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/14_2b4436b8-24aa-4f63-97b1-dd2bab4b80f2.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/9_6e8fb4eb-f21f-481e-8727-3a4371aab433.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_5441e97e-a91a-46eb-927b-8624e0186c2e.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/7_9ff36469-dd79-49d9-941e-e88bcfef9bdd.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/16_bebd4c6f-4430-4526-908d-2e2958657c13.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/12_3fbe86f4-7ea2-42e6-843c-8eb62dfaac5b.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/4_5a84e4b4-d0b5-49d2-b264-faa9307ef34b.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/5_339e01a1-8f9d-40aa-8142-595c2d5b9e2f.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/13_6b6d0dc0-9c26-4519-8cd7-7711e23fa0e8.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/10_e44eeeba-c3dc-4257-89ae-84257296c6a7.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_b17d7997-0acc-4345-8b81-ee27ea09a6fd.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/6_f2f18dcb-c107-4f50-a2f9-5bf07a3810ce.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/15_16dea6c5-665e-4174-912a-3ebacf72b2c9.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/11_5148f501-a765-434c-8139-4c6edad1b06c.png?v=1700144680
+2024-07-23 17:27:14,632 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-14-pro на глубине 2
+2024-07-23 17:27:14,632 - INFO - Запрос страницы: https://brostore.uz/products/iphone-14-pro
+2024-07-23 17:27:15,670 - INFO - Найдено 214 новых ссылок на странице https://brostore.uz/products/iphone-14-pro
+2024-07-23 17:27:15,670 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-14-pro#main-content на глубине 3
+2024-07-23 17:27:15,670 - INFO - Запрос страницы: https://brostore.uz/products/iphone-14-pro#main-content
+2024-07-23 17:27:16,183 - INFO - Найдено 213 новых ссылок на странице https://brostore.uz/products/iphone-14-pro#main-content
+2024-07-23 17:27:16,183 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_6259489e-a256-497f-b5e4-44d3c161fd56.png?v=1698327539
+2024-07-23 17:27:16,184 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/8_92c97b37-52d8-4267-bc30-9e90aadc6a59.png?v=1698327552
+2024-07-23 17:27:16,184 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/14_41efebd3-1c0d-42b8-bc8e-f2749cefd8bb.png?v=1698327576
+2024-07-23 17:27:16,184 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/9_c48d9d45-f1d6-461f-a8c5-bd75bf9bd654.png?v=1698327593
+2024-07-23 17:27:16,184 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/4_8c14e150-1218-4c61-ba0e-c6fe9cd0203a.png?v=1698327640
+2024-07-23 17:27:16,184 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/5_55e0ea00-0cc2-42b3-8bdc-da666ded3a96.png?v=1698327658
+2024-07-23 17:27:16,184 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/13_1e920eee-810e-42b7-b4be-93a97b5bd823.png?v=1698327667
+2024-07-23 17:27:16,184 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/10_58f7fd0d-bf04-41e8-b618-ec8b67f1b0b6.png?v=1698327674
+2024-07-23 17:27:16,184 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_f6f8ba38-efc1-4558-a1db-62937b4aec3f.png?v=1698327738
+2024-07-23 17:27:16,184 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/6_718af159-3fbf-4bc2-a58b-6792d4f0d05d.png?v=1698327749
+2024-07-23 17:27:16,184 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/15_23e820db-dcc9-4358-9c54-88dfcfd600c5.png?v=1698327759
+2024-07-23 17:27:16,184 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/11_72818391-6bca-4082-a8b1-a1b10483c32e.png?v=1698327768
+2024-07-23 17:27:16,184 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_ab8c32c3-d0f5-42d7-bbde-54ecdac6ac63.png?v=1698327837
+2024-07-23 17:27:16,184 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/7_af6562d8-f954-4b59-860e-40e293319bac.png?v=1698327845
+2024-07-23 17:27:16,184 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/16_7ab43b27-b562-4686-8852-019bc7088717.png?v=1698327854
+2024-07-23 17:27:16,184 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/12_c5979d2b-8c31-43de-9112-71912705c22d.png?v=1698327861
+2024-07-23 17:27:16,184 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-14-plus на глубине 2
+2024-07-23 17:27:16,184 - INFO - Запрос страницы: https://brostore.uz/products/iphone-14-plus
+2024-07-23 17:27:17,115 - INFO - Найдено 216 новых ссылок на странице https://brostore.uz/products/iphone-14-plus
+2024-07-23 17:27:17,115 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-14-plus#main-content на глубине 3
+2024-07-23 17:27:17,115 - INFO - Запрос страницы: https://brostore.uz/products/iphone-14-plus#main-content
+2024-07-23 17:27:17,545 - INFO - Найдено 215 новых ссылок на странице https://brostore.uz/products/iphone-14-plus#main-content
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/5_dee4a11f-6bb5-4763-bbee-74a5cba8153e.png?v=1700145034
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/10_755ef810-d0e2-4d33-8735-c73e3af7775c.png?v=1700145034
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/17_a79c9ca1-bb73-40a1-9e61-648f6cab937d.png?v=1700145034
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/4_bdff2d31-16f8-4cff-b408-1a9fa188bc92.png?v=1700145034
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/18_7ef2a835-689f-43b5-a778-d6ff33d5fefa.png?v=1700145034
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/12_8579d7b8-8e76-47aa-b223-c9795d9bea9d.png?v=1700145034
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_eab01d9f-7498-4ee9-b898-db6f5fa10cdd.png?v=1700145034
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/11_6e3ad453-edc9-431c-8329-542a6681b84d.png?v=1700145034
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/13_b4e24280-7705-43c9-b1f9-0e9e1eb90d74.png?v=1700145034
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_a898fdd3-a77e-419e-bb45-349a8a969634.png?v=1700145034
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/9_6d19298d-b64f-400f-90b5-ba64aaef56c8.png?v=1700145034
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/16_77656d96-5993-42dc-990b-512c3b2b93db.png?v=1700145034
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_9300451c-2c14-49d3-a7e2-ead0f6dc50f7.png?v=1700145034
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/8_f7d6b65b-3374-415e-a39b-4b686a4bd4df.png?v=1700145034
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/14_8df8ae90-d7e8-4fa3-8703-e376e8cbbfe1.png?v=1700145034
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/6_aa8ba3f5-2d54-4f0d-b58d-e3f945407649.png?v=1698326839
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/7_cf5dd938-46fe-4387-9b99-64dbdd12dfda.png?v=1698326850
+2024-07-23 17:27:17,545 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/15_29479563-00c5-428b-a758-0278ad33c2f4.png?v=1698326856
+2024-07-23 17:27:17,545 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-14 на глубине 2
+2024-07-23 17:27:17,545 - INFO - Запрос страницы: https://brostore.uz/products/iphone-14
+2024-07-23 17:27:18,456 - INFO - Найдено 216 новых ссылок на странице https://brostore.uz/products/iphone-14
+2024-07-23 17:27:18,456 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-14#main-content на глубине 3
+2024-07-23 17:27:18,456 - INFO - Запрос страницы: https://brostore.uz/products/iphone-14#main-content
+2024-07-23 17:27:18,910 - INFO - Найдено 215 новых ссылок на странице https://brostore.uz/products/iphone-14#main-content
+2024-07-23 17:27:18,910 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/6_580b86b4-21c2-425d-8e51-0aa70465fde6.png?v=1712992203
+2024-07-23 17:27:18,910 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/7_cbb64d7e-2ad4-4430-9a60-59cf46c04c3a.png?v=1712992203
+2024-07-23 17:27:18,910 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/15_3b7eb4f8-e606-4b1f-be02-4ab205924cc9.png?v=1712992203
+2024-07-23 17:27:18,910 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/5_60762fb2-1a24-4490-90b9-3ec2dfb4ad18.png?v=1712992203
+2024-07-23 17:27:18,910 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/10_d014db2f-4bc4-4d15-8b87-d2c0f34521c4.png?v=1712992259
+2024-07-23 17:27:18,910 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/17_54056ae7-0284-4eb0-be31-031feb3e6c70.png?v=1712992259
+2024-07-23 17:27:18,910 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/4_459f1ba8-bf51-4efc-920c-979534761e93.png?v=1721310539
+2024-07-23 17:27:18,911 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/18_f918c11d-245b-4e1e-ba3e-e239c08a93fe.png?v=1721310539
+2024-07-23 17:27:18,911 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/12_05814836-dd66-42a2-b846-31ddc52dbcf3.png?v=1721310539
+2024-07-23 17:27:18,911 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_ec44d816-fe19-4340-998e-3eaeaf2a3d4e.png?v=1721310539
+2024-07-23 17:27:18,911 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/11_ab114763-aad6-4b5e-b630-90974e551bf5.png?v=1721310539
+2024-07-23 17:27:18,911 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/13_a56d8b61-ce32-4682-a79a-548dccbc441c.png?v=1721310539
+2024-07-23 17:27:18,911 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_7a8dad79-7420-4adf-8f77-4a5f2517b06e.png?v=1721310383
+2024-07-23 17:27:18,911 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/9_6f01b9d5-a687-4af1-9d49-e298b0ac01c0.png?v=1721310383
+2024-07-23 17:27:18,911 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/16_0067e971-1188-4423-b470-3d6824a26504.png?v=1721310383
+2024-07-23 17:27:18,911 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_699658dd-48a6-4ba6-9f35-c652b9042be1.png?v=1721310383
+2024-07-23 17:27:18,911 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/8_3885fc02-694f-42bd-b87c-c7cd7245907b.png?v=1721310383
+2024-07-23 17:27:18,911 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/14_8a810c57-d60f-40b3-b9e0-00dd270352c7.png?v=1721310383
+2024-07-23 17:27:18,911 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-se-3 на глубине 2
+2024-07-23 17:27:18,911 - INFO - Запрос страницы: https://brostore.uz/products/iphone-se-3
+2024-07-23 17:27:19,656 - INFO - Найдено 207 новых ссылок на странице https://brostore.uz/products/iphone-se-3
+2024-07-23 17:27:19,656 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-se-3#main-content на глубине 3
+2024-07-23 17:27:19,656 - INFO - Запрос страницы: https://brostore.uz/products/iphone-se-3#main-content
+2024-07-23 17:27:20,077 - INFO - Найдено 206 новых ссылок на странице https://brostore.uz/products/iphone-se-3#main-content
+2024-07-23 17:27:20,077 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_06612b96-4e92-4eea-b1a5-e52bace9d514.png?v=1717500501
+2024-07-23 17:27:20,078 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/6_5121779c-607b-4616-b83f-f337de2ccaea.png?v=1717500501
+2024-07-23 17:27:20,078 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/8_3af221ef-bc7e-4658-b026-2315b984231d.png?v=1717500501
+2024-07-23 17:27:20,078 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_f3a7b717-2e46-4800-b42a-cccfdf132798.png?v=1717500501
+2024-07-23 17:27:20,078 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/4_07626fc4-ad0f-473c-b6c2-71acfa359884.png?v=1717500501
+2024-07-23 17:27:20,078 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/7_db7a8e4b-4953-4fdd-8096-b81ce582a8bc.png?v=1717500501
+2024-07-23 17:27:20,078 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_7835d677-dcd0-483c-b6fe-20798e1c62a2.png?v=1717500501
+2024-07-23 17:27:20,078 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/5_2979d33d-8bc3-47a2-aa16-d3bfc45a23f7.png?v=1717500501
+2024-07-23 17:27:20,078 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/9_de483d1a-2fc2-4c98-9ade-4c80fab324b3.png?v=1717500501
+2024-07-23 17:27:20,078 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-13 на глубине 2
+2024-07-23 17:27:20,078 - INFO - Запрос страницы: https://brostore.uz/products/iphone-13
+2024-07-23 17:27:20,843 - INFO - Найдено 210 новых ссылок на странице https://brostore.uz/products/iphone-13
+2024-07-23 17:27:20,843 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-13#main-content на глубине 3
+2024-07-23 17:27:20,843 - INFO - Запрос страницы: https://brostore.uz/products/iphone-13#main-content
+2024-07-23 17:27:21,257 - INFO - Найдено 209 новых ссылок на странице https://brostore.uz/products/iphone-13#main-content
+2024-07-23 17:27:21,258 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_95f8a17b-629e-4813-8ca2-cac09460b604.png?v=1698323297
+2024-07-23 17:27:21,258 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/10_a9a57223-f5e5-400a-b4dd-d5f1a6819b48.png?v=1698323307
+2024-07-23 17:27:21,258 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/6_d3d4bd9e-3427-4bd1-bb4b-67e8c00387a8.png?v=1698323324
+2024-07-23 17:27:21,258 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/12_6be7c035-a152-4c42-98e7-60a0b4489883.png?v=1698323330
+2024-07-23 17:27:21,258 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_af46f7a8-8cc2-4895-9318-edfad08dfaf3.png?v=1698323344
+2024-07-23 17:27:21,258 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/11_30307eef-987c-4490-9d83-6e24ddc61821.png?v=1698323352
+2024-07-23 17:27:21,258 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/5_63e13445-ba83-4507-b1af-8082cab24aa5.png?v=1698323366
+2024-07-23 17:27:21,258 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/7_7160c8cf-3fb1-4b5f-a3ac-b5bbc0f15bdf.png?v=1698323383
+2024-07-23 17:27:21,258 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/4_c9f444cf-5145-467b-aa3d-3c5eccb869cb.png?v=1698323397
+2024-07-23 17:27:21,258 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/8_7022a85a-3aa7-46ce-a4e2-5c9e5c3d9e11.png?v=1698323406
+2024-07-23 17:27:21,258 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_3b1f0439-7fbc-47e9-a625-cb639619ad72.png?v=1698323425
+2024-07-23 17:27:21,258 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/9_8e09d0fa-e2ec-4fe6-97c9-e4aa31e1f3c6.png?v=1698323430
+2024-07-23 17:27:21,258 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-13-mini на глубине 2
+2024-07-23 17:27:21,258 - INFO - Запрос страницы: https://brostore.uz/products/iphone-13-mini
+2024-07-23 17:27:22,055 - INFO - Найдено 208 новых ссылок на странице https://brostore.uz/products/iphone-13-mini
+2024-07-23 17:27:22,056 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-13-mini#main-content на глубине 3
+2024-07-23 17:27:22,056 - INFO - Запрос страницы: https://brostore.uz/products/iphone-13-mini#main-content
+2024-07-23 17:27:22,482 - INFO - Найдено 207 новых ссылок на странице https://brostore.uz/products/iphone-13-mini#main-content
+2024-07-23 17:27:22,483 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/4_d8ca121b-b006-44e8-9927-b89e1256d674.png?v=1706598598
+2024-07-23 17:27:22,483 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/8_f69b3667-1bd0-48c7-a70b-4879c3c82841.png?v=1706598598
+2024-07-23 17:27:22,483 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_35047e3d-e487-4714-a418-95c2ea496dd1.png?v=1706598598
+2024-07-23 17:27:22,483 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/10_4fe9322c-3c5f-455e-bf4b-30c3339546c5.png?v=1706598598
+2024-07-23 17:27:22,483 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_dfee8387-1b99-40a2-9fa6-8077968561eb.png?v=1714464522
+2024-07-23 17:27:22,483 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/9_68a0958b-9c50-4409-a0b1-96387d367cbb.png?v=1714464522
+2024-07-23 17:27:22,483 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_3dc9f580-57eb-4854-9672-b495664d7a9b.png?v=1714464522
+2024-07-23 17:27:22,483 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/11_5e3aa08b-b037-47b1-baa9-abd1dfb37d1a.png?v=1714464522
+2024-07-23 17:27:22,483 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/6_4775dc4d-8ba0-4729-9dc4-9d929fc6b885.png?v=1714464522
+2024-07-23 17:27:22,483 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/12_483341f2-5124-48c2-b731-415dae1dbd6c.png?v=1714464522
+2024-07-23 17:27:22,483 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-12-pro на глубине 2
+2024-07-23 17:27:22,483 - INFO - Запрос страницы: https://brostore.uz/products/iphone-12-pro
+2024-07-23 17:27:23,351 - INFO - Найдено 213 новых ссылок на странице https://brostore.uz/products/iphone-12-pro
+2024-07-23 17:27:23,351 - INFO - Сканирование страницы: https://brostore.uz/products/iphone-12-pro#main-content на глубине 3
+2024-07-23 17:27:23,351 - INFO - Запрос страницы: https://brostore.uz/products/iphone-12-pro#main-content
+2024-07-23 17:27:23,840 - INFO - Найдено 212 новых ссылок на странице https://brostore.uz/products/iphone-12-pro#main-content
+2024-07-23 17:27:23,840 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_06fd3604-a6b8-4788-8cab-c8a483993e3d.png?v=1700144915
+2024-07-23 17:27:23,840 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/10_5be49751-0ca8-4c17-9320-7761c05519ad.png?v=1700144915
+2024-07-23 17:27:23,840 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/8_5a64d250-57d1-4410-be4b-365d5a526ad7.png?v=1700144915
+2024-07-23 17:27:23,840 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/20_0f38c7ab-f93e-48cf-bf67-e70932ca3447.png?v=1700144915
+2024-07-23 17:27:23,840 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/13_21b57937-42e8-459b-bd19-f6c068fa8dca.png?v=1700144915
+2024-07-23 17:27:23,840 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_1bd368c1-4701-4836-b178-648935e107de.png?v=1698322294
+2024-07-23 17:27:23,840 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/11_70776fbd-303c-4857-a709-5c76e8f5a36a.png?v=1698322301
+2024-07-23 17:27:23,840 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/6_b8f0ebb1-0d64-4f29-96aa-c36e315d711e.png?v=1698322309
+2024-07-23 17:27:23,840 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/17_727750cc-9212-42a4-b3e1-89920f07dc33.png?v=1698322326
+2024-07-23 17:27:23,840 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/14_d1618cfd-4aec-4fe5-9d30-bac899b52409.png?v=1698322333
+2024-07-23 17:27:23,840 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_ffd45e70-a8c1-4a33-9438-64c251321abc.png?v=1698322352
+2024-07-23 17:27:23,840 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/9_d40fe7ae-741a-46a0-a5f5-c2cfb6c75c79.png?v=1698322519
+2024-07-23 17:27:23,840 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/5_2d93e53f-ad6b-4418-b9a3-951db7a588ca.png?v=1698322533
+2024-07-23 17:27:23,840 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/19_da89e3b8-b4dd-488b-94f9-c1654bf1d2d3.png?v=1698322548
+2024-07-23 17:27:23,840 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/16_1e0f7310-9910-43ac-b9b5-3f63bb8ab592.png?v=1698322555
+2024-07-23 17:27:23,840 - INFO - Сканирование страницы: https://brostore.uz/products/nastolnyj-kompyuter-apple-mac-mini-m2 на глубине 2
+2024-07-23 17:27:23,840 - INFO - Запрос страницы: https://brostore.uz/products/nastolnyj-kompyuter-apple-mac-mini-m2
+2024-07-23 17:27:24,567 - INFO - Найдено 202 новых ссылок на странице https://brostore.uz/products/nastolnyj-kompyuter-apple-mac-mini-m2
+2024-07-23 17:27:24,567 - INFO - Сканирование страницы: https://brostore.uz/products/nastolnyj-kompyuter-apple-mac-mini-m2#main-content на глубине 3
+2024-07-23 17:27:24,567 - INFO - Запрос страницы: https://brostore.uz/products/nastolnyj-kompyuter-apple-mac-mini-m2#main-content
+2024-07-23 17:27:25,075 - INFO - Найдено 201 новых ссылок на странице https://brostore.uz/products/nastolnyj-kompyuter-apple-mac-mini-m2#main-content
+2024-07-23 17:27:25,075 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_2a28e4fc-c6a7-41c8-a750-26c487f562ae.png?v=1700313276
+2024-07-23 17:27:25,076 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_16d2e767-304b-488b-9797-c88af77eb34d.png?v=1700313281
+2024-07-23 17:27:25,076 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_1d062a23-2227-4833-a282-b6a574fbafb8.png?v=1700313286
+2024-07-23 17:27:25,076 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/4_f9c71093-6bca-4518-9504-90054b8628b1.png?v=1700313290
+2024-07-23 17:27:25,076 - INFO - Сканирование страницы: https://brostore.uz/products/noutbuk-apple-macbook-air-13-inch-m1 на глубине 2
+2024-07-23 17:27:25,076 - INFO - Запрос страницы: https://brostore.uz/products/noutbuk-apple-macbook-air-13-inch-m1
+2024-07-23 17:27:25,808 - INFO - Найдено 210 новых ссылок на странице https://brostore.uz/products/noutbuk-apple-macbook-air-13-inch-m1
+2024-07-23 17:27:25,808 - INFO - Сканирование страницы: https://brostore.uz/products/noutbuk-apple-macbook-air-13-inch-m1#main-content на глубине 3
+2024-07-23 17:27:25,808 - INFO - Запрос страницы: https://brostore.uz/products/noutbuk-apple-macbook-air-13-inch-m1#main-content
+2024-07-23 17:27:26,379 - INFO - Найдено 209 новых ссылок на странице https://brostore.uz/products/noutbuk-apple-macbook-air-13-inch-m1#main-content
+2024-07-23 17:27:26,379 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/7_ce6f2c37-f0b3-4a69-9e80-b00a993fa43f.png?v=1704996220
+2024-07-23 17:27:26,379 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/4_e2bb0dcd-99f1-4a7e-a128-7584ad5621c4.png?v=1704996220
+2024-07-23 17:27:26,379 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_c5205a30-3d00-40a7-aeee-856659a39dca.png?v=1704996220
+2024-07-23 17:27:26,379 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/11_30cac349-3756-4386-8db0-d7968fe5843f.png?v=1704996220
+2024-07-23 17:27:26,379 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/10_e265f0d3-1321-4e2b-bf63-79b8d0bdb8f9.png?v=1704996220
+2024-07-23 17:27:26,379 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/8_3b3d9a94-e512-46cf-afda-c072876b77d8.png?v=1704996220
+2024-07-23 17:27:26,379 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_31de3efd-152b-4b4c-8f31-09100bf50a9b.png?v=1704996220
+2024-07-23 17:27:26,379 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/12_06aa8892-fdf4-426f-8b0b-89962c179b99.png?v=1704996220
+2024-07-23 17:27:26,380 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/6_0bf35ddf-43dd-4cf3-b110-8d7a719e36f4.png?v=1704996220
+2024-07-23 17:27:26,380 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/5_b0ddc077-ed77-4d3b-929e-89868142e351.png?v=1704996220
+2024-07-23 17:27:26,380 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/9_95c54ee0-292b-49e5-83ae-9c0f8fbd7bba.png?v=1704996220
+2024-07-23 17:27:26,380 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_5e41ab21-0374-4dfa-a675-7633a57a5b22.png?v=1704996220
+2024-07-23 17:27:26,380 - INFO - Сканирование страницы: https://brostore.uz/products/airpods-2-1-with-charging-case на глубине 2
+2024-07-23 17:27:26,380 - INFO - Запрос страницы: https://brostore.uz/products/airpods-2-1-with-charging-case
+2024-07-23 17:27:27,015 - INFO - Найдено 201 новых ссылок на странице https://brostore.uz/products/airpods-2-1-with-charging-case
+2024-07-23 17:27:27,015 - INFO - Сканирование страницы: https://brostore.uz/products/airpods-2-1-with-charging-case#main-content на глубине 3
+2024-07-23 17:27:27,015 - INFO - Запрос страницы: https://brostore.uz/products/airpods-2-1-with-charging-case#main-content
+2024-07-23 17:27:27,439 - INFO - Найдено 200 новых ссылок на странице https://brostore.uz/products/airpods-2-1-with-charging-case#main-content
+2024-07-23 17:27:27,439 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_01258c41-efd5-40ce-bf92-e5c37315cdaa.png?v=1698238417
+2024-07-23 17:27:27,439 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_6f91bb44-1618-435e-bce2-31318a44010a.png?v=1698238428
+2024-07-23 17:27:27,439 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_f6ba1057-c54b-4330-b258-d98a93dad718.png?v=1698238440
+2024-07-23 17:27:27,439 - INFO - Сканирование страницы: https://brostore.uz/products/monitor-apple-studio-display-tilt-and-height-adjustable-stand на глубине 2
+2024-07-23 17:27:27,439 - INFO - Запрос страницы: https://brostore.uz/products/monitor-apple-studio-display-tilt-and-height-adjustable-stand
+2024-07-23 17:27:28,178 - INFO - Найдено 200 новых ссылок на странице https://brostore.uz/products/monitor-apple-studio-display-tilt-and-height-adjustable-stand
+2024-07-23 17:27:28,178 - INFO - Сканирование страницы: https://brostore.uz/products/monitor-apple-studio-display-tilt-and-height-adjustable-stand#main-content на глубине 3
+2024-07-23 17:27:28,178 - INFO - Запрос страницы: https://brostore.uz/products/monitor-apple-studio-display-tilt-and-height-adjustable-stand#main-content
+2024-07-23 17:27:28,648 - INFO - Найдено 199 новых ссылок на странице https://brostore.uz/products/monitor-apple-studio-display-tilt-and-height-adjustable-stand#main-content
+2024-07-23 17:27:28,648 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_51c4ac04-d866-42c5-826d-763ac2fc8d12.png?v=1700314375
+2024-07-23 17:27:28,648 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/ff.png?v=1700483269
+2024-07-23 17:27:28,648 - INFO - Сканирование страницы: https://brostore.uz/products/airpods-max на глубине 2
+2024-07-23 17:27:28,648 - INFO - Запрос страницы: https://brostore.uz/products/airpods-max
+2024-07-23 17:27:29,389 - INFO - Найдено 213 новых ссылок на странице https://brostore.uz/products/airpods-max
+2024-07-23 17:27:29,389 - INFO - Сканирование страницы: https://brostore.uz/products/airpods-max#main-content на глубине 3
+2024-07-23 17:27:29,389 - INFO - Запрос страницы: https://brostore.uz/products/airpods-max#main-content
+2024-07-23 17:27:29,867 - INFO - Найдено 212 новых ссылок на странице https://brostore.uz/products/airpods-max#main-content
+2024-07-23 17:27:29,867 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/5_6c330d7d-3719-4524-82ed-f38a69581b0c.png?v=1698238915
+2024-07-23 17:27:29,867 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/15_9be85b58-ed3f-454e-b017-624ad1f8f240.png?v=1698238922
+2024-07-23 17:27:29,868 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/10_f97ca3e9-5523-4192-8662-bf8bd1ae0598.png?v=1698238928
+2024-07-23 17:27:29,868 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/4_e97ca3ae-d30e-41ae-98ad-cc4445d1e806.png?v=1698238938
+2024-07-23 17:27:29,868 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/14_43e0c974-bc7f-4eeb-9548-6851728fceb6.png?v=1698238946
+2024-07-23 17:27:29,868 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/6_b5f2de75-286b-43f9-8b13-4ab694e0452c.png?v=1698238953
+2024-07-23 17:27:29,868 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_609bbb82-a4af-4d8b-911e-de116c555090.png?v=1698238966
+2024-07-23 17:27:29,868 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/12_01db3ab8-f8f7-429e-8d94-0f5afee64551.png?v=1698238973
+2024-07-23 17:27:29,868 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/9_6cbb7064-36cf-4527-894c-6352b79e101b.png?v=1698238978
+2024-07-23 17:27:29,868 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_e12d0d02-c6f4-4bf2-9e34-46f89ea59d02.png?v=1698238989
+2024-07-23 17:27:29,868 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/13_5641e397-8388-4c47-8817-f8c94fd6ccf1.png?v=1698238994
+2024-07-23 17:27:29,868 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/8_4f439dc8-55fe-4d5b-89b3-41e482c69161.png?v=1698239000
+2024-07-23 17:27:29,868 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_be2d41be-b83a-4be0-ab50-0c585426303e.png?v=1698239014
+2024-07-23 17:27:29,868 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/11_8a4c8680-82ee-4e92-a4dc-dcf8922a8add.png?v=1698239021
+2024-07-23 17:27:29,868 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/7.png?v=1698239026
+2024-07-23 17:27:29,868 - INFO - Сканирование страницы: https://brostore.uz/products/monoblok-apple-imac-27-inch-intel-i5 на глубине 2
+2024-07-23 17:27:29,868 - INFO - Запрос страницы: https://brostore.uz/products/monoblok-apple-imac-27-inch-intel-i5
+2024-07-23 17:27:30,578 - INFO - Найдено 201 новых ссылок на странице https://brostore.uz/products/monoblok-apple-imac-27-inch-intel-i5
+2024-07-23 17:27:30,578 - INFO - Сканирование страницы: https://brostore.uz/products/monoblok-apple-imac-27-inch-intel-i5#main-content на глубине 3
+2024-07-23 17:27:30,578 - INFO - Запрос страницы: https://brostore.uz/products/monoblok-apple-imac-27-inch-intel-i5#main-content
+2024-07-23 17:27:31,030 - INFO - Найдено 200 новых ссылок на странице https://brostore.uz/products/monoblok-apple-imac-27-inch-intel-i5#main-content
+2024-07-23 17:27:31,030 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_f45a4cf1-c554-4eb8-a612-a3bec41e6a3a.png?v=1700313600
+2024-07-23 17:27:31,030 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_d8680bc4-701e-41ba-a3b3-5211621eb806.png?v=1700313605
+2024-07-23 17:27:31,030 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_c2f667a3-00ed-44a5-a041-1985a74918a4.png?v=1700313609
+2024-07-23 17:27:31,030 - INFO - Сканирование страницы: https://brostore.uz/products/noutbuk-apple-macbook-pro-13-inch-m2 на глубине 2
+2024-07-23 17:27:31,030 - INFO - Запрос страницы: https://brostore.uz/products/noutbuk-apple-macbook-pro-13-inch-m2
+2024-07-23 17:27:31,733 - INFO - Найдено 204 новых ссылок на странице https://brostore.uz/products/noutbuk-apple-macbook-pro-13-inch-m2
+2024-07-23 17:27:31,733 - INFO - Сканирование страницы: https://brostore.uz/products/noutbuk-apple-macbook-pro-13-inch-m2#main-content на глубине 3
+2024-07-23 17:27:31,733 - INFO - Запрос страницы: https://brostore.uz/products/noutbuk-apple-macbook-pro-13-inch-m2#main-content
+2024-07-23 17:27:32,155 - INFO - Найдено 203 новых ссылок на странице https://brostore.uz/products/noutbuk-apple-macbook-pro-13-inch-m2#main-content
+2024-07-23 17:27:32,155 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/4_179e8c1c-ddf3-42c4-aa47-c1bebcc22cb1.png?v=1700299252
+2024-07-23 17:27:32,155 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/6_7feeff5b-1b1a-4251-9e0f-72893f9235db.png?v=1700299265
+2024-07-23 17:27:32,155 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/2_95538e8d-84bc-4efc-b5ef-b79b7ee62f1a.png?v=1700299273
+2024-07-23 17:27:32,155 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/5_bb3ffd75-d2f2-4abf-94f5-13cd702de5c4.png?v=1700299282
+2024-07-23 17:27:32,155 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/3_c273a2d7-2549-4b29-85f0-34bacaa38f94.png?v=1700299288
+2024-07-23 17:27:32,155 - INFO - Достигнут лимит глубины или количества страниц для https://brostore.uz/cdn/shop/files/1_cf1aa407-57f2-4a3d-bf1c-9b6d806c3513.png?v=1700299293
+2024-07-23 17:27:32,155 - INFO - Всего страниц для проверки: 396
+2024-07-23 17:27:32,155 - INFO - ====== WebDriver manager ======
+2024-07-23 17:27:32,267 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-23 17:27:32,778 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-23 17:27:33,074 - INFO - Driver [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-arm64/chromedriver] found in cache
+2024-07-23 17:27:33,503 - INFO - Обрабатываем страницу: https://brostore.uz/
+2024-07-23 17:28:00,504 - INFO - Обработано 1 из 396 страниц.
+2024-07-23 17:28:00,504 - INFO - Обрабатываем страницу: https://brostore.uz/#main-content
+2024-07-23 17:28:05,534 - INFO - Обработано 2 из 396 страниц.
+2024-07-23 17:28:05,534 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki-imac
+2024-07-23 17:28:31,520 - INFO - Обработано 3 из 396 страниц.
+2024-07-23 17:28:31,521 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki-imac#main-content
+2024-07-23 17:28:36,569 - INFO - Обработано 4 из 396 страниц.
+2024-07-23 17:28:36,569 - INFO - Обрабатываем страницу: https://brostore.uz/collections/macbook-pro
+2024-07-23 17:29:02,719 - INFO - Обработано 5 из 396 страниц.
+2024-07-23 17:29:02,720 - INFO - Обрабатываем страницу: https://brostore.uz/collections/macbook-air
+2024-07-23 17:29:28,703 - INFO - Обработано 6 из 396 страниц.
+2024-07-23 17:29:28,704 - INFO - Обрабатываем страницу: https://brostore.uz/collections/iphone-15
+2024-07-23 17:29:54,580 - INFO - Обработано 7 из 396 страниц.
+2024-07-23 17:29:54,580 - INFO - Обрабатываем страницу: https://brostore.uz/collections/iphone-14
+2024-07-23 17:30:20,512 - INFO - Обработано 8 из 396 страниц.
+2024-07-23 17:30:20,512 - INFO - Обрабатываем страницу: https://brostore.uz/collections/iphone-13
+2024-07-23 17:30:46,808 - INFO - Обработано 9 из 396 страниц.
+2024-07-23 17:30:46,809 - INFO - Обрабатываем страницу: https://brostore.uz/collections/iphone-12
+2024-07-23 17:31:12,915 - INFO - Обработано 10 из 396 страниц.
+2024-07-23 17:31:12,915 - INFO - Обрабатываем страницу: https://brostore.uz/collections/iphone-11
+2024-07-23 17:31:38,887 - INFO - Обработано 11 из 396 страниц.
+2024-07-23 17:31:38,887 - INFO - Обрабатываем страницу: https://brostore.uz/collections/iphone-xs
+2024-07-23 17:32:04,771 - INFO - Обработано 12 из 396 страниц.
+2024-07-23 17:32:04,771 - INFO - Обрабатываем страницу: https://brostore.uz/collections/iphone-xr
+2024-07-23 17:32:30,772 - INFO - Обработано 13 из 396 страниц.
+2024-07-23 17:32:30,772 - INFO - Обрабатываем страницу: https://brostore.uz/collections/iphone-se
+2024-07-23 17:32:56,649 - INFO - Обработано 14 из 396 страниц.
+2024-07-23 17:32:56,649 - INFO - Обрабатываем страницу: https://brostore.uz/collections/iphone-8
+2024-07-23 17:33:02,853 - INFO - Обработано 15 из 396 страниц.
+2024-07-23 17:33:02,853 - INFO - Обрабатываем страницу: https://brostore.uz/collections/iphone-7
+2024-07-23 17:33:08,776 - INFO - Обработано 16 из 396 страниц.
+2024-07-23 17:33:08,776 - INFO - Обрабатываем страницу: https://brostore.uz/collections/galaxy-s
+2024-07-23 17:33:14,805 - INFO - Обработано 17 из 396 страниц.
+2024-07-23 17:33:14,805 - INFO - Обрабатываем страницу: https://brostore.uz/collections/galaxy-z
+2024-07-23 17:33:20,878 - INFO - Обработано 18 из 396 страниц.
+2024-07-23 17:33:20,878 - INFO - Обрабатываем страницу: https://brostore.uz/collections/galaxy-a
+2024-07-23 17:33:26,849 - INFO - Обработано 19 из 396 страниц.
+2024-07-23 17:33:26,849 - INFO - Обрабатываем страницу: https://brostore.uz/collections/galaxy-m
+2024-07-23 17:33:32,809 - INFO - Обработано 20 из 396 страниц.
+2024-07-23 17:33:32,809 - INFO - Обрабатываем страницу: https://brostore.uz/collections/aster
+2024-07-23 17:33:38,827 - INFO - Обработано 21 из 396 страниц.
+2024-07-23 17:33:38,827 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple-ipad-pro
+2024-07-23 17:33:44,854 - INFO - Обработано 22 из 396 страниц.
+2024-07-23 17:33:44,854 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple-ipad-air
+2024-07-23 17:33:50,768 - INFO - Обработано 23 из 396 страниц.
+2024-07-23 17:33:50,768 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple-ipad-mini
+2024-07-23 17:33:56,715 - INFO - Обработано 24 из 396 страниц.
+2024-07-23 17:33:56,715 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple-ipad
+2024-07-23 17:34:02,632 - INFO - Обработано 25 из 396 страниц.
+2024-07-23 17:34:02,632 - INFO - Обрабатываем страницу: https://brostore.uz/collections/galaxy-tab
+2024-07-23 17:34:08,939 - INFO - Обработано 26 из 396 страниц.
+2024-07-23 17:34:08,940 - INFO - Обрабатываем страницу: https://brostore.uz/collections/apple-mac-studio
+2024-07-23 17:34:14,804 - INFO - Обработано 27 из 396 страниц.
+2024-07-23 17:34:14,804 - INFO - Обрабатываем страницу: https://brostore.uz/collections/apple-mac-mini
+2024-07-23 17:34:20,770 - INFO - Обработано 28 из 396 страниц.
+2024-07-23 17:34:20,770 - INFO - Обрабатываем страницу: https://brostore.uz/collections/apple-watch-ultra
+2024-07-23 17:34:26,733 - INFO - Обработано 29 из 396 страниц.
+2024-07-23 17:34:26,733 - INFO - Обрабатываем страницу: https://brostore.uz/collections/apple-watch-series
+2024-07-23 17:34:33,167 - INFO - Обработано 30 из 396 страниц.
+2024-07-23 17:34:33,167 - INFO - Обрабатываем страницу: https://brostore.uz/collections/apple-watch-se
+2024-07-23 17:34:39,078 - INFO - Обработано 31 из 396 страниц.
+2024-07-23 17:34:39,078 - INFO - Обрабатываем страницу: https://brostore.uz/collections/samsung-galaxy-watch
+2024-07-23 17:34:45,122 - INFO - Обработано 32 из 396 страниц.
+2024-07-23 17:34:45,122 - INFO - Обрабатываем страницу: https://brostore.uz/collections/besprovodnye-naushniki-apple
+2024-07-23 17:34:51,048 - INFO - Обработано 33 из 396 страниц.
+2024-07-23 17:34:51,048 - INFO - Обрабатываем страницу: https://brostore.uz/collections/provodnye-naushniki-apple
+2024-07-23 17:34:57,088 - INFO - Обработано 34 из 396 страниц.
+2024-07-23 17:34:57,088 - INFO - Обрабатываем страницу: https://brostore.uz/collections/naushniki-samsung
+2024-07-23 17:35:03,013 - INFO - Обработано 35 из 396 страниц.
+2024-07-23 17:35:03,014 - INFO - Обрабатываем страницу: https://brostore.uz/collections/naushniki-beats
+2024-07-23 17:35:08,928 - INFO - Обработано 36 из 396 страниц.
+2024-07-23 17:35:08,928 - INFO - Обрабатываем страницу: https://brostore.uz/collections/naushniki-marshall
+2024-07-23 17:35:15,010 - INFO - Обработано 37 из 396 страниц.
+2024-07-23 17:35:15,010 - INFO - Обрабатываем страницу: https://brostore.uz/collections/naushniki-sony
+2024-07-23 17:35:20,965 - INFO - Обработано 38 из 396 страниц.
+2024-07-23 17:35:20,965 - INFO - Обрабатываем страницу: https://brostore.uz/collections/naushniki-anker
+2024-07-23 17:35:26,978 - INFO - Обработано 39 из 396 страниц.
+2024-07-23 17:35:26,978 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monitory-apple
+2024-07-23 17:35:32,907 - INFO - Обработано 40 из 396 страниц.
+2024-07-23 17:35:32,907 - INFO - Обрабатываем страницу: https://brostore.uz/collections/akustika-jbl
+2024-07-23 17:35:38,983 - INFO - Обработано 41 из 396 страниц.
+2024-07-23 17:35:38,984 - INFO - Обрабатываем страницу: https://brostore.uz/collections/akustika-marshall
+2024-07-23 17:35:44,976 - INFO - Обработано 42 из 396 страниц.
+2024-07-23 17:35:44,976 - INFO - Обрабатываем страницу: https://brostore.uz/collections/akustika-harman-kardon
+2024-07-23 17:35:50,862 - INFO - Обработано 43 из 396 страниц.
+2024-07-23 17:35:50,862 - INFO - Обрабатываем страницу: https://brostore.uz/collections/akustika-yandex
+2024-07-23 17:35:57,029 - INFO - Обработано 44 из 396 страниц.
+2024-07-23 17:35:57,029 - INFO - Обрабатываем страницу: https://brostore.uz/collections/akustika-sony
+2024-07-23 17:36:03,112 - INFO - Обработано 45 из 396 страниц.
+2024-07-23 17:36:03,112 - INFO - Обрабатываем страницу: https://brostore.uz/collections/akustika-anker
+2024-07-23 17:36:09,139 - INFO - Обработано 46 из 396 страниц.
+2024-07-23 17:36:09,139 - INFO - Обрабатываем страницу: https://brostore.uz/collections/pristavki-apple-tv
+2024-07-23 17:36:15,053 - INFO - Обработано 47 из 396 страниц.
+2024-07-23 17:36:15,053 - INFO - Обрабатываем страницу: https://brostore.uz/collections/umnye-kolonki-apple
+2024-07-23 17:36:21,180 - INFO - Обработано 48 из 396 страниц.
+2024-07-23 17:36:21,180 - INFO - Обрабатываем страницу: https://brostore.uz/collections/klaviatury-apple
+2024-07-23 17:36:27,433 - INFO - Обработано 49 из 396 страниц.
+2024-07-23 17:36:27,433 - INFO - Обрабатываем страницу: https://brostore.uz/collections/pleery-apple
+2024-07-23 17:36:33,315 - INFO - Обработано 50 из 396 страниц.
+2024-07-23 17:36:33,316 - INFO - Обрабатываем страницу: https://brostore.uz/collections/stilusy-apple
+2024-07-23 17:36:39,302 - INFO - Обработано 51 из 396 страниц.
+2024-07-23 17:36:39,302 - INFO - Обрабатываем страницу: https://brostore.uz/collections/besprovodnye-myshi-apple
+2024-07-23 17:36:45,238 - INFO - Обработано 52 из 396 страниц.
+2024-07-23 17:36:45,238 - INFO - Обрабатываем страницу: https://brostore.uz/collections/koshelki-apple
+2024-07-23 17:36:51,195 - INFO - Обработано 53 из 396 страниц.
+2024-07-23 17:36:51,195 - INFO - Обрабатываем страницу: https://brostore.uz/collections/opticheskie-privody-apple
+2024-07-23 17:36:57,049 - INFO - Обработано 54 из 396 страниц.
+2024-07-23 17:36:57,049 - INFO - Обрабатываем страницу: https://brostore.uz/collections/zaryadnye-ustrojstva-apple
+2024-07-23 17:37:03,139 - INFO - Обработано 55 из 396 страниц.
+2024-07-23 17:37:03,139 - INFO - Обрабатываем страницу: https://brostore.uz/collections/trekpady-apple
+2024-07-23 17:37:09,115 - INFO - Обработано 56 из 396 страниц.
+2024-07-23 17:37:09,115 - INFO - Обрабатываем страницу: https://brostore.uz/collections/klaviatury-samsung
+2024-07-23 17:37:15,226 - INFO - Обработано 57 из 396 страниц.
+2024-07-23 17:37:15,226 - INFO - Обрабатываем страницу: https://brostore.uz/collections/zaryadnye-ustrojstva
+2024-07-23 17:37:21,838 - INFO - Обработано 58 из 396 страниц.
+2024-07-23 17:37:21,838 - INFO - Обрабатываем страницу: https://brostore.uz/collections/chekhly
+2024-07-23 17:37:28,313 - INFO - Обработано 59 из 396 страниц.
+2024-07-23 17:37:28,313 - INFO - Обрабатываем страницу: https://brostore.uz/collections/remeshki-watch
+2024-07-23 17:37:34,844 - INFO - Обработано 60 из 396 страниц.
+2024-07-23 17:37:34,845 - INFO - Обрабатываем страницу: https://brostore.uz/collections/aksessuary-golden-concept
+2024-07-23 17:37:41,448 - INFO - Обработано 61 из 396 страниц.
+2024-07-23 17:37:41,449 - INFO - Обрабатываем страницу: https://brostore.uz/collections/aksessuary-pitaka
+2024-07-23 17:37:47,749 - INFO - Обработано 62 из 396 страниц.
+2024-07-23 17:37:47,749 - INFO - Обрабатываем страницу: https://brostore.uz/collections/aksessuary-saramonic
+2024-07-23 17:37:53,907 - INFO - Обработано 63 из 396 страниц.
+2024-07-23 17:37:53,907 - INFO - Обрабатываем страницу: https://brostore.uz/collections/aksessuary-y24
+2024-07-23 17:38:00,206 - INFO - Обработано 64 из 396 страниц.
+2024-07-23 17:38:00,206 - INFO - Обрабатываем страницу: https://brostore.uz/collections/aksessuary-bose
+2024-07-23 17:38:06,187 - INFO - Обработано 65 из 396 страниц.
+2024-07-23 17:38:06,187 - INFO - Обрабатываем страницу: https://brostore.uz/collections/aksessuary-anker
+2024-07-23 17:38:12,239 - INFO - Обработано 66 из 396 страниц.
+2024-07-23 17:38:12,240 - INFO - Обрабатываем страницу: https://brostore.uz/collections/igrovye-pristavki
+2024-07-23 17:38:18,206 - INFO - Обработано 67 из 396 страниц.
+2024-07-23 17:38:18,206 - INFO - Обрабатываем страницу: https://brostore.uz/collections/ochki-virtualnoj-realnosti
+2024-07-23 17:38:24,211 - INFO - Обработано 68 из 396 страниц.
+2024-07-23 17:38:24,212 - INFO - Обрабатываем страницу: https://brostore.uz/collections/dyson
+2024-07-23 17:38:30,244 - INFO - Обработано 69 из 396 страниц.
+2024-07-23 17:38:30,244 - INFO - Обрабатываем страницу: https://brostore.uz/collections/roborock
+2024-07-23 17:38:36,238 - INFO - Обработано 70 из 396 страниц.
+2024-07-23 17:38:36,238 - INFO - Обрабатываем страницу: https://brostore.uz/collections/uvlazhniteli-i-ochistiteli-vozduha
+2024-07-23 17:38:42,290 - INFO - Обработано 71 из 396 страниц.
+2024-07-23 17:38:42,290 - INFO - Обрабатываем страницу: https://brostore.uz/collections/knopochnye-telefony-samsung
+2024-07-23 17:38:48,269 - INFO - Обработано 72 из 396 страниц.
+2024-07-23 17:38:48,270 - INFO - Обрабатываем страницу: https://brostore.uz/collections/smartfony-apple-bu
+2024-07-23 17:38:54,328 - INFO - Обработано 73 из 396 страниц.
+2024-07-23 17:38:54,328 - INFO - Обрабатываем страницу: https://brostore.uz/collections/noutbuki-apple-bu
+2024-07-23 17:39:00,432 - INFO - Обработано 74 из 396 страниц.
+2024-07-23 17:39:00,432 - INFO - Обрабатываем страницу: https://brostore.uz/collections/umnye-chasy-apple-watch-bu
+2024-07-23 17:39:06,490 - INFO - Обработано 75 из 396 страниц.
+2024-07-23 17:39:06,490 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki-imac-bu
+2024-07-23 17:39:13,178 - INFO - Обработано 76 из 396 страниц.
+2024-07-23 17:39:13,178 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple-bu
+2024-07-23 17:39:21,068 - INFO - Обработано 77 из 396 страниц.
+2024-07-23 17:39:21,068 - INFO - Обрабатываем страницу: https://brostore.uz/collections/nastolnye-kompyutery-apple-bu
+2024-07-23 17:39:27,536 - INFO - Обработано 78 из 396 страниц.
+2024-07-23 17:39:27,536 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monitory-apple-bu
+2024-07-23 17:39:34,253 - INFO - Обработано 79 из 396 страниц.
+2024-07-23 17:39:34,253 - INFO - Обрабатываем страницу: https://brostore.uz/pages/broservice
+2024-07-23 17:39:40,099 - INFO - Обработано 80 из 396 страниц.
+2024-07-23 17:39:40,099 - INFO - Обрабатываем страницу: https://brostore.uz/blogs/news
+2024-07-23 17:39:46,886 - INFO - Обработано 81 из 396 страниц.
+2024-07-23 17:39:46,887 - INFO - Обрабатываем страницу: https://brostore.uz/account/login
+2024-07-23 17:39:52,867 - INFO - Обработано 82 из 396 страниц.
+2024-07-23 17:39:52,867 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki
+2024-07-23 17:39:59,108 - INFO - Обработано 83 из 396 страниц.
+2024-07-23 17:39:59,108 - INFO - Обрабатываем страницу: https://brostore.uz/collections/noutbuki
+2024-07-23 17:40:05,486 - INFO - Обработано 84 из 396 страниц.
+2024-07-23 17:40:05,486 - INFO - Обрабатываем страницу: https://brostore.uz/collections/noutbuki-apple
+2024-07-23 17:40:11,689 - INFO - Обработано 85 из 396 страниц.
+2024-07-23 17:40:11,689 - INFO - Обрабатываем страницу: https://brostore.uz/collections/smartfony
+2024-07-23 17:40:18,715 - INFO - Обработано 86 из 396 страниц.
+2024-07-23 17:40:18,715 - INFO - Обрабатываем страницу: https://brostore.uz/collections/smartfony-apple
+2024-07-23 17:40:25,308 - INFO - Обработано 87 из 396 страниц.
+2024-07-23 17:40:25,308 - INFO - Обрабатываем страницу: https://brostore.uz/collections/smartfony-samsung
+2024-07-23 17:40:31,589 - INFO - Обработано 88 из 396 страниц.
+2024-07-23 17:40:31,589 - INFO - Обрабатываем страницу: https://brostore.uz/collections/smartfony-vertu
+2024-07-23 17:40:37,852 - INFO - Обработано 89 из 396 страниц.
+2024-07-23 17:40:37,852 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety
+2024-07-23 17:40:44,079 - INFO - Обработано 90 из 396 страниц.
+2024-07-23 17:40:44,079 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple
+2024-07-23 17:40:50,256 - INFO - Обработано 91 из 396 страниц.
+2024-07-23 17:40:50,256 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-samsung
+2024-07-23 17:40:56,325 - INFO - Обработано 92 из 396 страниц.
+2024-07-23 17:40:56,326 - INFO - Обрабатываем страницу: https://brostore.uz/collections/nastolnye-kompyutery
+2024-07-23 17:41:02,715 - INFO - Обработано 93 из 396 страниц.
+2024-07-23 17:41:02,715 - INFO - Обрабатываем страницу: https://brostore.uz/collections/umnye-chasy
+2024-07-23 17:41:09,043 - INFO - Обработано 94 из 396 страниц.
+2024-07-23 17:41:09,043 - INFO - Обрабатываем страницу: https://brostore.uz/collections/apple-watch
+2024-07-23 17:41:15,259 - INFO - Обработано 95 из 396 страниц.
+2024-07-23 17:41:15,259 - INFO - Обрабатываем страницу: https://brostore.uz/collections/naushniki
+2024-07-23 17:41:21,632 - INFO - Обработано 96 из 396 страниц.
+2024-07-23 17:41:21,632 - INFO - Обрабатываем страницу: https://brostore.uz/collections/naushniki-apple
+2024-07-23 17:41:27,838 - INFO - Обработано 97 из 396 страниц.
+2024-07-23 17:41:27,838 - INFO - Обрабатываем страницу: https://brostore.uz/collections/akustika/yand
+2024-07-23 17:41:34,733 - INFO - Обработано 98 из 396 страниц.
+2024-07-23 17:41:34,733 - INFO - Обрабатываем страницу: https://brostore.uz/collections/aksessuary
+2024-07-23 17:41:41,021 - INFO - Обработано 99 из 396 страниц.
+2024-07-23 17:41:41,021 - INFO - Обрабатываем страницу: https://brostore.uz/collections/aksessuary-apple
+2024-07-23 17:41:47,212 - INFO - Обработано 100 из 396 страниц.
+2024-07-23 17:41:47,212 - INFO - Обрабатываем страницу: https://brostore.uz/collections/aksessuary-samsung
+2024-07-23 17:41:53,241 - INFO - Обработано 101 из 396 страниц.
+2024-07-23 17:41:53,241 - INFO - Обрабатываем страницу: https://brostore.uz/collections/drugie-tovary
+2024-07-23 17:41:59,726 - INFO - Обработано 102 из 396 страниц.
+2024-07-23 17:41:59,727 - INFO - Обрабатываем страницу: https://brostore.uz/collections/knopochnye-telefony
+2024-07-23 17:42:05,833 - INFO - Обработано 103 из 396 страниц.
+2024-07-23 17:42:05,833 - INFO - Обрабатываем страницу: https://brostore.uz/collections/gadzhety-bu
+2024-07-23 17:42:12,025 - INFO - Обработано 104 из 396 страниц.
+2024-07-23 17:42:12,026 - INFO - Обрабатываем страницу: https://brostore.uz/search
+2024-07-23 17:42:18,004 - INFO - Обработано 105 из 396 страниц.
+2024-07-23 17:42:18,006 - INFO - Обрабатываем страницу: https://brostore.uz/cart
+2024-07-23 17:42:23,990 - INFO - Обработано 106 из 396 страниц.
+2024-07-23 17:42:23,990 - INFO - Обрабатываем страницу: https://brostore.uz/collections/all
+2024-07-23 17:42:30,361 - INFO - Обработано 107 из 396 страниц.
+2024-07-23 17:42:30,362 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki-imac#SideFilters
+2024-07-23 17:42:36,162 - INFO - Обработано 108 из 396 страниц.
+2024-07-23 17:42:36,163 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki-imac/products/monoblok-apple-imac-24-inch-m3
+2024-07-23 17:42:43,098 - INFO - Обработано 109 из 396 страниц.
+2024-07-23 17:42:43,099 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki-imac/products/%D0%BC%D0%BE%D0%BD%D0%BE%D0%B1%D0%BB%D0%BE%D0%BA-apple-imac-24-inch-m3-8-10-24-2tb-blue-russian
+2024-07-23 17:42:49,108 - INFO - Обработано 110 из 396 страниц.
+2024-07-23 17:42:49,108 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki-imac/products/%D0%BC%D0%BE%D0%BD%D0%BE%D0%B1%D0%BB%D0%BE%D0%BA-apple-imac-24-inch-m3-10-16-512gb-silver
+2024-07-23 17:42:55,295 - INFO - Обработано 111 из 396 страниц.
+2024-07-23 17:42:55,295 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki-imac/products/monoblok-apple-imac-24-inch-m3-10-8-256gb
+2024-07-23 17:43:01,589 - INFO - Обработано 112 из 396 страниц.
+2024-07-23 17:43:01,590 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki-imac/products/monoblok-apple-imac-27-inch-intel-i7
+2024-07-23 17:43:07,708 - INFO - Обработано 113 из 396 страниц.
+2024-07-23 17:43:07,708 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki-imac/products/monoblok-apple-imac-27-inch-intel-i5
+2024-07-23 17:43:13,848 - INFO - Обработано 114 из 396 страниц.
+2024-07-23 17:43:13,848 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki-imac/products/monoblok-apple-imac-24-inch
+2024-07-23 17:43:20,045 - INFO - Обработано 115 из 396 страниц.
+2024-07-23 17:43:20,045 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki-imac/products/monoblok-apple-imac-24-inch-m1-7-8-256gb
+2024-07-23 17:43:26,251 - INFO - Обработано 116 из 396 страниц.
+2024-07-23 17:43:26,251 - INFO - Обрабатываем страницу: https://brostore.uz/pages/o-nas
+2024-07-23 17:43:32,177 - INFO - Обработано 117 из 396 страниц.
+2024-07-23 17:43:32,178 - INFO - Обрабатываем страницу: https://brostore.uz/pages/adresa-magazinov
+2024-07-23 17:43:38,482 - INFO - Обработано 118 из 396 страниц.
+2024-07-23 17:43:38,485 - INFO - Обрабатываем страницу: https://brostore.uz/pages/dostavka
+2024-07-23 17:43:44,783 - INFO - Обработано 119 из 396 страниц.
+2024-07-23 17:43:44,783 - INFO - Обрабатываем страницу: https://brostore.uz/pages/contact
+2024-07-23 17:43:50,914 - INFO - Обработано 120 из 396 страниц.
+2024-07-23 17:43:50,915 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-15-pro
+2024-07-23 17:44:20,787 - INFO - Обработано 121 из 396 страниц.
+2024-07-23 17:44:20,788 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki-imac/products/iphone-15-pro-max
+2024-07-23 17:44:40,659 - INFO - Обработано 122 из 396 страниц.
+2024-07-23 17:44:40,661 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki-imac/products/iphone-15-pro
+2024-07-23 17:44:46,668 - INFO - Обработано 123 из 396 страниц.
+2024-07-23 17:44:46,668 - INFO - Обрабатываем страницу: https://brostore.uz/collections/monobloki-imac/products/iphone-15-plus
+2024-07-23 17:45:56,886 - INFO - Обработано 124 из 396 страниц.
+2024-07-23 17:45:56,886 - INFO - Обрабатываем страницу: https://brostore.uz/collections/ipad-series
+2024-07-23 17:46:04,088 - INFO - Обработано 125 из 396 страниц.
+2024-07-23 17:46:04,088 - INFO - Обрабатываем страницу: https://brostore.uz/collections/ipad-series#main-content
+2024-07-23 17:46:11,043 - INFO - Обработано 126 из 396 страниц.
+2024-07-23 17:46:11,044 - INFO - Обрабатываем страницу: https://brostore.uz/collections/ipad-series#SideFilters
+2024-07-23 17:46:17,531 - INFO - Обработано 127 из 396 страниц.
+2024-07-23 17:46:17,531 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/%D0%BF%D0%BB%D0%B0%D0%BD%D1%88%D0%B5%D1%82-apple-ipad-pro-13-inch-m4
+2024-07-23 17:46:32,535 - INFO - Обработано 128 из 396 страниц.
+2024-07-23 17:46:32,535 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/%D0%BF%D0%BB%D0%B0%D0%BD%D1%88%D0%B5%D1%82-apple-ipad-pro-11-inch-m4
+2024-07-23 17:46:49,738 - INFO - Обработано 129 из 396 страниц.
+2024-07-23 17:46:49,738 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/%D0%BF%D0%BB%D0%B0%D0%BD%D1%88%D0%B5%D1%82-apple-ipad-air-13-inch-m2
+2024-07-23 17:47:09,292 - INFO - Обработано 130 из 396 страниц.
+2024-07-23 17:47:09,292 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-pro-12-9-inch-m2
+2024-07-23 17:50:24,760 - INFO - Обработано 131 из 396 страниц.
+2024-07-23 17:50:24,760 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-pro-11-inch-m2
+2024-07-23 17:50:30,861 - INFO - Обработано 132 из 396 страниц.
+2024-07-23 17:50:30,861 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-10th-gen
+2024-07-23 17:50:37,158 - INFO - Обработано 133 из 396 страниц.
+2024-07-23 17:50:37,158 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-air-5th-gen-m1
+2024-07-23 17:50:43,802 - INFO - Обработано 134 из 396 страниц.
+2024-07-23 17:50:43,802 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-mini-6
+2024-07-23 17:50:50,207 - INFO - Обработано 135 из 396 страниц.
+2024-07-23 17:50:50,207 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-pro-11-inch-m1-1
+2024-07-23 17:50:56,589 - INFO - Обработано 136 из 396 страниц.
+2024-07-23 17:50:56,589 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-pro-11-2nd-gen-1
+2024-07-23 17:51:02,993 - INFO - Обработано 137 из 396 страниц.
+2024-07-23 17:51:02,994 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-air-4
+2024-07-23 17:51:08,920 - INFO - Обработано 138 из 396 страниц.
+2024-07-23 17:51:08,920 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/planshet-apple-ipad-9
+2024-07-23 17:51:14,891 - INFO - Обработано 139 из 396 страниц.
+2024-07-23 17:51:14,891 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/%D0%BF%D0%BB%D0%B0%D0%BD%D1%88%D0%B5%D1%82-apple-ipad-pro-12-9-inch-1st-gen
+2024-07-23 17:51:21,033 - INFO - Обработано 140 из 396 страниц.
+2024-07-23 17:51:21,033 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/%D0%BF%D0%BB%D0%B0%D0%BD%D1%88%D0%B5%D1%82-apple-ipad-pro-10-5-inch
+2024-07-23 17:51:27,098 - INFO - Обработано 141 из 396 страниц.
+2024-07-23 17:51:27,098 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/iphone-15-pro-max
+2024-07-23 17:51:33,493 - INFO - Обработано 142 из 396 страниц.
+2024-07-23 17:51:33,493 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/iphone-15-pro
+2024-07-23 17:51:40,045 - INFO - Обработано 143 из 396 страниц.
+2024-07-23 17:51:40,046 - INFO - Обрабатываем страницу: https://brostore.uz/collections/planshety-apple/products/iphone-15-plus
+2024-07-23 17:51:46,773 - INFO - Обработано 144 из 396 страниц.
+2024-07-23 17:51:46,773 - INFO - Обрабатываем страницу: https://brostore.uz/collections/noutbuki/products/%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-apple-macbook-air-13-inch-m3
+2024-07-23 17:51:53,072 - INFO - Обработано 145 из 396 страниц.
+2024-07-23 17:51:53,072 - INFO - Обрабатываем страницу: https://brostore.uz/collections/noutbuki/products/%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-apple-macbook-air-13-inch-m3#main-content
+2024-07-23 17:51:58,130 - INFO - Обработано 146 из 396 страниц.
+2024-07-23 17:51:58,131 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/4_bb2d57c8-5a0b-459d-aba8-e6ee869c21f1.png?v=1712041927
+2024-07-23 17:52:03,261 - INFO - Обработано 147 из 396 страниц.
+2024-07-23 17:52:03,261 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/5_d2bede80-958a-4d56-9f59-c0e601515b22.png?v=1712041927
+2024-07-23 17:52:08,388 - INFO - Обработано 148 из 396 страниц.
+2024-07-23 17:52:08,388 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/9_fa4c5d6e-e5a8-461c-a1dc-088910833d80.png?v=1712041927
+2024-07-23 17:52:13,507 - INFO - Обработано 149 из 396 страниц.
+2024-07-23 17:52:13,507 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/13_72a0e04b-9354-4ced-8e29-9040f4325560.png?v=1712041927
+2024-07-23 17:52:18,646 - INFO - Обработано 150 из 396 страниц.
+2024-07-23 17:52:18,646 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/25_ef8918fc-7671-4ecf-8d95-6eee365878d5.png?v=1712041927
+2024-07-23 17:52:23,766 - INFO - Обработано 151 из 396 страниц.
+2024-07-23 17:52:23,766 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_37a9c18f-d076-4a28-b431-fe9e9bfaad65.png?v=1712041948
+2024-07-23 17:52:28,907 - INFO - Обработано 152 из 396 страниц.
+2024-07-23 17:52:28,908 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/8_4fb85f5e-371a-48a3-acf0-7ed790618e67.png?v=1712041949
+2024-07-23 17:52:34,027 - INFO - Обработано 153 из 396 страниц.
+2024-07-23 17:52:34,027 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/12_97d4d0c0-9670-4f45-8d4f-4d5e79d735db.png?v=1712041949
+2024-07-23 17:52:39,158 - INFO - Обработано 154 из 396 страниц.
+2024-07-23 17:52:39,158 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/22_3bef64be-62ad-4ea0-8d31-3130567e3740.png?v=1712041949
+2024-07-23 17:52:44,300 - INFO - Обработано 155 из 396 страниц.
+2024-07-23 17:52:44,300 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/24_c82fd202-1ad5-4038-82b7-169c527187af.png?v=1712041949
+2024-07-23 17:52:49,430 - INFO - Обработано 156 из 396 страниц.
+2024-07-23 17:52:49,431 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_218d1ae2-268a-48e9-a093-be594b726237.png?v=1712041978
+2024-07-23 17:52:54,566 - INFO - Обработано 157 из 396 страниц.
+2024-07-23 17:52:54,566 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/7_d04d9314-edfc-47e2-a75d-ca776f9395e8.png?v=1712041978
+2024-07-23 17:52:59,710 - INFO - Обработано 158 из 396 страниц.
+2024-07-23 17:52:59,711 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/11_16f597ba-c71e-47b3-8c32-0d14b3da92a1.png?v=1712041978
+2024-07-23 17:53:04,874 - INFO - Обработано 159 из 396 страниц.
+2024-07-23 17:53:04,874 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/21_a32075ee-67fc-4252-9ced-c8e5ee3fb4f4.png?v=1712041977
+2024-07-23 17:53:10,007 - INFO - Обработано 160 из 396 страниц.
+2024-07-23 17:53:10,007 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/23_884b54b5-ad87-401e-8123-b8b849451f05.png?v=1712042057
+2024-07-23 17:53:15,132 - INFO - Обработано 161 из 396 страниц.
+2024-07-23 17:53:15,132 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_9f6c9e3b-f3ad-460f-9b9c-d820c8f6abc5.png?v=1712042057
+2024-07-23 17:53:20,289 - INFO - Обработано 162 из 396 страниц.
+2024-07-23 17:53:20,290 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/6_8ff80e88-0006-4d55-a977-fc519a09330f.png?v=1712042057
+2024-07-23 17:53:25,415 - INFO - Обработано 163 из 396 страниц.
+2024-07-23 17:53:25,416 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/10_0f46085c-7112-4a32-bb23-a8f642b6f682.png?v=1712042057
+2024-07-23 17:53:30,590 - INFO - Обработано 164 из 396 страниц.
+2024-07-23 17:53:30,590 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/14_86caabeb-365f-4251-be5c-c9082096339a.png?v=1712042057
+2024-07-23 17:53:35,740 - INFO - Обработано 165 из 396 страниц.
+2024-07-23 17:53:35,740 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/26_ce9c3f9a-565d-4614-9bb7-7853b0aa1dc0.png?v=1712042057
+2024-07-23 17:53:40,867 - INFO - Обработано 166 из 396 страниц.
+2024-07-23 17:53:40,868 - INFO - Обрабатываем страницу: https://brostore.uz/collections/vendors?q=Apple
+2024-07-23 17:53:47,592 - INFO - Обработано 167 из 396 страниц.
+2024-07-23 17:53:47,593 - INFO - Обрабатываем страницу: https://brostore.uz/collections/noutbuki/products/iphone-15-pro-max
+2024-07-23 17:53:54,024 - INFO - Обработано 168 из 396 страниц.
+2024-07-23 17:53:54,024 - INFO - Обрабатываем страницу: https://brostore.uz/collections/noutbuki/products/iphone-15-pro
+2024-07-23 17:54:00,494 - INFO - Обработано 169 из 396 страниц.
+2024-07-23 17:54:00,494 - INFO - Обрабатываем страницу: https://brostore.uz/collections/noutbuki/products/iphone-15-plus
+2024-07-23 17:54:07,283 - INFO - Обработано 170 из 396 страниц.
+2024-07-23 17:54:07,283 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-15-pro-max
+2024-07-23 17:54:13,084 - INFO - Обработано 171 из 396 страниц.
+2024-07-23 17:54:13,084 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-15-pro-max#main-content
+2024-07-23 17:54:18,155 - INFO - Обработано 172 из 396 страниц.
+2024-07-23 17:54:18,155 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_da22d22e-6c4d-469e-8106-cf061096fd01.png?v=1700566370
+2024-07-23 17:54:23,390 - INFO - Обработано 173 из 396 страниц.
+2024-07-23 17:54:23,390 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/5_558fbb11-1a32-459c-8602-1e6f84506b6a.png?v=1700566370
+2024-07-23 17:54:28,528 - INFO - Обработано 174 из 396 страниц.
+2024-07-23 17:54:28,528 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/9_279035b4-b17c-406f-a909-c1e7dba38c1c.png?v=1700566370
+2024-07-23 17:54:33,668 - INFO - Обработано 175 из 396 страниц.
+2024-07-23 17:54:33,669 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/13_a19b3510-2f47-4886-819d-32c3534f0469.png?v=1710766021
+2024-07-23 17:54:38,808 - INFO - Обработано 176 из 396 страниц.
+2024-07-23 17:54:38,809 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_e94252bf-8cb3-449e-b9de-99fbc7f4774e.png?v=1710766021
+2024-07-23 17:54:43,951 - INFO - Обработано 177 из 396 страниц.
+2024-07-23 17:54:43,951 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/7_f554ce90-70c9-4e3f-bd23-2ed500c45313.png?v=1710766021
+2024-07-23 17:54:49,080 - INFO - Обработано 178 из 396 страниц.
+2024-07-23 17:54:49,081 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/11_9f35dee6-01c3-46c3-9078-80a7c7a51528.png?v=1710766021
+2024-07-23 17:54:54,196 - INFO - Обработано 179 из 396 страниц.
+2024-07-23 17:54:54,196 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/15_d49eece8-4b51-4266-85bb-0efc92d0d347.png?v=1710766021
+2024-07-23 17:54:59,332 - INFO - Обработано 180 из 396 страниц.
+2024-07-23 17:54:59,333 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_3a40da33-ac67-425e-9147-76ec5c28799e.png?v=1710765984
+2024-07-23 17:55:04,489 - INFO - Обработано 181 из 396 страниц.
+2024-07-23 17:55:04,490 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/6_839ad5a1-70eb-4912-ac29-6d63459465fd.png?v=1710765984
+2024-07-23 17:55:09,623 - INFO - Обработано 182 из 396 страниц.
+2024-07-23 17:55:09,623 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/10_690c65de-84ec-44bc-86bf-ebc9108f8f19.png?v=1710765984
+2024-07-23 17:55:14,748 - INFO - Обработано 183 из 396 страниц.
+2024-07-23 17:55:14,748 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/14_86f1ecd2-2681-452b-ab06-bc21b45afd93.png?v=1710765984
+2024-07-23 17:55:19,873 - INFO - Обработано 184 из 396 страниц.
+2024-07-23 17:55:19,873 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/4_c1768aed-ebab-4011-af4d-84b7718844f6.png?v=1700566370
+2024-07-23 17:55:25,502 - INFO - Обработано 185 из 396 страниц.
+2024-07-23 17:55:25,502 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/8_b0e506ba-ef7a-46de-aff9-baacb0e9a481.png?v=1700566370
+2024-07-23 17:55:31,860 - INFO - Обработано 186 из 396 страниц.
+2024-07-23 17:55:31,861 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/12_df756b34-6e2b-4113-b5b9-0ba0b4327981.png?v=1700566370
+2024-07-23 17:55:37,080 - INFO - Обработано 187 из 396 страниц.
+2024-07-23 17:55:37,080 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/16_79a86676-48ca-4ea8-b19c-880a8bd3c18e.png?v=1700566370
+2024-07-23 17:55:42,376 - INFO - Обработано 188 из 396 страниц.
+2024-07-23 17:55:42,377 - INFO - Обрабатываем страницу: https://brostore.uz/collections/iphone
+2024-07-23 17:55:49,061 - INFO - Обработано 189 из 396 страниц.
+2024-07-23 17:55:49,061 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-15-plus
+2024-07-23 17:55:54,809 - INFO - Обработано 190 из 396 страниц.
+2024-07-23 17:55:54,809 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-15
+2024-07-23 17:56:01,104 - INFO - Обработано 191 из 396 страниц.
+2024-07-23 17:56:01,104 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-15#main-content
+2024-07-23 17:56:06,166 - INFO - Обработано 192 из 396 страниц.
+2024-07-23 17:56:06,166 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/5_9d2a3f64-88a3-4440-86d9-7fc9b426d2da.png?v=1698328733
+2024-07-23 17:56:11,318 - INFO - Обработано 193 из 396 страниц.
+2024-07-23 17:56:11,318 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/8_f9b2feef-7f0f-4844-bcb6-b91ac9ecf4b7.png?v=1698328740
+2024-07-23 17:56:16,446 - INFO - Обработано 194 из 396 страниц.
+2024-07-23 17:56:16,446 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/15_52c0d127-a3a7-4884-8e65-b7064c739d72.png?v=1698328745
+2024-07-23 17:56:21,574 - INFO - Обработано 195 из 396 страниц.
+2024-07-23 17:56:21,574 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/4_af812949-96be-4d41-9a2d-d305cb1a55b4.png?v=1698328758
+2024-07-23 17:56:26,711 - INFO - Обработано 196 из 396 страниц.
+2024-07-23 17:56:26,711 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/10_986c7f9a-75b8-4baf-8c2f-2fb209bb5738.png?v=1698328767
+2024-07-23 17:56:31,864 - INFO - Обработано 197 из 396 страниц.
+2024-07-23 17:56:31,865 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/12_237704db-80d0-49a3-91c7-77f8a61b4931.png?v=1698328772
+2024-07-23 17:56:37,203 - INFO - Обработано 198 из 396 страниц.
+2024-07-23 17:56:37,203 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_f401dd75-8293-4ab8-806a-40fe99bc7853.png?v=1698328781
+2024-07-23 17:56:42,403 - INFO - Обработано 199 из 396 страниц.
+2024-07-23 17:56:42,403 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/9_0ae84325-0b0e-411a-b077-70752f36b53e.png?v=1698328788
+2024-07-23 17:56:47,533 - INFO - Обработано 200 из 396 страниц.
+2024-07-23 17:56:47,533 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/14_aa1a1149-a945-4f53-afb3-dc03d570d715.png?v=1698328793
+2024-07-23 17:56:52,663 - INFO - Обработано 201 из 396 страниц.
+2024-07-23 17:56:52,664 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_8075925c-8b97-409b-9490-eb09a1ce5eb1.png?v=1698328806
+2024-07-23 17:56:57,875 - INFO - Обработано 202 из 396 страниц.
+2024-07-23 17:56:57,875 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/6_b78818bc-7cd4-483b-94e4-1e316a5f90c3.png?v=1698328812
+2024-07-23 17:57:03,014 - INFO - Обработано 203 из 396 страниц.
+2024-07-23 17:57:03,014 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/11_f0959016-0baa-49f5-a4ba-21063a968fdf.png?v=1698328821
+2024-07-23 17:57:08,141 - INFO - Обработано 204 из 396 страниц.
+2024-07-23 17:57:08,141 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_0e651548-671a-443e-8ec5-db30e0cc11c0.png?v=1698328836
+2024-07-23 17:57:13,300 - INFO - Обработано 205 из 396 страниц.
+2024-07-23 17:57:13,300 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/7_de9f08ab-76e6-488f-829b-a11030748c03.png?v=1698328842
+2024-07-23 17:57:18,427 - INFO - Обработано 206 из 396 страниц.
+2024-07-23 17:57:18,427 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/13_8b61c246-174e-4cdb-a997-2eea6988e7a3.png?v=1698328847
+2024-07-23 17:57:23,561 - INFO - Обработано 207 из 396 страниц.
+2024-07-23 17:57:23,561 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-14-pro-max
+2024-07-23 17:57:54,092 - INFO - Обработано 208 из 396 страниц.
+2024-07-23 17:57:54,092 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-14-pro-max#main-content
+2024-07-23 17:57:59,161 - INFO - Обработано 209 из 396 страниц.
+2024-07-23 17:57:59,161 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_6691f632-cb01-4c54-8efc-92bbd1cf0218.png?v=1700144680
+2024-07-23 17:58:04,493 - INFO - Обработано 210 из 396 страниц.
+2024-07-23 17:58:04,493 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/8_fbbb5af9-a6fe-4ca7-b673-9b3c6614f4d8.png?v=1700144680
+2024-07-23 17:58:09,612 - INFO - Обработано 211 из 396 страниц.
+2024-07-23 17:58:09,612 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/14_2b4436b8-24aa-4f63-97b1-dd2bab4b80f2.png?v=1700144680
+2024-07-23 17:58:14,911 - INFO - Обработано 212 из 396 страниц.
+2024-07-23 17:58:14,911 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/9_6e8fb4eb-f21f-481e-8727-3a4371aab433.png?v=1700144680
+2024-07-23 17:58:20,114 - INFO - Обработано 213 из 396 страниц.
+2024-07-23 17:58:20,114 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_5441e97e-a91a-46eb-927b-8624e0186c2e.png?v=1700144680
+2024-07-23 17:58:25,318 - INFO - Обработано 214 из 396 страниц.
+2024-07-23 17:58:25,319 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/7_9ff36469-dd79-49d9-941e-e88bcfef9bdd.png?v=1700144680
+2024-07-23 17:58:30,449 - INFO - Обработано 215 из 396 страниц.
+2024-07-23 17:58:30,449 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/16_bebd4c6f-4430-4526-908d-2e2958657c13.png?v=1700144680
+2024-07-23 17:58:35,664 - INFO - Обработано 216 из 396 страниц.
+2024-07-23 17:58:35,665 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/12_3fbe86f4-7ea2-42e6-843c-8eb62dfaac5b.png?v=1700144680
+2024-07-23 17:58:40,860 - INFO - Обработано 217 из 396 страниц.
+2024-07-23 17:58:40,860 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/4_5a84e4b4-d0b5-49d2-b264-faa9307ef34b.png?v=1700144680
+2024-07-23 17:58:46,066 - INFO - Обработано 218 из 396 страниц.
+2024-07-23 17:58:46,067 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/5_339e01a1-8f9d-40aa-8142-595c2d5b9e2f.png?v=1700144680
+2024-07-23 17:58:51,198 - INFO - Обработано 219 из 396 страниц.
+2024-07-23 17:58:51,198 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/13_6b6d0dc0-9c26-4519-8cd7-7711e23fa0e8.png?v=1700144680
+2024-07-23 17:58:56,432 - INFO - Обработано 220 из 396 страниц.
+2024-07-23 17:58:56,433 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/10_e44eeeba-c3dc-4257-89ae-84257296c6a7.png?v=1700144680
+2024-07-23 17:59:01,641 - INFO - Обработано 221 из 396 страниц.
+2024-07-23 17:59:01,641 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_b17d7997-0acc-4345-8b81-ee27ea09a6fd.png?v=1700144680
+2024-07-23 17:59:06,871 - INFO - Обработано 222 из 396 страниц.
+2024-07-23 17:59:06,871 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/6_f2f18dcb-c107-4f50-a2f9-5bf07a3810ce.png?v=1700144680
+2024-07-23 17:59:12,011 - INFO - Обработано 223 из 396 страниц.
+2024-07-23 17:59:12,011 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/15_16dea6c5-665e-4174-912a-3ebacf72b2c9.png?v=1700144680
+2024-07-23 17:59:17,210 - INFO - Обработано 224 из 396 страниц.
+2024-07-23 17:59:17,211 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/11_5148f501-a765-434c-8139-4c6edad1b06c.png?v=1700144680
+2024-07-23 17:59:22,432 - INFO - Обработано 225 из 396 страниц.
+2024-07-23 17:59:22,432 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-14-pro
+2024-07-23 17:59:49,271 - INFO - Обработано 226 из 396 страниц.
+2024-07-23 17:59:49,271 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-14-pro#main-content
+2024-07-23 17:59:54,331 - INFO - Обработано 227 из 396 страниц.
+2024-07-23 17:59:54,331 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_6259489e-a256-497f-b5e4-44d3c161fd56.png?v=1698327539
+2024-07-23 17:59:59,562 - INFO - Обработано 228 из 396 страниц.
+2024-07-23 17:59:59,562 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/8_92c97b37-52d8-4267-bc30-9e90aadc6a59.png?v=1698327552
+2024-07-23 18:00:04,689 - INFO - Обработано 229 из 396 страниц.
+2024-07-23 18:00:04,689 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/14_41efebd3-1c0d-42b8-bc8e-f2749cefd8bb.png?v=1698327576
+2024-07-23 18:00:09,883 - INFO - Обработано 230 из 396 страниц.
+2024-07-23 18:00:09,884 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/9_c48d9d45-f1d6-461f-a8c5-bd75bf9bd654.png?v=1698327593
+2024-07-23 18:00:15,294 - INFO - Обработано 231 из 396 страниц.
+2024-07-23 18:00:15,294 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/4_8c14e150-1218-4c61-ba0e-c6fe9cd0203a.png?v=1698327640
+2024-07-23 18:00:20,521 - INFO - Обработано 232 из 396 страниц.
+2024-07-23 18:00:20,522 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/5_55e0ea00-0cc2-42b3-8bdc-da666ded3a96.png?v=1698327658
+2024-07-23 18:00:25,723 - INFO - Обработано 233 из 396 страниц.
+2024-07-23 18:00:25,724 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/13_1e920eee-810e-42b7-b4be-93a97b5bd823.png?v=1698327667
+2024-07-23 18:00:30,926 - INFO - Обработано 234 из 396 страниц.
+2024-07-23 18:00:30,926 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/10_58f7fd0d-bf04-41e8-b618-ec8b67f1b0b6.png?v=1698327674
+2024-07-23 18:00:36,166 - INFO - Обработано 235 из 396 страниц.
+2024-07-23 18:00:36,167 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_f6f8ba38-efc1-4558-a1db-62937b4aec3f.png?v=1698327738
+2024-07-23 18:00:41,388 - INFO - Обработано 236 из 396 страниц.
+2024-07-23 18:00:41,389 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/6_718af159-3fbf-4bc2-a58b-6792d4f0d05d.png?v=1698327749
+2024-07-23 18:00:46,516 - INFO - Обработано 237 из 396 страниц.
+2024-07-23 18:00:46,517 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/15_23e820db-dcc9-4358-9c54-88dfcfd600c5.png?v=1698327759
+2024-07-23 18:00:51,742 - INFO - Обработано 238 из 396 страниц.
+2024-07-23 18:00:51,742 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/11_72818391-6bca-4082-a8b1-a1b10483c32e.png?v=1698327768
+2024-07-23 18:00:56,945 - INFO - Обработано 239 из 396 страниц.
+2024-07-23 18:00:56,946 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_ab8c32c3-d0f5-42d7-bbde-54ecdac6ac63.png?v=1698327837
+2024-07-23 18:01:02,184 - INFO - Обработано 240 из 396 страниц.
+2024-07-23 18:01:02,184 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/7_af6562d8-f954-4b59-860e-40e293319bac.png?v=1698327845
+2024-07-23 18:01:07,303 - INFO - Обработано 241 из 396 страниц.
+2024-07-23 18:01:07,303 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/16_7ab43b27-b562-4686-8852-019bc7088717.png?v=1698327854
+2024-07-23 18:01:12,501 - INFO - Обработано 242 из 396 страниц.
+2024-07-23 18:01:12,501 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/12_c5979d2b-8c31-43de-9112-71912705c22d.png?v=1698327861
+2024-07-23 18:01:17,776 - INFO - Обработано 243 из 396 страниц.
+2024-07-23 18:01:17,776 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-14-plus
+2024-07-23 18:01:44,483 - INFO - Обработано 244 из 396 страниц.
+2024-07-23 18:01:44,483 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-14-plus#main-content
+2024-07-23 18:01:49,539 - INFO - Обработано 245 из 396 страниц.
+2024-07-23 18:01:49,539 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/5_dee4a11f-6bb5-4763-bbee-74a5cba8153e.png?v=1700145034
+2024-07-23 18:01:54,819 - INFO - Обработано 246 из 396 страниц.
+2024-07-23 18:01:54,819 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/10_755ef810-d0e2-4d33-8735-c73e3af7775c.png?v=1700145034
+2024-07-23 18:01:59,957 - INFO - Обработано 247 из 396 страниц.
+2024-07-23 18:01:59,957 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/17_a79c9ca1-bb73-40a1-9e61-648f6cab937d.png?v=1700145034
+2024-07-23 18:02:05,172 - INFO - Обработано 248 из 396 страниц.
+2024-07-23 18:02:05,172 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/4_bdff2d31-16f8-4cff-b408-1a9fa188bc92.png?v=1700145034
+2024-07-23 18:02:10,389 - INFO - Обработано 249 из 396 страниц.
+2024-07-23 18:02:10,389 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/18_7ef2a835-689f-43b5-a778-d6ff33d5fefa.png?v=1700145034
+2024-07-23 18:02:15,530 - INFO - Обработано 250 из 396 страниц.
+2024-07-23 18:02:15,530 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/12_8579d7b8-8e76-47aa-b223-c9795d9bea9d.png?v=1700145034
+2024-07-23 18:02:20,654 - INFO - Обработано 251 из 396 страниц.
+2024-07-23 18:02:20,654 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_eab01d9f-7498-4ee9-b898-db6f5fa10cdd.png?v=1700145034
+2024-07-23 18:02:26,053 - INFO - Обработано 252 из 396 страниц.
+2024-07-23 18:02:26,053 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/11_6e3ad453-edc9-431c-8329-542a6681b84d.png?v=1700145034
+2024-07-23 18:02:31,313 - INFO - Обработано 253 из 396 страниц.
+2024-07-23 18:02:31,313 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/13_b4e24280-7705-43c9-b1f9-0e9e1eb90d74.png?v=1700145034
+2024-07-23 18:02:36,454 - INFO - Обработано 254 из 396 страниц.
+2024-07-23 18:02:36,454 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_a898fdd3-a77e-419e-bb45-349a8a969634.png?v=1700145034
+2024-07-23 18:02:41,651 - INFO - Обработано 255 из 396 страниц.
+2024-07-23 18:02:41,651 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/9_6d19298d-b64f-400f-90b5-ba64aaef56c8.png?v=1700145034
+2024-07-23 18:02:46,775 - INFO - Обработано 256 из 396 страниц.
+2024-07-23 18:02:46,775 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/16_77656d96-5993-42dc-990b-512c3b2b93db.png?v=1700145034
+2024-07-23 18:02:51,906 - INFO - Обработано 257 из 396 страниц.
+2024-07-23 18:02:51,907 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_9300451c-2c14-49d3-a7e2-ead0f6dc50f7.png?v=1700145034
+2024-07-23 18:02:57,112 - INFO - Обработано 258 из 396 страниц.
+2024-07-23 18:02:57,112 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/8_f7d6b65b-3374-415e-a39b-4b686a4bd4df.png?v=1700145034
+2024-07-23 18:03:02,253 - INFO - Обработано 259 из 396 страниц.
+2024-07-23 18:03:02,254 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/14_8df8ae90-d7e8-4fa3-8703-e376e8cbbfe1.png?v=1700145034
+2024-07-23 18:03:07,392 - INFO - Обработано 260 из 396 страниц.
+2024-07-23 18:03:07,392 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/6_aa8ba3f5-2d54-4f0d-b58d-e3f945407649.png?v=1698326839
+2024-07-23 18:03:12,602 - INFO - Обработано 261 из 396 страниц.
+2024-07-23 18:03:12,602 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/7_cf5dd938-46fe-4387-9b99-64dbdd12dfda.png?v=1698326850
+2024-07-23 18:03:17,761 - INFO - Обработано 262 из 396 страниц.
+2024-07-23 18:03:17,761 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/15_29479563-00c5-428b-a758-0278ad33c2f4.png?v=1698326856
+2024-07-23 18:03:22,880 - INFO - Обработано 263 из 396 страниц.
+2024-07-23 18:03:22,880 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-14
+2024-07-23 18:03:49,553 - INFO - Обработано 264 из 396 страниц.
+2024-07-23 18:03:49,553 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-14#main-content
+2024-07-23 18:03:54,628 - INFO - Обработано 265 из 396 страниц.
+2024-07-23 18:03:54,628 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/6_580b86b4-21c2-425d-8e51-0aa70465fde6.png?v=1712992203
+2024-07-23 18:03:59,767 - INFO - Обработано 266 из 396 страниц.
+2024-07-23 18:03:59,768 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/7_cbb64d7e-2ad4-4430-9a60-59cf46c04c3a.png?v=1712992203
+2024-07-23 18:04:04,907 - INFO - Обработано 267 из 396 страниц.
+2024-07-23 18:04:04,907 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/15_3b7eb4f8-e606-4b1f-be02-4ab205924cc9.png?v=1712992203
+2024-07-23 18:04:10,080 - INFO - Обработано 268 из 396 страниц.
+2024-07-23 18:04:10,080 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/5_60762fb2-1a24-4490-90b9-3ec2dfb4ad18.png?v=1712992203
+2024-07-23 18:04:15,217 - INFO - Обработано 269 из 396 страниц.
+2024-07-23 18:04:15,217 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/10_d014db2f-4bc4-4d15-8b87-d2c0f34521c4.png?v=1712992259
+2024-07-23 18:04:20,364 - INFO - Обработано 270 из 396 страниц.
+2024-07-23 18:04:20,364 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/17_54056ae7-0284-4eb0-be31-031feb3e6c70.png?v=1712992259
+2024-07-23 18:04:25,555 - INFO - Обработано 271 из 396 страниц.
+2024-07-23 18:04:25,555 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/4_459f1ba8-bf51-4efc-920c-979534761e93.png?v=1721310539
+2024-07-23 18:04:30,726 - INFO - Обработано 272 из 396 страниц.
+2024-07-23 18:04:30,726 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/18_f918c11d-245b-4e1e-ba3e-e239c08a93fe.png?v=1721310539
+2024-07-23 18:04:35,868 - INFO - Обработано 273 из 396 страниц.
+2024-07-23 18:04:35,868 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/12_05814836-dd66-42a2-b846-31ddc52dbcf3.png?v=1721310539
+2024-07-23 18:04:40,987 - INFO - Обработано 274 из 396 страниц.
+2024-07-23 18:04:40,987 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_ec44d816-fe19-4340-998e-3eaeaf2a3d4e.png?v=1721310539
+2024-07-23 18:04:46,125 - INFO - Обработано 275 из 396 страниц.
+2024-07-23 18:04:46,126 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/11_ab114763-aad6-4b5e-b630-90974e551bf5.png?v=1721310539
+2024-07-23 18:04:51,253 - INFO - Обработано 276 из 396 страниц.
+2024-07-23 18:04:51,253 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/13_a56d8b61-ce32-4682-a79a-548dccbc441c.png?v=1721310539
+2024-07-23 18:04:56,375 - INFO - Обработано 277 из 396 страниц.
+2024-07-23 18:04:56,375 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_7a8dad79-7420-4adf-8f77-4a5f2517b06e.png?v=1721310383
+2024-07-23 18:05:01,503 - INFO - Обработано 278 из 396 страниц.
+2024-07-23 18:05:01,503 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/9_6f01b9d5-a687-4af1-9d49-e298b0ac01c0.png?v=1721310383
+2024-07-23 18:05:06,623 - INFO - Обработано 279 из 396 страниц.
+2024-07-23 18:05:06,624 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/16_0067e971-1188-4423-b470-3d6824a26504.png?v=1721310383
+2024-07-23 18:05:11,746 - INFO - Обработано 280 из 396 страниц.
+2024-07-23 18:05:11,747 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_699658dd-48a6-4ba6-9f35-c652b9042be1.png?v=1721310383
+2024-07-23 18:05:16,886 - INFO - Обработано 281 из 396 страниц.
+2024-07-23 18:05:16,887 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/8_3885fc02-694f-42bd-b87c-c7cd7245907b.png?v=1721310383
+2024-07-23 18:05:22,029 - INFO - Обработано 282 из 396 страниц.
+2024-07-23 18:05:22,030 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/14_8a810c57-d60f-40b3-b9e0-00dd270352c7.png?v=1721310383
+2024-07-23 18:05:27,178 - INFO - Обработано 283 из 396 страниц.
+2024-07-23 18:05:27,178 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-se-3
+2024-07-23 18:05:53,673 - INFO - Обработано 284 из 396 страниц.
+2024-07-23 18:05:53,674 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-se-3#main-content
+2024-07-23 18:05:58,727 - INFO - Обработано 285 из 396 страниц.
+2024-07-23 18:05:58,727 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_06612b96-4e92-4eea-b1a5-e52bace9d514.png?v=1717500501
+2024-07-23 18:06:03,845 - INFO - Обработано 286 из 396 страниц.
+2024-07-23 18:06:03,845 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/6_5121779c-607b-4616-b83f-f337de2ccaea.png?v=1717500501
+2024-07-23 18:06:08,974 - INFO - Обработано 287 из 396 страниц.
+2024-07-23 18:06:08,975 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/8_3af221ef-bc7e-4658-b026-2315b984231d.png?v=1717500501
+2024-07-23 18:06:14,117 - INFO - Обработано 288 из 396 страниц.
+2024-07-23 18:06:14,117 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_f3a7b717-2e46-4800-b42a-cccfdf132798.png?v=1717500501
+2024-07-23 18:06:19,243 - INFO - Обработано 289 из 396 страниц.
+2024-07-23 18:06:19,243 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/4_07626fc4-ad0f-473c-b6c2-71acfa359884.png?v=1717500501
+2024-07-23 18:06:24,372 - INFO - Обработано 290 из 396 страниц.
+2024-07-23 18:06:24,372 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/7_db7a8e4b-4953-4fdd-8096-b81ce582a8bc.png?v=1717500501
+2024-07-23 18:06:29,502 - INFO - Обработано 291 из 396 страниц.
+2024-07-23 18:06:29,502 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_7835d677-dcd0-483c-b6fe-20798e1c62a2.png?v=1717500501
+2024-07-23 18:06:34,625 - INFO - Обработано 292 из 396 страниц.
+2024-07-23 18:06:34,625 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/5_2979d33d-8bc3-47a2-aa16-d3bfc45a23f7.png?v=1717500501
+2024-07-23 18:06:39,748 - INFO - Обработано 293 из 396 страниц.
+2024-07-23 18:06:39,748 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/9_de483d1a-2fc2-4c98-9ade-4c80fab324b3.png?v=1717500501
+2024-07-23 18:06:44,860 - INFO - Обработано 294 из 396 страниц.
+2024-07-23 18:06:44,860 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-13
+2024-07-23 18:06:51,007 - INFO - Обработано 295 из 396 страниц.
+2024-07-23 18:06:51,007 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-13#main-content
+2024-07-23 18:06:56,053 - INFO - Обработано 296 из 396 страниц.
+2024-07-23 18:06:56,053 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_95f8a17b-629e-4813-8ca2-cac09460b604.png?v=1698323297
+2024-07-23 18:07:01,192 - INFO - Обработано 297 из 396 страниц.
+2024-07-23 18:07:01,193 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/10_a9a57223-f5e5-400a-b4dd-d5f1a6819b48.png?v=1698323307
+2024-07-23 18:07:06,326 - INFO - Обработано 298 из 396 страниц.
+2024-07-23 18:07:06,326 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/6_d3d4bd9e-3427-4bd1-bb4b-67e8c00387a8.png?v=1698323324
+2024-07-23 18:07:11,457 - INFO - Обработано 299 из 396 страниц.
+2024-07-23 18:07:11,458 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/12_6be7c035-a152-4c42-98e7-60a0b4489883.png?v=1698323330
+2024-07-23 18:07:16,609 - INFO - Обработано 300 из 396 страниц.
+2024-07-23 18:07:16,609 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_af46f7a8-8cc2-4895-9318-edfad08dfaf3.png?v=1698323344
+2024-07-23 18:07:21,929 - INFO - Обработано 301 из 396 страниц.
+2024-07-23 18:07:21,929 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/11_30307eef-987c-4490-9d83-6e24ddc61821.png?v=1698323352
+2024-07-23 18:07:27,050 - INFO - Обработано 302 из 396 страниц.
+2024-07-23 18:07:27,050 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/5_63e13445-ba83-4507-b1af-8082cab24aa5.png?v=1698323366
+2024-07-23 18:07:32,353 - INFO - Обработано 303 из 396 страниц.
+2024-07-23 18:07:32,354 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/7_7160c8cf-3fb1-4b5f-a3ac-b5bbc0f15bdf.png?v=1698323383
+2024-07-23 18:07:37,477 - INFO - Обработано 304 из 396 страниц.
+2024-07-23 18:07:37,477 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/4_c9f444cf-5145-467b-aa3d-3c5eccb869cb.png?v=1698323397
+2024-07-23 18:07:42,669 - INFO - Обработано 305 из 396 страниц.
+2024-07-23 18:07:42,670 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/8_7022a85a-3aa7-46ce-a4e2-5c9e5c3d9e11.png?v=1698323406
+2024-07-23 18:07:47,791 - INFO - Обработано 306 из 396 страниц.
+2024-07-23 18:07:47,791 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_3b1f0439-7fbc-47e9-a625-cb639619ad72.png?v=1698323425
+2024-07-23 18:07:52,985 - INFO - Обработано 307 из 396 страниц.
+2024-07-23 18:07:52,985 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/9_8e09d0fa-e2ec-4fe6-97c9-e4aa31e1f3c6.png?v=1698323430
+2024-07-23 18:07:58,257 - INFO - Обработано 308 из 396 страниц.
+2024-07-23 18:07:58,257 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-13-mini
+2024-07-23 18:08:28,736 - INFO - Обработано 309 из 396 страниц.
+2024-07-23 18:08:28,736 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-13-mini#main-content
+2024-07-23 18:08:33,786 - INFO - Обработано 310 из 396 страниц.
+2024-07-23 18:08:33,787 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/4_d8ca121b-b006-44e8-9927-b89e1256d674.png?v=1706598598
+2024-07-23 18:08:39,049 - INFO - Обработано 311 из 396 страниц.
+2024-07-23 18:08:39,049 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/8_f69b3667-1bd0-48c7-a70b-4879c3c82841.png?v=1706598598
+2024-07-23 18:08:44,249 - INFO - Обработано 312 из 396 страниц.
+2024-07-23 18:08:44,250 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_35047e3d-e487-4714-a418-95c2ea496dd1.png?v=1706598598
+2024-07-23 18:08:49,542 - INFO - Обработано 313 из 396 страниц.
+2024-07-23 18:08:49,542 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/10_4fe9322c-3c5f-455e-bf4b-30c3339546c5.png?v=1706598598
+2024-07-23 18:08:54,730 - INFO - Обработано 314 из 396 страниц.
+2024-07-23 18:08:54,730 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_dfee8387-1b99-40a2-9fa6-8077968561eb.png?v=1714464522
+2024-07-23 18:09:00,019 - INFO - Обработано 315 из 396 страниц.
+2024-07-23 18:09:00,019 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/9_68a0958b-9c50-4409-a0b1-96387d367cbb.png?v=1714464522
+2024-07-23 18:09:05,213 - INFO - Обработано 316 из 396 страниц.
+2024-07-23 18:09:05,213 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_3dc9f580-57eb-4854-9672-b495664d7a9b.png?v=1714464522
+2024-07-23 18:09:10,591 - INFO - Обработано 317 из 396 страниц.
+2024-07-23 18:09:10,592 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/11_5e3aa08b-b037-47b1-baa9-abd1dfb37d1a.png?v=1714464522
+2024-07-23 18:09:15,798 - INFO - Обработано 318 из 396 страниц.
+2024-07-23 18:09:15,798 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/6_4775dc4d-8ba0-4729-9dc4-9d929fc6b885.png?v=1714464522
+2024-07-23 18:09:21,079 - INFO - Обработано 319 из 396 страниц.
+2024-07-23 18:09:21,080 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/12_483341f2-5124-48c2-b731-415dae1dbd6c.png?v=1714464522
+2024-07-23 18:09:26,276 - INFO - Обработано 320 из 396 страниц.
+2024-07-23 18:09:26,276 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-12-pro
+2024-07-23 18:09:52,371 - INFO - Обработано 321 из 396 страниц.
+2024-07-23 18:09:52,371 - INFO - Обрабатываем страницу: https://brostore.uz/products/iphone-12-pro#main-content
+2024-07-23 18:09:57,415 - INFO - Обработано 322 из 396 страниц.
+2024-07-23 18:09:57,415 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_06fd3604-a6b8-4788-8cab-c8a483993e3d.png?v=1700144915
+2024-07-23 18:10:02,740 - INFO - Обработано 323 из 396 страниц.
+2024-07-23 18:10:02,740 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/10_5be49751-0ca8-4c17-9320-7761c05519ad.png?v=1700144915
+2024-07-23 18:10:07,933 - INFO - Обработано 324 из 396 страниц.
+2024-07-23 18:10:07,933 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/8_5a64d250-57d1-4410-be4b-365d5a526ad7.png?v=1700144915
+2024-07-23 18:10:13,055 - INFO - Обработано 325 из 396 страниц.
+2024-07-23 18:10:13,055 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/20_0f38c7ab-f93e-48cf-bf67-e70932ca3447.png?v=1700144915
+2024-07-23 18:10:18,177 - INFO - Обработано 326 из 396 страниц.
+2024-07-23 18:10:18,178 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/13_21b57937-42e8-459b-bd19-f6c068fa8dca.png?v=1700144915
+2024-07-23 18:10:23,366 - INFO - Обработано 327 из 396 страниц.
+2024-07-23 18:10:23,366 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_1bd368c1-4701-4836-b178-648935e107de.png?v=1698322294
+2024-07-23 18:10:28,571 - INFO - Обработано 328 из 396 страниц.
+2024-07-23 18:10:28,572 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/11_70776fbd-303c-4857-a709-5c76e8f5a36a.png?v=1698322301
+2024-07-23 18:10:33,689 - INFO - Обработано 329 из 396 страниц.
+2024-07-23 18:10:33,690 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/6_b8f0ebb1-0d64-4f29-96aa-c36e315d711e.png?v=1698322309
+2024-07-23 18:10:38,818 - INFO - Обработано 330 из 396 страниц.
+2024-07-23 18:10:38,818 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/17_727750cc-9212-42a4-b3e1-89920f07dc33.png?v=1698322326
+2024-07-23 18:10:43,945 - INFO - Обработано 331 из 396 страниц.
+2024-07-23 18:10:43,945 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/14_d1618cfd-4aec-4fe5-9d30-bac899b52409.png?v=1698322333
+2024-07-23 18:10:49,133 - INFO - Обработано 332 из 396 страниц.
+2024-07-23 18:10:49,133 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_ffd45e70-a8c1-4a33-9438-64c251321abc.png?v=1698322352
+2024-07-23 18:10:54,256 - INFO - Обработано 333 из 396 страниц.
+2024-07-23 18:10:54,256 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/9_d40fe7ae-741a-46a0-a5f5-c2cfb6c75c79.png?v=1698322519
+2024-07-23 18:10:59,402 - INFO - Обработано 334 из 396 страниц.
+2024-07-23 18:10:59,402 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/5_2d93e53f-ad6b-4418-b9a3-951db7a588ca.png?v=1698322533
+2024-07-23 18:11:04,526 - INFO - Обработано 335 из 396 страниц.
+2024-07-23 18:11:04,526 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/19_da89e3b8-b4dd-488b-94f9-c1654bf1d2d3.png?v=1698322548
+2024-07-23 18:11:09,646 - INFO - Обработано 336 из 396 страниц.
+2024-07-23 18:11:09,647 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/16_1e0f7310-9910-43ac-b9b5-3f63bb8ab592.png?v=1698322555
+2024-07-23 18:11:14,763 - INFO - Обработано 337 из 396 страниц.
+2024-07-23 18:11:14,763 - INFO - Обрабатываем страницу: https://brostore.uz/products/nastolnyj-kompyuter-apple-mac-mini-m2
+2024-07-23 18:11:40,881 - INFO - Обработано 338 из 396 страниц.
+2024-07-23 18:11:40,881 - INFO - Обрабатываем страницу: https://brostore.uz/products/nastolnyj-kompyuter-apple-mac-mini-m2#main-content
+2024-07-23 18:11:45,932 - INFO - Обработано 339 из 396 страниц.
+2024-07-23 18:11:45,932 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_2a28e4fc-c6a7-41c8-a750-26c487f562ae.png?v=1700313276
+2024-07-23 18:11:51,066 - INFO - Обработано 340 из 396 страниц.
+2024-07-23 18:11:51,066 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_16d2e767-304b-488b-9797-c88af77eb34d.png?v=1700313281
+2024-07-23 18:11:56,189 - INFO - Обработано 341 из 396 страниц.
+2024-07-23 18:11:56,190 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_1d062a23-2227-4833-a282-b6a574fbafb8.png?v=1700313286
+2024-07-23 18:12:01,305 - INFO - Обработано 342 из 396 страниц.
+2024-07-23 18:12:01,306 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/4_f9c71093-6bca-4518-9504-90054b8628b1.png?v=1700313290
+2024-07-23 18:12:06,434 - INFO - Обработано 343 из 396 страниц.
+2024-07-23 18:12:06,434 - INFO - Обрабатываем страницу: https://brostore.uz/products/noutbuk-apple-macbook-air-13-inch-m1
+2024-07-23 18:12:32,473 - INFO - Обработано 344 из 396 страниц.
+2024-07-23 18:12:32,473 - INFO - Обрабатываем страницу: https://brostore.uz/products/noutbuk-apple-macbook-air-13-inch-m1#main-content
+2024-07-23 18:12:37,526 - INFO - Обработано 345 из 396 страниц.
+2024-07-23 18:12:37,526 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/7_ce6f2c37-f0b3-4a69-9e80-b00a993fa43f.png?v=1704996220
+2024-07-23 18:12:42,662 - INFO - Обработано 346 из 396 страниц.
+2024-07-23 18:12:42,662 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/4_e2bb0dcd-99f1-4a7e-a128-7584ad5621c4.png?v=1704996220
+2024-07-23 18:12:47,803 - INFO - Обработано 347 из 396 страниц.
+2024-07-23 18:12:47,803 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_c5205a30-3d00-40a7-aeee-856659a39dca.png?v=1704996220
+2024-07-23 18:12:52,969 - INFO - Обработано 348 из 396 страниц.
+2024-07-23 18:12:52,969 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/11_30cac349-3756-4386-8db0-d7968fe5843f.png?v=1704996220
+2024-07-23 18:12:58,087 - INFO - Обработано 349 из 396 страниц.
+2024-07-23 18:12:58,087 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/10_e265f0d3-1321-4e2b-bf63-79b8d0bdb8f9.png?v=1704996220
+2024-07-23 18:13:03,207 - INFO - Обработано 350 из 396 страниц.
+2024-07-23 18:13:03,207 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/8_3b3d9a94-e512-46cf-afda-c072876b77d8.png?v=1704996220
+2024-07-23 18:13:08,327 - INFO - Обработано 351 из 396 страниц.
+2024-07-23 18:13:08,327 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_31de3efd-152b-4b4c-8f31-09100bf50a9b.png?v=1704996220
+2024-07-23 18:13:13,462 - INFO - Обработано 352 из 396 страниц.
+2024-07-23 18:13:13,463 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/12_06aa8892-fdf4-426f-8b0b-89962c179b99.png?v=1704996220
+2024-07-23 18:13:18,571 - INFO - Обработано 353 из 396 страниц.
+2024-07-23 18:13:18,571 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/6_0bf35ddf-43dd-4cf3-b110-8d7a719e36f4.png?v=1704996220
+2024-07-23 18:13:23,887 - INFO - Обработано 354 из 396 страниц.
+2024-07-23 18:13:23,888 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/5_b0ddc077-ed77-4d3b-929e-89868142e351.png?v=1704996220
+2024-07-23 18:13:29,011 - INFO - Обработано 355 из 396 страниц.
+2024-07-23 18:13:29,012 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/9_95c54ee0-292b-49e5-83ae-9c0f8fbd7bba.png?v=1704996220
+2024-07-23 18:13:34,133 - INFO - Обработано 356 из 396 страниц.
+2024-07-23 18:13:34,133 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_5e41ab21-0374-4dfa-a675-7633a57a5b22.png?v=1704996220
+2024-07-23 18:13:39,269 - INFO - Обработано 357 из 396 страниц.
+2024-07-23 18:13:39,269 - INFO - Обрабатываем страницу: https://brostore.uz/products/airpods-2-1-with-charging-case
+2024-07-23 18:13:45,806 - INFO - Обработано 358 из 396 страниц.
+2024-07-23 18:13:45,806 - INFO - Обрабатываем страницу: https://brostore.uz/products/airpods-2-1-with-charging-case#main-content
+2024-07-23 18:13:50,849 - INFO - Обработано 359 из 396 страниц.
+2024-07-23 18:13:50,849 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_01258c41-efd5-40ce-bf92-e5c37315cdaa.png?v=1698238417
+2024-07-23 18:13:55,980 - INFO - Обработано 360 из 396 страниц.
+2024-07-23 18:13:55,980 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_6f91bb44-1618-435e-bce2-31318a44010a.png?v=1698238428
+2024-07-23 18:14:01,113 - INFO - Обработано 361 из 396 страниц.
+2024-07-23 18:14:01,114 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_f6ba1057-c54b-4330-b258-d98a93dad718.png?v=1698238440
+2024-07-23 18:14:06,240 - INFO - Обработано 362 из 396 страниц.
+2024-07-23 18:14:06,240 - INFO - Обрабатываем страницу: https://brostore.uz/products/monitor-apple-studio-display-tilt-and-height-adjustable-stand
+2024-07-23 18:14:12,582 - INFO - Обработано 363 из 396 страниц.
+2024-07-23 18:14:12,582 - INFO - Обрабатываем страницу: https://brostore.uz/products/monitor-apple-studio-display-tilt-and-height-adjustable-stand#main-content
+2024-07-23 18:14:17,625 - INFO - Обработано 364 из 396 страниц.
+2024-07-23 18:14:17,625 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_51c4ac04-d866-42c5-826d-763ac2fc8d12.png?v=1700314375
+2024-07-23 18:14:23,035 - INFO - Обработано 365 из 396 страниц.
+2024-07-23 18:14:23,035 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/ff.png?v=1700483269
+2024-07-23 18:14:28,155 - INFO - Обработано 366 из 396 страниц.
+2024-07-23 18:14:28,155 - INFO - Обрабатываем страницу: https://brostore.uz/products/airpods-max
+2024-07-23 18:14:34,745 - INFO - Обработано 367 из 396 страниц.
+2024-07-23 18:14:34,745 - INFO - Обрабатываем страницу: https://brostore.uz/products/airpods-max#main-content
+2024-07-23 18:14:39,796 - INFO - Обработано 368 из 396 страниц.
+2024-07-23 18:14:39,796 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/5_6c330d7d-3719-4524-82ed-f38a69581b0c.png?v=1698238915
+2024-07-23 18:14:45,080 - INFO - Обработано 369 из 396 страниц.
+2024-07-23 18:14:45,081 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/15_9be85b58-ed3f-454e-b017-624ad1f8f240.png?v=1698238922
+2024-07-23 18:14:50,274 - INFO - Обработано 370 из 396 страниц.
+2024-07-23 18:14:50,274 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/10_f97ca3e9-5523-4192-8662-bf8bd1ae0598.png?v=1698238928
+2024-07-23 18:14:55,399 - INFO - Обработано 371 из 396 страниц.
+2024-07-23 18:14:55,399 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/4_e97ca3ae-d30e-41ae-98ad-cc4445d1e806.png?v=1698238938
+2024-07-23 18:15:00,737 - INFO - Обработано 372 из 396 страниц.
+2024-07-23 18:15:00,737 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/14_43e0c974-bc7f-4eeb-9548-6851728fceb6.png?v=1698238946
+2024-07-23 18:15:06,101 - INFO - Обработано 373 из 396 страниц.
+2024-07-23 18:15:06,101 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/6_b5f2de75-286b-43f9-8b13-4ab694e0452c.png?v=1698238953
+2024-07-23 18:15:11,292 - INFO - Обработано 374 из 396 страниц.
+2024-07-23 18:15:11,293 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_609bbb82-a4af-4d8b-911e-de116c555090.png?v=1698238966
+2024-07-23 18:15:16,608 - INFO - Обработано 375 из 396 страниц.
+2024-07-23 18:15:16,609 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/12_01db3ab8-f8f7-429e-8d94-0f5afee64551.png?v=1698238973
+2024-07-23 18:15:21,881 - INFO - Обработано 376 из 396 страниц.
+2024-07-23 18:15:21,881 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/9_6cbb7064-36cf-4527-894c-6352b79e101b.png?v=1698238978
+2024-07-23 18:15:27,032 - INFO - Обработано 377 из 396 страниц.
+2024-07-23 18:15:27,033 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_e12d0d02-c6f4-4bf2-9e34-46f89ea59d02.png?v=1698238989
+2024-07-23 18:15:32,410 - INFO - Обработано 378 из 396 страниц.
+2024-07-23 18:15:32,410 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/13_5641e397-8388-4c47-8817-f8c94fd6ccf1.png?v=1698238994
+2024-07-23 18:15:37,753 - INFO - Обработано 379 из 396 страниц.
+2024-07-23 18:15:37,753 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/8_4f439dc8-55fe-4d5b-89b3-41e482c69161.png?v=1698239000
+2024-07-23 18:15:42,966 - INFO - Обработано 380 из 396 страниц.
+2024-07-23 18:15:42,967 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_be2d41be-b83a-4be0-ab50-0c585426303e.png?v=1698239014
+2024-07-23 18:15:48,325 - INFO - Обработано 381 из 396 страниц.
+2024-07-23 18:15:48,325 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/11_8a4c8680-82ee-4e92-a4dc-dcf8922a8add.png?v=1698239021
+2024-07-23 18:15:53,660 - INFO - Обработано 382 из 396 страниц.
+2024-07-23 18:15:53,660 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/7.png?v=1698239026
+2024-07-23 18:15:58,799 - INFO - Обработано 383 из 396 страниц.
+2024-07-23 18:15:58,800 - INFO - Обрабатываем страницу: https://brostore.uz/products/monoblok-apple-imac-27-inch-intel-i5
+2024-07-23 18:16:05,239 - INFO - Обработано 384 из 396 страниц.
+2024-07-23 18:16:05,239 - INFO - Обрабатываем страницу: https://brostore.uz/products/monoblok-apple-imac-27-inch-intel-i5#main-content
+2024-07-23 18:16:10,279 - INFO - Обработано 385 из 396 страниц.
+2024-07-23 18:16:10,279 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_f45a4cf1-c554-4eb8-a612-a3bec41e6a3a.png?v=1700313600
+2024-07-23 18:16:15,698 - INFO - Обработано 386 из 396 страниц.
+2024-07-23 18:16:15,698 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_d8680bc4-701e-41ba-a3b3-5211621eb806.png?v=1700313605
+2024-07-23 18:16:20,983 - INFO - Обработано 387 из 396 страниц.
+2024-07-23 18:16:20,983 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_c2f667a3-00ed-44a5-a041-1985a74918a4.png?v=1700313609
+2024-07-23 18:16:26,173 - INFO - Обработано 388 из 396 страниц.
+2024-07-23 18:16:26,173 - INFO - Обрабатываем страницу: https://brostore.uz/products/noutbuk-apple-macbook-pro-13-inch-m2
+2024-07-23 18:16:32,738 - INFO - Обработано 389 из 396 страниц.
+2024-07-23 18:16:32,738 - INFO - Обрабатываем страницу: https://brostore.uz/products/noutbuk-apple-macbook-pro-13-inch-m2#main-content
+2024-07-23 18:16:37,783 - INFO - Обработано 390 из 396 страниц.
+2024-07-23 18:16:37,783 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/4_179e8c1c-ddf3-42c4-aa47-c1bebcc22cb1.png?v=1700299252
+2024-07-23 18:16:43,042 - INFO - Обработано 391 из 396 страниц.
+2024-07-23 18:16:43,042 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/6_7feeff5b-1b1a-4251-9e0f-72893f9235db.png?v=1700299265
+2024-07-23 18:16:48,232 - INFO - Обработано 392 из 396 страниц.
+2024-07-23 18:16:48,233 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/2_95538e8d-84bc-4efc-b5ef-b79b7ee62f1a.png?v=1700299273
+2024-07-23 18:16:53,378 - INFO - Обработано 393 из 396 страниц.
+2024-07-23 18:16:53,378 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/5_bb3ffd75-d2f2-4abf-94f5-13cd702de5c4.png?v=1700299282
+2024-07-23 18:16:58,677 - INFO - Обработано 394 из 396 страниц.
+2024-07-23 18:16:58,677 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/3_c273a2d7-2549-4b29-85f0-34bacaa38f94.png?v=1700299288
+2024-07-23 18:17:03,863 - INFO - Обработано 395 из 396 страниц.
+2024-07-23 18:17:03,863 - INFO - Обрабатываем страницу: https://brostore.uz/cdn/shop/files/1_cf1aa407-57f2-4a3d-bf1c-9b6d806c3513.png?v=1700299293
+2024-07-23 18:17:08,984 - INFO - Обработано 396 из 396 страниц.

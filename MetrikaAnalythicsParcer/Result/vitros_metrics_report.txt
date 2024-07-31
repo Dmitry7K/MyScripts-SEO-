@@ -1,0 +1,49 @@
+Всего страниц: 11
+Страниц со всеми метриками: 0 (0.00%)
+Страниц без метрик: 0 (0.00%)
+Страниц с частичными метриками: 11 (100.00%)
+Страниц с Яндекс Вебмастером: 11 (100.00%)
+Страниц с Google Search Console: 11 (100.00%)
+
+Страницы со всеми метриками:
+
+Страницы без метрик:
+
+Страницы с частичными метриками:
+https://vitros.uz/ - Яндекс: Да, Google: Нет, GTM: Нет
+https://vitros.uz/lab - Яндекс: Да, Google: Нет, GTM: Нет
+https://vitros.uz/analysis - Яндекс: Да, Google: Нет, GTM: Нет
+https://vitros.uz/franchising - Яндекс: Да, Google: Нет, GTM: Нет
+https://vitros.uz/about - Яндекс: Да, Google: Нет, GTM: Нет
+https://vitros.uz/about/news - Яндекс: Да, Google: Нет, GTM: Нет
+https://vitros.uz/about/vacancies - Яндекс: Да, Google: Нет, GTM: Нет
+https://vitros.uz/partnership - Яндекс: Да, Google: Нет, GTM: Нет
+https://vitros.uz/results - Яндекс: Да, Google: Нет, GTM: Нет
+https://vitros.uz/add-to-cart - Яндекс: Да, Google: Нет, GTM: Нет
+https://vitros.uz/insurance - Яндекс: Да, Google: Нет, GTM: Нет
+
+Страницы с Яндекс Вебмастером:
+https://vitros.uz/
+https://vitros.uz/lab
+https://vitros.uz/analysis
+https://vitros.uz/franchising
+https://vitros.uz/about
+https://vitros.uz/about/news
+https://vitros.uz/about/vacancies
+https://vitros.uz/partnership
+https://vitros.uz/results
+https://vitros.uz/add-to-cart
+https://vitros.uz/insurance
+
+Страницы с Google Search Console:
+https://vitros.uz/
+https://vitros.uz/lab
+https://vitros.uz/analysis
+https://vitros.uz/franchising
+https://vitros.uz/about
+https://vitros.uz/about/news
+https://vitros.uz/about/vacancies
+https://vitros.uz/partnership
+https://vitros.uz/results
+https://vitros.uz/add-to-cart
+https://vitros.uz/insurance

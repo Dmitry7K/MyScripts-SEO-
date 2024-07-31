@@ -1,0 +1,3 @@
+http://webmaster.yandex.ru/
+http://www.bing.com/toolbox/webmasters/
+https://login.yahoo.com/config/login_verify2?.src=siteexplorer&.intl=us&.done=http%3A%2F%2Fsiteexplorer.search.yahoo.com%2Fmysites%3Fei%3DUTF-8

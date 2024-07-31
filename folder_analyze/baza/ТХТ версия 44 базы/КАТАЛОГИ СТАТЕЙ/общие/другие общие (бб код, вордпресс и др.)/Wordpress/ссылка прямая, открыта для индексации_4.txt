@@ -1,0 +1,4 @@
+http://articleland.ru/wp-login.php?action=register
+http://katastat.ru/wp-login.php?action=register
+http://statgrad.net/wp-login.php?action=register
+http://www.pr-ru.com/wp-login.php?action=register

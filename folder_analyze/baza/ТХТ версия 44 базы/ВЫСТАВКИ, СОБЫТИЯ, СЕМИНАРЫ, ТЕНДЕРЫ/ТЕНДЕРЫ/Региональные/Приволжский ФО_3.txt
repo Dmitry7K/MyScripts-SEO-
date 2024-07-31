@@ -1,0 +1,3 @@
+http://tatarstan.info/tender/?parent=rubricator&child=addtender
+http://tender.8482.ru/index.php?parent=rubricator&child=addtender
+http://www.erbp.ru/signup

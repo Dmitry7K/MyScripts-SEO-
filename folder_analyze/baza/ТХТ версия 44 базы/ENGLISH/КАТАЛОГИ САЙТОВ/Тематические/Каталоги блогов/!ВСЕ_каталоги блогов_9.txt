@@ -1,0 +1,9 @@
+http://bloghub.com/cgi-bin/add.cgi
+http://portal.eatonweb.com/ewblog/submit-site/
+http://seo-blog.org/directory/submit.php
+http://www.blogflux.com/user.php?action=addblog
+http://www.bloggernity.com/cgi-bin/user.cgi?url=http%3A%2F%2Fwww.bloggernity.com%2Fcgi-bin%2Fadd.cgi&from=add
+http://www.icerocket.com/c?p=addblog
+http://www.mybloglog.com/
+http://www.networkedblogs.com/
+http://www.postami.com/rss.finder/submit_feed.php

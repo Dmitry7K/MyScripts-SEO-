@@ -1,0 +1,1462 @@
+2024-07-24 11:44:26,109 - INFO - Начинаем сканирование сайта...
+2024-07-24 11:44:26,109 - INFO - Сканирование страницы: https://stroyvitrina.uz/ на глубине 0
+2024-07-24 11:44:26,109 - INFO - Запрос страницы: https://stroyvitrina.uz/
+2024-07-24 11:44:29,988 - INFO - Найдено 113 новых ссылок на странице https://stroyvitrina.uz/
+2024-07-24 11:44:29,988 - INFO - Сканирование страницы: https://stroyvitrina.uz на глубине 1
+2024-07-24 11:44:29,988 - INFO - Запрос страницы: https://stroyvitrina.uz
+2024-07-24 11:44:32,513 - INFO - Найдено 112 новых ссылок на странице https://stroyvitrina.uz
+2024-07-24 11:44:32,513 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz на глубине 2
+2024-07-24 11:44:32,513 - INFO - Запрос страницы: https://stroyvitrina.uz/uz
+2024-07-24 11:44:36,795 - INFO - Найдено 111 новых ссылок на странице https://stroyvitrina.uz/uz
+2024-07-24 11:44:36,796 - INFO - Сканирование страницы: https://stroyvitrina.uz/oz на глубине 3
+2024-07-24 11:44:36,796 - INFO - Запрос страницы: https://stroyvitrina.uz/oz
+2024-07-24 11:44:39,925 - INFO - Найдено 110 новых ссылок на странице https://stroyvitrina.uz/oz
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/register
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/login
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/categories
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/services
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/rubrics
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/info
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/articles
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/events
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/page/12-advertisment
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/page/3-about
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/contacts
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/publication/825-tashkent-primet-xiii-uzstroyexpo-v-oktyabre-2024-goda
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/article/822-forward-up-vash-nadezhnyj-partner
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/820-termezskij-mezhdunarodnyj-aeroport-zavershil
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/818-aes-moshnostyu-330-mvt
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2181-armatura-a500s
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2180-upakovocnye-konverty-upakovki
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2178-dveri-alidoorf
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2176-kondicioner-midea-alba-low-voltage-09
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2174-truba-profilnaya-100x100x4-mm-st3
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2169-solnecnye-paneli-astronergy-550-vatt
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/article/824-avtonomnye-istochniki-elektrosnabzheniya-chto-k-nim-otnositsya
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/article/819-sovety-po-vyboru-krovati-dlya-podrostka
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/article/816-process-proizvodstva-sendvich-panelej-chto-nuzhno-znat
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/823-huawei-otkryvaet-krupnejshij-nauchnyj-kampus-v-kitae
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/812-arhitektory-iz-ssha-i-shvejcarii
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/810-stroitelstvo-zheleznoj-dorogi-kitaj-kyrgyzstan-uzbekistan
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/809-uzbekistan-stroit-zavod-po-okomkovaniyu
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/806-uzbekistan-i-rossiya-ukreplyayut-energeticheskoe-sotrudnichestvo
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/802-v-uzbekistane-postroyat-platnuyu-dorogu
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/800-uzbekistan-stroit-aes-pri
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/799-uzatom-i-rosatom-gotovyatsya-k-stroitelstvu
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/798-uzbekistan-i-belarus-obsudili-sotrudnichestvo
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/794-tendencii-i-innovacii-v-oblasti
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/service/55-promyslennyi-alpinizm
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/service/54-pokraska-fasada-zdaniya
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/service/53-mytyo-steklyannyx-fasadov
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/service/52-promyslennyi-alpinizm
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/service/47-snyder-electric
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/service/create
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/page/16-kak-dobavit-kompaniyu
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/anketa_sprav_uz.docx
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/page/17-kak-dobavit-tovar
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/page/18-kak-dobavit-uslugu
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/page/20-kak-razmestit-statyu
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/tenders
+2024-07-24 11:44:39,926 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/files/status-ehlektronnogo-smi-strojvitrina.pdf
+2024-07-24 11:44:39,927 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/register на глубине 3
+2024-07-24 11:44:39,927 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/register
+2024-07-24 11:44:41,122 - INFO - Найдено 36 новых ссылок на странице https://stroyvitrina.uz/uz/register
+2024-07-24 11:44:41,122 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/register
+2024-07-24 11:44:41,122 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/login
+2024-07-24 11:44:41,122 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/categories
+2024-07-24 11:44:41,122 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/services
+2024-07-24 11:44:41,122 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/rubrics
+2024-07-24 11:44:41,122 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/info
+2024-07-24 11:44:41,122 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/articles
+2024-07-24 11:44:41,122 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/events
+2024-07-24 11:44:41,122 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/page/12-advertisment
+2024-07-24 11:44:41,122 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/page/3-about
+2024-07-24 11:44:41,122 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/contacts
+2024-07-24 11:44:41,122 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/page/16-kak-dobavit-kompaniyu
+2024-07-24 11:44:41,122 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/page/17-kak-dobavit-tovar
+2024-07-24 11:44:41,122 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/page/18-kak-dobavit-uslugu
+2024-07-24 11:44:41,122 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/page/20-kak-razmestit-statyu
+2024-07-24 11:44:41,123 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/news
+2024-07-24 11:44:41,123 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/tenders
+2024-07-24 11:44:41,123 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/publication/825-tashkent-primet-xiii-uzstroyexpo-v-oktyabre-2024-goda на глубине 3
+2024-07-24 11:44:41,123 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/publication/825-tashkent-primet-xiii-uzstroyexpo-v-oktyabre-2024-goda
+2024-07-24 11:44:43,912 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/publication/825-tashkent-primet-xiii-uzstroyexpo-v-oktyabre-2024-goda
+2024-07-24 11:44:43,912 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/publication/825-tashkent-primet-xiii-uzstroyexpo
+2024-07-24 11:44:43,912 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/825/print
+2024-07-24 11:44:43,912 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/article/824-avtonomnye-istochniki-elektrosnabzheniya-chto-k-nim-otnositsya
+2024-07-24 11:44:43,912 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/article/822-forward-up-vash-nadezhnyj-partner
+2024-07-24 11:44:43,913 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/article/819-sovety-po-vyboru-krovati-dlya-podrostka
+2024-07-24 11:44:43,913 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/article/816-process-proizvodstva-sendvich-panelej-chto-nuzhno-znat
+2024-07-24 11:44:43,913 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/service/55-promyslennyi-alpinizm
+2024-07-24 11:44:43,913 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/service/54-pokraska-fasada-zdaniya
+2024-07-24 11:44:43,913 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/service/53-mytyo-steklyannyx-fasadov
+2024-07-24 11:44:43,913 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/service/52-promyslennyi-alpinizm
+2024-07-24 11:44:43,913 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/service/47-snyder-electric
+2024-07-24 11:44:43,913 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/service/create
+2024-07-24 11:44:43,913 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/820-termezskij-mezhdunarodnyj-aeroport-zavershil на глубине 3
+2024-07-24 11:44:43,913 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/820-termezskij-mezhdunarodnyj-aeroport-zavershil
+2024-07-24 11:44:46,307 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/news/820-termezskij-mezhdunarodnyj-aeroport-zavershil
+2024-07-24 11:44:46,307 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/820-termezskij-mezhdunarodnyj-aeroport-zavershil
+2024-07-24 11:44:46,307 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/820/print
+2024-07-24 11:44:46,308 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/818-aes-moshnostyu-330-mvt на глубине 3
+2024-07-24 11:44:46,308 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/818-aes-moshnostyu-330-mvt
+2024-07-24 11:44:48,889 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/news/818-aes-moshnostyu-330-mvt
+2024-07-24 11:44:48,889 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/818-aes-moshnostyu-330-mvt
+2024-07-24 11:44:48,889 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/818/print
+2024-07-24 11:44:48,890 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2181-armatura-a500s на глубине 3
+2024-07-24 11:44:48,890 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2181-armatura-a500s
+2024-07-24 11:44:51,324 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/product/2181-armatura-a500s
+2024-07-24 11:44:51,324 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2181-armatura-a500s
+2024-07-24 11:44:51,325 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/868-metallicheskaya-armatura
+2024-07-24 11:44:51,325 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2181-armatura-a500s#product-page-suppliers
+2024-07-24 11:44:51,325 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2181-armatura-a500s#product-page-specifications
+2024-07-24 11:44:51,325 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2181-armatura-a500s#product-page-description
+2024-07-24 11:44:51,325 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2181-armatura-a500s#product-page-photo
+2024-07-24 11:44:51,325 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2181-armatura-a500s#page-reviews-block
+2024-07-24 11:44:51,325 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/company/5459-shox-sodiq
+2024-07-24 11:44:51,325 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki на глубине 3
+2024-07-24 11:44:51,325 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki
+2024-07-24 11:44:53,738 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki
+2024-07-24 11:44:53,738 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2180-upakovocnye-konverty-upakovki
+2024-07-24 11:44:53,738 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/1140-upakovochnye-setki
+2024-07-24 11:44:53,738 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki#product-page-suppliers
+2024-07-24 11:44:53,738 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki#product-page-specifications
+2024-07-24 11:44:53,738 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki#product-page-description
+2024-07-24 11:44:53,738 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki#product-page-photo
+2024-07-24 11:44:53,738 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki#page-reviews-block
+2024-07-24 11:44:53,738 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/company/1615-isocom
+2024-07-24 11:44:53,738 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1812-setka-upakovocnaya-melkoyaceistaya-rukav
+2024-07-24 11:44:53,738 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf на глубине 3
+2024-07-24 11:44:53,738 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf
+2024-07-24 11:44:56,186 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf
+2024-07-24 11:44:56,187 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2178-dveri-alidoorf
+2024-07-24 11:44:56,187 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/153-dveri
+2024-07-24 11:44:56,187 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf#product-page-suppliers
+2024-07-24 11:44:56,187 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf#product-page-specifications
+2024-07-24 11:44:56,187 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf#product-page-description
+2024-07-24 11:44:56,187 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf#product-page-photo
+2024-07-24 11:44:56,187 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf#page-reviews-block
+2024-07-24 11:44:56,187 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/company/5360-alidoorf
+2024-07-24 11:44:56,187 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1197-vkhodnye-stalnye-dveri
+2024-07-24 11:44:56,187 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09 на глубине 3
+2024-07-24 11:44:56,187 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09
+2024-07-24 11:44:58,494 - INFO - Найдено 67 новых ссылок на странице https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09
+2024-07-24 11:44:58,495 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2176-kondicioner-midea-alba-low-voltage-09
+2024-07-24 11:44:58,495 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/242-kondicionery-i-ventilyaciya
+2024-07-24 11:44:58,495 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09#product-page-suppliers
+2024-07-24 11:44:58,495 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09#product-page-specifications
+2024-07-24 11:44:58,495 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09#product-page-description
+2024-07-24 11:44:58,495 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09#product-page-photo
+2024-07-24 11:44:58,495 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09#page-reviews-block
+2024-07-24 11:44:58,495 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/company/2940-t-line
+2024-07-24 11:44:58,495 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1206-kolonnyy-konditsioner-technobox-u-freeze-30
+2024-07-24 11:44:58,495 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1205-technobox-bora-12-full-inverter
+2024-07-24 11:44:58,495 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1204-konditsioner-technobox-fairy-ultra-12-low-voltage
+2024-07-24 11:44:58,495 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1203-konditsioner-technobox-pantera-12-inverter-150-240v
+2024-07-24 11:44:58,495 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1202-konditsioner-technobox-u-crown-12-inverter-170-240v
+2024-07-24 11:44:58,495 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27 на глубине 3
+2024-07-24 11:44:58,495 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27
+2024-07-24 11:45:00,498 - INFO - Найдено 57 новых ссылок на странице https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27
+2024-07-24 11:45:00,498 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27
+2024-07-24 11:45:00,498 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/861-metallicheskij-ugolok
+2024-07-24 11:45:00,498 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27#product-page-suppliers
+2024-07-24 11:45:00,499 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27#product-page-specifications
+2024-07-24 11:45:00,499 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27#product-page-description
+2024-07-24 11:45:00,499 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27#product-page-photo
+2024-07-24 11:45:00,499 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27#page-reviews-block
+2024-07-24 11:45:00,499 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/company/5344-rostmetall
+2024-07-24 11:45:00,499 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3 на глубине 3
+2024-07-24 11:45:00,499 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3
+2024-07-24 11:45:03,615 - INFO - Найдено 57 новых ссылок на странице https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3
+2024-07-24 11:45:03,615 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2174-truba-profilnaya-100x100x4-mm-st3
+2024-07-24 11:45:03,615 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/70-truba-stalnaya
+2024-07-24 11:45:03,615 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3#product-page-suppliers
+2024-07-24 11:45:03,615 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3#product-page-specifications
+2024-07-24 11:45:03,615 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3#product-page-description
+2024-07-24 11:45:03,615 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3#product-page-photo
+2024-07-24 11:45:03,615 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3#page-reviews-block
+2024-07-24 11:45:03,615 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3 на глубине 3
+2024-07-24 11:45:03,615 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3
+2024-07-24 11:45:07,516 - INFO - Найдено 57 новых ссылок на странице https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3
+2024-07-24 11:45:07,517 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3
+2024-07-24 11:45:07,517 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/71-listovoj-prokat
+2024-07-24 11:45:07,517 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3#product-page-suppliers
+2024-07-24 11:45:07,517 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3#product-page-specifications
+2024-07-24 11:45:07,517 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3#product-page-description
+2024-07-24 11:45:07,517 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3#product-page-photo
+2024-07-24 11:45:07,517 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3#page-reviews-block
+2024-07-24 11:45:07,517 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii на глубине 3
+2024-07-24 11:45:07,517 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii
+2024-07-24 11:45:09,864 - INFO - Найдено 75 новых ссылок на странице https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/726-kabeli-i-provoda
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii#product-page-suppliers
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii#product-page-specifications
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii#product-page-description
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii#product-page-photo
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii#page-reviews-block
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1221-kabel-kanal-2-y-zamok-100kh40-24mup-48-506-sum-za-1-pm
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1172-zaglushka-legrand-metra
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1170-povorot-lotka-na-90gr-vertikal-nyj-vnutrennij-iek-50h200
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1169-provod-pvs-5h2-5-mnogozhil-nyj
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1158-kabel-silovoj-vvgng-4h240-1
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1157-kabel-silovoj-vvgng-5h6-0-66
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1154-kabel-silovoj-vvgng-2h1-5-0-66
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1133-provod-pvs-4h0-75-mnogozhil-nyj
+2024-07-24 11:45:09,864 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1132-kabel-avvg-4h10-0-0-66
+2024-07-24 11:45:09,864 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt на глубине 3
+2024-07-24 11:45:09,864 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt
+2024-07-24 11:45:12,094 - INFO - Найдено 75 новых ссылок на странице https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2169-solnecnye-paneli-astronergy-550-vatt
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/303-elektroustanovochnye-izdeliya
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt#product-page-suppliers
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt#product-page-specifications
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt#product-page-description
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt#product-page-photo
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt#page-reviews-block
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/company/5001-sbg-energy-servis-group
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1488-stabilizator-napryazeniya-andeli-svc-d15000va-80-250v-napolnyi
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/982-akkumulyator-bosch-36v-4-0ah-li-ion
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/943-stabilizator-napryazheniya-andeli-svc-3000va
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/716-polevoj-kabel-gsp-2h0-5
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/516-korobka-ustanovochnaya-dlya-blokov-d-72-mm-h-48-mm
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/500-korobki-razvetvitelnye-dlya-polykh-sten-i-peregorodok-iz-gipsokartona-kr1202-hegel
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/499-korobka-razvetvitelnaya-dlya-polyh-sten-i-peregorodok-kr1205-hegel
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/496-korobka-razvetvitelnaya-dlya-polyh-sten-i-peregorodok-kr-1204-hegel
+2024-07-24 11:45:12,094 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/495-ramka-skrytoy-ustanovki-r401-seriya-master-ot-hegel
+2024-07-24 11:45:12,095 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei на глубине 3
+2024-07-24 11:45:12,095 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:45:14,218 - INFO - Найдено 73 новых ссылок на странице https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:45:14,218 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:45:14,218 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/72-alyuminievyj-metalloprokat
+2024-07-24 11:45:14,218 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei#product-page-suppliers
+2024-07-24 11:45:14,218 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei#product-page-specifications
+2024-07-24 11:45:14,218 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei#product-page-description
+2024-07-24 11:45:14,218 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei#product-page-photo
+2024-07-24 11:45:14,218 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei#page-reviews-block
+2024-07-24 11:45:14,218 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2164-l-kronstein-50x50-5-sm-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:45:14,218 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2163-l-kronstein-50x50-4-sm-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:45:14,218 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2162-l-kronstein-50x50-3-sm
+2024-07-24 11:45:14,218 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2161-prizim-koncevoi-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:45:14,218 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2160-prizim-srednii-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:45:14,218 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2159-krepyoznaya-planka-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:45:14,218 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2158-soedinitel-universalnyi-100-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:45:14,218 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2157-universalnyi-profil-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:45:14,218 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/823-huawei-otkryvaet-krupnejshij-nauchnyj-kampus-v-kitae на глубине 3
+2024-07-24 11:45:14,218 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/823-huawei-otkryvaet-krupnejshij-nauchnyj-kampus-v-kitae
+2024-07-24 11:45:16,915 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/news/823-huawei-otkryvaet-krupnejshij-nauchnyj-kampus-v-kitae
+2024-07-24 11:45:16,916 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/823-huawei-otkryvaet-krupnejshij-nauchnyj-kampus-v-kitae
+2024-07-24 11:45:16,916 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/823/print
+2024-07-24 11:45:16,916 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/812-arhitektory-iz-ssha-i-shvejcarii на глубине 3
+2024-07-24 11:45:16,916 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/812-arhitektory-iz-ssha-i-shvejcarii
+2024-07-24 11:45:19,504 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/news/812-arhitektory-iz-ssha-i-shvejcarii
+2024-07-24 11:45:19,504 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/812-arhitektory-iz-ssha-i-shvejcarii
+2024-07-24 11:45:19,504 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/812/print
+2024-07-24 11:45:19,504 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/810-stroitelstvo-zheleznoj-dorogi-kitaj-kyrgyzstan-uzbekistan на глубине 3
+2024-07-24 11:45:19,504 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/810-stroitelstvo-zheleznoj-dorogi-kitaj-kyrgyzstan-uzbekistan
+2024-07-24 11:45:22,190 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/news/810-stroitelstvo-zheleznoj-dorogi-kitaj-kyrgyzstan-uzbekistan
+2024-07-24 11:45:22,190 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/810-stroitelstvo-zheleznoj-dorogi-kitaj-kyrgyzstan-uzbekistan
+2024-07-24 11:45:22,190 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/810/print
+2024-07-24 11:45:22,190 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/809-uzbekistan-stroit-zavod-po-okomkovaniyu на глубине 3
+2024-07-24 11:45:22,190 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/809-uzbekistan-stroit-zavod-po-okomkovaniyu
+2024-07-24 11:45:24,247 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/news/809-uzbekistan-stroit-zavod-po-okomkovaniyu
+2024-07-24 11:45:24,247 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/809-uzbekistan-stroit-zavod-po-okomkovaniyu
+2024-07-24 11:45:24,247 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/809/print
+2024-07-24 11:45:24,247 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/806-uzbekistan-i-rossiya-ukreplyayut-energeticheskoe-sotrudnichestvo на глубине 3
+2024-07-24 11:45:24,247 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/806-uzbekistan-i-rossiya-ukreplyayut-energeticheskoe-sotrudnichestvo
+2024-07-24 11:45:26,550 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/news/806-uzbekistan-i-rossiya-ukreplyayut-energeticheskoe-sotrudnichestvo
+2024-07-24 11:45:26,550 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/806-uzbekistan-i-rossiya-ukreplyayut-energeticheskoe-sotrudnichestvo
+2024-07-24 11:45:26,550 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/806/print
+2024-07-24 11:45:26,550 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/802-v-uzbekistane-postroyat-platnuyu-dorogu на глубине 3
+2024-07-24 11:45:26,550 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/802-v-uzbekistane-postroyat-platnuyu-dorogu
+2024-07-24 11:45:28,988 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/news/802-v-uzbekistane-postroyat-platnuyu-dorogu
+2024-07-24 11:45:28,988 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/802-v-uzbekistane-postroyat-platnuyu-dorogu
+2024-07-24 11:45:28,988 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/802/print
+2024-07-24 11:45:28,988 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/800-uzbekistan-stroit-aes-pri на глубине 3
+2024-07-24 11:45:28,988 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/800-uzbekistan-stroit-aes-pri
+2024-07-24 11:45:32,797 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/news/800-uzbekistan-stroit-aes-pri
+2024-07-24 11:45:32,797 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/800-uzbekistan-stroit-aes-pri
+2024-07-24 11:45:32,797 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/800/print
+2024-07-24 11:45:32,797 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/799-uzatom-i-rosatom-gotovyatsya-k-stroitelstvu на глубине 3
+2024-07-24 11:45:32,797 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/799-uzatom-i-rosatom-gotovyatsya-k-stroitelstvu
+2024-07-24 11:45:35,207 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/news/799-uzatom-i-rosatom-gotovyatsya-k-stroitelstvu
+2024-07-24 11:45:35,207 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/799-uzatom-i-rosatom-gotovyatsya-k-stroitelstvu
+2024-07-24 11:45:35,207 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/799/print
+2024-07-24 11:45:35,207 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/798-uzbekistan-i-belarus-obsudili-sotrudnichestvo на глубине 3
+2024-07-24 11:45:35,207 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/798-uzbekistan-i-belarus-obsudili-sotrudnichestvo
+2024-07-24 11:45:37,917 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/news/798-uzbekistan-i-belarus-obsudili-sotrudnichestvo
+2024-07-24 11:45:37,917 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/798-uzbekistan-i-belarus-obsudili-sotrudnichestvo
+2024-07-24 11:45:37,917 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/798/print
+2024-07-24 11:45:37,917 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/794-tendencii-i-innovacii-v-oblasti на глубине 3
+2024-07-24 11:45:37,917 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/794-tendencii-i-innovacii-v-oblasti
+2024-07-24 11:45:40,737 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/news/794-tendencii-i-innovacii-v-oblasti
+2024-07-24 11:45:40,737 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/794-tendencii-i-innovacii-v-oblasti
+2024-07-24 11:45:40,737 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/794/print
+2024-07-24 11:45:40,738 - INFO - Сканирование страницы: https://stroyvitrina.uz/login на глубине 2
+2024-07-24 11:45:40,738 - INFO - Запрос страницы: https://stroyvitrina.uz/login
+2024-07-24 11:45:42,214 - INFO - Найдено 39 новых ссылок на странице https://stroyvitrina.uz/login
+2024-07-24 11:45:42,214 - INFO - Сканирование страницы: https://stroyvitrina.uz/categories на глубине 3
+2024-07-24 11:45:42,215 - INFO - Запрос страницы: https://stroyvitrina.uz/categories
+2024-07-24 11:45:44,990 - INFO - Найдено 97 новых ссылок на странице https://stroyvitrina.uz/categories
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/services
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/rubrics
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/info
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/articles
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/events
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/page/12-advertisment
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/page/3-about
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/contacts
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/company/select
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/252-aksessuary-dlya-pechej-i-kaminov
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/225-bezopasnost
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/21-beton-zhbi
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/785-blagoustrojstvo
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/34-geomaterialy
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/153-dveri
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/235-inzhenernaya-santehnika
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/416-inzhenernye-sistemy
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/396-instrumenty
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/783-interer-i-otdelka
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/256-komplektuyushie-dlya-ventilyacionnyh-sistem
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/242-kondicionery-i-ventilyaciya
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/915-kontrolno-izmeritel-nye-pribory
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/45-krepezhi
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/57-krovlya
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/331-kuhonnye-prinadlezhnosti
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/895-lifty
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/339-mebel
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/253-membrannye-baki
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/68-metall-i-metallicheskie-izdeliya
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/187-napolnye-pokrytiya
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/176-okna-steklo
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/1103-paneli
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/104-pilomaterialy
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/198-plitka-i-kamni
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/408-polimernye-izdeliya
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/363-posuda
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/371-predmety-dekora
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/254-rashodniki-dlya-ventilyacionnogo-oborudovaniya
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/257-rashodniki-dlya-vodonagrevatelej
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/258-rashodniki-dlya-kondicionerov
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/251-raskhodniki-dlya-kotelnogo-oborudovaniya
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/250-rashodniki-dlya-promyshlennyh-sistem-kondicionirovaniya
+2024-07-24 11:45:44,991 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/255-rashodniki-dlya-sistem-otopleniya
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/259-rashodniki-dlya-teplovyh-pushek
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/260-rashodnye-materialy-dlya-silovogo-oborudovaniya
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/269-santehnika-i-sanfayans
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/282-santehnicheskoe-oborudovanie
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/293-sistemy-otopleniya-i-obogreva
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/668-stanki
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/488-stroitel-nye-materialy
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/430-stroitel-nye-oborudovaniya
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/115-suhie-stroitelnye-smesi
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/126-sypuchie-materialy
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/419-tara-i-upakovka
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/313-tovary-dlya-doma-dachi-sada
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/804-tovary-dlya-turizma-i-otdyha
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/147-fasadnye-sistemy
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/214-finishnye-materialy-dlya-sten
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/302-elektrooborudovanie
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/898-eskalatory
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/service/55-promyslennyi-alpinizm
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/service/54-pokraska-fasada-zdaniya
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/service/53-mytyo-steklyannyx-fasadov
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/service/52-promyslennyi-alpinizm
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/service/47-snyder-electric
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/service/create
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/page/16-kak-dobavit-kompaniyu
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/page/17-kak-dobavit-tovar
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/page/18-kak-dobavit-uslugu
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/page/20-kak-razmestit-statyu
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news
+2024-07-24 11:45:44,992 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/tenders
+2024-07-24 11:45:44,992 - INFO - Сканирование страницы: https://stroyvitrina.uz/password/reset на глубине 3
+2024-07-24 11:45:44,992 - INFO - Запрос страницы: https://stroyvitrina.uz/password/reset
+2024-07-24 11:45:47,642 - INFO - Найдено 34 новых ссылок на странице https://stroyvitrina.uz/password/reset
+2024-07-24 11:45:47,642 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/password/reset
+2024-07-24 11:45:47,642 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/password/reset
+2024-07-24 11:45:47,642 - INFO - Сканирование страницы: https://stroyvitrina.uz/article/822-forward-up-nadezhnyj-partner на глубине 2
+2024-07-24 11:45:47,642 - INFO - Запрос страницы: https://stroyvitrina.uz/article/822-forward-up-nadezhnyj-partner
+2024-07-24 11:45:51,640 - INFO - Найдено 54 новых ссылок на странице https://stroyvitrina.uz/article/822-forward-up-nadezhnyj-partner
+2024-07-24 11:45:51,640 - INFO - Сканирование страницы: https://stroyvitrina.uz/publication/822/print на глубине 3
+2024-07-24 11:45:51,640 - INFO - Запрос страницы: https://stroyvitrina.uz/publication/822/print
+2024-07-24 11:45:53,598 - INFO - Найдено 34 новых ссылок на странице https://stroyvitrina.uz/publication/822/print
+2024-07-24 11:45:53,598 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/822/print
+2024-07-24 11:45:53,598 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/publication/822/print
+2024-07-24 11:45:53,598 - INFO - Сканирование страницы: https://stroyvitrina.uz/article/824-avtonomnye-istochniki-elektrosnabzheniya-chto-k-nim-otnositsya на глубине 3
+2024-07-24 11:45:53,598 - INFO - Запрос страницы: https://stroyvitrina.uz/article/824-avtonomnye-istochniki-elektrosnabzheniya-chto-k-nim-otnositsya
+2024-07-24 11:45:56,556 - INFO - Найдено 52 новых ссылок на странице https://stroyvitrina.uz/article/824-avtonomnye-istochniki-elektrosnabzheniya-chto-k-nim-otnositsya
+2024-07-24 11:45:56,557 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/publication/824/print
+2024-07-24 11:45:56,557 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/article/819-sovety-po-vyboru-krovati-dlya-podrostka
+2024-07-24 11:45:56,557 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/article/816-process-proizvodstva-sendvich-panelej-chto-nuzhno-znat
+2024-07-24 11:45:56,557 - INFO - Всего страниц для проверки: 327
+2024-07-24 11:45:56,558 - INFO - ====== WebDriver manager ======
+2024-07-24 11:45:56,711 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-24 11:45:57,132 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-24 11:45:57,452 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-24 11:45:58,158 - INFO - WebDriver version 126.0.6478.182 selected
+2024-07-24 11:45:58,161 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.182/mac-arm64/chromedriver-mac-arm64.zip
+2024-07-24 11:45:58,161 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.182/mac-arm64/chromedriver-mac-arm64.zip
+2024-07-24 11:45:58,466 - INFO - Driver downloading response is 200
+2024-07-24 11:45:59,770 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-24 11:46:00,183 - INFO - Driver has been saved in cache [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182]
+2024-07-24 11:49:30,596 - INFO - Начинаем сканирование сайта...
+2024-07-24 11:49:30,596 - INFO - Сканирование страницы: https://stroyvitrina.uz/ на глубине 0
+2024-07-24 11:49:30,596 - INFO - Запрос страницы: https://stroyvitrina.uz/
+2024-07-24 11:49:33,116 - INFO - Найдено 113 новых ссылок на странице https://stroyvitrina.uz/
+2024-07-24 11:49:33,117 - INFO - Сканирование страницы: https://stroyvitrina.uz на глубине 1
+2024-07-24 11:49:33,117 - INFO - Запрос страницы: https://stroyvitrina.uz
+2024-07-24 11:49:36,618 - INFO - Найдено 112 новых ссылок на странице https://stroyvitrina.uz
+2024-07-24 11:49:36,618 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz на глубине 2
+2024-07-24 11:49:36,618 - INFO - Запрос страницы: https://stroyvitrina.uz/uz
+2024-07-24 11:49:38,865 - INFO - Найдено 111 новых ссылок на странице https://stroyvitrina.uz/uz
+2024-07-24 11:49:38,865 - INFO - Сканирование страницы: https://stroyvitrina.uz/oz на глубине 3
+2024-07-24 11:49:38,865 - INFO - Запрос страницы: https://stroyvitrina.uz/oz
+2024-07-24 11:49:41,026 - INFO - Найдено 110 новых ссылок на странице https://stroyvitrina.uz/oz
+2024-07-24 11:49:41,026 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/register
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/login
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/categories
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/services
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/rubrics
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/info
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/articles
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/events
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/page/12-advertisment
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/page/3-about
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/contacts
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/publication/825-tashkent-primet-xiii-uzstroyexpo-v-oktyabre-2024-goda
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/article/822-forward-up-vash-nadezhnyj-partner
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/820-termezskij-mezhdunarodnyj-aeroport-zavershil
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/818-aes-moshnostyu-330-mvt
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2181-armatura-a500s
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2180-upakovocnye-konverty-upakovki
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2178-dveri-alidoorf
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2176-kondicioner-midea-alba-low-voltage-09
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2174-truba-profilnaya-100x100x4-mm-st3
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2169-solnecnye-paneli-astronergy-550-vatt
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/article/824-avtonomnye-istochniki-elektrosnabzheniya-chto-k-nim-otnositsya
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/article/819-sovety-po-vyboru-krovati-dlya-podrostka
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/article/816-process-proizvodstva-sendvich-panelej-chto-nuzhno-znat
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/823-huawei-otkryvaet-krupnejshij-nauchnyj-kampus-v-kitae
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/812-arhitektory-iz-ssha-i-shvejcarii
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/810-stroitelstvo-zheleznoj-dorogi-kitaj-kyrgyzstan-uzbekistan
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/809-uzbekistan-stroit-zavod-po-okomkovaniyu
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/806-uzbekistan-i-rossiya-ukreplyayut-energeticheskoe-sotrudnichestvo
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/802-v-uzbekistane-postroyat-platnuyu-dorogu
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/800-uzbekistan-stroit-aes-pri
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/799-uzatom-i-rosatom-gotovyatsya-k-stroitelstvu
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/798-uzbekistan-i-belarus-obsudili-sotrudnichestvo
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/news/794-tendencii-i-innovacii-v-oblasti
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/service/55-promyslennyi-alpinizm
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/service/54-pokraska-fasada-zdaniya
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/service/53-mytyo-steklyannyx-fasadov
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/service/52-promyslennyi-alpinizm
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/service/47-snyder-electric
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/service/create
+2024-07-24 11:49:41,027 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/page/16-kak-dobavit-kompaniyu
+2024-07-24 11:49:41,028 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/anketa_sprav_uz.docx
+2024-07-24 11:49:41,028 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/page/17-kak-dobavit-tovar
+2024-07-24 11:49:41,028 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/page/18-kak-dobavit-uslugu
+2024-07-24 11:49:41,028 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/page/20-kak-razmestit-statyu
+2024-07-24 11:49:41,028 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/tenders
+2024-07-24 11:49:41,028 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/files/status-ehlektronnogo-smi-strojvitrina.pdf
+2024-07-24 11:49:41,028 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/register на глубине 3
+2024-07-24 11:49:41,028 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/register
+2024-07-24 11:49:42,634 - INFO - Найдено 36 новых ссылок на странице https://stroyvitrina.uz/uz/register
+2024-07-24 11:49:42,634 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/register
+2024-07-24 11:49:42,634 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/login
+2024-07-24 11:49:42,634 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/categories
+2024-07-24 11:49:42,634 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/services
+2024-07-24 11:49:42,634 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/rubrics
+2024-07-24 11:49:42,634 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/info
+2024-07-24 11:49:42,634 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/articles
+2024-07-24 11:49:42,634 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/events
+2024-07-24 11:49:42,634 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/page/12-advertisment
+2024-07-24 11:49:42,634 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/page/3-about
+2024-07-24 11:49:42,634 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/contacts
+2024-07-24 11:49:42,635 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/page/16-kak-dobavit-kompaniyu
+2024-07-24 11:49:42,635 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/page/17-kak-dobavit-tovar
+2024-07-24 11:49:42,635 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/page/18-kak-dobavit-uslugu
+2024-07-24 11:49:42,635 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/page/20-kak-razmestit-statyu
+2024-07-24 11:49:42,635 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/news
+2024-07-24 11:49:42,635 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/tenders
+2024-07-24 11:49:42,635 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/publication/825-tashkent-primet-xiii-uzstroyexpo-v-oktyabre-2024-goda на глубине 3
+2024-07-24 11:49:42,635 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/publication/825-tashkent-primet-xiii-uzstroyexpo-v-oktyabre-2024-goda
+2024-07-24 11:49:45,201 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/publication/825-tashkent-primet-xiii-uzstroyexpo-v-oktyabre-2024-goda
+2024-07-24 11:49:45,201 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/publication/825-tashkent-primet-xiii-uzstroyexpo
+2024-07-24 11:49:45,201 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/825/print
+2024-07-24 11:49:45,201 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/article/824-avtonomnye-istochniki-elektrosnabzheniya-chto-k-nim-otnositsya
+2024-07-24 11:49:45,201 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/article/822-forward-up-vash-nadezhnyj-partner
+2024-07-24 11:49:45,201 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/article/819-sovety-po-vyboru-krovati-dlya-podrostka
+2024-07-24 11:49:45,201 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/article/816-process-proizvodstva-sendvich-panelej-chto-nuzhno-znat
+2024-07-24 11:49:45,201 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/service/55-promyslennyi-alpinizm
+2024-07-24 11:49:45,201 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/service/54-pokraska-fasada-zdaniya
+2024-07-24 11:49:45,201 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/service/53-mytyo-steklyannyx-fasadov
+2024-07-24 11:49:45,201 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/service/52-promyslennyi-alpinizm
+2024-07-24 11:49:45,201 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/service/47-snyder-electric
+2024-07-24 11:49:45,201 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/service/create
+2024-07-24 11:49:45,201 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/820-termezskij-mezhdunarodnyj-aeroport-zavershil на глубине 3
+2024-07-24 11:49:45,201 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/820-termezskij-mezhdunarodnyj-aeroport-zavershil
+2024-07-24 11:49:47,154 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/news/820-termezskij-mezhdunarodnyj-aeroport-zavershil
+2024-07-24 11:49:47,155 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/820-termezskij-mezhdunarodnyj-aeroport-zavershil
+2024-07-24 11:49:47,155 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/820/print
+2024-07-24 11:49:47,155 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/818-aes-moshnostyu-330-mvt на глубине 3
+2024-07-24 11:49:47,155 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/818-aes-moshnostyu-330-mvt
+2024-07-24 11:49:48,927 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/news/818-aes-moshnostyu-330-mvt
+2024-07-24 11:49:48,927 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/818-aes-moshnostyu-330-mvt
+2024-07-24 11:49:48,927 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/818/print
+2024-07-24 11:49:48,927 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2181-armatura-a500s на глубине 3
+2024-07-24 11:49:48,927 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2181-armatura-a500s
+2024-07-24 11:49:50,306 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/product/2181-armatura-a500s
+2024-07-24 11:49:50,306 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2181-armatura-a500s
+2024-07-24 11:49:50,307 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/868-metallicheskaya-armatura
+2024-07-24 11:49:50,307 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2181-armatura-a500s#product-page-suppliers
+2024-07-24 11:49:50,307 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2181-armatura-a500s#product-page-specifications
+2024-07-24 11:49:50,307 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2181-armatura-a500s#product-page-description
+2024-07-24 11:49:50,307 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2181-armatura-a500s#product-page-photo
+2024-07-24 11:49:50,307 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2181-armatura-a500s#page-reviews-block
+2024-07-24 11:49:50,307 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/company/5459-shox-sodiq
+2024-07-24 11:49:50,307 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki на глубине 3
+2024-07-24 11:49:50,307 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki
+2024-07-24 11:49:51,768 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki
+2024-07-24 11:49:51,768 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2180-upakovocnye-konverty-upakovki
+2024-07-24 11:49:51,768 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/1140-upakovochnye-setki
+2024-07-24 11:49:51,768 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki#product-page-suppliers
+2024-07-24 11:49:51,768 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki#product-page-specifications
+2024-07-24 11:49:51,768 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki#product-page-description
+2024-07-24 11:49:51,768 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki#product-page-photo
+2024-07-24 11:49:51,768 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki#page-reviews-block
+2024-07-24 11:49:51,768 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/company/1615-isocom
+2024-07-24 11:49:51,768 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1812-setka-upakovocnaya-melkoyaceistaya-rukav
+2024-07-24 11:49:51,768 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf на глубине 3
+2024-07-24 11:49:51,768 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf
+2024-07-24 11:49:52,924 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf
+2024-07-24 11:49:52,925 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2178-dveri-alidoorf
+2024-07-24 11:49:52,925 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/153-dveri
+2024-07-24 11:49:52,925 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf#product-page-suppliers
+2024-07-24 11:49:52,925 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf#product-page-specifications
+2024-07-24 11:49:52,925 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf#product-page-description
+2024-07-24 11:49:52,925 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf#product-page-photo
+2024-07-24 11:49:52,925 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf#page-reviews-block
+2024-07-24 11:49:52,925 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/company/5360-alidoorf
+2024-07-24 11:49:52,925 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1197-vkhodnye-stalnye-dveri
+2024-07-24 11:49:52,925 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09 на глубине 3
+2024-07-24 11:49:52,925 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09
+2024-07-24 11:49:54,226 - INFO - Найдено 67 новых ссылок на странице https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09
+2024-07-24 11:49:54,227 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2176-kondicioner-midea-alba-low-voltage-09
+2024-07-24 11:49:54,227 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/242-kondicionery-i-ventilyaciya
+2024-07-24 11:49:54,227 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09#product-page-suppliers
+2024-07-24 11:49:54,227 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09#product-page-specifications
+2024-07-24 11:49:54,227 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09#product-page-description
+2024-07-24 11:49:54,227 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09#product-page-photo
+2024-07-24 11:49:54,227 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09#page-reviews-block
+2024-07-24 11:49:54,227 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/company/2940-t-line
+2024-07-24 11:49:54,227 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1206-kolonnyy-konditsioner-technobox-u-freeze-30
+2024-07-24 11:49:54,227 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1205-technobox-bora-12-full-inverter
+2024-07-24 11:49:54,227 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1204-konditsioner-technobox-fairy-ultra-12-low-voltage
+2024-07-24 11:49:54,227 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1203-konditsioner-technobox-pantera-12-inverter-150-240v
+2024-07-24 11:49:54,227 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1202-konditsioner-technobox-u-crown-12-inverter-170-240v
+2024-07-24 11:49:54,227 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27 на глубине 3
+2024-07-24 11:49:54,227 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27
+2024-07-24 11:49:56,630 - INFO - Найдено 57 новых ссылок на странице https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27
+2024-07-24 11:49:56,630 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27
+2024-07-24 11:49:56,630 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/861-metallicheskij-ugolok
+2024-07-24 11:49:56,630 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27#product-page-suppliers
+2024-07-24 11:49:56,630 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27#product-page-specifications
+2024-07-24 11:49:56,631 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27#product-page-description
+2024-07-24 11:49:56,631 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27#product-page-photo
+2024-07-24 11:49:56,631 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27#page-reviews-block
+2024-07-24 11:49:56,631 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/company/5344-rostmetall
+2024-07-24 11:49:56,631 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3 на глубине 3
+2024-07-24 11:49:56,631 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3
+2024-07-24 11:49:57,811 - INFO - Найдено 57 новых ссылок на странице https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3
+2024-07-24 11:49:57,811 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2174-truba-profilnaya-100x100x4-mm-st3
+2024-07-24 11:49:57,811 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/70-truba-stalnaya
+2024-07-24 11:49:57,811 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3#product-page-suppliers
+2024-07-24 11:49:57,811 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3#product-page-specifications
+2024-07-24 11:49:57,811 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3#product-page-description
+2024-07-24 11:49:57,811 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3#product-page-photo
+2024-07-24 11:49:57,811 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3#page-reviews-block
+2024-07-24 11:49:57,811 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3 на глубине 3
+2024-07-24 11:49:57,811 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3
+2024-07-24 11:49:59,245 - INFO - Найдено 57 новых ссылок на странице https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3
+2024-07-24 11:49:59,245 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3
+2024-07-24 11:49:59,245 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/71-listovoj-prokat
+2024-07-24 11:49:59,245 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3#product-page-suppliers
+2024-07-24 11:49:59,245 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3#product-page-specifications
+2024-07-24 11:49:59,245 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3#product-page-description
+2024-07-24 11:49:59,245 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3#product-page-photo
+2024-07-24 11:49:59,245 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3#page-reviews-block
+2024-07-24 11:49:59,245 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii на глубине 3
+2024-07-24 11:49:59,245 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii
+2024-07-24 11:50:00,780 - INFO - Найдено 75 новых ссылок на странице https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/726-kabeli-i-provoda
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii#product-page-suppliers
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii#product-page-specifications
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii#product-page-description
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii#product-page-photo
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii#page-reviews-block
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1221-kabel-kanal-2-y-zamok-100kh40-24mup-48-506-sum-za-1-pm
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1172-zaglushka-legrand-metra
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1170-povorot-lotka-na-90gr-vertikal-nyj-vnutrennij-iek-50h200
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1169-provod-pvs-5h2-5-mnogozhil-nyj
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1158-kabel-silovoj-vvgng-4h240-1
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1157-kabel-silovoj-vvgng-5h6-0-66
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1154-kabel-silovoj-vvgng-2h1-5-0-66
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1133-provod-pvs-4h0-75-mnogozhil-nyj
+2024-07-24 11:50:00,780 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1132-kabel-avvg-4h10-0-0-66
+2024-07-24 11:50:00,780 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt на глубине 3
+2024-07-24 11:50:00,780 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt
+2024-07-24 11:50:03,898 - INFO - Найдено 75 новых ссылок на странице https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2169-solnecnye-paneli-astronergy-550-vatt
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/303-elektroustanovochnye-izdeliya
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt#product-page-suppliers
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt#product-page-specifications
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt#product-page-description
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt#product-page-photo
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt#page-reviews-block
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/company/5001-sbg-energy-servis-group
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/1488-stabilizator-napryazeniya-andeli-svc-d15000va-80-250v-napolnyi
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/982-akkumulyator-bosch-36v-4-0ah-li-ion
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/943-stabilizator-napryazheniya-andeli-svc-3000va
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/716-polevoj-kabel-gsp-2h0-5
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/516-korobka-ustanovochnaya-dlya-blokov-d-72-mm-h-48-mm
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/500-korobki-razvetvitelnye-dlya-polykh-sten-i-peregorodok-iz-gipsokartona-kr1202-hegel
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/499-korobka-razvetvitelnaya-dlya-polyh-sten-i-peregorodok-kr1205-hegel
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/496-korobka-razvetvitelnaya-dlya-polyh-sten-i-peregorodok-kr-1204-hegel
+2024-07-24 11:50:03,898 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/495-ramka-skrytoy-ustanovki-r401-seriya-master-ot-hegel
+2024-07-24 11:50:03,898 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei на глубине 3
+2024-07-24 11:50:03,898 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:50:05,294 - INFO - Найдено 73 новых ссылок на странице https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:50:05,294 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:50:05,294 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/category/72-alyuminievyj-metalloprokat
+2024-07-24 11:50:05,294 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei#product-page-suppliers
+2024-07-24 11:50:05,294 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei#product-page-specifications
+2024-07-24 11:50:05,294 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei#product-page-description
+2024-07-24 11:50:05,294 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei#product-page-photo
+2024-07-24 11:50:05,294 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei#page-reviews-block
+2024-07-24 11:50:05,294 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2164-l-kronstein-50x50-5-sm-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:50:05,294 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2163-l-kronstein-50x50-4-sm-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:50:05,294 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2162-l-kronstein-50x50-3-sm
+2024-07-24 11:50:05,294 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2161-prizim-koncevoi-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:50:05,294 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2160-prizim-srednii-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:50:05,294 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2159-krepyoznaya-planka-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:50:05,294 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2158-soedinitel-universalnyi-100-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:50:05,294 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/product/2157-universalnyi-profil-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:50:05,294 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/823-huawei-otkryvaet-krupnejshij-nauchnyj-kampus-v-kitae на глубине 3
+2024-07-24 11:50:05,294 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/823-huawei-otkryvaet-krupnejshij-nauchnyj-kampus-v-kitae
+2024-07-24 11:50:07,343 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/news/823-huawei-otkryvaet-krupnejshij-nauchnyj-kampus-v-kitae
+2024-07-24 11:50:07,343 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/823-huawei-otkryvaet-krupnejshij-nauchnyj-kampus-v-kitae
+2024-07-24 11:50:07,343 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/823/print
+2024-07-24 11:50:07,343 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/812-arhitektory-iz-ssha-i-shvejcarii на глубине 3
+2024-07-24 11:50:07,343 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/812-arhitektory-iz-ssha-i-shvejcarii
+2024-07-24 11:50:09,001 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/news/812-arhitektory-iz-ssha-i-shvejcarii
+2024-07-24 11:50:09,001 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/812-arhitektory-iz-ssha-i-shvejcarii
+2024-07-24 11:50:09,001 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/812/print
+2024-07-24 11:50:09,001 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/810-stroitelstvo-zheleznoj-dorogi-kitaj-kyrgyzstan-uzbekistan на глубине 3
+2024-07-24 11:50:09,001 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/810-stroitelstvo-zheleznoj-dorogi-kitaj-kyrgyzstan-uzbekistan
+2024-07-24 11:50:11,529 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/news/810-stroitelstvo-zheleznoj-dorogi-kitaj-kyrgyzstan-uzbekistan
+2024-07-24 11:50:11,529 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/810-stroitelstvo-zheleznoj-dorogi-kitaj-kyrgyzstan-uzbekistan
+2024-07-24 11:50:11,529 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/810/print
+2024-07-24 11:50:11,529 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/809-uzbekistan-stroit-zavod-po-okomkovaniyu на глубине 3
+2024-07-24 11:50:11,529 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/809-uzbekistan-stroit-zavod-po-okomkovaniyu
+2024-07-24 11:50:14,297 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/news/809-uzbekistan-stroit-zavod-po-okomkovaniyu
+2024-07-24 11:50:14,297 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/809-uzbekistan-stroit-zavod-po-okomkovaniyu
+2024-07-24 11:50:14,297 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/809/print
+2024-07-24 11:50:14,297 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/806-uzbekistan-i-rossiya-ukreplyayut-energeticheskoe-sotrudnichestvo на глубине 3
+2024-07-24 11:50:14,297 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/806-uzbekistan-i-rossiya-ukreplyayut-energeticheskoe-sotrudnichestvo
+2024-07-24 11:50:16,948 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/news/806-uzbekistan-i-rossiya-ukreplyayut-energeticheskoe-sotrudnichestvo
+2024-07-24 11:50:16,949 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/806-uzbekistan-i-rossiya-ukreplyayut-energeticheskoe-sotrudnichestvo
+2024-07-24 11:50:16,949 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/806/print
+2024-07-24 11:50:16,949 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/802-v-uzbekistane-postroyat-platnuyu-dorogu на глубине 3
+2024-07-24 11:50:16,949 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/802-v-uzbekistane-postroyat-platnuyu-dorogu
+2024-07-24 11:50:20,644 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/news/802-v-uzbekistane-postroyat-platnuyu-dorogu
+2024-07-24 11:50:20,644 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/802-v-uzbekistane-postroyat-platnuyu-dorogu
+2024-07-24 11:50:20,644 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/802/print
+2024-07-24 11:50:20,644 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/800-uzbekistan-stroit-aes-pri на глубине 3
+2024-07-24 11:50:20,644 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/800-uzbekistan-stroit-aes-pri
+2024-07-24 11:50:23,179 - INFO - Найдено 59 новых ссылок на странице https://stroyvitrina.uz/uz/news/800-uzbekistan-stroit-aes-pri
+2024-07-24 11:50:23,179 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/800-uzbekistan-stroit-aes-pri
+2024-07-24 11:50:23,179 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/800/print
+2024-07-24 11:50:23,179 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/799-uzatom-i-rosatom-gotovyatsya-k-stroitelstvu на глубине 3
+2024-07-24 11:50:23,179 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/799-uzatom-i-rosatom-gotovyatsya-k-stroitelstvu
+2024-07-24 11:50:24,842 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/news/799-uzatom-i-rosatom-gotovyatsya-k-stroitelstvu
+2024-07-24 11:50:24,842 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/799-uzatom-i-rosatom-gotovyatsya-k-stroitelstvu
+2024-07-24 11:50:24,842 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/799/print
+2024-07-24 11:50:24,843 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/798-uzbekistan-i-belarus-obsudili-sotrudnichestvo на глубине 3
+2024-07-24 11:50:24,843 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/798-uzbekistan-i-belarus-obsudili-sotrudnichestvo
+2024-07-24 11:50:27,402 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/news/798-uzbekistan-i-belarus-obsudili-sotrudnichestvo
+2024-07-24 11:50:27,402 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/798-uzbekistan-i-belarus-obsudili-sotrudnichestvo
+2024-07-24 11:50:27,402 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/798/print
+2024-07-24 11:50:27,402 - INFO - Сканирование страницы: https://stroyvitrina.uz/uz/news/794-tendencii-i-innovacii-v-oblasti на глубине 3
+2024-07-24 11:50:27,402 - INFO - Запрос страницы: https://stroyvitrina.uz/uz/news/794-tendencii-i-innovacii-v-oblasti
+2024-07-24 11:50:31,011 - INFO - Найдено 58 новых ссылок на странице https://stroyvitrina.uz/uz/news/794-tendencii-i-innovacii-v-oblasti
+2024-07-24 11:50:31,012 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news/794-tendencii-i-innovacii-v-oblasti
+2024-07-24 11:50:31,012 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/794/print
+2024-07-24 11:50:31,012 - INFO - Сканирование страницы: https://stroyvitrina.uz/login на глубине 2
+2024-07-24 11:50:31,012 - INFO - Запрос страницы: https://stroyvitrina.uz/login
+2024-07-24 11:50:32,004 - INFO - Найдено 39 новых ссылок на странице https://stroyvitrina.uz/login
+2024-07-24 11:50:32,005 - INFO - Сканирование страницы: https://stroyvitrina.uz/categories на глубине 3
+2024-07-24 11:50:32,005 - INFO - Запрос страницы: https://stroyvitrina.uz/categories
+2024-07-24 11:50:33,029 - INFO - Найдено 97 новых ссылок на странице https://stroyvitrina.uz/categories
+2024-07-24 11:50:33,029 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/services
+2024-07-24 11:50:33,029 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/rubrics
+2024-07-24 11:50:33,029 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/info
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/articles
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/events
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/page/12-advertisment
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/page/3-about
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/contacts
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/product/company/select
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/252-aksessuary-dlya-pechej-i-kaminov
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/225-bezopasnost
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/21-beton-zhbi
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/785-blagoustrojstvo
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/34-geomaterialy
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/153-dveri
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/235-inzhenernaya-santehnika
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/416-inzhenernye-sistemy
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/396-instrumenty
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/783-interer-i-otdelka
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/256-komplektuyushie-dlya-ventilyacionnyh-sistem
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/242-kondicionery-i-ventilyaciya
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/915-kontrolno-izmeritel-nye-pribory
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/45-krepezhi
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/57-krovlya
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/331-kuhonnye-prinadlezhnosti
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/895-lifty
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/339-mebel
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/253-membrannye-baki
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/68-metall-i-metallicheskie-izdeliya
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/187-napolnye-pokrytiya
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/176-okna-steklo
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/1103-paneli
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/104-pilomaterialy
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/198-plitka-i-kamni
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/408-polimernye-izdeliya
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/363-posuda
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/371-predmety-dekora
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/254-rashodniki-dlya-ventilyacionnogo-oborudovaniya
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/257-rashodniki-dlya-vodonagrevatelej
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/258-rashodniki-dlya-kondicionerov
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/251-raskhodniki-dlya-kotelnogo-oborudovaniya
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/250-rashodniki-dlya-promyshlennyh-sistem-kondicionirovaniya
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/255-rashodniki-dlya-sistem-otopleniya
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/259-rashodniki-dlya-teplovyh-pushek
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/260-rashodnye-materialy-dlya-silovogo-oborudovaniya
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/269-santehnika-i-sanfayans
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/282-santehnicheskoe-oborudovanie
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/293-sistemy-otopleniya-i-obogreva
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/668-stanki
+2024-07-24 11:50:33,030 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/488-stroitel-nye-materialy
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/430-stroitel-nye-oborudovaniya
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/115-suhie-stroitelnye-smesi
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/126-sypuchie-materialy
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/419-tara-i-upakovka
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/313-tovary-dlya-doma-dachi-sada
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/804-tovary-dlya-turizma-i-otdyha
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/147-fasadnye-sistemy
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/214-finishnye-materialy-dlya-sten
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/302-elektrooborudovanie
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/category/898-eskalatory
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/service/55-promyslennyi-alpinizm
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/service/54-pokraska-fasada-zdaniya
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/service/53-mytyo-steklyannyx-fasadov
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/service/52-promyslennyi-alpinizm
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/service/47-snyder-electric
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/service/create
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/page/16-kak-dobavit-kompaniyu
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/page/17-kak-dobavit-tovar
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/page/18-kak-dobavit-uslugu
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/page/20-kak-razmestit-statyu
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/news
+2024-07-24 11:50:33,031 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/tenders
+2024-07-24 11:50:33,031 - INFO - Сканирование страницы: https://stroyvitrina.uz/password/reset на глубине 3
+2024-07-24 11:50:33,031 - INFO - Запрос страницы: https://stroyvitrina.uz/password/reset
+2024-07-24 11:50:33,849 - INFO - Найдено 34 новых ссылок на странице https://stroyvitrina.uz/password/reset
+2024-07-24 11:50:33,849 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/password/reset
+2024-07-24 11:50:33,849 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/password/reset
+2024-07-24 11:50:33,849 - INFO - Сканирование страницы: https://stroyvitrina.uz/article/822-forward-up-nadezhnyj-partner на глубине 2
+2024-07-24 11:50:33,849 - INFO - Запрос страницы: https://stroyvitrina.uz/article/822-forward-up-nadezhnyj-partner
+2024-07-24 11:50:35,800 - INFO - Найдено 54 новых ссылок на странице https://stroyvitrina.uz/article/822-forward-up-nadezhnyj-partner
+2024-07-24 11:50:35,800 - INFO - Сканирование страницы: https://stroyvitrina.uz/publication/822/print на глубине 3
+2024-07-24 11:50:35,800 - INFO - Запрос страницы: https://stroyvitrina.uz/publication/822/print
+2024-07-24 11:50:36,989 - INFO - Найдено 34 новых ссылок на странице https://stroyvitrina.uz/publication/822/print
+2024-07-24 11:50:36,989 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/uz/publication/822/print
+2024-07-24 11:50:36,989 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/oz/publication/822/print
+2024-07-24 11:50:36,989 - INFO - Сканирование страницы: https://stroyvitrina.uz/article/824-avtonomnye-istochniki-elektrosnabzheniya-chto-k-nim-otnositsya на глубине 3
+2024-07-24 11:50:36,989 - INFO - Запрос страницы: https://stroyvitrina.uz/article/824-avtonomnye-istochniki-elektrosnabzheniya-chto-k-nim-otnositsya
+2024-07-24 11:50:39,692 - INFO - Найдено 52 новых ссылок на странице https://stroyvitrina.uz/article/824-avtonomnye-istochniki-elektrosnabzheniya-chto-k-nim-otnositsya
+2024-07-24 11:50:39,692 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/publication/824/print
+2024-07-24 11:50:39,692 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/article/819-sovety-po-vyboru-krovati-dlya-podrostka
+2024-07-24 11:50:39,692 - INFO - Достигнут лимит глубины или количества страниц для https://stroyvitrina.uz/article/816-process-proizvodstva-sendvich-panelej-chto-nuzhno-znat
+2024-07-24 11:50:39,693 - INFO - Всего страниц для проверки: 327
+2024-07-24 11:50:39,693 - INFO - ====== WebDriver manager ======
+2024-07-24 11:50:39,829 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-24 11:50:40,122 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-24 11:50:40,429 - INFO - Driver [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-arm64/chromedriver] found in cache
+2024-07-24 11:50:41,216 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/
+2024-07-24 11:50:43,682 - INFO - Обработано 1 из 327 страниц.
+2024-07-24 11:50:43,682 - INFO - Обрабатываем страницу: https://stroyvitrina.uz
+2024-07-24 11:50:46,706 - INFO - Обработано 2 из 327 страниц.
+2024-07-24 11:50:46,706 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz
+2024-07-24 11:50:50,894 - INFO - Обработано 3 из 327 страниц.
+2024-07-24 11:50:50,894 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz
+2024-07-24 11:50:54,515 - INFO - Обработано 4 из 327 страниц.
+2024-07-24 11:50:54,515 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/register
+2024-07-24 11:50:59,955 - INFO - Обработано 5 из 327 страниц.
+2024-07-24 11:50:59,955 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/login
+2024-07-24 11:51:01,383 - INFO - Обработано 6 из 327 страниц.
+2024-07-24 11:51:01,383 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/categories
+2024-07-24 11:51:04,304 - INFO - Обработано 7 из 327 страниц.
+2024-07-24 11:51:04,304 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/services
+2024-07-24 11:51:06,215 - INFO - Обработано 8 из 327 страниц.
+2024-07-24 11:51:06,215 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/rubrics
+2024-07-24 11:51:08,703 - INFO - Обработано 9 из 327 страниц.
+2024-07-24 11:51:08,703 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/info
+2024-07-24 11:51:11,403 - INFO - Обработано 10 из 327 страниц.
+2024-07-24 11:51:11,403 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/articles
+2024-07-24 11:51:13,817 - INFO - Обработано 11 из 327 страниц.
+2024-07-24 11:51:13,817 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/events
+2024-07-24 11:51:16,327 - INFO - Обработано 12 из 327 страниц.
+2024-07-24 11:51:16,327 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/page/12-advertisment
+2024-07-24 11:51:18,185 - INFO - Обработано 13 из 327 страниц.
+2024-07-24 11:51:18,185 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/page/3-about
+2024-07-24 11:51:20,241 - INFO - Обработано 14 из 327 страниц.
+2024-07-24 11:51:20,241 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/contacts
+2024-07-24 11:51:25,185 - INFO - Обработано 15 из 327 страниц.
+2024-07-24 11:51:25,185 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/news
+2024-07-24 11:51:27,956 - INFO - Обработано 16 из 327 страниц.
+2024-07-24 11:51:27,956 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/publication/825-tashkent-primet-xiii-uzstroyexpo-v-oktyabre-2024-goda
+2024-07-24 11:51:31,209 - INFO - Обработано 17 из 327 страниц.
+2024-07-24 11:51:31,209 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/article/822-forward-up-vash-nadezhnyj-partner
+2024-07-24 11:51:34,618 - INFO - Обработано 18 из 327 страниц.
+2024-07-24 11:51:34,618 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/news/820-termezskij-mezhdunarodnyj-aeroport-zavershil
+2024-07-24 11:51:37,689 - INFO - Обработано 19 из 327 страниц.
+2024-07-24 11:51:37,689 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/news/818-aes-moshnostyu-330-mvt
+2024-07-24 11:51:40,095 - INFO - Обработано 20 из 327 страниц.
+2024-07-24 11:51:40,095 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/product/2181-armatura-a500s
+2024-07-24 11:51:42,714 - INFO - Обработано 21 из 327 страниц.
+2024-07-24 11:51:42,714 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/product/2180-upakovocnye-konverty-upakovki
+2024-07-24 11:51:45,800 - INFO - Обработано 22 из 327 страниц.
+2024-07-24 11:51:45,800 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/product/2178-dveri-alidoorf
+2024-07-24 11:51:48,287 - INFO - Обработано 23 из 327 страниц.
+2024-07-24 11:51:48,287 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/product/2176-kondicioner-midea-alba-low-voltage-09
+2024-07-24 11:51:50,885 - INFO - Обработано 24 из 327 страниц.
+2024-07-24 11:51:50,885 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27
+2024-07-24 11:51:53,619 - INFO - Обработано 25 из 327 страниц.
+2024-07-24 11:51:53,619 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/product/2174-truba-profilnaya-100x100x4-mm-st3
+2024-07-24 11:51:56,905 - INFO - Обработано 26 из 327 страниц.
+2024-07-24 11:51:56,906 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3
+2024-07-24 11:51:59,227 - INFO - Обработано 27 из 327 страниц.
+2024-07-24 11:51:59,228 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii
+2024-07-24 11:52:01,191 - INFO - Обработано 28 из 327 страниц.
+2024-07-24 11:52:01,191 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/product/2169-solnecnye-paneli-astronergy-550-vatt
+2024-07-24 11:52:05,906 - INFO - Обработано 29 из 327 страниц.
+2024-07-24 11:52:05,906 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:52:09,806 - INFO - Обработано 30 из 327 страниц.
+2024-07-24 11:52:09,806 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/article/824-avtonomnye-istochniki-elektrosnabzheniya-chto-k-nim-otnositsya
+2024-07-24 11:52:13,603 - INFO - Обработано 31 из 327 страниц.
+2024-07-24 11:52:13,603 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/article/819-sovety-po-vyboru-krovati-dlya-podrostka
+2024-07-24 11:52:17,005 - INFO - Обработано 32 из 327 страниц.
+2024-07-24 11:52:17,005 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/article/816-process-proizvodstva-sendvich-panelej-chto-nuzhno-znat
+2024-07-24 11:52:19,931 - INFO - Обработано 33 из 327 страниц.
+2024-07-24 11:52:19,931 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/news/823-huawei-otkryvaet-krupnejshij-nauchnyj-kampus-v-kitae
+2024-07-24 11:52:23,153 - INFO - Обработано 34 из 327 страниц.
+2024-07-24 11:52:23,153 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/news/812-arhitektory-iz-ssha-i-shvejcarii
+2024-07-24 11:52:26,406 - INFO - Обработано 35 из 327 страниц.
+2024-07-24 11:52:26,406 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/news/810-stroitelstvo-zheleznoj-dorogi-kitaj-kyrgyzstan-uzbekistan
+2024-07-24 11:52:29,725 - INFO - Обработано 36 из 327 страниц.
+2024-07-24 11:52:29,725 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/news/809-uzbekistan-stroit-zavod-po-okomkovaniyu
+2024-07-24 11:52:33,356 - INFO - Обработано 37 из 327 страниц.
+2024-07-24 11:52:33,356 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/news/806-uzbekistan-i-rossiya-ukreplyayut-energeticheskoe-sotrudnichestvo
+2024-07-24 11:52:36,805 - INFO - Обработано 38 из 327 страниц.
+2024-07-24 11:52:36,805 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/news/802-v-uzbekistane-postroyat-platnuyu-dorogu
+2024-07-24 11:52:41,754 - INFO - Обработано 39 из 327 страниц.
+2024-07-24 11:52:41,754 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/news/800-uzbekistan-stroit-aes-pri
+2024-07-24 11:52:46,289 - INFO - Обработано 40 из 327 страниц.
+2024-07-24 11:52:46,289 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/news/799-uzatom-i-rosatom-gotovyatsya-k-stroitelstvu
+2024-07-24 11:52:51,186 - INFO - Обработано 41 из 327 страниц.
+2024-07-24 11:52:51,186 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/news/798-uzbekistan-i-belarus-obsudili-sotrudnichestvo
+2024-07-24 11:52:53,901 - INFO - Обработано 42 из 327 страниц.
+2024-07-24 11:52:53,902 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/news/794-tendencii-i-innovacii-v-oblasti
+2024-07-24 11:52:56,591 - INFO - Обработано 43 из 327 страниц.
+2024-07-24 11:52:56,591 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/service/55-promyslennyi-alpinizm
+2024-07-24 11:52:58,614 - INFO - Обработано 44 из 327 страниц.
+2024-07-24 11:52:58,614 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/service/54-pokraska-fasada-zdaniya
+2024-07-24 11:53:00,368 - INFO - Обработано 45 из 327 страниц.
+2024-07-24 11:53:00,368 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/service/53-mytyo-steklyannyx-fasadov
+2024-07-24 11:53:03,140 - INFO - Обработано 46 из 327 страниц.
+2024-07-24 11:53:03,140 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/service/52-promyslennyi-alpinizm
+2024-07-24 11:53:05,530 - INFO - Обработано 47 из 327 страниц.
+2024-07-24 11:53:05,530 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/service/47-snyder-electric
+2024-07-24 11:53:07,802 - INFO - Обработано 48 из 327 страниц.
+2024-07-24 11:53:07,802 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/service/create
+2024-07-24 11:53:10,401 - INFO - Обработано 49 из 327 страниц.
+2024-07-24 11:53:10,401 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/page/16-kak-dobavit-kompaniyu
+2024-07-24 11:53:12,098 - INFO - Обработано 50 из 327 страниц.
+2024-07-24 11:53:12,098 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/anketa_sprav_uz.docx
+2024-07-24 11:53:12,130 - INFO - Обработано 51 из 327 страниц.
+2024-07-24 11:53:12,132 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/page/17-kak-dobavit-tovar
+2024-07-24 11:53:14,276 - INFO - Обработано 52 из 327 страниц.
+2024-07-24 11:53:14,276 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/page/18-kak-dobavit-uslugu
+2024-07-24 11:53:15,955 - INFO - Обработано 53 из 327 страниц.
+2024-07-24 11:53:15,955 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/page/20-kak-razmestit-statyu
+2024-07-24 11:53:17,164 - INFO - Обработано 54 из 327 страниц.
+2024-07-24 11:53:17,164 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/tenders
+2024-07-24 11:53:18,837 - INFO - Обработано 55 из 327 страниц.
+2024-07-24 11:53:18,837 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/files/status-ehlektronnogo-smi-strojvitrina.pdf
+2024-07-24 11:53:18,875 - INFO - Обработано 56 из 327 страниц.
+2024-07-24 11:53:18,875 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/register
+2024-07-24 11:53:22,417 - INFO - Обработано 57 из 327 страниц.
+2024-07-24 11:53:22,417 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/register
+2024-07-24 11:53:26,199 - INFO - Обработано 58 из 327 страниц.
+2024-07-24 11:53:26,199 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/login
+2024-07-24 11:53:27,719 - INFO - Обработано 59 из 327 страниц.
+2024-07-24 11:53:27,719 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/categories
+2024-07-24 11:53:29,910 - INFO - Обработано 60 из 327 страниц.
+2024-07-24 11:53:29,910 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/services
+2024-07-24 11:53:33,214 - INFO - Обработано 61 из 327 страниц.
+2024-07-24 11:53:33,214 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/rubrics
+2024-07-24 11:53:37,694 - INFO - Обработано 62 из 327 страниц.
+2024-07-24 11:53:37,694 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/info
+2024-07-24 11:53:42,894 - INFO - Обработано 63 из 327 страниц.
+2024-07-24 11:53:42,895 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/articles
+2024-07-24 11:53:47,155 - INFO - Обработано 64 из 327 страниц.
+2024-07-24 11:53:47,155 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/events
+2024-07-24 11:53:49,896 - INFO - Обработано 65 из 327 страниц.
+2024-07-24 11:53:49,896 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/page/12-advertisment
+2024-07-24 11:53:53,680 - INFO - Обработано 66 из 327 страниц.
+2024-07-24 11:53:53,680 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/page/3-about
+2024-07-24 11:53:56,152 - INFO - Обработано 67 из 327 страниц.
+2024-07-24 11:53:56,152 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/contacts
+2024-07-24 11:53:59,087 - INFO - Обработано 68 из 327 страниц.
+2024-07-24 11:53:59,087 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/page/16-kak-dobavit-kompaniyu
+2024-07-24 11:54:00,393 - INFO - Обработано 69 из 327 страниц.
+2024-07-24 11:54:00,393 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/page/17-kak-dobavit-tovar
+2024-07-24 11:54:03,161 - INFO - Обработано 70 из 327 страниц.
+2024-07-24 11:54:03,161 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/page/18-kak-dobavit-uslugu
+2024-07-24 11:54:06,301 - INFO - Обработано 71 из 327 страниц.
+2024-07-24 11:54:06,301 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/page/20-kak-razmestit-statyu
+2024-07-24 11:54:08,028 - INFO - Обработано 72 из 327 страниц.
+2024-07-24 11:54:08,028 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/news
+2024-07-24 11:54:10,940 - INFO - Обработано 73 из 327 страниц.
+2024-07-24 11:54:10,940 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/tenders
+2024-07-24 11:54:13,463 - INFO - Обработано 74 из 327 страниц.
+2024-07-24 11:54:13,463 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/publication/825-tashkent-primet-xiii-uzstroyexpo-v-oktyabre-2024-goda
+2024-07-24 11:54:15,636 - INFO - Обработано 75 из 327 страниц.
+2024-07-24 11:54:15,636 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/publication/825-tashkent-primet-xiii-uzstroyexpo
+2024-07-24 11:54:18,654 - INFO - Обработано 76 из 327 страниц.
+2024-07-24 11:54:18,654 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/publication/825/print
+2024-07-24 11:54:20,135 - INFO - Обработано 77 из 327 страниц.
+2024-07-24 11:54:20,135 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/article/824-avtonomnye-istochniki-elektrosnabzheniya-chto-k-nim-otnositsya
+2024-07-24 11:54:22,665 - INFO - Обработано 78 из 327 страниц.
+2024-07-24 11:54:22,665 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/article/822-forward-up-vash-nadezhnyj-partner
+2024-07-24 11:54:24,785 - INFO - Обработано 79 из 327 страниц.
+2024-07-24 11:54:24,785 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/article/819-sovety-po-vyboru-krovati-dlya-podrostka
+2024-07-24 11:54:27,885 - INFO - Обработано 80 из 327 страниц.
+2024-07-24 11:54:27,885 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/article/816-process-proizvodstva-sendvich-panelej-chto-nuzhno-znat
+2024-07-24 11:54:31,399 - INFO - Обработано 81 из 327 страниц.
+2024-07-24 11:54:31,400 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/service/55-promyslennyi-alpinizm
+2024-07-24 11:54:35,995 - INFO - Обработано 82 из 327 страниц.
+2024-07-24 11:54:35,996 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/service/54-pokraska-fasada-zdaniya
+2024-07-24 11:54:42,780 - INFO - Обработано 83 из 327 страниц.
+2024-07-24 11:54:42,780 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/service/53-mytyo-steklyannyx-fasadov
+2024-07-24 11:54:52,857 - INFO - Обработано 84 из 327 страниц.
+2024-07-24 11:54:52,858 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/service/52-promyslennyi-alpinizm
+2024-07-24 11:55:03,599 - INFO - Обработано 85 из 327 страниц.
+2024-07-24 11:55:03,599 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/service/47-snyder-electric
+2024-07-24 11:55:11,288 - INFO - Обработано 86 из 327 страниц.
+2024-07-24 11:55:11,288 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/service/create
+2024-07-24 11:55:16,903 - INFO - Обработано 87 из 327 страниц.
+2024-07-24 11:55:16,904 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/news/820-termezskij-mezhdunarodnyj-aeroport-zavershil
+2024-07-24 11:55:19,892 - INFO - Обработано 88 из 327 страниц.
+2024-07-24 11:55:19,892 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/news/820-termezskij-mezhdunarodnyj-aeroport-zavershil
+2024-07-24 11:55:22,794 - INFO - Обработано 89 из 327 страниц.
+2024-07-24 11:55:22,794 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/publication/820/print
+2024-07-24 11:55:25,170 - INFO - Обработано 90 из 327 страниц.
+2024-07-24 11:55:25,170 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/news/818-aes-moshnostyu-330-mvt
+2024-07-24 11:55:27,432 - INFO - Обработано 91 из 327 страниц.
+2024-07-24 11:55:27,432 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/news/818-aes-moshnostyu-330-mvt
+2024-07-24 11:55:30,036 - INFO - Обработано 92 из 327 страниц.
+2024-07-24 11:55:30,036 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/publication/818/print
+2024-07-24 11:55:33,485 - INFO - Обработано 93 из 327 страниц.
+2024-07-24 11:55:33,485 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2181-armatura-a500s
+2024-07-24 11:55:37,503 - INFO - Обработано 94 из 327 страниц.
+2024-07-24 11:55:37,503 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/product/2181-armatura-a500s
+2024-07-24 11:55:40,469 - INFO - Обработано 95 из 327 страниц.
+2024-07-24 11:55:40,469 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/category/868-metallicheskaya-armatura
+2024-07-24 11:55:43,200 - INFO - Обработано 96 из 327 страниц.
+2024-07-24 11:55:43,200 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2181-armatura-a500s#product-page-suppliers
+2024-07-24 11:55:45,721 - INFO - Обработано 97 из 327 страниц.
+2024-07-24 11:55:45,721 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2181-armatura-a500s#product-page-specifications
+2024-07-24 11:55:45,735 - INFO - Обработано 98 из 327 страниц.
+2024-07-24 11:55:45,735 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2181-armatura-a500s#product-page-description
+2024-07-24 11:55:45,749 - INFO - Обработано 99 из 327 страниц.
+2024-07-24 11:55:45,750 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2181-armatura-a500s#product-page-photo
+2024-07-24 11:55:45,763 - INFO - Обработано 100 из 327 страниц.
+2024-07-24 11:55:45,763 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2181-armatura-a500s#page-reviews-block
+2024-07-24 11:55:45,775 - INFO - Обработано 101 из 327 страниц.
+2024-07-24 11:55:45,775 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/company/5459-shox-sodiq
+2024-07-24 11:55:48,920 - INFO - Обработано 102 из 327 страниц.
+2024-07-24 11:55:48,920 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki
+2024-07-24 11:55:52,945 - INFO - Обработано 103 из 327 страниц.
+2024-07-24 11:55:52,945 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/product/2180-upakovocnye-konverty-upakovki
+2024-07-24 11:55:55,021 - INFO - Обработано 104 из 327 страниц.
+2024-07-24 11:55:55,021 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/category/1140-upakovochnye-setki
+2024-07-24 11:55:57,033 - INFO - Обработано 105 из 327 страниц.
+2024-07-24 11:55:57,033 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki#product-page-suppliers
+2024-07-24 11:55:59,524 - INFO - Обработано 106 из 327 страниц.
+2024-07-24 11:55:59,524 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki#product-page-specifications
+2024-07-24 11:55:59,539 - INFO - Обработано 107 из 327 страниц.
+2024-07-24 11:55:59,539 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki#product-page-description
+2024-07-24 11:55:59,553 - INFO - Обработано 108 из 327 страниц.
+2024-07-24 11:55:59,553 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki#product-page-photo
+2024-07-24 11:55:59,571 - INFO - Обработано 109 из 327 страниц.
+2024-07-24 11:55:59,571 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2180-upakovocnye-konverty-upakovki#page-reviews-block
+2024-07-24 11:55:59,585 - INFO - Обработано 110 из 327 страниц.
+2024-07-24 11:55:59,585 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/company/1615-isocom
+2024-07-24 11:56:02,041 - INFO - Обработано 111 из 327 страниц.
+2024-07-24 11:56:02,041 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1812-setka-upakovocnaya-melkoyaceistaya-rukav
+2024-07-24 11:56:06,363 - INFO - Обработано 112 из 327 страниц.
+2024-07-24 11:56:06,364 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf
+2024-07-24 11:56:07,943 - INFO - Обработано 113 из 327 страниц.
+2024-07-24 11:56:07,943 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/product/2178-dveri-alidoorf
+2024-07-24 11:56:09,845 - INFO - Обработано 114 из 327 страниц.
+2024-07-24 11:56:09,845 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/category/153-dveri
+2024-07-24 11:56:11,686 - INFO - Обработано 115 из 327 страниц.
+2024-07-24 11:56:11,686 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf#product-page-suppliers
+2024-07-24 11:56:13,918 - INFO - Обработано 116 из 327 страниц.
+2024-07-24 11:56:13,918 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf#product-page-specifications
+2024-07-24 11:56:13,932 - INFO - Обработано 117 из 327 страниц.
+2024-07-24 11:56:13,932 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf#product-page-description
+2024-07-24 11:56:13,947 - INFO - Обработано 118 из 327 страниц.
+2024-07-24 11:56:13,947 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf#product-page-photo
+2024-07-24 11:56:13,960 - INFO - Обработано 119 из 327 страниц.
+2024-07-24 11:56:13,960 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2178-dveri-alidoorf#page-reviews-block
+2024-07-24 11:56:13,977 - INFO - Обработано 120 из 327 страниц.
+2024-07-24 11:56:13,977 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/company/5360-alidoorf
+2024-07-24 11:56:16,200 - INFO - Обработано 121 из 327 страниц.
+2024-07-24 11:56:16,200 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1197-vkhodnye-stalnye-dveri
+2024-07-24 11:56:18,220 - INFO - Обработано 122 из 327 страниц.
+2024-07-24 11:56:18,220 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09
+2024-07-24 11:56:20,294 - INFO - Обработано 123 из 327 страниц.
+2024-07-24 11:56:20,295 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/product/2176-kondicioner-midea-alba-low-voltage-09
+2024-07-24 11:56:22,298 - INFO - Обработано 124 из 327 страниц.
+2024-07-24 11:56:22,298 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/category/242-kondicionery-i-ventilyaciya
+2024-07-24 11:56:24,191 - INFO - Обработано 125 из 327 страниц.
+2024-07-24 11:56:24,191 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09#product-page-suppliers
+2024-07-24 11:56:26,129 - INFO - Обработано 126 из 327 страниц.
+2024-07-24 11:56:26,129 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09#product-page-specifications
+2024-07-24 11:56:26,149 - INFO - Обработано 127 из 327 страниц.
+2024-07-24 11:56:26,149 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09#product-page-description
+2024-07-24 11:56:26,164 - INFO - Обработано 128 из 327 страниц.
+2024-07-24 11:56:26,164 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09#product-page-photo
+2024-07-24 11:56:26,179 - INFO - Обработано 129 из 327 страниц.
+2024-07-24 11:56:26,179 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2176-kondicioner-midea-alba-low-voltage-09#page-reviews-block
+2024-07-24 11:56:26,195 - INFO - Обработано 130 из 327 страниц.
+2024-07-24 11:56:26,196 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/company/2940-t-line
+2024-07-24 11:56:28,478 - INFO - Обработано 131 из 327 страниц.
+2024-07-24 11:56:28,478 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1206-kolonnyy-konditsioner-technobox-u-freeze-30
+2024-07-24 11:56:30,157 - INFO - Обработано 132 из 327 страниц.
+2024-07-24 11:56:30,157 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1205-technobox-bora-12-full-inverter
+2024-07-24 11:56:32,074 - INFO - Обработано 133 из 327 страниц.
+2024-07-24 11:56:32,074 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1204-konditsioner-technobox-fairy-ultra-12-low-voltage
+2024-07-24 11:56:33,566 - INFO - Обработано 134 из 327 страниц.
+2024-07-24 11:56:33,566 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1203-konditsioner-technobox-pantera-12-inverter-150-240v
+2024-07-24 11:56:35,445 - INFO - Обработано 135 из 327 страниц.
+2024-07-24 11:56:35,445 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1202-konditsioner-technobox-u-crown-12-inverter-170-240v
+2024-07-24 11:56:37,297 - INFO - Обработано 136 из 327 страниц.
+2024-07-24 11:56:37,297 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27
+2024-07-24 11:56:39,378 - INFO - Обработано 137 из 327 страниц.
+2024-07-24 11:56:39,379 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27
+2024-07-24 11:56:41,206 - INFO - Обработано 138 из 327 страниц.
+2024-07-24 11:56:41,207 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/category/861-metallicheskij-ugolok
+2024-07-24 11:56:42,989 - INFO - Обработано 139 из 327 страниц.
+2024-07-24 11:56:42,989 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27#product-page-suppliers
+2024-07-24 11:56:44,862 - INFO - Обработано 140 из 327 страниц.
+2024-07-24 11:56:44,862 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27#product-page-specifications
+2024-07-24 11:56:44,891 - INFO - Обработано 141 из 327 страниц.
+2024-07-24 11:56:44,892 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27#product-page-description
+2024-07-24 11:56:44,907 - INFO - Обработано 142 из 327 страниц.
+2024-07-24 11:56:44,907 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27#product-page-photo
+2024-07-24 11:56:44,921 - INFO - Обработано 143 из 327 страниц.
+2024-07-24 11:56:44,921 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2175-ugolok-stalnoi-ravnopolocnyi-140x140x9-mm-3sp27#page-reviews-block
+2024-07-24 11:56:44,946 - INFO - Обработано 144 из 327 страниц.
+2024-07-24 11:56:44,946 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/company/5344-rostmetall
+2024-07-24 11:56:46,835 - INFO - Обработано 145 из 327 страниц.
+2024-07-24 11:56:46,835 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3
+2024-07-24 11:56:49,034 - INFO - Обработано 146 из 327 страниц.
+2024-07-24 11:56:49,034 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/product/2174-truba-profilnaya-100x100x4-mm-st3
+2024-07-24 11:56:51,129 - INFO - Обработано 147 из 327 страниц.
+2024-07-24 11:56:51,129 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/category/70-truba-stalnaya
+2024-07-24 11:56:53,989 - INFO - Обработано 148 из 327 страниц.
+2024-07-24 11:56:53,989 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3#product-page-suppliers
+2024-07-24 11:56:56,218 - INFO - Обработано 149 из 327 страниц.
+2024-07-24 11:56:56,218 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3#product-page-specifications
+2024-07-24 11:56:56,234 - INFO - Обработано 150 из 327 страниц.
+2024-07-24 11:56:56,234 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3#product-page-description
+2024-07-24 11:56:56,247 - INFO - Обработано 151 из 327 страниц.
+2024-07-24 11:56:56,248 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3#product-page-photo
+2024-07-24 11:56:56,265 - INFO - Обработано 152 из 327 страниц.
+2024-07-24 11:56:56,265 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2174-truba-profilnaya-100x100x4-mm-st3#page-reviews-block
+2024-07-24 11:56:56,282 - INFO - Обработано 153 из 327 страниц.
+2024-07-24 11:56:56,282 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3
+2024-07-24 11:56:58,861 - INFO - Обработано 154 из 327 страниц.
+2024-07-24 11:56:58,861 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3
+2024-07-24 11:57:00,938 - INFO - Обработано 155 из 327 страниц.
+2024-07-24 11:57:00,938 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/category/71-listovoj-prokat
+2024-07-24 11:57:05,326 - INFO - Обработано 156 из 327 страниц.
+2024-07-24 11:57:05,326 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3#product-page-suppliers
+2024-07-24 11:57:06,948 - INFO - Обработано 157 из 327 страниц.
+2024-07-24 11:57:06,948 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3#product-page-specifications
+2024-07-24 11:57:06,963 - INFO - Обработано 158 из 327 страниц.
+2024-07-24 11:57:06,963 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3#product-page-description
+2024-07-24 11:57:06,984 - INFO - Обработано 159 из 327 страниц.
+2024-07-24 11:57:06,984 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3#product-page-photo
+2024-07-24 11:57:07,002 - INFO - Обработано 160 из 327 страниц.
+2024-07-24 11:57:07,002 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2173-stalnoi-goryacekatanyi-list-8-mm-st3#page-reviews-block
+2024-07-24 11:57:07,016 - INFO - Обработано 161 из 327 страниц.
+2024-07-24 11:57:07,016 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii
+2024-07-24 11:57:10,108 - INFO - Обработано 162 из 327 страниц.
+2024-07-24 11:57:10,108 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii
+2024-07-24 11:57:12,158 - INFO - Обработано 163 из 327 страниц.
+2024-07-24 11:57:12,158 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/category/726-kabeli-i-provoda
+2024-07-24 11:57:14,351 - INFO - Обработано 164 из 327 страниц.
+2024-07-24 11:57:14,351 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii#product-page-suppliers
+2024-07-24 11:57:15,778 - INFO - Обработано 165 из 327 страниц.
+2024-07-24 11:57:15,778 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii#product-page-specifications
+2024-07-24 11:57:15,798 - INFO - Обработано 166 из 327 страниц.
+2024-07-24 11:57:15,798 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii#product-page-description
+2024-07-24 11:57:15,814 - INFO - Обработано 167 из 327 страниц.
+2024-07-24 11:57:15,814 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii#product-page-photo
+2024-07-24 11:57:15,829 - INFO - Обработано 168 из 327 страниц.
+2024-07-24 11:57:15,829 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2172-kabel-silovoi-avvg-1x160-v-pvx-izolyacii#page-reviews-block
+2024-07-24 11:57:15,860 - INFO - Обработано 169 из 327 страниц.
+2024-07-24 11:57:15,860 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1221-kabel-kanal-2-y-zamok-100kh40-24mup-48-506-sum-za-1-pm
+2024-07-24 11:57:17,847 - INFO - Обработано 170 из 327 страниц.
+2024-07-24 11:57:17,847 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1172-zaglushka-legrand-metra
+2024-07-24 11:57:19,692 - INFO - Обработано 171 из 327 страниц.
+2024-07-24 11:57:19,692 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1170-povorot-lotka-na-90gr-vertikal-nyj-vnutrennij-iek-50h200
+2024-07-24 11:57:21,829 - INFO - Обработано 172 из 327 страниц.
+2024-07-24 11:57:21,829 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1169-provod-pvs-5h2-5-mnogozhil-nyj
+2024-07-24 11:57:25,334 - INFO - Обработано 173 из 327 страниц.
+2024-07-24 11:57:25,335 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1158-kabel-silovoj-vvgng-4h240-1
+2024-07-24 11:57:27,850 - INFO - Обработано 174 из 327 страниц.
+2024-07-24 11:57:27,850 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1157-kabel-silovoj-vvgng-5h6-0-66
+2024-07-24 11:57:31,416 - INFO - Обработано 175 из 327 страниц.
+2024-07-24 11:57:31,416 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1154-kabel-silovoj-vvgng-2h1-5-0-66
+2024-07-24 11:57:33,310 - INFO - Обработано 176 из 327 страниц.
+2024-07-24 11:57:33,310 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1133-provod-pvs-4h0-75-mnogozhil-nyj
+2024-07-24 11:57:35,364 - INFO - Обработано 177 из 327 страниц.
+2024-07-24 11:57:35,364 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1132-kabel-avvg-4h10-0-0-66
+2024-07-24 11:57:37,305 - INFO - Обработано 178 из 327 страниц.
+2024-07-24 11:57:37,305 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt
+2024-07-24 11:57:39,346 - INFO - Обработано 179 из 327 страниц.
+2024-07-24 11:57:39,346 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/product/2169-solnecnye-paneli-astronergy-550-vatt
+2024-07-24 11:57:41,499 - INFO - Обработано 180 из 327 страниц.
+2024-07-24 11:57:41,499 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/category/303-elektroustanovochnye-izdeliya
+2024-07-24 11:57:43,938 - INFO - Обработано 181 из 327 страниц.
+2024-07-24 11:57:43,938 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt#product-page-suppliers
+2024-07-24 11:57:45,884 - INFO - Обработано 182 из 327 страниц.
+2024-07-24 11:57:45,884 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt#product-page-specifications
+2024-07-24 11:57:45,907 - INFO - Обработано 183 из 327 страниц.
+2024-07-24 11:57:45,907 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt#product-page-description
+2024-07-24 11:57:45,922 - INFO - Обработано 184 из 327 страниц.
+2024-07-24 11:57:45,922 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt#product-page-photo
+2024-07-24 11:57:45,938 - INFO - Обработано 185 из 327 страниц.
+2024-07-24 11:57:45,938 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2169-solnecnye-paneli-astronergy-550-vatt#page-reviews-block
+2024-07-24 11:57:45,968 - INFO - Обработано 186 из 327 страниц.
+2024-07-24 11:57:45,968 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/company/5001-sbg-energy-servis-group
+2024-07-24 11:57:48,216 - INFO - Обработано 187 из 327 страниц.
+2024-07-24 11:57:48,216 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/1488-stabilizator-napryazeniya-andeli-svc-d15000va-80-250v-napolnyi
+2024-07-24 11:57:50,563 - INFO - Обработано 188 из 327 страниц.
+2024-07-24 11:57:50,563 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/982-akkumulyator-bosch-36v-4-0ah-li-ion
+2024-07-24 11:57:52,730 - INFO - Обработано 189 из 327 страниц.
+2024-07-24 11:57:52,730 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/943-stabilizator-napryazheniya-andeli-svc-3000va
+2024-07-24 11:57:54,313 - INFO - Обработано 190 из 327 страниц.
+2024-07-24 11:57:54,313 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/716-polevoj-kabel-gsp-2h0-5
+2024-07-24 11:57:56,225 - INFO - Обработано 191 из 327 страниц.
+2024-07-24 11:57:56,225 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/516-korobka-ustanovochnaya-dlya-blokov-d-72-mm-h-48-mm
+2024-07-24 11:57:58,544 - INFO - Обработано 192 из 327 страниц.
+2024-07-24 11:57:58,544 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/500-korobki-razvetvitelnye-dlya-polykh-sten-i-peregorodok-iz-gipsokartona-kr1202-hegel
+2024-07-24 11:58:00,198 - INFO - Обработано 193 из 327 страниц.
+2024-07-24 11:58:00,198 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/499-korobka-razvetvitelnaya-dlya-polyh-sten-i-peregorodok-kr1205-hegel
+2024-07-24 11:58:02,580 - INFO - Обработано 194 из 327 страниц.
+2024-07-24 11:58:02,580 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/496-korobka-razvetvitelnaya-dlya-polyh-sten-i-peregorodok-kr-1204-hegel
+2024-07-24 11:58:05,830 - INFO - Обработано 195 из 327 страниц.
+2024-07-24 11:58:05,830 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/495-ramka-skrytoy-ustanovki-r401-seriya-master-ot-hegel
+2024-07-24 11:58:07,968 - INFO - Обработано 196 из 327 страниц.
+2024-07-24 11:58:07,968 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:58:10,284 - INFO - Обработано 197 из 327 страниц.
+2024-07-24 11:58:10,284 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:58:12,316 - INFO - Обработано 198 из 327 страниц.
+2024-07-24 11:58:12,316 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/category/72-alyuminievyj-metalloprokat
+2024-07-24 11:58:15,802 - INFO - Обработано 199 из 327 страниц.
+2024-07-24 11:58:15,803 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei#product-page-suppliers
+2024-07-24 11:58:17,601 - INFO - Обработано 200 из 327 страниц.
+2024-07-24 11:58:17,601 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei#product-page-specifications
+2024-07-24 11:58:17,618 - INFO - Обработано 201 из 327 страниц.
+2024-07-24 11:58:17,618 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei#product-page-description
+2024-07-24 11:58:17,635 - INFO - Обработано 202 из 327 страниц.
+2024-07-24 11:58:17,635 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei#product-page-photo
+2024-07-24 11:58:17,651 - INFO - Обработано 203 из 327 страниц.
+2024-07-24 11:58:17,651 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2168-kronstein-dlya-krovli-montaz-solnecnyx-panelei-batarei#page-reviews-block
+2024-07-24 11:58:17,670 - INFO - Обработано 204 из 327 страниц.
+2024-07-24 11:58:17,670 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2164-l-kronstein-50x50-5-sm-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:58:19,743 - INFO - Обработано 205 из 327 страниц.
+2024-07-24 11:58:19,743 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2163-l-kronstein-50x50-4-sm-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:58:23,529 - INFO - Обработано 206 из 327 страниц.
+2024-07-24 11:58:23,529 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2162-l-kronstein-50x50-3-sm
+2024-07-24 11:58:27,678 - INFO - Обработано 207 из 327 страниц.
+2024-07-24 11:58:27,678 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2161-prizim-koncevoi-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:58:31,638 - INFO - Обработано 208 из 327 страниц.
+2024-07-24 11:58:31,638 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2160-prizim-srednii-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:58:33,415 - INFO - Обработано 209 из 327 страниц.
+2024-07-24 11:58:33,415 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2159-krepyoznaya-planka-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:58:35,142 - INFO - Обработано 210 из 327 страниц.
+2024-07-24 11:58:35,142 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2158-soedinitel-universalnyi-100-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:58:37,092 - INFO - Обработано 211 из 327 страниц.
+2024-07-24 11:58:37,092 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/product/2157-universalnyi-profil-pod-montaz-solnecnyx-panelei-batarei
+2024-07-24 11:58:38,740 - INFO - Обработано 212 из 327 страниц.
+2024-07-24 11:58:38,740 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/news/823-huawei-otkryvaet-krupnejshij-nauchnyj-kampus-v-kitae
+2024-07-24 11:58:40,893 - INFO - Обработано 213 из 327 страниц.
+2024-07-24 11:58:40,893 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/news/823-huawei-otkryvaet-krupnejshij-nauchnyj-kampus-v-kitae
+2024-07-24 11:58:42,630 - INFO - Обработано 214 из 327 страниц.
+2024-07-24 11:58:42,630 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/publication/823/print
+2024-07-24 11:58:43,603 - INFO - Обработано 215 из 327 страниц.
+2024-07-24 11:58:43,603 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/news/812-arhitektory-iz-ssha-i-shvejcarii
+2024-07-24 11:58:46,253 - INFO - Обработано 216 из 327 страниц.
+2024-07-24 11:58:46,253 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/news/812-arhitektory-iz-ssha-i-shvejcarii
+2024-07-24 11:58:47,926 - INFO - Обработано 217 из 327 страниц.
+2024-07-24 11:58:47,926 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/publication/812/print
+2024-07-24 11:58:48,969 - INFO - Обработано 218 из 327 страниц.
+2024-07-24 11:58:48,969 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/news/810-stroitelstvo-zheleznoj-dorogi-kitaj-kyrgyzstan-uzbekistan
+2024-07-24 11:58:50,914 - INFO - Обработано 219 из 327 страниц.
+2024-07-24 11:58:50,914 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/news/810-stroitelstvo-zheleznoj-dorogi-kitaj-kyrgyzstan-uzbekistan
+2024-07-24 11:58:53,449 - INFO - Обработано 220 из 327 страниц.
+2024-07-24 11:58:53,449 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/publication/810/print
+2024-07-24 11:58:54,507 - INFO - Обработано 221 из 327 страниц.
+2024-07-24 11:58:54,507 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/news/809-uzbekistan-stroit-zavod-po-okomkovaniyu
+2024-07-24 11:58:56,177 - INFO - Обработано 222 из 327 страниц.
+2024-07-24 11:58:56,178 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/news/809-uzbekistan-stroit-zavod-po-okomkovaniyu
+2024-07-24 11:58:57,982 - INFO - Обработано 223 из 327 страниц.
+2024-07-24 11:58:57,982 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/publication/809/print
+2024-07-24 11:58:59,405 - INFO - Обработано 224 из 327 страниц.
+2024-07-24 11:58:59,405 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/news/806-uzbekistan-i-rossiya-ukreplyayut-energeticheskoe-sotrudnichestvo
+2024-07-24 11:59:01,171 - INFO - Обработано 225 из 327 страниц.
+2024-07-24 11:59:01,171 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/news/806-uzbekistan-i-rossiya-ukreplyayut-energeticheskoe-sotrudnichestvo
+2024-07-24 11:59:04,794 - INFO - Обработано 226 из 327 страниц.
+2024-07-24 11:59:04,794 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/publication/806/print
+2024-07-24 11:59:07,062 - INFO - Обработано 227 из 327 страниц.
+2024-07-24 11:59:07,063 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/news/802-v-uzbekistane-postroyat-platnuyu-dorogu
+2024-07-24 11:59:09,288 - INFO - Обработано 228 из 327 страниц.
+2024-07-24 11:59:09,288 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/news/802-v-uzbekistane-postroyat-platnuyu-dorogu
+2024-07-24 11:59:12,398 - INFO - Обработано 229 из 327 страниц.
+2024-07-24 11:59:12,399 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/publication/802/print
+2024-07-24 11:59:13,882 - INFO - Обработано 230 из 327 страниц.
+2024-07-24 11:59:13,882 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/news/800-uzbekistan-stroit-aes-pri
+2024-07-24 11:59:15,995 - INFO - Обработано 231 из 327 страниц.
+2024-07-24 11:59:15,995 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/news/800-uzbekistan-stroit-aes-pri
+2024-07-24 11:59:19,023 - INFO - Обработано 232 из 327 страниц.
+2024-07-24 11:59:19,024 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/publication/800/print
+2024-07-24 11:59:20,912 - INFO - Обработано 233 из 327 страниц.
+2024-07-24 11:59:20,912 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/news/799-uzatom-i-rosatom-gotovyatsya-k-stroitelstvu
+2024-07-24 11:59:23,156 - INFO - Обработано 234 из 327 страниц.
+2024-07-24 11:59:23,157 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/news/799-uzatom-i-rosatom-gotovyatsya-k-stroitelstvu
+2024-07-24 11:59:25,702 - INFO - Обработано 235 из 327 страниц.
+2024-07-24 11:59:25,702 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/publication/799/print
+2024-07-24 11:59:26,924 - INFO - Обработано 236 из 327 страниц.
+2024-07-24 11:59:26,924 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/news/798-uzbekistan-i-belarus-obsudili-sotrudnichestvo
+2024-07-24 11:59:28,454 - INFO - Обработано 237 из 327 страниц.
+2024-07-24 11:59:28,454 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/news/798-uzbekistan-i-belarus-obsudili-sotrudnichestvo
+2024-07-24 11:59:30,957 - INFO - Обработано 238 из 327 страниц.
+2024-07-24 11:59:30,957 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/publication/798/print
+2024-07-24 11:59:31,985 - INFO - Обработано 239 из 327 страниц.
+2024-07-24 11:59:31,985 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/news/794-tendencii-i-innovacii-v-oblasti
+2024-07-24 11:59:34,580 - INFO - Обработано 240 из 327 страниц.
+2024-07-24 11:59:34,580 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/news/794-tendencii-i-innovacii-v-oblasti
+2024-07-24 11:59:36,869 - INFO - Обработано 241 из 327 страниц.
+2024-07-24 11:59:36,869 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/publication/794/print
+2024-07-24 11:59:38,916 - INFO - Обработано 242 из 327 страниц.
+2024-07-24 11:59:38,916 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/login
+2024-07-24 11:59:41,276 - INFO - Обработано 243 из 327 страниц.
+2024-07-24 11:59:41,276 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/categories
+2024-07-24 11:59:43,825 - INFO - Обработано 244 из 327 страниц.
+2024-07-24 11:59:43,826 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/services
+2024-07-24 11:59:45,526 - INFO - Обработано 245 из 327 страниц.
+2024-07-24 11:59:45,527 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/rubrics
+2024-07-24 11:59:48,378 - INFO - Обработано 246 из 327 страниц.
+2024-07-24 11:59:48,378 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/info
+2024-07-24 11:59:53,967 - INFO - Обработано 247 из 327 страниц.
+2024-07-24 11:59:53,967 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/articles
+2024-07-24 11:59:56,804 - INFO - Обработано 248 из 327 страниц.
+2024-07-24 11:59:56,804 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/events
+2024-07-24 12:00:00,492 - INFO - Обработано 249 из 327 страниц.
+2024-07-24 12:00:00,492 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/page/12-advertisment
+2024-07-24 12:00:05,108 - INFO - Обработано 250 из 327 страниц.
+2024-07-24 12:00:05,108 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/page/3-about
+2024-07-24 12:00:06,464 - INFO - Обработано 251 из 327 страниц.
+2024-07-24 12:00:06,464 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/contacts
+2024-07-24 12:00:09,053 - INFO - Обработано 252 из 327 страниц.
+2024-07-24 12:00:09,053 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/product/company/select
+2024-07-24 12:00:11,398 - INFO - Обработано 253 из 327 страниц.
+2024-07-24 12:00:11,398 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/252-aksessuary-dlya-pechej-i-kaminov
+2024-07-24 12:00:12,801 - INFO - Обработано 254 из 327 страниц.
+2024-07-24 12:00:12,801 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/225-bezopasnost
+2024-07-24 12:00:14,959 - INFO - Обработано 255 из 327 страниц.
+2024-07-24 12:00:14,959 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/21-beton-zhbi
+2024-07-24 12:00:16,485 - INFO - Обработано 256 из 327 страниц.
+2024-07-24 12:00:16,485 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/785-blagoustrojstvo
+2024-07-24 12:00:18,166 - INFO - Обработано 257 из 327 страниц.
+2024-07-24 12:00:18,166 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/34-geomaterialy
+2024-07-24 12:00:19,971 - INFO - Обработано 258 из 327 страниц.
+2024-07-24 12:00:19,971 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/153-dveri
+2024-07-24 12:00:22,336 - INFO - Обработано 259 из 327 страниц.
+2024-07-24 12:00:22,336 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/235-inzhenernaya-santehnika
+2024-07-24 12:00:24,305 - INFO - Обработано 260 из 327 страниц.
+2024-07-24 12:00:24,305 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/416-inzhenernye-sistemy
+2024-07-24 12:00:30,132 - INFO - Обработано 261 из 327 страниц.
+2024-07-24 12:00:30,132 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/396-instrumenty
+2024-07-24 12:00:32,393 - INFO - Обработано 262 из 327 страниц.
+2024-07-24 12:00:32,393 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/783-interer-i-otdelka
+2024-07-24 12:00:34,711 - INFO - Обработано 263 из 327 страниц.
+2024-07-24 12:00:34,711 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/256-komplektuyushie-dlya-ventilyacionnyh-sistem
+2024-07-24 12:00:36,431 - INFO - Обработано 264 из 327 страниц.
+2024-07-24 12:00:36,431 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/242-kondicionery-i-ventilyaciya
+2024-07-24 12:00:38,034 - INFO - Обработано 265 из 327 страниц.
+2024-07-24 12:00:38,034 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/915-kontrolno-izmeritel-nye-pribory
+2024-07-24 12:00:40,104 - INFO - Обработано 266 из 327 страниц.
+2024-07-24 12:00:40,104 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/45-krepezhi
+2024-07-24 12:00:42,105 - INFO - Обработано 267 из 327 страниц.
+2024-07-24 12:00:42,105 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/57-krovlya
+2024-07-24 12:00:45,688 - INFO - Обработано 268 из 327 страниц.
+2024-07-24 12:00:45,688 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/331-kuhonnye-prinadlezhnosti
+2024-07-24 12:00:52,019 - INFO - Обработано 269 из 327 страниц.
+2024-07-24 12:00:52,019 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/895-lifty
+2024-07-24 12:00:53,812 - INFO - Обработано 270 из 327 страниц.
+2024-07-24 12:00:53,813 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/339-mebel
+2024-07-24 12:00:56,684 - INFO - Обработано 271 из 327 страниц.
+2024-07-24 12:00:56,684 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/253-membrannye-baki
+2024-07-24 12:00:58,977 - INFO - Обработано 272 из 327 страниц.
+2024-07-24 12:00:58,977 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/68-metall-i-metallicheskie-izdeliya
+2024-07-24 12:01:00,536 - INFO - Обработано 273 из 327 страниц.
+2024-07-24 12:01:00,537 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/187-napolnye-pokrytiya
+2024-07-24 12:01:03,397 - INFO - Обработано 274 из 327 страниц.
+2024-07-24 12:01:03,397 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/176-okna-steklo
+2024-07-24 12:01:05,666 - INFO - Обработано 275 из 327 страниц.
+2024-07-24 12:01:05,666 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/1103-paneli
+2024-07-24 12:01:09,090 - INFO - Обработано 276 из 327 страниц.
+2024-07-24 12:01:09,090 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/104-pilomaterialy
+2024-07-24 12:01:11,198 - INFO - Обработано 277 из 327 страниц.
+2024-07-24 12:01:11,198 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/198-plitka-i-kamni
+2024-07-24 12:01:14,726 - INFO - Обработано 278 из 327 страниц.
+2024-07-24 12:01:14,726 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/408-polimernye-izdeliya
+2024-07-24 12:01:19,958 - INFO - Обработано 279 из 327 страниц.
+2024-07-24 12:01:19,958 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/363-posuda
+2024-07-24 12:01:22,495 - INFO - Обработано 280 из 327 страниц.
+2024-07-24 12:01:22,495 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/371-predmety-dekora
+2024-07-24 12:01:25,480 - INFO - Обработано 281 из 327 страниц.
+2024-07-24 12:01:25,480 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/254-rashodniki-dlya-ventilyacionnogo-oborudovaniya
+2024-07-24 12:01:26,865 - INFO - Обработано 282 из 327 страниц.
+2024-07-24 12:01:26,865 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/257-rashodniki-dlya-vodonagrevatelej
+2024-07-24 12:01:28,096 - INFO - Обработано 283 из 327 страниц.
+2024-07-24 12:01:28,096 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/258-rashodniki-dlya-kondicionerov
+2024-07-24 12:01:29,457 - INFO - Обработано 284 из 327 страниц.
+2024-07-24 12:01:29,457 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/251-raskhodniki-dlya-kotelnogo-oborudovaniya
+2024-07-24 12:01:31,022 - INFO - Обработано 285 из 327 страниц.
+2024-07-24 12:01:31,022 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/250-rashodniki-dlya-promyshlennyh-sistem-kondicionirovaniya
+2024-07-24 12:01:32,241 - INFO - Обработано 286 из 327 страниц.
+2024-07-24 12:01:32,241 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/255-rashodniki-dlya-sistem-otopleniya
+2024-07-24 12:01:33,680 - INFO - Обработано 287 из 327 страниц.
+2024-07-24 12:01:33,680 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/259-rashodniki-dlya-teplovyh-pushek
+2024-07-24 12:01:35,587 - INFO - Обработано 288 из 327 страниц.
+2024-07-24 12:01:35,587 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/260-rashodnye-materialy-dlya-silovogo-oborudovaniya
+2024-07-24 12:01:38,309 - INFO - Обработано 289 из 327 страниц.
+2024-07-24 12:01:38,309 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/269-santehnika-i-sanfayans
+2024-07-24 12:01:42,493 - INFO - Обработано 290 из 327 страниц.
+2024-07-24 12:01:42,493 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/282-santehnicheskoe-oborudovanie
+2024-07-24 12:01:46,176 - INFO - Обработано 291 из 327 страниц.
+2024-07-24 12:01:46,177 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/293-sistemy-otopleniya-i-obogreva
+2024-07-24 12:01:49,945 - INFO - Обработано 292 из 327 страниц.
+2024-07-24 12:01:49,945 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/668-stanki
+2024-07-24 12:01:53,565 - INFO - Обработано 293 из 327 страниц.
+2024-07-24 12:01:53,565 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/488-stroitel-nye-materialy
+2024-07-24 12:01:56,051 - INFO - Обработано 294 из 327 страниц.
+2024-07-24 12:01:56,051 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/430-stroitel-nye-oborudovaniya
+2024-07-24 12:01:57,676 - INFO - Обработано 295 из 327 страниц.
+2024-07-24 12:01:57,676 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/115-suhie-stroitelnye-smesi
+2024-07-24 12:01:59,480 - INFO - Обработано 296 из 327 страниц.
+2024-07-24 12:01:59,480 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/126-sypuchie-materialy
+2024-07-24 12:02:01,334 - INFO - Обработано 297 из 327 страниц.
+2024-07-24 12:02:01,334 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/419-tara-i-upakovka
+2024-07-24 12:02:05,689 - INFO - Обработано 298 из 327 страниц.
+2024-07-24 12:02:05,689 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/313-tovary-dlya-doma-dachi-sada
+2024-07-24 12:02:07,905 - INFO - Обработано 299 из 327 страниц.
+2024-07-24 12:02:07,905 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/804-tovary-dlya-turizma-i-otdyha
+2024-07-24 12:02:11,278 - INFO - Обработано 300 из 327 страниц.
+2024-07-24 12:02:11,278 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/147-fasadnye-sistemy
+2024-07-24 12:02:14,196 - INFO - Обработано 301 из 327 страниц.
+2024-07-24 12:02:14,196 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/214-finishnye-materialy-dlya-sten
+2024-07-24 12:02:16,232 - INFO - Обработано 302 из 327 страниц.
+2024-07-24 12:02:16,232 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/302-elektrooborudovanie
+2024-07-24 12:02:18,688 - INFO - Обработано 303 из 327 страниц.
+2024-07-24 12:02:18,689 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/category/898-eskalatory
+2024-07-24 12:02:20,854 - INFO - Обработано 304 из 327 страниц.
+2024-07-24 12:02:20,854 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/service/55-promyslennyi-alpinizm
+2024-07-24 12:02:23,042 - INFO - Обработано 305 из 327 страниц.
+2024-07-24 12:02:23,042 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/service/54-pokraska-fasada-zdaniya
+2024-07-24 12:02:25,404 - INFO - Обработано 306 из 327 страниц.
+2024-07-24 12:02:25,404 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/service/53-mytyo-steklyannyx-fasadov
+2024-07-24 12:02:28,309 - INFO - Обработано 307 из 327 страниц.
+2024-07-24 12:02:28,310 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/service/52-promyslennyi-alpinizm
+2024-07-24 12:02:29,849 - INFO - Обработано 308 из 327 страниц.
+2024-07-24 12:02:29,849 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/service/47-snyder-electric
+2024-07-24 12:02:31,651 - INFO - Обработано 309 из 327 страниц.
+2024-07-24 12:02:31,651 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/service/create
+2024-07-24 12:02:34,359 - INFO - Обработано 310 из 327 страниц.
+2024-07-24 12:02:34,359 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/page/16-kak-dobavit-kompaniyu
+2024-07-24 12:02:35,071 - INFO - Обработано 311 из 327 страниц.
+2024-07-24 12:02:35,071 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/page/17-kak-dobavit-tovar
+2024-07-24 12:02:36,287 - INFO - Обработано 312 из 327 страниц.
+2024-07-24 12:02:36,287 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/page/18-kak-dobavit-uslugu
+2024-07-24 12:02:37,079 - INFO - Обработано 313 из 327 страниц.
+2024-07-24 12:02:37,079 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/page/20-kak-razmestit-statyu
+2024-07-24 12:02:38,318 - INFO - Обработано 314 из 327 страниц.
+2024-07-24 12:02:38,318 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/news
+2024-07-24 12:02:40,610 - INFO - Обработано 315 из 327 страниц.
+2024-07-24 12:02:40,610 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/tenders
+2024-07-24 12:02:41,574 - INFO - Обработано 316 из 327 страниц.
+2024-07-24 12:02:41,574 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/password/reset
+2024-07-24 12:02:42,529 - INFO - Обработано 317 из 327 страниц.
+2024-07-24 12:02:42,529 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/password/reset
+2024-07-24 12:02:43,244 - INFO - Обработано 318 из 327 страниц.
+2024-07-24 12:02:43,244 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/password/reset
+2024-07-24 12:02:44,150 - INFO - Обработано 319 из 327 страниц.
+2024-07-24 12:02:44,150 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/article/822-forward-up-nadezhnyj-partner
+2024-07-24 12:02:46,028 - INFO - Обработано 320 из 327 страниц.
+2024-07-24 12:02:46,028 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/publication/822/print
+2024-07-24 12:02:47,414 - INFO - Обработано 321 из 327 страниц.
+2024-07-24 12:02:47,414 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/uz/publication/822/print
+2024-07-24 12:02:48,368 - INFO - Обработано 322 из 327 страниц.
+2024-07-24 12:02:48,368 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/oz/publication/822/print
+2024-07-24 12:02:49,038 - INFO - Обработано 323 из 327 страниц.
+2024-07-24 12:02:49,038 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/article/824-avtonomnye-istochniki-elektrosnabzheniya-chto-k-nim-otnositsya
+2024-07-24 12:02:51,019 - INFO - Обработано 324 из 327 страниц.
+2024-07-24 12:02:51,019 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/publication/824/print
+2024-07-24 12:02:52,061 - INFO - Обработано 325 из 327 страниц.
+2024-07-24 12:02:52,061 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/article/819-sovety-po-vyboru-krovati-dlya-podrostka
+2024-07-24 12:02:53,995 - INFO - Обработано 326 из 327 страниц.
+2024-07-24 12:02:53,995 - INFO - Обрабатываем страницу: https://stroyvitrina.uz/article/816-process-proizvodstva-sendvich-panelej-chto-nuzhno-znat
+2024-07-24 12:02:56,525 - INFO - Обработано 327 из 327 страниц.

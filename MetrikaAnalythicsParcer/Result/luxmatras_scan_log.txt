@@ -1,0 +1,12 @@
+2024-07-25 12:53:07,034 - INFO - Начинаем сканирование сайта...
+2024-07-25 12:53:07,035 - INFO - Сканирование страницы: https://luxmatras.uz/ на глубине 0
+2024-07-25 12:53:07,035 - INFO - Запрос страницы: https://luxmatras.uz/
+2024-07-25 12:53:07,072 - ERROR - Ошибка при запросе страницы https://luxmatras.uz/: HTTPSConnectionPool(host='luxmatras.uz', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)')))
+2024-07-25 12:53:07,072 - INFO - Найдено 0 новых ссылок на странице https://luxmatras.uz/
+2024-07-25 12:53:07,072 - INFO - Всего страниц для проверки: 1
+2024-07-25 12:53:07,072 - INFO - ====== WebDriver manager ======
+2024-07-25 12:53:07,190 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-25 12:53:07,489 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-25 12:53:07,792 - INFO - Driver [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-arm64/chromedriver] found in cache
+2024-07-25 12:53:08,571 - INFO - Обрабатываем страницу: https://luxmatras.uz/
+2024-07-25 12:53:09,603 - INFO - Обработано 1 из 1 страниц.

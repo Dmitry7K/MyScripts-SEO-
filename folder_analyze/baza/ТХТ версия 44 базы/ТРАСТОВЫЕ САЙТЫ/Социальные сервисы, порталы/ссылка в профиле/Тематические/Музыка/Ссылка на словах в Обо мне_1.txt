@@ -1,0 +1,1 @@
+http://www.playcast.ru/?module=auth&am_action=register

@@ -1,0 +1,664 @@
+2024-07-29 16:30:52,928 - INFO - Начинаем сканирование сайта...
+2024-07-29 16:30:52,928 - INFO - Сканирование страницы: https://eurodez.uz на глубине 0
+2024-07-29 16:30:52,928 - INFO - Запрос страницы: https://eurodez.uz
+2024-07-29 16:30:53,032 - INFO - Найдено 95 новых ссылок на странице https://eurodez.uz
+2024-07-29 16:30:53,032 - INFO - Сканирование страницы: https://eurodez.uz/ на глубине 1
+2024-07-29 16:30:53,032 - INFO - Запрос страницы: https://eurodez.uz/
+2024-07-29 16:30:53,126 - INFO - Найдено 90 новых ссылок на странице https://eurodez.uz/
+2024-07-29 16:30:53,126 - INFO - Сканирование страницы: https://www.facebook.com/eurodez.uz/ на глубине 2
+2024-07-29 16:30:53,126 - INFO - Запрос страницы: https://www.facebook.com/eurodez.uz/
+2024-07-29 16:30:53,748 - INFO - Найдено 0 новых ссылок на странице https://www.facebook.com/eurodez.uz/
+2024-07-29 16:30:53,748 - INFO - Сканирование страницы: https://www.instagram.com/eurodez.uz/ на глубине 2
+2024-07-29 16:30:53,748 - INFO - Запрос страницы: https://www.instagram.com/eurodez.uz/
+2024-07-29 16:30:54,428 - INFO - Найдено 0 новых ссылок на странице https://www.instagram.com/eurodez.uz/
+2024-07-29 16:30:54,428 - INFO - Сканирование страницы: https://eurodez.uz/en/ на глубине 2
+2024-07-29 16:30:54,428 - INFO - Запрос страницы: https://eurodez.uz/en/
+2024-07-29 16:30:54,557 - INFO - Найдено 85 новых ссылок на странице https://eurodez.uz/en/
+2024-07-29 16:30:54,557 - INFO - Сканирование страницы: https://eurodez.uz/uz/ на глубине 3
+2024-07-29 16:30:54,557 - INFO - Запрос страницы: https://eurodez.uz/uz/
+2024-07-29 16:30:54,655 - INFO - Найдено 84 новых ссылок на странице https://eurodez.uz/uz/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/kompaniya-haqida/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/dezinseksiya/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/dezinfeksiya/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/deratizatsiya/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/fumigatsiya/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/kanalarni-yoq-qilish/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/suvaraklarni-yoq-qilish/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/burgalarni-yoq-qilish/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/kapalardan-zararsizlantirish/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/chivinlarni-yoq-qilish/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/chivinlarni-yoq-qilish/ 
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/mayda-chivinlarni-yoq-qilish/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/chumolilarni-yoq-qilish/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/arilarni-yoq-qilish/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/qongizlarni-yoq-qilish/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/sichqonlarni-yoq-qilish/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/kalamushlarni-yoq-qilish/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/krotlarni-yoq-qilish/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/virusga-qarshi-ishlov-berish/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/mogorga-ishlov-berish/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/shop/shpris/suvaraklarni-yoq-qilish-uchun-professional-vosita-gel/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/shop/sprey/suvaraklarni-yoq-qilish-uchun-professional-vosita/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/shop/sprey/taxtakanalarni-yoq-qilish-uchun-professional-vosita/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/shop/sprey/viruslarni-yoq-qilish-uchun-professional-vosita/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/shop/sprey/barcha-turdagi-pashshalarni-yoq-qilish-uchun-professional-vosita/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/shop/suyuqlik/chivinlar-va-gazandalarni-yoq-qilish-uchun-professional-vosita/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/xonadonni-qanday-tayyorlash-kerak/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/kanalardan-tozalash-jarayoni/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/kanalardan-mustaqil-ravishda-xalos-bolish-mumkinmi/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/dezinseksiya-boyicha-eng-top-savollar/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/biz-qanday-dezinfeksiyalovchi-preparatlardan-foydalanamiz-va-ular-nimalarga-qodir/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/suvaraklar-qayerdan-paydo-boladi/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/hayvonlar-uchun-dezinseksiya-xavflimi/
+2024-07-29 16:30:54,655 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/nima-uchun-kanalar-ishlov-berilgandan-keyin-ham-chaqishda-davom-etadi/
+2024-07-29 16:30:54,656 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/anonimlikni-taminlaysizmi/
+2024-07-29 16:30:54,656 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/biz-qayerda-va-kim-bilan-ishlaymiz/
+2024-07-29 16:30:54,656 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/wp-content/uploads/2022/11/thank-you-letter-5.jpg
+2024-07-29 16:30:54,656 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/wp-content/uploads/2022/11/thank-you-letter-4.jpg
+2024-07-29 16:30:54,656 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/wp-content/uploads/2022/11/thank-you-letter-3.jpg
+2024-07-29 16:30:54,656 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/wp-content/uploads/2022/11/thank-you-letter-2.jpg
+2024-07-29 16:30:54,656 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/wp-content/uploads/2022/11/thank-you-letter-1.jpg
+2024-07-29 16:30:54,656 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/wp-content/uploads/2022/08/eurodez-uzbekistan-1024x663.jpg
+2024-07-29 16:30:54,656 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/shop/
+2024-07-29 16:30:54,656 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/yangiliklar/
+2024-07-29 16:30:54,656 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/uz/kontaktlar/
+2024-07-29 16:30:54,656 - INFO - Сканирование страницы: https://eurodez.uz/en/about-company/ на глубине 3
+2024-07-29 16:30:54,656 - INFO - Запрос страницы: https://eurodez.uz/en/about-company/
+2024-07-29 16:30:54,721 - INFO - Найдено 35 новых ссылок на странице https://eurodez.uz/en/about-company/
+2024-07-29 16:30:54,721 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/o-kompanii/
+2024-07-29 16:30:54,721 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/wp-content/uploads/2022/08/2-1.png
+2024-07-29 16:30:54,721 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/wp-content/uploads/2022/08/1-2.png
+2024-07-29 16:30:54,721 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/wp-content/uploads/2022/08/3-1.png
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/wp-content/uploads/2022/08/4-1.png
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/wp-content/uploads/2022/08/5-1.png
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/wp-content/uploads/2022/08/6-1.png
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/disinfestation/
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/disinfection/
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/deratization/
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/fumigation/
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/shop/spray/professional-exterminator-for-all-types-of-flies/
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/shop/liquid/professional-exterminator-for-mosquito-and-midges/
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/shop/spray/professional-viruses-exterminator/
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/shop/spray/professional-bed-bug-exterminator/
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/shop/spray/professional-cockroach-exterminator/
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/shop/syringe/professional-cockroach-exterminator-gel/
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/shop/
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/news/
+2024-07-29 16:30:54,722 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/contacts/
+2024-07-29 16:30:54,722 - INFO - Сканирование страницы: https://eurodez.uz/en/bed-bug-control/ на глубине 3
+2024-07-29 16:30:54,722 - INFO - Запрос страницы: https://eurodez.uz/en/bed-bug-control/
+2024-07-29 16:30:54,782 - INFO - Найдено 30 новых ссылок на странице https://eurodez.uz/en/bed-bug-control/
+2024-07-29 16:30:54,782 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/unichtozhenie-klopov/
+2024-07-29 16:30:54,782 - INFO - Сканирование страницы: https://eurodez.uz/en/cockroach-control/ на глубине 3
+2024-07-29 16:30:54,782 - INFO - Запрос страницы: https://eurodez.uz/en/cockroach-control/
+2024-07-29 16:30:54,850 - INFO - Найдено 30 новых ссылок на странице https://eurodez.uz/en/cockroach-control/
+2024-07-29 16:30:54,850 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/unichtozhenie-tarakanov/
+2024-07-29 16:30:54,850 - INFO - Сканирование страницы: https://eurodez.uz/en/tick-treatment/ на глубине 3
+2024-07-29 16:30:54,850 - INFO - Запрос страницы: https://eurodez.uz/en/tick-treatment/
+2024-07-29 16:30:54,918 - INFO - Найдено 30 новых ссылок на странице https://eurodez.uz/en/tick-treatment/
+2024-07-29 16:30:54,918 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/unichtozhenie-kleshhej/
+2024-07-29 16:30:54,918 - INFO - Сканирование страницы: https://eurodez.uz/en/flea-treatment/ на глубине 3
+2024-07-29 16:30:54,918 - INFO - Запрос страницы: https://eurodez.uz/en/flea-treatment/
+2024-07-29 16:30:54,983 - INFO - Найдено 30 новых ссылок на странице https://eurodez.uz/en/flea-treatment/
+2024-07-29 16:30:54,983 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/unichtozhenie-bloh/
+2024-07-29 16:30:54,983 - INFO - Сканирование страницы: https://eurodez.uz/en/mosquito-control/ на глубине 3
+2024-07-29 16:30:54,983 - INFO - Запрос страницы: https://eurodez.uz/en/mosquito-control/
+2024-07-29 16:30:55,048 - INFO - Найдено 30 новых ссылок на странице https://eurodez.uz/en/mosquito-control/
+2024-07-29 16:30:55,048 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/unichtozhenie-komarov/
+2024-07-29 16:30:55,048 - INFO - Сканирование страницы: https://eurodez.uz/en/ant-control/ на глубине 3
+2024-07-29 16:30:55,048 - INFO - Запрос страницы: https://eurodez.uz/en/ant-control/
+2024-07-29 16:30:55,109 - INFO - Найдено 30 новых ссылок на странице https://eurodez.uz/en/ant-control/
+2024-07-29 16:30:55,109 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/unichtozhenie-muravev/
+2024-07-29 16:30:55,110 - INFO - Сканирование страницы: https://eurodez.uz/en/midge-control/ на глубине 3
+2024-07-29 16:30:55,110 - INFO - Запрос страницы: https://eurodez.uz/en/midge-control/
+2024-07-29 16:30:55,179 - INFO - Найдено 30 новых ссылок на странице https://eurodez.uz/en/midge-control/
+2024-07-29 16:30:55,179 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/unichtozhenie-moshek/
+2024-07-29 16:30:55,179 - INFO - Сканирование страницы: https://eurodez.uz/en/wasps-control/ на глубине 3
+2024-07-29 16:30:55,179 - INFO - Запрос страницы: https://eurodez.uz/en/wasps-control/
+2024-07-29 16:30:55,253 - INFO - Найдено 30 новых ссылок на странице https://eurodez.uz/en/wasps-control/
+2024-07-29 16:30:55,253 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/unichtozhenie-os/
+2024-07-29 16:30:55,253 - INFO - Сканирование страницы: https://eurodez.uz/en/bugs-control/ на глубине 3
+2024-07-29 16:30:55,253 - INFO - Запрос страницы: https://eurodez.uz/en/bugs-control/
+2024-07-29 16:30:55,318 - INFO - Найдено 30 новых ссылок на странице https://eurodez.uz/en/bugs-control/
+2024-07-29 16:30:55,318 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/unichtozhenie-zhukov/
+2024-07-29 16:30:55,318 - INFO - Сканирование страницы: https://eurodez.uz/en/mice-control/ на глубине 3
+2024-07-29 16:30:55,318 - INFO - Запрос страницы: https://eurodez.uz/en/mice-control/
+2024-07-29 16:30:55,392 - INFO - Найдено 30 новых ссылок на странице https://eurodez.uz/en/mice-control/
+2024-07-29 16:30:55,392 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/vyvedenie-myshej/
+2024-07-29 16:30:55,392 - INFO - Сканирование страницы: https://eurodez.uz/en/rat-control/ на глубине 3
+2024-07-29 16:30:55,392 - INFO - Запрос страницы: https://eurodez.uz/en/rat-control/
+2024-07-29 16:30:55,461 - INFO - Найдено 30 новых ссылок на странице https://eurodez.uz/en/rat-control/
+2024-07-29 16:30:55,461 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/vyvedenie-krys/
+2024-07-29 16:30:55,461 - INFO - Сканирование страницы: https://eurodez.uz/en/moles-control/ на глубине 3
+2024-07-29 16:30:55,461 - INFO - Запрос страницы: https://eurodez.uz/en/moles-control/
+2024-07-29 16:30:55,526 - INFO - Найдено 30 новых ссылок на странице https://eurodez.uz/en/moles-control/
+2024-07-29 16:30:55,526 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/vyvedenie-krotov/
+2024-07-29 16:30:55,526 - INFO - Сканирование страницы: https://eurodez.uz/en/virus-treatment/ на глубине 3
+2024-07-29 16:30:55,526 - INFO - Запрос страницы: https://eurodez.uz/en/virus-treatment/
+2024-07-29 16:30:55,596 - INFO - Найдено 30 новых ссылок на странице https://eurodez.uz/en/virus-treatment/
+2024-07-29 16:30:55,596 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/obrabotka-virusov/
+2024-07-29 16:30:55,596 - INFO - Сканирование страницы: https://eurodez.uz/en/anti-mold-treatment/ на глубине 3
+2024-07-29 16:30:55,596 - INFO - Запрос страницы: https://eurodez.uz/en/anti-mold-treatment/
+2024-07-29 16:30:55,666 - INFO - Найдено 30 новых ссылок на странице https://eurodez.uz/en/anti-mold-treatment/
+2024-07-29 16:30:55,666 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/obrabotka-pleseni/
+2024-07-29 16:30:55,666 - INFO - Сканирование страницы: https://eurodez.uz/en/top-pest-control-questions/ на глубине 3
+2024-07-29 16:30:55,666 - INFO - Запрос страницы: https://eurodez.uz/en/top-pest-control-questions/
+2024-07-29 16:30:55,730 - INFO - Найдено 33 новых ссылок на странице https://eurodez.uz/en/top-pest-control-questions/
+2024-07-29 16:30:55,730 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/top-voprosy-po-dezinsekczii/
+2024-07-29 16:30:55,730 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/category/uncategorized/
+2024-07-29 16:30:55,730 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/author/oybek/
+2024-07-29 16:30:55,730 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/top-pest-control-questions/#respond
+2024-07-29 16:30:55,730 - INFO - Сканирование страницы: https://eurodez.uz/en/bed-bug-treatment-process/ на глубине 3
+2024-07-29 16:30:55,730 - INFO - Запрос страницы: https://eurodez.uz/en/bed-bug-treatment-process/
+2024-07-29 16:30:55,797 - INFO - Найдено 33 новых ссылок на странице https://eurodez.uz/en/bed-bug-treatment-process/
+2024-07-29 16:30:55,797 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/proczess-obrabotki-ot-klopov/
+2024-07-29 16:30:55,797 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/author/site-manager/
+2024-07-29 16:30:55,797 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/bed-bug-treatment-process/#respond
+2024-07-29 16:30:55,797 - INFO - Сканирование страницы: https://eurodez.uz/en/is-it-possible-to-get-rid-of-bed-bugs-on-your-own/ на глубине 3
+2024-07-29 16:30:55,797 - INFO - Запрос страницы: https://eurodez.uz/en/is-it-possible-to-get-rid-of-bed-bugs-on-your-own/
+2024-07-29 16:30:55,860 - INFO - Найдено 33 новых ссылок на странице https://eurodez.uz/en/is-it-possible-to-get-rid-of-bed-bugs-on-your-own/
+2024-07-29 16:30:55,860 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/mozhno-li-izbavitsya-ot-klopov-samostoyatelno/
+2024-07-29 16:30:55,860 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/is-it-possible-to-get-rid-of-bed-bugs-on-your-own/#respond
+2024-07-29 16:30:55,860 - INFO - Сканирование страницы: https://eurodez.uz/en/how-to-prepare-an-apartment-for-disinfestation/ на глубине 3
+2024-07-29 16:30:55,860 - INFO - Запрос страницы: https://eurodez.uz/en/how-to-prepare-an-apartment-for-disinfestation/
+2024-07-29 16:30:55,945 - INFO - Найдено 33 новых ссылок на странице https://eurodez.uz/en/how-to-prepare-an-apartment-for-disinfestation/
+2024-07-29 16:30:55,945 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/kak-podgotovit-kvartiru-k-dezinsekczii/
+2024-07-29 16:30:55,945 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/how-to-prepare-an-apartment-for-disinfestation/#respond
+2024-07-29 16:30:55,945 - INFO - Сканирование страницы: https://eurodez.uz/en/do-you-ensure-anonymity/ на глубине 3
+2024-07-29 16:30:55,945 - INFO - Запрос страницы: https://eurodez.uz/en/do-you-ensure-anonymity/
+2024-07-29 16:30:56,003 - INFO - Найдено 33 новых ссылок на странице https://eurodez.uz/en/do-you-ensure-anonymity/
+2024-07-29 16:30:56,003 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/vy-obespechivaete-anonimnost/
+2024-07-29 16:30:56,003 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/do-you-ensure-anonymity/#respond
+2024-07-29 16:30:56,003 - INFO - Сканирование страницы: https://eurodez.uz/en/where-do-cockroaches-come/ на глубине 3
+2024-07-29 16:30:56,003 - INFO - Запрос страницы: https://eurodez.uz/en/where-do-cockroaches-come/
+2024-07-29 16:30:56,066 - INFO - Найдено 33 новых ссылок на странице https://eurodez.uz/en/where-do-cockroaches-come/
+2024-07-29 16:30:56,066 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/otkuda-berutsya-tarakany/
+2024-07-29 16:30:56,066 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/where-do-cockroaches-come/#respond
+2024-07-29 16:30:56,066 - INFO - Сканирование страницы: https://eurodez.uz/en/is-pest-control-dangerous-for-animals/ на глубине 3
+2024-07-29 16:30:56,066 - INFO - Запрос страницы: https://eurodez.uz/en/is-pest-control-dangerous-for-animals/
+2024-07-29 16:30:56,133 - INFO - Найдено 33 новых ссылок на странице https://eurodez.uz/en/is-pest-control-dangerous-for-animals/
+2024-07-29 16:30:56,133 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/opasna-li-dezinsekcziya-dlya-zhivotnyh/
+2024-07-29 16:30:56,133 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/is-pest-control-dangerous-for-animals/#respond
+2024-07-29 16:30:56,133 - INFO - Сканирование страницы: https://eurodez.uz/en/why-do-bed-bugs-keep-biting-after-treatment/ на глубине 3
+2024-07-29 16:30:56,133 - INFO - Запрос страницы: https://eurodez.uz/en/why-do-bed-bugs-keep-biting-after-treatment/
+2024-07-29 16:30:56,201 - INFO - Найдено 33 новых ссылок на странице https://eurodez.uz/en/why-do-bed-bugs-keep-biting-after-treatment/
+2024-07-29 16:30:56,202 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/pochemu-posle-obrabotki-klopy-prodolzhayut-kusat/
+2024-07-29 16:30:56,202 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/why-do-bed-bugs-keep-biting-after-treatment/#respond
+2024-07-29 16:30:56,202 - INFO - Сканирование страницы: https://eurodez.uz/en/where-and-with-whom-do-we-work/ на глубине 3
+2024-07-29 16:30:56,202 - INFO - Запрос страницы: https://eurodez.uz/en/where-and-with-whom-do-we-work/
+2024-07-29 16:30:56,264 - INFO - Найдено 33 новых ссылок на странице https://eurodez.uz/en/where-and-with-whom-do-we-work/
+2024-07-29 16:30:56,264 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/gde-i-s-kem-my-rabotaem/
+2024-07-29 16:30:56,264 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/where-and-with-whom-do-we-work/#respond
+2024-07-29 16:30:56,264 - INFO - Сканирование страницы: https://eurodez.uz/en/what-disinfectants-do-we-use-and-what-effect-do-they-have/ на глубине 3
+2024-07-29 16:30:56,264 - INFO - Запрос страницы: https://eurodez.uz/en/what-disinfectants-do-we-use-and-what-effect-do-they-have/
+2024-07-29 16:30:56,335 - INFO - Найдено 33 новых ссылок на странице https://eurodez.uz/en/what-disinfectants-do-we-use-and-what-effect-do-they-have/
+2024-07-29 16:30:56,335 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/kakie-dezinficziruyushhie-preparaty-my-ispolzuem-i-na-chto-oni-sposobny/
+2024-07-29 16:30:56,335 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/en/what-disinfectants-do-we-use-and-what-effect-do-they-have/#respond
+2024-07-29 16:30:56,336 - INFO - Сканирование страницы: https://eurodez.uz/dezincekcziya/ на глубине 2
+2024-07-29 16:30:56,336 - INFO - Запрос страницы: https://eurodez.uz/dezincekcziya/
+2024-07-29 16:30:56,401 - INFO - Найдено 36 новых ссылок на странице https://eurodez.uz/dezincekcziya/
+2024-07-29 16:30:56,401 - INFO - Сканирование страницы: https://eurodez.uz/dezincekcziya/#! на глубине 3
+2024-07-29 16:30:56,402 - INFO - Запрос страницы: https://eurodez.uz/dezincekcziya/#!
+2024-07-29 16:30:56,463 - INFO - Найдено 29 новых ссылок на странице https://eurodez.uz/dezincekcziya/#!
+2024-07-29 16:30:56,463 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/shop
+2024-07-29 16:30:56,463 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/dezinfekcziya/
+2024-07-29 16:30:56,463 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/deratizacziya/
+2024-07-29 16:30:56,463 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/fumigacziya/
+2024-07-29 16:30:56,463 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/shop/sprej/professionalnoe-sredstvo-dlya-unichtozheniya-vseh-vidov-muh/
+2024-07-29 16:30:56,463 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/shop/zhidkost/professionalnoe-sredstvo-dlya-unichtozheniya-komarov-i-gnusa/
+2024-07-29 16:30:56,463 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/shop/sprej/professionalnoe-sredstvo-dlya-unichtozheniya-virusov/
+2024-07-29 16:30:56,463 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/shop/sprej/professionalnoe-sredstvo-dlya-unichtozheniya-klopov/
+2024-07-29 16:30:56,463 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/shop/sprej/professionalnoe-sredstvo-dlya-unichtozheniya-tarakanov/
+2024-07-29 16:30:56,463 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/shop/shpricz/professionalnoe-sredstvo-dlya-unichtozheniya-tarakanov-gel/
+2024-07-29 16:30:56,463 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/shop/
+2024-07-29 16:30:56,463 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/blog/
+2024-07-29 16:30:56,463 - INFO - Достигнут лимит глубины или количества страниц для https://eurodez.uz/kontakty/
+2024-07-29 16:30:56,463 - INFO - Всего страниц для проверки: 148
+2024-07-29 16:30:56,463 - INFO - ====== WebDriver manager ======
+2024-07-29 16:30:56,547 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-29 16:30:56,828 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-29 16:30:57,130 - INFO - Driver [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-arm64/chromedriver] found in cache
+2024-07-29 16:30:57,555 - INFO - Обрабатываем страницу: https://eurodez.uz
+2024-07-29 16:30:59,480 - INFO - Результаты для https://eurodez.uz: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:30:59,481 - INFO - Обработано 1 из 148 страниц.
+2024-07-29 16:30:59,481 - INFO - Обрабатываем страницу: https://eurodez.uz/
+2024-07-29 16:31:00,445 - INFO - Результаты для https://eurodez.uz/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:00,446 - INFO - Обработано 2 из 148 страниц.
+2024-07-29 16:31:00,446 - INFO - Обрабатываем страницу: https://www.facebook.com/eurodez.uz/
+2024-07-29 16:31:02,564 - INFO - Результаты для https://www.facebook.com/eurodez.uz/: Яндекс Метрика: False, Google Analytics: False, GTM: False
+2024-07-29 16:31:02,565 - INFO - Обработано 3 из 148 страниц.
+2024-07-29 16:31:02,565 - INFO - Обрабатываем страницу: https://www.instagram.com/eurodez.uz/
+2024-07-29 16:31:04,330 - INFO - Результаты для https://www.instagram.com/eurodez.uz/: Яндекс Метрика: False, Google Analytics: False, GTM: False
+2024-07-29 16:31:04,331 - INFO - Обработано 4 из 148 страниц.
+2024-07-29 16:31:04,331 - INFO - Обрабатываем страницу: https://eurodez.uz/en/
+2024-07-29 16:31:05,001 - INFO - Результаты для https://eurodez.uz/en/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:05,002 - INFO - Обработано 5 из 148 страниц.
+2024-07-29 16:31:05,002 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/
+2024-07-29 16:31:05,602 - INFO - Результаты для https://eurodez.uz/uz/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:05,603 - INFO - Обработано 6 из 148 страниц.
+2024-07-29 16:31:05,603 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/kompaniya-haqida/
+2024-07-29 16:31:06,067 - INFO - Результаты для https://eurodez.uz/uz/kompaniya-haqida/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:06,068 - INFO - Обработано 7 из 148 страниц.
+2024-07-29 16:31:06,068 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/dezinseksiya/
+2024-07-29 16:31:06,859 - INFO - Результаты для https://eurodez.uz/uz/dezinseksiya/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:06,860 - INFO - Обработано 8 из 148 страниц.
+2024-07-29 16:31:06,860 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/dezinfeksiya/
+2024-07-29 16:31:07,509 - INFO - Результаты для https://eurodez.uz/uz/dezinfeksiya/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:07,510 - INFO - Обработано 9 из 148 страниц.
+2024-07-29 16:31:07,510 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/deratizatsiya/
+2024-07-29 16:31:08,030 - INFO - Результаты для https://eurodez.uz/uz/deratizatsiya/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:08,030 - INFO - Обработано 10 из 148 страниц.
+2024-07-29 16:31:08,030 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/fumigatsiya/
+2024-07-29 16:31:19,098 - INFO - Результаты для https://eurodez.uz/uz/fumigatsiya/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:19,098 - INFO - Обработано 11 из 148 страниц.
+2024-07-29 16:31:19,098 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/kanalarni-yoq-qilish/
+2024-07-29 16:31:19,799 - INFO - Результаты для https://eurodez.uz/uz/kanalarni-yoq-qilish/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:19,800 - INFO - Обработано 12 из 148 страниц.
+2024-07-29 16:31:19,800 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/suvaraklarni-yoq-qilish/
+2024-07-29 16:31:22,722 - INFO - Результаты для https://eurodez.uz/uz/suvaraklarni-yoq-qilish/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:22,722 - INFO - Обработано 13 из 148 страниц.
+2024-07-29 16:31:22,722 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/burgalarni-yoq-qilish/
+2024-07-29 16:31:23,115 - INFO - Результаты для https://eurodez.uz/uz/burgalarni-yoq-qilish/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:23,115 - INFO - Обработано 14 из 148 страниц.
+2024-07-29 16:31:23,115 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/kapalardan-zararsizlantirish/
+2024-07-29 16:31:30,502 - INFO - Результаты для https://eurodez.uz/uz/kapalardan-zararsizlantirish/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:30,502 - INFO - Обработано 15 из 148 страниц.
+2024-07-29 16:31:30,502 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/chivinlarni-yoq-qilish/
+2024-07-29 16:31:30,934 - INFO - Результаты для https://eurodez.uz/uz/chivinlarni-yoq-qilish/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:30,934 - INFO - Обработано 16 из 148 страниц.
+2024-07-29 16:31:30,934 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/chivinlarni-yoq-qilish/ 
+2024-07-29 16:31:31,844 - INFO - Результаты для https://eurodez.uz/uz/chivinlarni-yoq-qilish/ : Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:31,844 - INFO - Обработано 17 из 148 страниц.
+2024-07-29 16:31:31,844 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/mayda-chivinlarni-yoq-qilish/
+2024-07-29 16:31:39,332 - INFO - Результаты для https://eurodez.uz/uz/mayda-chivinlarni-yoq-qilish/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:39,333 - INFO - Обработано 18 из 148 страниц.
+2024-07-29 16:31:39,333 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/chumolilarni-yoq-qilish/
+2024-07-29 16:31:39,933 - INFO - Результаты для https://eurodez.uz/uz/chumolilarni-yoq-qilish/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:39,933 - INFO - Обработано 19 из 148 страниц.
+2024-07-29 16:31:39,933 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/arilarni-yoq-qilish/
+2024-07-29 16:31:48,514 - INFO - Результаты для https://eurodez.uz/uz/arilarni-yoq-qilish/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:48,514 - INFO - Обработано 20 из 148 страниц.
+2024-07-29 16:31:48,514 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/qongizlarni-yoq-qilish/
+2024-07-29 16:31:48,908 - INFO - Результаты для https://eurodez.uz/uz/qongizlarni-yoq-qilish/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:48,908 - INFO - Обработано 21 из 148 страниц.
+2024-07-29 16:31:48,908 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/sichqonlarni-yoq-qilish/
+2024-07-29 16:31:51,476 - INFO - Результаты для https://eurodez.uz/uz/sichqonlarni-yoq-qilish/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:51,477 - INFO - Обработано 22 из 148 страниц.
+2024-07-29 16:31:51,477 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/kalamushlarni-yoq-qilish/
+2024-07-29 16:31:51,904 - INFO - Результаты для https://eurodez.uz/uz/kalamushlarni-yoq-qilish/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:51,904 - INFO - Обработано 23 из 148 страниц.
+2024-07-29 16:31:51,904 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/krotlarni-yoq-qilish/
+2024-07-29 16:31:56,050 - INFO - Результаты для https://eurodez.uz/uz/krotlarni-yoq-qilish/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:56,051 - INFO - Обработано 24 из 148 страниц.
+2024-07-29 16:31:56,051 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/virusga-qarshi-ishlov-berish/
+2024-07-29 16:31:57,116 - INFO - Результаты для https://eurodez.uz/uz/virusga-qarshi-ishlov-berish/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:31:57,116 - INFO - Обработано 25 из 148 страниц.
+2024-07-29 16:31:57,116 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/mogorga-ishlov-berish/
+2024-07-29 16:32:05,012 - INFO - Результаты для https://eurodez.uz/uz/mogorga-ishlov-berish/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:05,012 - INFO - Обработано 26 из 148 страниц.
+2024-07-29 16:32:05,012 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/shop/shpris/suvaraklarni-yoq-qilish-uchun-professional-vosita-gel/
+2024-07-29 16:32:05,523 - INFO - Результаты для https://eurodez.uz/uz/shop/shpris/suvaraklarni-yoq-qilish-uchun-professional-vosita-gel/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:05,523 - INFO - Обработано 27 из 148 страниц.
+2024-07-29 16:32:05,523 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/shop/sprey/suvaraklarni-yoq-qilish-uchun-professional-vosita/
+2024-07-29 16:32:08,975 - INFO - Результаты для https://eurodez.uz/uz/shop/sprey/suvaraklarni-yoq-qilish-uchun-professional-vosita/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:08,975 - INFO - Обработано 28 из 148 страниц.
+2024-07-29 16:32:08,975 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/shop/sprey/taxtakanalarni-yoq-qilish-uchun-professional-vosita/
+2024-07-29 16:32:09,576 - INFO - Результаты для https://eurodez.uz/uz/shop/sprey/taxtakanalarni-yoq-qilish-uchun-professional-vosita/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:09,577 - INFO - Обработано 29 из 148 страниц.
+2024-07-29 16:32:09,577 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/shop/sprey/viruslarni-yoq-qilish-uchun-professional-vosita/
+2024-07-29 16:32:10,073 - INFO - Результаты для https://eurodez.uz/uz/shop/sprey/viruslarni-yoq-qilish-uchun-professional-vosita/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:10,074 - INFO - Обработано 30 из 148 страниц.
+2024-07-29 16:32:10,074 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/shop/sprey/barcha-turdagi-pashshalarni-yoq-qilish-uchun-professional-vosita/
+2024-07-29 16:32:15,759 - INFO - Результаты для https://eurodez.uz/uz/shop/sprey/barcha-turdagi-pashshalarni-yoq-qilish-uchun-professional-vosita/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:15,760 - INFO - Обработано 31 из 148 страниц.
+2024-07-29 16:32:15,760 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/shop/suyuqlik/chivinlar-va-gazandalarni-yoq-qilish-uchun-professional-vosita/
+2024-07-29 16:32:20,071 - INFO - Результаты для https://eurodez.uz/uz/shop/suyuqlik/chivinlar-va-gazandalarni-yoq-qilish-uchun-professional-vosita/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:20,071 - INFO - Обработано 32 из 148 страниц.
+2024-07-29 16:32:20,071 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/xonadonni-qanday-tayyorlash-kerak/
+2024-07-29 16:32:24,700 - INFO - Результаты для https://eurodez.uz/uz/xonadonni-qanday-tayyorlash-kerak/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:24,701 - INFO - Обработано 33 из 148 страниц.
+2024-07-29 16:32:24,701 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/kanalardan-tozalash-jarayoni/
+2024-07-29 16:32:25,131 - INFO - Результаты для https://eurodez.uz/uz/kanalardan-tozalash-jarayoni/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:25,132 - INFO - Обработано 34 из 148 страниц.
+2024-07-29 16:32:25,132 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/kanalardan-mustaqil-ravishda-xalos-bolish-mumkinmi/
+2024-07-29 16:32:25,747 - INFO - Результаты для https://eurodez.uz/uz/kanalardan-mustaqil-ravishda-xalos-bolish-mumkinmi/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:25,747 - INFO - Обработано 35 из 148 страниц.
+2024-07-29 16:32:25,747 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/dezinseksiya-boyicha-eng-top-savollar/
+2024-07-29 16:32:28,094 - INFO - Результаты для https://eurodez.uz/uz/dezinseksiya-boyicha-eng-top-savollar/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:28,095 - INFO - Обработано 36 из 148 страниц.
+2024-07-29 16:32:28,095 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/biz-qanday-dezinfeksiyalovchi-preparatlardan-foydalanamiz-va-ular-nimalarga-qodir/
+2024-07-29 16:32:31,897 - INFO - Результаты для https://eurodez.uz/uz/biz-qanday-dezinfeksiyalovchi-preparatlardan-foydalanamiz-va-ular-nimalarga-qodir/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:31,897 - INFO - Обработано 37 из 148 страниц.
+2024-07-29 16:32:31,897 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/suvaraklar-qayerdan-paydo-boladi/
+2024-07-29 16:32:36,347 - INFO - Результаты для https://eurodez.uz/uz/suvaraklar-qayerdan-paydo-boladi/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:36,347 - INFO - Обработано 38 из 148 страниц.
+2024-07-29 16:32:36,347 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/hayvonlar-uchun-dezinseksiya-xavflimi/
+2024-07-29 16:32:38,598 - INFO - Результаты для https://eurodez.uz/uz/hayvonlar-uchun-dezinseksiya-xavflimi/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:38,598 - INFO - Обработано 39 из 148 страниц.
+2024-07-29 16:32:38,598 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/nima-uchun-kanalar-ishlov-berilgandan-keyin-ham-chaqishda-davom-etadi/
+2024-07-29 16:32:39,683 - INFO - Результаты для https://eurodez.uz/uz/nima-uchun-kanalar-ishlov-berilgandan-keyin-ham-chaqishda-davom-etadi/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:39,683 - INFO - Обработано 40 из 148 страниц.
+2024-07-29 16:32:39,683 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/anonimlikni-taminlaysizmi/
+2024-07-29 16:32:40,090 - INFO - Результаты для https://eurodez.uz/uz/anonimlikni-taminlaysizmi/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:40,091 - INFO - Обработано 41 из 148 страниц.
+2024-07-29 16:32:40,091 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/biz-qayerda-va-kim-bilan-ishlaymiz/
+2024-07-29 16:32:40,483 - INFO - Результаты для https://eurodez.uz/uz/biz-qayerda-va-kim-bilan-ishlaymiz/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:40,483 - INFO - Обработано 42 из 148 страниц.
+2024-07-29 16:32:40,483 - INFO - Обрабатываем страницу: https://eurodez.uz/wp-content/uploads/2022/11/thank-you-letter-5.jpg
+2024-07-29 16:32:47,696 - INFO - Результаты для https://eurodez.uz/wp-content/uploads/2022/11/thank-you-letter-5.jpg: Яндекс Метрика: True, Google Analytics: False, GTM: False
+2024-07-29 16:32:47,696 - INFO - Обработано 43 из 148 страниц.
+2024-07-29 16:32:47,696 - INFO - Обрабатываем страницу: https://eurodez.uz/wp-content/uploads/2022/11/thank-you-letter-4.jpg
+2024-07-29 16:32:47,734 - INFO - Результаты для https://eurodez.uz/wp-content/uploads/2022/11/thank-you-letter-4.jpg: Яндекс Метрика: False, Google Analytics: False, GTM: False
+2024-07-29 16:32:47,735 - INFO - Обработано 44 из 148 страниц.
+2024-07-29 16:32:47,735 - INFO - Обрабатываем страницу: https://eurodez.uz/wp-content/uploads/2022/11/thank-you-letter-3.jpg
+2024-07-29 16:32:47,770 - INFO - Результаты для https://eurodez.uz/wp-content/uploads/2022/11/thank-you-letter-3.jpg: Яндекс Метрика: False, Google Analytics: False, GTM: False
+2024-07-29 16:32:47,770 - INFO - Обработано 45 из 148 страниц.
+2024-07-29 16:32:47,770 - INFO - Обрабатываем страницу: https://eurodez.uz/wp-content/uploads/2022/11/thank-you-letter-2.jpg
+2024-07-29 16:32:47,814 - INFO - Результаты для https://eurodez.uz/wp-content/uploads/2022/11/thank-you-letter-2.jpg: Яндекс Метрика: False, Google Analytics: False, GTM: False
+2024-07-29 16:32:47,814 - INFO - Обработано 46 из 148 страниц.
+2024-07-29 16:32:47,814 - INFO - Обрабатываем страницу: https://eurodez.uz/wp-content/uploads/2022/11/thank-you-letter-1.jpg
+2024-07-29 16:32:47,900 - INFO - Результаты для https://eurodez.uz/wp-content/uploads/2022/11/thank-you-letter-1.jpg: Яндекс Метрика: False, Google Analytics: False, GTM: False
+2024-07-29 16:32:47,900 - INFO - Обработано 47 из 148 страниц.
+2024-07-29 16:32:47,900 - INFO - Обрабатываем страницу: https://eurodez.uz/wp-content/uploads/2022/08/eurodez-uzbekistan-1024x663.jpg
+2024-07-29 16:32:47,946 - INFO - Результаты для https://eurodez.uz/wp-content/uploads/2022/08/eurodez-uzbekistan-1024x663.jpg: Яндекс Метрика: False, Google Analytics: False, GTM: False
+2024-07-29 16:32:47,946 - INFO - Обработано 48 из 148 страниц.
+2024-07-29 16:32:47,946 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/shop/
+2024-07-29 16:32:48,401 - INFO - Результаты для https://eurodez.uz/uz/shop/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:48,402 - INFO - Обработано 49 из 148 страниц.
+2024-07-29 16:32:48,402 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/yangiliklar/
+2024-07-29 16:32:50,757 - INFO - Результаты для https://eurodez.uz/uz/yangiliklar/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:50,757 - INFO - Обработано 50 из 148 страниц.
+2024-07-29 16:32:50,757 - INFO - Обрабатываем страницу: https://eurodez.uz/uz/kontaktlar/
+2024-07-29 16:32:51,234 - INFO - Результаты для https://eurodez.uz/uz/kontaktlar/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:51,235 - INFO - Обработано 51 из 148 страниц.
+2024-07-29 16:32:51,235 - INFO - Обрабатываем страницу: https://eurodez.uz/en/about-company/
+2024-07-29 16:32:51,668 - INFO - Результаты для https://eurodez.uz/en/about-company/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:51,668 - INFO - Обработано 52 из 148 страниц.
+2024-07-29 16:32:51,668 - INFO - Обрабатываем страницу: https://eurodez.uz/o-kompanii/
+2024-07-29 16:32:53,801 - INFO - Результаты для https://eurodez.uz/o-kompanii/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:53,801 - INFO - Обработано 53 из 148 страниц.
+2024-07-29 16:32:53,801 - INFO - Обрабатываем страницу: https://eurodez.uz/wp-content/uploads/2022/08/2-1.png
+2024-07-29 16:32:54,066 - INFO - Результаты для https://eurodez.uz/wp-content/uploads/2022/08/2-1.png: Яндекс Метрика: True, Google Analytics: False, GTM: False
+2024-07-29 16:32:54,066 - INFO - Обработано 54 из 148 страниц.
+2024-07-29 16:32:54,066 - INFO - Обрабатываем страницу: https://eurodez.uz/wp-content/uploads/2022/08/1-2.png
+2024-07-29 16:32:54,476 - INFO - Результаты для https://eurodez.uz/wp-content/uploads/2022/08/1-2.png: Яндекс Метрика: False, Google Analytics: False, GTM: False
+2024-07-29 16:32:54,476 - INFO - Обработано 55 из 148 страниц.
+2024-07-29 16:32:54,476 - INFO - Обрабатываем страницу: https://eurodez.uz/wp-content/uploads/2022/08/3-1.png
+2024-07-29 16:32:54,885 - INFO - Результаты для https://eurodez.uz/wp-content/uploads/2022/08/3-1.png: Яндекс Метрика: False, Google Analytics: False, GTM: False
+2024-07-29 16:32:54,885 - INFO - Обработано 56 из 148 страниц.
+2024-07-29 16:32:54,885 - INFO - Обрабатываем страницу: https://eurodez.uz/wp-content/uploads/2022/08/4-1.png
+2024-07-29 16:32:55,186 - INFO - Результаты для https://eurodez.uz/wp-content/uploads/2022/08/4-1.png: Яндекс Метрика: False, Google Analytics: False, GTM: False
+2024-07-29 16:32:55,187 - INFO - Обработано 57 из 148 страниц.
+2024-07-29 16:32:55,187 - INFO - Обрабатываем страницу: https://eurodez.uz/wp-content/uploads/2022/08/5-1.png
+2024-07-29 16:32:56,250 - INFO - Результаты для https://eurodez.uz/wp-content/uploads/2022/08/5-1.png: Яндекс Метрика: False, Google Analytics: False, GTM: False
+2024-07-29 16:32:56,250 - INFO - Обработано 58 из 148 страниц.
+2024-07-29 16:32:56,250 - INFO - Обрабатываем страницу: https://eurodez.uz/wp-content/uploads/2022/08/6-1.png
+2024-07-29 16:32:56,524 - INFO - Результаты для https://eurodez.uz/wp-content/uploads/2022/08/6-1.png: Яндекс Метрика: False, Google Analytics: False, GTM: False
+2024-07-29 16:32:56,524 - INFO - Обработано 59 из 148 страниц.
+2024-07-29 16:32:56,524 - INFO - Обрабатываем страницу: https://eurodez.uz/en/disinfestation/
+2024-07-29 16:32:56,944 - INFO - Результаты для https://eurodez.uz/en/disinfestation/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:56,944 - INFO - Обработано 60 из 148 страниц.
+2024-07-29 16:32:56,944 - INFO - Обрабатываем страницу: https://eurodez.uz/en/disinfection/
+2024-07-29 16:32:57,439 - INFO - Результаты для https://eurodez.uz/en/disinfection/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:32:57,439 - INFO - Обработано 61 из 148 страниц.
+2024-07-29 16:32:57,440 - INFO - Обрабатываем страницу: https://eurodez.uz/en/deratization/
+2024-07-29 16:33:00,465 - INFO - Результаты для https://eurodez.uz/en/deratization/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:00,466 - INFO - Обработано 62 из 148 страниц.
+2024-07-29 16:33:00,466 - INFO - Обрабатываем страницу: https://eurodez.uz/en/fumigation/
+2024-07-29 16:33:00,920 - INFO - Результаты для https://eurodez.uz/en/fumigation/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:00,920 - INFO - Обработано 63 из 148 страниц.
+2024-07-29 16:33:00,920 - INFO - Обрабатываем страницу: https://eurodez.uz/en/shop/spray/professional-exterminator-for-all-types-of-flies/
+2024-07-29 16:33:01,356 - INFO - Результаты для https://eurodez.uz/en/shop/spray/professional-exterminator-for-all-types-of-flies/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:01,357 - INFO - Обработано 64 из 148 страниц.
+2024-07-29 16:33:01,357 - INFO - Обрабатываем страницу: https://eurodez.uz/en/shop/liquid/professional-exterminator-for-mosquito-and-midges/
+2024-07-29 16:33:05,741 - INFO - Результаты для https://eurodez.uz/en/shop/liquid/professional-exterminator-for-mosquito-and-midges/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:05,741 - INFO - Обработано 65 из 148 страниц.
+2024-07-29 16:33:05,741 - INFO - Обрабатываем страницу: https://eurodez.uz/en/shop/spray/professional-viruses-exterminator/
+2024-07-29 16:33:06,182 - INFO - Результаты для https://eurodez.uz/en/shop/spray/professional-viruses-exterminator/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:06,182 - INFO - Обработано 66 из 148 страниц.
+2024-07-29 16:33:06,182 - INFO - Обрабатываем страницу: https://eurodez.uz/en/shop/spray/professional-bed-bug-exterminator/
+2024-07-29 16:33:06,639 - INFO - Результаты для https://eurodez.uz/en/shop/spray/professional-bed-bug-exterminator/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:06,640 - INFO - Обработано 67 из 148 страниц.
+2024-07-29 16:33:06,640 - INFO - Обрабатываем страницу: https://eurodez.uz/en/shop/spray/professional-cockroach-exterminator/
+2024-07-29 16:33:07,119 - INFO - Результаты для https://eurodez.uz/en/shop/spray/professional-cockroach-exterminator/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:07,119 - INFO - Обработано 68 из 148 страниц.
+2024-07-29 16:33:07,119 - INFO - Обрабатываем страницу: https://eurodez.uz/en/shop/syringe/professional-cockroach-exterminator-gel/
+2024-07-29 16:33:11,672 - INFO - Результаты для https://eurodez.uz/en/shop/syringe/professional-cockroach-exterminator-gel/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:11,673 - INFO - Обработано 69 из 148 страниц.
+2024-07-29 16:33:11,673 - INFO - Обрабатываем страницу: https://eurodez.uz/en/shop/
+2024-07-29 16:33:12,309 - INFO - Результаты для https://eurodez.uz/en/shop/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:12,310 - INFO - Обработано 70 из 148 страниц.
+2024-07-29 16:33:12,310 - INFO - Обрабатываем страницу: https://eurodez.uz/en/news/
+2024-07-29 16:33:12,763 - INFO - Результаты для https://eurodez.uz/en/news/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:12,763 - INFO - Обработано 71 из 148 страниц.
+2024-07-29 16:33:12,763 - INFO - Обрабатываем страницу: https://eurodez.uz/en/contacts/
+2024-07-29 16:33:18,412 - INFO - Результаты для https://eurodez.uz/en/contacts/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:18,412 - INFO - Обработано 72 из 148 страниц.
+2024-07-29 16:33:18,412 - INFO - Обрабатываем страницу: https://eurodez.uz/en/bed-bug-control/
+2024-07-29 16:33:18,855 - INFO - Результаты для https://eurodez.uz/en/bed-bug-control/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:18,856 - INFO - Обработано 73 из 148 страниц.
+2024-07-29 16:33:18,856 - INFO - Обрабатываем страницу: https://eurodez.uz/unichtozhenie-klopov/
+2024-07-29 16:33:19,260 - INFO - Результаты для https://eurodez.uz/unichtozhenie-klopov/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:19,260 - INFO - Обработано 74 из 148 страниц.
+2024-07-29 16:33:19,260 - INFO - Обрабатываем страницу: https://eurodez.uz/en/cockroach-control/
+2024-07-29 16:33:19,689 - INFO - Результаты для https://eurodez.uz/en/cockroach-control/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:19,689 - INFO - Обработано 75 из 148 страниц.
+2024-07-29 16:33:19,689 - INFO - Обрабатываем страницу: https://eurodez.uz/unichtozhenie-tarakanov/
+2024-07-29 16:33:23,179 - INFO - Результаты для https://eurodez.uz/unichtozhenie-tarakanov/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:23,179 - INFO - Обработано 76 из 148 страниц.
+2024-07-29 16:33:23,179 - INFO - Обрабатываем страницу: https://eurodez.uz/en/tick-treatment/
+2024-07-29 16:33:23,617 - INFO - Результаты для https://eurodez.uz/en/tick-treatment/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:23,617 - INFO - Обработано 77 из 148 страниц.
+2024-07-29 16:33:23,617 - INFO - Обрабатываем страницу: https://eurodez.uz/unichtozhenie-kleshhej/
+2024-07-29 16:33:24,036 - INFO - Результаты для https://eurodez.uz/unichtozhenie-kleshhej/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:24,037 - INFO - Обработано 78 из 148 страниц.
+2024-07-29 16:33:24,037 - INFO - Обрабатываем страницу: https://eurodez.uz/en/flea-treatment/
+2024-07-29 16:33:24,484 - INFO - Результаты для https://eurodez.uz/en/flea-treatment/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:24,484 - INFO - Обработано 79 из 148 страниц.
+2024-07-29 16:33:24,484 - INFO - Обрабатываем страницу: https://eurodez.uz/unichtozhenie-bloh/
+2024-07-29 16:33:35,621 - INFO - Результаты для https://eurodez.uz/unichtozhenie-bloh/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:35,621 - INFO - Обработано 80 из 148 страниц.
+2024-07-29 16:33:35,621 - INFO - Обрабатываем страницу: https://eurodez.uz/en/mosquito-control/
+2024-07-29 16:33:36,052 - INFO - Результаты для https://eurodez.uz/en/mosquito-control/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:36,052 - INFO - Обработано 81 из 148 страниц.
+2024-07-29 16:33:36,053 - INFO - Обрабатываем страницу: https://eurodez.uz/unichtozhenie-komarov/
+2024-07-29 16:33:36,451 - INFO - Результаты для https://eurodez.uz/unichtozhenie-komarov/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:36,452 - INFO - Обработано 82 из 148 страниц.
+2024-07-29 16:33:36,452 - INFO - Обрабатываем страницу: https://eurodez.uz/en/ant-control/
+2024-07-29 16:33:36,950 - INFO - Результаты для https://eurodez.uz/en/ant-control/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:36,951 - INFO - Обработано 83 из 148 страниц.
+2024-07-29 16:33:36,951 - INFO - Обрабатываем страницу: https://eurodez.uz/unichtozhenie-muravev/
+2024-07-29 16:33:40,591 - INFO - Результаты для https://eurodez.uz/unichtozhenie-muravev/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:40,592 - INFO - Обработано 84 из 148 страниц.
+2024-07-29 16:33:40,592 - INFO - Обрабатываем страницу: https://eurodez.uz/en/midge-control/
+2024-07-29 16:33:41,088 - INFO - Результаты для https://eurodez.uz/en/midge-control/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:41,088 - INFO - Обработано 85 из 148 страниц.
+2024-07-29 16:33:41,088 - INFO - Обрабатываем страницу: https://eurodez.uz/unichtozhenie-moshek/
+2024-07-29 16:33:41,492 - INFO - Результаты для https://eurodez.uz/unichtozhenie-moshek/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:41,492 - INFO - Обработано 86 из 148 страниц.
+2024-07-29 16:33:41,492 - INFO - Обрабатываем страницу: https://eurodez.uz/en/wasps-control/
+2024-07-29 16:33:41,943 - INFO - Результаты для https://eurodez.uz/en/wasps-control/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:41,943 - INFO - Обработано 87 из 148 страниц.
+2024-07-29 16:33:41,943 - INFO - Обрабатываем страницу: https://eurodez.uz/unichtozhenie-os/
+2024-07-29 16:33:54,595 - INFO - Результаты для https://eurodez.uz/unichtozhenie-os/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:54,596 - INFO - Обработано 88 из 148 страниц.
+2024-07-29 16:33:54,596 - INFO - Обрабатываем страницу: https://eurodez.uz/en/bugs-control/
+2024-07-29 16:33:55,012 - INFO - Результаты для https://eurodez.uz/en/bugs-control/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:55,012 - INFO - Обработано 89 из 148 страниц.
+2024-07-29 16:33:55,012 - INFO - Обрабатываем страницу: https://eurodez.uz/unichtozhenie-zhukov/
+2024-07-29 16:33:55,365 - INFO - Результаты для https://eurodez.uz/unichtozhenie-zhukov/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:55,365 - INFO - Обработано 90 из 148 страниц.
+2024-07-29 16:33:55,365 - INFO - Обрабатываем страницу: https://eurodez.uz/en/mice-control/
+2024-07-29 16:33:55,847 - INFO - Результаты для https://eurodez.uz/en/mice-control/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:55,848 - INFO - Обработано 91 из 148 страниц.
+2024-07-29 16:33:55,848 - INFO - Обрабатываем страницу: https://eurodez.uz/vyvedenie-myshej/
+2024-07-29 16:33:59,452 - INFO - Результаты для https://eurodez.uz/vyvedenie-myshej/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:59,453 - INFO - Обработано 92 из 148 страниц.
+2024-07-29 16:33:59,453 - INFO - Обрабатываем страницу: https://eurodez.uz/en/rat-control/
+2024-07-29 16:33:59,881 - INFO - Результаты для https://eurodez.uz/en/rat-control/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:33:59,881 - INFO - Обработано 93 из 148 страниц.
+2024-07-29 16:33:59,881 - INFO - Обрабатываем страницу: https://eurodez.uz/vyvedenie-krys/
+2024-07-29 16:34:00,227 - INFO - Результаты для https://eurodez.uz/vyvedenie-krys/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:00,227 - INFO - Обработано 94 из 148 страниц.
+2024-07-29 16:34:00,227 - INFO - Обрабатываем страницу: https://eurodez.uz/en/moles-control/
+2024-07-29 16:34:00,636 - INFO - Результаты для https://eurodez.uz/en/moles-control/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:00,636 - INFO - Обработано 95 из 148 страниц.
+2024-07-29 16:34:00,637 - INFO - Обрабатываем страницу: https://eurodez.uz/vyvedenie-krotov/
+2024-07-29 16:34:13,669 - INFO - Результаты для https://eurodez.uz/vyvedenie-krotov/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:13,670 - INFO - Обработано 96 из 148 страниц.
+2024-07-29 16:34:13,670 - INFO - Обрабатываем страницу: https://eurodez.uz/en/virus-treatment/
+2024-07-29 16:34:14,128 - INFO - Результаты для https://eurodez.uz/en/virus-treatment/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:14,129 - INFO - Обработано 97 из 148 страниц.
+2024-07-29 16:34:14,129 - INFO - Обрабатываем страницу: https://eurodez.uz/obrabotka-virusov/
+2024-07-29 16:34:14,527 - INFO - Результаты для https://eurodez.uz/obrabotka-virusov/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:14,528 - INFO - Обработано 98 из 148 страниц.
+2024-07-29 16:34:14,528 - INFO - Обрабатываем страницу: https://eurodez.uz/en/anti-mold-treatment/
+2024-07-29 16:34:15,002 - INFO - Результаты для https://eurodez.uz/en/anti-mold-treatment/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:15,002 - INFO - Обработано 99 из 148 страниц.
+2024-07-29 16:34:15,002 - INFO - Обрабатываем страницу: https://eurodez.uz/obrabotka-pleseni/
+2024-07-29 16:34:17,991 - INFO - Результаты для https://eurodez.uz/obrabotka-pleseni/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:17,991 - INFO - Обработано 100 из 148 страниц.
+2024-07-29 16:34:17,991 - INFO - Обрабатываем страницу: https://eurodez.uz/en/top-pest-control-questions/
+2024-07-29 16:34:18,606 - INFO - Результаты для https://eurodez.uz/en/top-pest-control-questions/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:18,606 - INFO - Обработано 101 из 148 страниц.
+2024-07-29 16:34:18,606 - INFO - Обрабатываем страницу: https://eurodez.uz/top-voprosy-po-dezinsekczii/
+2024-07-29 16:34:19,006 - INFO - Результаты для https://eurodez.uz/top-voprosy-po-dezinsekczii/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:19,006 - INFO - Обработано 102 из 148 страниц.
+2024-07-29 16:34:19,006 - INFO - Обрабатываем страницу: https://eurodez.uz/en/category/uncategorized/
+2024-07-29 16:34:25,769 - INFO - Результаты для https://eurodez.uz/en/category/uncategorized/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:25,770 - INFO - Обработано 103 из 148 страниц.
+2024-07-29 16:34:25,770 - INFO - Обрабатываем страницу: https://eurodez.uz/en/author/oybek/
+2024-07-29 16:34:26,230 - INFO - Результаты для https://eurodez.uz/en/author/oybek/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:26,230 - INFO - Обработано 104 из 148 страниц.
+2024-07-29 16:34:26,230 - INFO - Обрабатываем страницу: https://eurodez.uz/en/top-pest-control-questions/#respond
+2024-07-29 16:34:26,687 - INFO - Результаты для https://eurodez.uz/en/top-pest-control-questions/#respond: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:26,687 - INFO - Обработано 105 из 148 страниц.
+2024-07-29 16:34:26,687 - INFO - Обрабатываем страницу: https://eurodez.uz/en/bed-bug-treatment-process/
+2024-07-29 16:34:27,140 - INFO - Результаты для https://eurodez.uz/en/bed-bug-treatment-process/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:27,140 - INFO - Обработано 106 из 148 страниц.
+2024-07-29 16:34:27,140 - INFO - Обрабатываем страницу: https://eurodez.uz/proczess-obrabotki-ot-klopov/
+2024-07-29 16:34:29,855 - INFO - Результаты для https://eurodez.uz/proczess-obrabotki-ot-klopov/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:29,855 - INFO - Обработано 107 из 148 страниц.
+2024-07-29 16:34:29,855 - INFO - Обрабатываем страницу: https://eurodez.uz/en/author/site-manager/
+2024-07-29 16:34:30,298 - INFO - Результаты для https://eurodez.uz/en/author/site-manager/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:30,299 - INFO - Обработано 108 из 148 страниц.
+2024-07-29 16:34:30,299 - INFO - Обрабатываем страницу: https://eurodez.uz/en/bed-bug-treatment-process/#respond
+2024-07-29 16:34:30,730 - INFO - Результаты для https://eurodez.uz/en/bed-bug-treatment-process/#respond: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:30,730 - INFO - Обработано 109 из 148 страниц.
+2024-07-29 16:34:30,730 - INFO - Обрабатываем страницу: https://eurodez.uz/en/is-it-possible-to-get-rid-of-bed-bugs-on-your-own/
+2024-07-29 16:34:31,739 - INFO - Результаты для https://eurodez.uz/en/is-it-possible-to-get-rid-of-bed-bugs-on-your-own/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:31,739 - INFO - Обработано 110 из 148 страниц.
+2024-07-29 16:34:31,739 - INFO - Обрабатываем страницу: https://eurodez.uz/mozhno-li-izbavitsya-ot-klopov-samostoyatelno/
+2024-07-29 16:34:37,879 - INFO - Результаты для https://eurodez.uz/mozhno-li-izbavitsya-ot-klopov-samostoyatelno/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:37,880 - INFO - Обработано 111 из 148 страниц.
+2024-07-29 16:34:37,880 - INFO - Обрабатываем страницу: https://eurodez.uz/en/is-it-possible-to-get-rid-of-bed-bugs-on-your-own/#respond
+2024-07-29 16:34:38,308 - INFO - Результаты для https://eurodez.uz/en/is-it-possible-to-get-rid-of-bed-bugs-on-your-own/#respond: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:38,308 - INFO - Обработано 112 из 148 страниц.
+2024-07-29 16:34:38,308 - INFO - Обрабатываем страницу: https://eurodez.uz/en/how-to-prepare-an-apartment-for-disinfestation/
+2024-07-29 16:34:38,741 - INFO - Результаты для https://eurodez.uz/en/how-to-prepare-an-apartment-for-disinfestation/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:38,742 - INFO - Обработано 113 из 148 страниц.
+2024-07-29 16:34:38,742 - INFO - Обрабатываем страницу: https://eurodez.uz/kak-podgotovit-kvartiru-k-dezinsekczii/
+2024-07-29 16:34:39,091 - INFO - Результаты для https://eurodez.uz/kak-podgotovit-kvartiru-k-dezinsekczii/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:39,091 - INFO - Обработано 114 из 148 страниц.
+2024-07-29 16:34:39,091 - INFO - Обрабатываем страницу: https://eurodez.uz/en/how-to-prepare-an-apartment-for-disinfestation/#respond
+2024-07-29 16:34:43,370 - INFO - Результаты для https://eurodez.uz/en/how-to-prepare-an-apartment-for-disinfestation/#respond: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:43,371 - INFO - Обработано 115 из 148 страниц.
+2024-07-29 16:34:43,371 - INFO - Обрабатываем страницу: https://eurodez.uz/en/do-you-ensure-anonymity/
+2024-07-29 16:34:43,832 - INFO - Результаты для https://eurodez.uz/en/do-you-ensure-anonymity/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:43,833 - INFO - Обработано 116 из 148 страниц.
+2024-07-29 16:34:43,833 - INFO - Обрабатываем страницу: https://eurodez.uz/vy-obespechivaete-anonimnost/
+2024-07-29 16:34:44,198 - INFO - Результаты для https://eurodez.uz/vy-obespechivaete-anonimnost/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:44,198 - INFO - Обработано 117 из 148 страниц.
+2024-07-29 16:34:44,199 - INFO - Обрабатываем страницу: https://eurodez.uz/en/do-you-ensure-anonymity/#respond
+2024-07-29 16:34:49,512 - INFO - Результаты для https://eurodez.uz/en/do-you-ensure-anonymity/#respond: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:49,513 - INFO - Обработано 118 из 148 страниц.
+2024-07-29 16:34:49,513 - INFO - Обрабатываем страницу: https://eurodez.uz/en/where-do-cockroaches-come/
+2024-07-29 16:34:50,011 - INFO - Результаты для https://eurodez.uz/en/where-do-cockroaches-come/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:50,012 - INFO - Обработано 119 из 148 страниц.
+2024-07-29 16:34:50,012 - INFO - Обрабатываем страницу: https://eurodez.uz/otkuda-berutsya-tarakany/
+2024-07-29 16:34:50,405 - INFO - Результаты для https://eurodez.uz/otkuda-berutsya-tarakany/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:50,406 - INFO - Обработано 120 из 148 страниц.
+2024-07-29 16:34:50,406 - INFO - Обрабатываем страницу: https://eurodez.uz/en/where-do-cockroaches-come/#respond
+2024-07-29 16:34:50,863 - INFO - Результаты для https://eurodez.uz/en/where-do-cockroaches-come/#respond: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:50,863 - INFO - Обработано 121 из 148 страниц.
+2024-07-29 16:34:50,863 - INFO - Обрабатываем страницу: https://eurodez.uz/en/is-pest-control-dangerous-for-animals/
+2024-07-29 16:34:54,232 - INFO - Результаты для https://eurodez.uz/en/is-pest-control-dangerous-for-animals/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:54,232 - INFO - Обработано 122 из 148 страниц.
+2024-07-29 16:34:54,233 - INFO - Обрабатываем страницу: https://eurodez.uz/opasna-li-dezinsekcziya-dlya-zhivotnyh/
+2024-07-29 16:34:54,583 - INFO - Результаты для https://eurodez.uz/opasna-li-dezinsekcziya-dlya-zhivotnyh/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:54,584 - INFO - Обработано 123 из 148 страниц.
+2024-07-29 16:34:54,584 - INFO - Обрабатываем страницу: https://eurodez.uz/en/is-pest-control-dangerous-for-animals/#respond
+2024-07-29 16:34:55,102 - INFO - Результаты для https://eurodez.uz/en/is-pest-control-dangerous-for-animals/#respond: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:55,102 - INFO - Обработано 124 из 148 страниц.
+2024-07-29 16:34:55,103 - INFO - Обрабатываем страницу: https://eurodez.uz/en/why-do-bed-bugs-keep-biting-after-treatment/
+2024-07-29 16:34:55,554 - INFO - Результаты для https://eurodez.uz/en/why-do-bed-bugs-keep-biting-after-treatment/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:34:55,554 - INFO - Обработано 125 из 148 страниц.
+2024-07-29 16:34:55,554 - INFO - Обрабатываем страницу: https://eurodez.uz/pochemu-posle-obrabotki-klopy-prodolzhayut-kusat/
+2024-07-29 16:35:00,752 - INFO - Результаты для https://eurodez.uz/pochemu-posle-obrabotki-klopy-prodolzhayut-kusat/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:00,753 - INFO - Обработано 126 из 148 страниц.
+2024-07-29 16:35:00,753 - INFO - Обрабатываем страницу: https://eurodez.uz/en/why-do-bed-bugs-keep-biting-after-treatment/#respond
+2024-07-29 16:35:01,573 - INFO - Результаты для https://eurodez.uz/en/why-do-bed-bugs-keep-biting-after-treatment/#respond: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:01,574 - INFO - Обработано 127 из 148 страниц.
+2024-07-29 16:35:01,574 - INFO - Обрабатываем страницу: https://eurodez.uz/en/where-and-with-whom-do-we-work/
+2024-07-29 16:35:02,039 - INFO - Результаты для https://eurodez.uz/en/where-and-with-whom-do-we-work/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:02,039 - INFO - Обработано 128 из 148 страниц.
+2024-07-29 16:35:02,039 - INFO - Обрабатываем страницу: https://eurodez.uz/gde-i-s-kem-my-rabotaem/
+2024-07-29 16:35:02,494 - INFO - Результаты для https://eurodez.uz/gde-i-s-kem-my-rabotaem/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:02,494 - INFO - Обработано 129 из 148 страниц.
+2024-07-29 16:35:02,494 - INFO - Обрабатываем страницу: https://eurodez.uz/en/where-and-with-whom-do-we-work/#respond
+2024-07-29 16:35:05,005 - INFO - Результаты для https://eurodez.uz/en/where-and-with-whom-do-we-work/#respond: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:05,006 - INFO - Обработано 130 из 148 страниц.
+2024-07-29 16:35:05,006 - INFO - Обрабатываем страницу: https://eurodez.uz/en/what-disinfectants-do-we-use-and-what-effect-do-they-have/
+2024-07-29 16:35:05,471 - INFO - Результаты для https://eurodez.uz/en/what-disinfectants-do-we-use-and-what-effect-do-they-have/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:05,471 - INFO - Обработано 131 из 148 страниц.
+2024-07-29 16:35:05,471 - INFO - Обрабатываем страницу: https://eurodez.uz/kakie-dezinficziruyushhie-preparaty-my-ispolzuem-i-na-chto-oni-sposobny/
+2024-07-29 16:35:05,854 - INFO - Результаты для https://eurodez.uz/kakie-dezinficziruyushhie-preparaty-my-ispolzuem-i-na-chto-oni-sposobny/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:05,855 - INFO - Обработано 132 из 148 страниц.
+2024-07-29 16:35:05,855 - INFO - Обрабатываем страницу: https://eurodez.uz/en/what-disinfectants-do-we-use-and-what-effect-do-they-have/#respond
+2024-07-29 16:35:12,449 - INFO - Результаты для https://eurodez.uz/en/what-disinfectants-do-we-use-and-what-effect-do-they-have/#respond: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:12,450 - INFO - Обработано 133 из 148 страниц.
+2024-07-29 16:35:12,450 - INFO - Обрабатываем страницу: https://eurodez.uz/dezincekcziya/
+2024-07-29 16:35:12,815 - INFO - Результаты для https://eurodez.uz/dezincekcziya/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:12,815 - INFO - Обработано 134 из 148 страниц.
+2024-07-29 16:35:12,815 - INFO - Обрабатываем страницу: https://eurodez.uz/dezincekcziya/#!
+2024-07-29 16:35:12,842 - INFO - Результаты для https://eurodez.uz/dezincekcziya/#!: Яндекс Метрика: True, Google Analytics: False, GTM: <re.Match object; span=(2011, 2038), match='googletagmanager.com/gtm.js'>
+2024-07-29 16:35:12,842 - INFO - Обработано 135 из 148 страниц.
+2024-07-29 16:35:12,842 - INFO - Обрабатываем страницу: https://eurodez.uz/shop
+2024-07-29 16:35:22,084 - INFO - Результаты для https://eurodez.uz/shop: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:22,085 - INFO - Обработано 136 из 148 страниц.
+2024-07-29 16:35:22,085 - INFO - Обрабатываем страницу: https://eurodez.uz/dezinfekcziya/
+2024-07-29 16:35:22,480 - INFO - Результаты для https://eurodez.uz/dezinfekcziya/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:22,480 - INFO - Обработано 137 из 148 страниц.
+2024-07-29 16:35:22,480 - INFO - Обрабатываем страницу: https://eurodez.uz/deratizacziya/
+2024-07-29 16:35:22,841 - INFO - Результаты для https://eurodez.uz/deratizacziya/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:22,841 - INFO - Обработано 138 из 148 страниц.
+2024-07-29 16:35:22,841 - INFO - Обрабатываем страницу: https://eurodez.uz/fumigacziya/
+2024-07-29 16:35:23,221 - INFO - Результаты для https://eurodez.uz/fumigacziya/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:23,221 - INFO - Обработано 139 из 148 страниц.
+2024-07-29 16:35:23,221 - INFO - Обрабатываем страницу: https://eurodez.uz/shop/sprej/professionalnoe-sredstvo-dlya-unichtozheniya-vseh-vidov-muh/
+2024-07-29 16:35:23,684 - INFO - Результаты для https://eurodez.uz/shop/sprej/professionalnoe-sredstvo-dlya-unichtozheniya-vseh-vidov-muh/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:23,685 - INFO - Обработано 140 из 148 страниц.
+2024-07-29 16:35:23,685 - INFO - Обрабатываем страницу: https://eurodez.uz/shop/zhidkost/professionalnoe-sredstvo-dlya-unichtozheniya-komarov-i-gnusa/
+2024-07-29 16:35:24,151 - INFO - Результаты для https://eurodez.uz/shop/zhidkost/professionalnoe-sredstvo-dlya-unichtozheniya-komarov-i-gnusa/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:24,151 - INFO - Обработано 141 из 148 страниц.
+2024-07-29 16:35:24,151 - INFO - Обрабатываем страницу: https://eurodez.uz/shop/sprej/professionalnoe-sredstvo-dlya-unichtozheniya-virusov/
+2024-07-29 16:35:24,516 - INFO - Результаты для https://eurodez.uz/shop/sprej/professionalnoe-sredstvo-dlya-unichtozheniya-virusov/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:24,516 - INFO - Обработано 142 из 148 страниц.
+2024-07-29 16:35:24,516 - INFO - Обрабатываем страницу: https://eurodez.uz/shop/sprej/professionalnoe-sredstvo-dlya-unichtozheniya-klopov/
+2024-07-29 16:35:24,898 - INFO - Результаты для https://eurodez.uz/shop/sprej/professionalnoe-sredstvo-dlya-unichtozheniya-klopov/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:24,898 - INFO - Обработано 143 из 148 страниц.
+2024-07-29 16:35:24,898 - INFO - Обрабатываем страницу: https://eurodez.uz/shop/sprej/professionalnoe-sredstvo-dlya-unichtozheniya-tarakanov/
+2024-07-29 16:35:25,265 - INFO - Результаты для https://eurodez.uz/shop/sprej/professionalnoe-sredstvo-dlya-unichtozheniya-tarakanov/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:25,266 - INFO - Обработано 144 из 148 страниц.
+2024-07-29 16:35:25,266 - INFO - Обрабатываем страницу: https://eurodez.uz/shop/shpricz/professionalnoe-sredstvo-dlya-unichtozheniya-tarakanov-gel/
+2024-07-29 16:35:26,407 - INFO - Результаты для https://eurodez.uz/shop/shpricz/professionalnoe-sredstvo-dlya-unichtozheniya-tarakanov-gel/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:26,408 - INFO - Обработано 145 из 148 страниц.
+2024-07-29 16:35:26,408 - INFO - Обрабатываем страницу: https://eurodez.uz/shop/
+2024-07-29 16:35:29,316 - INFO - Результаты для https://eurodez.uz/shop/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:29,317 - INFO - Обработано 146 из 148 страниц.
+2024-07-29 16:35:29,317 - INFO - Обрабатываем страницу: https://eurodez.uz/blog/
+2024-07-29 16:35:39,816 - INFO - Результаты для https://eurodez.uz/blog/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:39,817 - INFO - Обработано 147 из 148 страниц.
+2024-07-29 16:35:39,817 - INFO - Обрабатываем страницу: https://eurodez.uz/kontakty/
+2024-07-29 16:35:40,239 - INFO - Результаты для https://eurodez.uz/kontakty/: Яндекс Метрика: True, Google Analytics: False, GTM: True
+2024-07-29 16:35:40,239 - INFO - Обработано 148 из 148 страниц.

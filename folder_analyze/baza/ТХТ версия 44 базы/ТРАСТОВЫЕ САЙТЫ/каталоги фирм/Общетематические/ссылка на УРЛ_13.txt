@@ -1,0 +1,13 @@
+http://b2b.ivest.kz/company/create
+http://baza-r.ru/registration/
+http://biznet.su/user_cp/admin_contacts.php
+http://nnit.ru/catalog/
+http://potrebiteli.ru/company/index.html
+http://ub.ua/ru/firms/registration/
+http://www.bizator.ru/login?err=perm&came_from=/ucompany/create%3F
+http://www.cfin.ru/base/register_company.php
+http://www.e-adres.ru/dobavit-firmu/
+http://www.pulscen.ru/firms/new
+http://www.raexpert.ru/user/register/
+http://www.skladno.ru/console/
+http://www.ypag.ru/reg.php

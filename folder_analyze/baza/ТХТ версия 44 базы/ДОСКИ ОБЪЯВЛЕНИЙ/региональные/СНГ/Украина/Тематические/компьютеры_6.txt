@@ -1,0 +1,6 @@
+http://doska.itc.ua/login?return_path=/freeads/user/advertisements
+http://i-m.com.ua/cgi-bin/form/commform.pl?get=messages&section=vid&node_id=section&node_name=vid&prop_name=messages_edit&region=
+http://mabila.ua/board/dobavit/
+http://mobilend.com.ua/formboard.php
+http://ukrcomp.com.ua/board/add/
+http://www.portavik.com.ua/page_input.php

@@ -1,0 +1,1771 @@
+2024-07-29 12:31:29,624 - INFO - Начинаем сканирование сайта...
+2024-07-29 12:31:29,625 - INFO - Сканирование страницы: https://ispace-shop.ru на глубине 0
+2024-07-29 12:31:29,625 - INFO - Запрос страницы: https://ispace-shop.ru
+2024-07-29 12:31:30,291 - INFO - Найдено 1170 новых ссылок на странице https://ispace-shop.ru
+2024-07-29 12:31:30,291 - INFO - Сканирование страницы: https://ispace-shop.ru/agreement/ на глубине 1
+2024-07-29 12:31:30,291 - INFO - Запрос страницы: https://ispace-shop.ru/agreement/
+2024-07-29 12:31:30,869 - INFO - Найдено 1158 новых ссылок на странице https://ispace-shop.ru/agreement/
+2024-07-29 12:31:30,869 - INFO - Сканирование страницы: https://ispace-shop.ru/agreement/#body на глубине 2
+2024-07-29 12:31:30,869 - INFO - Запрос страницы: https://ispace-shop.ru/agreement/#body
+2024-07-29 12:31:31,423 - INFO - Найдено 1157 новых ссылок на странице https://ispace-shop.ru/agreement/#body
+2024-07-29 12:31:31,424 - INFO - Сканирование страницы: https://ispace-shop.ru/ на глубине 3
+2024-07-29 12:31:31,424 - INFO - Запрос страницы: https://ispace-shop.ru/
+2024-07-29 12:31:32,180 - INFO - Найдено 1163 новых ссылок на странице https://ispace-shop.ru/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/#body
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/auth/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/favorites/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/personal/cart/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/smartfon/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/smartfony_samsung/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/galaxy_z/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/samsung_galaxy_a/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/samsung_galaxy_s/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/iphone/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_iphone_15/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_iphone_15_plus/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_iphone_15_pro/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_iphone_15_pro_max/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_iphone_14/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_iphone_14_plus/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_iphone_13/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_iphone_13_mini/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_iphone_12/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_iphone_11/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/smartfony_realme/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/realme_10_pro_plus/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/realme_10/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/realme_10_pro/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/realme_11_pro/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/realme_11_pro_plus/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/realme_c55/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/realme_gt_neo_3/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/smartfony_huawei/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/mate_50/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/mate_50_pro/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/mate_xs_2/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/nova_10/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/nova_11/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/nova_11_pro/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/nova_8/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/nova_9_se/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/nova_y61/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/nova_y70/
+2024-07-29 12:31:32,180 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/nova_y90/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/p50/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/p50_pocket%20Premium%20Edition/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/p50_pro/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/smartfony_google/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/pixel_7/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/pixel_7_pro/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/google_pixel_8/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/pixel_8_pro/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/smartfony_honor/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/honor_90/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/honor_90_lite/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/smartfony_asus/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/zenfone_9/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/zenfone_10/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/zenfone_8/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/smartfony_nothing_phone/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/nothing_phone_2/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/smartfony_xiaomi_/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/poco/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/redmi_/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/xiaomi_mi_13/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/chasy/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/smart_chasy_samsung/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/samsung_galaxy_watch_5_pro/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/samsung_galaxy_watch_6/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/samsung_galaxy_watch_6_classic/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/watch/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_watch_se_2/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_watch_series_8/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_watch_series_9/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_watch_ultra_2/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/garmin/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/epix_gen_2_sapphire/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/fenix_7/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/fenix_7_sapphire_solar/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/fenix_7_solar/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/fenix_7s/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/fenix_7s_sapphire_solar/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/fenix_7s_solar/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/fenix_7x_solar/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/fenix_epix_2/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/forerunner_255/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/forerunner_255s_music/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/forerunner_55/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/forerunner_745/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/forerunner_955/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/garmin_fenix_6x_pro/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/garmin_tactix_7/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/garmin_tactix_7_pro/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/garmin_tactix_delta_sapphire_edition/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/garmin_tactix_delta_solar_dlc/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/instinct_2_solar/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/instinct_2_solar_tactical_edition/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/marq_adventure_gen_2/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/marq_athlete_gen_2/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/marq_aviator_gen_2/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/marq_captain_gen_2/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/tactix_7_pro_ballistics_edition/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/vivoactive_4/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/smart_chasy/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/planshety/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/ipad/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/ipad_10_2_2021/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/ipad_10_9_2022/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/ipad_air_10_9_2022/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/ipad_air_11_2024/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/ipad_mini_2021/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/ipad_pro_11_m2_2022/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/ipad_pro_11_m4_2024/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/ipad_pro_12_9_m2_2022/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/ipad_pro_13_m4_2024/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/planshety_samsung/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/galaxy_tab_a7_lite/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/galaxy_tab_a8/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/galaxy_tab_a9/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/galaxy_tab_s8_plus/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/galaxy_tab_s9/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/galaxy_tab_s9_fe/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/galaxy_tab_s9_fe_plus/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/galaxy_tab_s9_plus/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/galaxy_tab_s9_ultra/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/xiaomi/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/mi_pad_6/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/redmi_pad_se/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/kompyutery/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/imac/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_imac_24_2023/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_imac_24_retina_4_5k/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/mac_mini/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/mac_mini_2023/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/mac_mini_m1/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/macbook/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/macbook_air_13_2020_m1/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/macbook_air_13_2022_m2/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/macbook_air_13_2024_m3/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/macbook_air_15_2023_m2/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/macbook_air_15_2024_m3/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/macbook_pro_13_2022_m2/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/macbook_pro_14_2021/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/macbook_pro_14_2023/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/macbook_pro_14_m1/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/macbook_pro_16_2021/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/macbook_pro_16_2023/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/macbook_pro_16_m3_max_2023/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/macbook_pro_16_m3_pro_2023/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/aksessuar/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/airtag/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/powerbank_magsafe/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/adaptery/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/bloki_pitaniya/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/kabeli_apple/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/klaviatury/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/myshi/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/stilusy/
+2024-07-29 12:31:32,181 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/trekpady/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/besprovodnye_naushniki/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/besprovodnye_pylesosy/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/vypryamiteli_dlya_volos/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/gadzhe/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/gopro/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/_hero11_black_edition/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/hero10_black_edition/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/hero12_black_edition/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/hero9_black_edition/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/kvadrokoptery/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dji_mavic_3_classic_pult_upravleniya_dji_rc/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dji_air_2s_combo/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dji_avata_fly_smart_combo/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dji_fpv_combo/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dji_matrice_30t/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dji_mavic_2_enterprise_zoom/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dji_mavic_3/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dji_mavic_3_combo/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dji_mavic_air_2/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dji_mini_2/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dji_mini_2_fly_more_combo/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dji_mini_3_pro/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/mediapleery/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/mediapleer_apple_tv_4k_2021/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/mediapleer_apple_tv_4k_2022/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/portativnaya_akustika/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/_jbl_flip_5/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_homepod_mini/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/jbl_boombox_3/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/jbl_charge_5/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/jbl_clip_4/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/jbl_flip_6/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/jbl_go_3/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/jbl_link_music_yandex/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/jbl_partybox_1000/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/jbl_partybox_on_the_go/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/jbl_pulse_4/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/jbl_pulse_5/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/jbl_wind_2/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/jbl_xtreme_3/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/marshall_kilburn_ii/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/yandex_station_lite/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/yandex_station_max/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/yandex_station_midi/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/yandex_station_mini_plus/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/umnaya_kolonka_apple_homepod_2_go_pokoleniya_2023/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/yandekc_stantsiya_duo_maks/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/yandeks_stantsiya_2/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/igrovye_pristavk/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/microsoft_xbox/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/microsoft_xbox_series_s/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/microsoft_xbox_series_x/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/nintendo_switch/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/nintendo_switch_lite/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/nintendo_switch_oled/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/nintendo_switchh/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/sony_playstation/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/sony_playstation_5/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/sony_playstation_5_digital_edition/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/sony_playstation_5_slim/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/sony_playstation_portal/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/valve/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/steam_deck/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/igrovye_aksessuary/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/shlem_virtualnoy_realnosti_playstation_vr2/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/besprovodnaya_garnitura_sony_pulse_3d_dlya_ps5/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/besprovodnoy_kontroller_sony_dualshock_4/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/geympad_microsoft_xbox_wireless_controller/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/geympad_sony_playstation_5_dualsense/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dva_kontrollera_sony_move_motion_controller_twin_pack/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/naushnik/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/naushniki_samsung/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/galaxy_buds_live_mystic/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/samsung_buds_2/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/samsung_buds_pro/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/samsung_buds_pro_2/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/samsung_galaxy_buds_fe/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/samsung_galaxy_buds/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/airpods/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_airpods_2/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_airpods_3/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_airpods_max/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_airpods_pro/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_airpods_pro_2nd_generation/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_earpods_3_5_mm/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_earpods_lightning/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple_airpods_3_magsafe_case/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/marshall/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/naushniki_sony_/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/sony_linkbuds_s/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/sony_wh_1000xm4/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/sony_wh_1000xm5/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/staylery/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/feny/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dyson/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/vypryamitel_dyson/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dyson_corrale_hs03/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/stayler_dyson/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/long/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/short/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/fen_dyson/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/supersonic_hd12/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/supersonic_hd07/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/supersonic_hd08/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/supersonic_hd15/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/besprovodnoy_pylesos_dyson/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/_dyson_v10/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dyson_gen_5_detect_absolute/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dyson_v11/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dyson_v12/
+2024-07-29 12:31:32,182 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dyson_v15/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/dyson_v8/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/apple/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/samsung/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://orel.ispace-shop.ru/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://belgorod.ispace-shop.ru/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/offers/apple_iphone_14_plus_512gb_red/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/offers/apple_iphone_15_plus_256gb_pink_esim/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/offers/apple_iphone_15_pro_128gb_natural_titanium_esim/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/actions/ustanovim-udalennye-prilozheniya/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/catalog/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/#footer
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/actions/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/credit/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/dilivery/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/trade-in/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/about/product/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/purchase-returns/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/pickup/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/guarantees/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/about/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/about/contacts/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/privacy-policy/
+2024-07-29 12:31:32,183 - INFO - Достигнут лимит глубины или количества страниц для https://ispace-shop.ru/public-offer/
+2024-07-29 12:31:32,184 - INFO - Сканирование страницы: https://lipetsk.ispace-shop.ru/agreement/ на глубине 3
+2024-07-29 12:31:32,184 - INFO - Запрос страницы: https://lipetsk.ispace-shop.ru/agreement/
+2024-07-29 12:31:32,777 - INFO - Найдено 1157 новых ссылок на странице https://lipetsk.ispace-shop.ru/agreement/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/agreement/#body
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/auth/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/favorites/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/personal/cart/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/smartfon/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/smartfony_samsung/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/galaxy_z/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/samsung_galaxy_a/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/samsung_galaxy_s/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/iphone/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_iphone_15/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_iphone_15_plus/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_iphone_15_pro/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_iphone_15_pro_max/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_iphone_14/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_iphone_14_plus/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_iphone_13/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_iphone_13_mini/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_iphone_12/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_iphone_11/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/smartfony_realme/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/realme_10_pro_plus/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/realme_10/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/realme_10_pro/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/realme_11_pro/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/realme_11_pro_plus/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/realme_c55/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/realme_gt_neo_3/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/smartfony_huawei/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/mate_50/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/mate_50_pro/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/mate_xs_2/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/nova_10/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/nova_11/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/nova_11_pro/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/nova_8/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/nova_9_se/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/nova_y61/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/nova_y70/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/nova_y90/
+2024-07-29 12:31:32,777 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/p50/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/p50_pocket%20Premium%20Edition/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/p50_pro/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/smartfony_google/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/pixel_7/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/pixel_7_pro/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/google_pixel_8/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/pixel_8_pro/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/smartfony_honor/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/honor_90/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/honor_90_lite/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/smartfony_asus/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/zenfone_9/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/zenfone_10/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/zenfone_8/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/smartfony_nothing_phone/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/nothing_phone_2/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/smartfony_xiaomi_/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/poco/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/redmi_/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/xiaomi_mi_13/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/chasy/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/smart_chasy_samsung/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/samsung_galaxy_watch_5_pro/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/samsung_galaxy_watch_6/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/samsung_galaxy_watch_6_classic/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/watch/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_watch_se_2/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_watch_series_8/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_watch_series_9/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_watch_ultra_2/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/garmin/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/epix_gen_2_sapphire/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/fenix_7/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/fenix_7_sapphire_solar/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/fenix_7_solar/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/fenix_7s/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/fenix_7s_sapphire_solar/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/fenix_7s_solar/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/fenix_7x_solar/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/fenix_epix_2/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/forerunner_255/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/forerunner_255s_music/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/forerunner_55/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/forerunner_745/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/forerunner_955/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/garmin_fenix_6x_pro/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/garmin_tactix_7/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/garmin_tactix_7_pro/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/garmin_tactix_delta_sapphire_edition/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/garmin_tactix_delta_solar_dlc/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/instinct_2_solar/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/instinct_2_solar_tactical_edition/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/marq_adventure_gen_2/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/marq_athlete_gen_2/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/marq_aviator_gen_2/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/marq_captain_gen_2/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/tactix_7_pro_ballistics_edition/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/vivoactive_4/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/smart_chasy/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/planshety/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/ipad/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/ipad_10_2_2021/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/ipad_10_9_2022/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/ipad_air_10_9_2022/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/ipad_air_11_2024/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/ipad_mini_2021/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/ipad_pro_11_m2_2022/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/ipad_pro_11_m4_2024/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/ipad_pro_12_9_m2_2022/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/ipad_pro_13_m4_2024/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/planshety_samsung/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_a7_lite/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_a8/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_a9/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_s8_plus/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_s9/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_s9_fe/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_s9_fe_plus/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_s9_plus/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_s9_ultra/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/xiaomi/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/mi_pad_6/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/redmi_pad_se/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/kompyutery/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/imac/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_imac_24_2023/
+2024-07-29 12:31:32,778 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_imac_24_retina_4_5k/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/mac_mini/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/mac_mini_2023/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/mac_mini_m1/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/macbook/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/macbook_air_13_2020_m1/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/macbook_air_13_2022_m2/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/macbook_air_13_2024_m3/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/macbook_air_15_2023_m2/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/macbook_air_15_2024_m3/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/macbook_pro_13_2022_m2/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/macbook_pro_14_2021/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/macbook_pro_14_2023/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/macbook_pro_14_m1/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/macbook_pro_16_2021/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/macbook_pro_16_2023/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/macbook_pro_16_m3_max_2023/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/macbook_pro_16_m3_pro_2023/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/aksessuar/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/airtag/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/powerbank_magsafe/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/adaptery/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/bloki_pitaniya/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/kabeli_apple/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/klaviatury/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/myshi/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/stilusy/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/trekpady/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/besprovodnye_naushniki/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/besprovodnye_pylesosy/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/vypryamiteli_dlya_volos/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/gadzhe/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/gopro/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/_hero11_black_edition/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/hero10_black_edition/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/hero12_black_edition/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/hero9_black_edition/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/kvadrokoptery/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dji_mavic_3_classic_pult_upravleniya_dji_rc/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dji_air_2s_combo/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dji_avata_fly_smart_combo/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dji_fpv_combo/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dji_matrice_30t/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dji_mavic_2_enterprise_zoom/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dji_mavic_3/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dji_mavic_3_combo/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dji_mavic_air_2/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dji_mini_2/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dji_mini_2_fly_more_combo/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dji_mini_3_pro/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/mediapleery/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/mediapleer_apple_tv_4k_2021/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/mediapleer_apple_tv_4k_2022/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/portativnaya_akustika/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/_jbl_flip_5/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_homepod_mini/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/jbl_boombox_3/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/jbl_charge_5/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/jbl_clip_4/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/jbl_flip_6/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/jbl_go_3/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/jbl_link_music_yandex/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/jbl_partybox_1000/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/jbl_partybox_on_the_go/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/jbl_pulse_4/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/jbl_pulse_5/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/jbl_wind_2/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/jbl_xtreme_3/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/marshall_kilburn_ii/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/yandex_station_lite/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/yandex_station_max/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/yandex_station_midi/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/yandex_station_mini_plus/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/umnaya_kolonka_apple_homepod_2_go_pokoleniya_2023/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/yandekc_stantsiya_duo_maks/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/yandeks_stantsiya_2/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/igrovye_pristavk/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/microsoft_xbox/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/microsoft_xbox_series_s/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/microsoft_xbox_series_x/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/nintendo_switch/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/nintendo_switch_lite/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/nintendo_switch_oled/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/nintendo_switchh/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/sony_playstation/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/sony_playstation_5/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/sony_playstation_5_digital_edition/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/sony_playstation_5_slim/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/sony_playstation_portal/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/valve/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/steam_deck/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/igrovye_aksessuary/
+2024-07-29 12:31:32,779 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/shlem_virtualnoy_realnosti_playstation_vr2/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/besprovodnaya_garnitura_sony_pulse_3d_dlya_ps5/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/besprovodnoy_kontroller_sony_dualshock_4/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/geympad_microsoft_xbox_wireless_controller/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/geympad_sony_playstation_5_dualsense/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dva_kontrollera_sony_move_motion_controller_twin_pack/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/naushnik/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/naushniki_samsung/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/galaxy_buds_live_mystic/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/samsung_buds_2/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/samsung_buds_pro/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/samsung_buds_pro_2/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/samsung_galaxy_buds_fe/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/samsung_galaxy_buds/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/airpods/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_airpods_2/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_airpods_3/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_airpods_max/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_airpods_pro/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_airpods_pro_2nd_generation/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_earpods_3_5_mm/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_earpods_lightning/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple_airpods_3_magsafe_case/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/marshall/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/naushniki_sony_/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/sony_linkbuds_s/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/sony_wh_1000xm4/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/sony_wh_1000xm5/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/staylery/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/feny/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dyson/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/vypryamitel_dyson/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dyson_corrale_hs03/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/stayler_dyson/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/long/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/short/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/fen_dyson/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/supersonic_hd12/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/supersonic_hd07/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/supersonic_hd08/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/supersonic_hd15/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/besprovodnoy_pylesos_dyson/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/_dyson_v10/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dyson_gen_5_detect_absolute/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dyson_v11/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dyson_v12/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dyson_v15/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/dyson_v8/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/apple/
+2024-07-29 12:31:32,780 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/samsung/
+2024-07-29 12:31:32,781 - INFO - Достигнут лимит глубины или количества страниц для https://orel.ispace-shop.ru/agreement/
+2024-07-29 12:31:32,781 - INFO - Достигнут лимит глубины или количества страниц для https://belgorod.ispace-shop.ru/agreement/
+2024-07-29 12:31:32,782 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/catalog/
+2024-07-29 12:31:32,782 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/agreement/#footer
+2024-07-29 12:31:32,782 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/actions/
+2024-07-29 12:31:32,782 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/credit/
+2024-07-29 12:31:32,782 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/dilivery/
+2024-07-29 12:31:32,782 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/trade-in/
+2024-07-29 12:31:32,782 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/about/product/
+2024-07-29 12:31:32,782 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/purchase-returns/
+2024-07-29 12:31:32,782 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/pickup/
+2024-07-29 12:31:32,782 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/guarantees/
+2024-07-29 12:31:32,782 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/about/
+2024-07-29 12:31:32,782 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/about/contacts/
+2024-07-29 12:31:32,782 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/privacy-policy/
+2024-07-29 12:31:32,782 - INFO - Достигнут лимит глубины или количества страниц для https://lipetsk.ispace-shop.ru/public-offer/
+2024-07-29 12:31:32,782 - INFO - Сканирование страницы: https://ispace-shop.ru/agreement/#footer на глубине 3
+2024-07-29 12:31:32,782 - INFO - Запрос страницы: https://ispace-shop.ru/agreement/#footer
+2024-07-29 12:31:33,345 - INFO - Найдено 1151 новых ссылок на странице https://ispace-shop.ru/agreement/#footer
+2024-07-29 12:31:33,346 - INFO - Сканирование страницы: https://ispace-shop.ru#body на глубине 1
+2024-07-29 12:31:33,346 - INFO - Запрос страницы: https://ispace-shop.ru#body
+2024-07-29 12:31:34,175 - INFO - Найдено 1162 новых ссылок на странице https://ispace-shop.ru#body
+2024-07-29 12:31:34,176 - INFO - Сканирование страницы: https://ispace-shop.ru#footer на глубине 2
+2024-07-29 12:31:34,176 - INFO - Запрос страницы: https://ispace-shop.ru#footer
+2024-07-29 12:31:34,947 - INFO - Найдено 1160 новых ссылок на странице https://ispace-shop.ru#footer
+2024-07-29 12:31:34,949 - INFO - Всего страниц для проверки: 583
+2024-07-29 12:31:34,949 - INFO - ====== WebDriver manager ======
+2024-07-29 12:31:35,030 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-29 12:31:35,314 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-29 12:31:35,613 - INFO - Driver [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-arm64/chromedriver] found in cache
+2024-07-29 12:31:36,040 - INFO - Обрабатываем страницу: https://ispace-shop.ru
+2024-07-29 12:31:38,271 - INFO - Обработано 1 из 583 страниц.
+2024-07-29 12:31:38,271 - INFO - Обрабатываем страницу: https://ispace-shop.ru/agreement/
+2024-07-29 12:31:39,186 - INFO - Обработано 2 из 583 страниц.
+2024-07-29 12:31:39,186 - INFO - Обрабатываем страницу: https://ispace-shop.ru/agreement/#body
+2024-07-29 12:31:39,226 - INFO - Обработано 3 из 583 страниц.
+2024-07-29 12:31:39,226 - INFO - Обрабатываем страницу: https://ispace-shop.ru/
+2024-07-29 12:31:40,489 - INFO - Обработано 4 из 583 страниц.
+2024-07-29 12:31:40,489 - INFO - Обрабатываем страницу: https://ispace-shop.ru/#body
+2024-07-29 12:31:40,531 - INFO - Обработано 5 из 583 страниц.
+2024-07-29 12:31:40,531 - INFO - Обрабатываем страницу: https://ispace-shop.ru/auth/
+2024-07-29 12:31:41,199 - INFO - Обработано 6 из 583 страниц.
+2024-07-29 12:31:41,199 - INFO - Обрабатываем страницу: https://ispace-shop.ru/favorites/
+2024-07-29 12:31:41,909 - INFO - Обработано 7 из 583 страниц.
+2024-07-29 12:31:41,909 - INFO - Обрабатываем страницу: https://ispace-shop.ru/personal/cart/
+2024-07-29 12:31:43,358 - INFO - Обработано 8 из 583 страниц.
+2024-07-29 12:31:43,358 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/smartfon/
+2024-07-29 12:31:47,841 - INFO - Обработано 9 из 583 страниц.
+2024-07-29 12:31:47,841 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/smartfony_samsung/
+2024-07-29 12:31:52,329 - INFO - Обработано 10 из 583 страниц.
+2024-07-29 12:31:52,329 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/galaxy_z/
+2024-07-29 12:31:53,570 - INFO - Обработано 11 из 583 страниц.
+2024-07-29 12:31:53,571 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/samsung_galaxy_a/
+2024-07-29 12:31:54,599 - INFO - Обработано 12 из 583 страниц.
+2024-07-29 12:31:54,600 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/samsung_galaxy_s/
+2024-07-29 12:31:56,065 - INFO - Обработано 13 из 583 страниц.
+2024-07-29 12:31:56,065 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/iphone/
+2024-07-29 12:31:58,450 - INFO - Обработано 14 из 583 страниц.
+2024-07-29 12:31:58,450 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_iphone_15/
+2024-07-29 12:31:59,382 - INFO - Обработано 15 из 583 страниц.
+2024-07-29 12:31:59,383 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_iphone_15_plus/
+2024-07-29 12:32:00,436 - INFO - Обработано 16 из 583 страниц.
+2024-07-29 12:32:00,436 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_iphone_15_pro/
+2024-07-29 12:32:01,408 - INFO - Обработано 17 из 583 страниц.
+2024-07-29 12:32:01,408 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_iphone_15_pro_max/
+2024-07-29 12:32:04,075 - INFO - Обработано 18 из 583 страниц.
+2024-07-29 12:32:04,075 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_iphone_14/
+2024-07-29 12:32:06,289 - INFO - Обработано 19 из 583 страниц.
+2024-07-29 12:32:06,289 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_iphone_14_plus/
+2024-07-29 12:32:07,408 - INFO - Обработано 20 из 583 страниц.
+2024-07-29 12:32:07,408 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_iphone_13/
+2024-07-29 12:32:08,956 - INFO - Обработано 21 из 583 страниц.
+2024-07-29 12:32:08,956 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_iphone_13_mini/
+2024-07-29 12:32:10,441 - INFO - Обработано 22 из 583 страниц.
+2024-07-29 12:32:10,441 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_iphone_12/
+2024-07-29 12:32:11,512 - INFO - Обработано 23 из 583 страниц.
+2024-07-29 12:32:11,512 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_iphone_11/
+2024-07-29 12:32:12,410 - INFO - Обработано 24 из 583 страниц.
+2024-07-29 12:32:12,410 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/smartfony_realme/
+2024-07-29 12:32:14,931 - INFO - Обработано 25 из 583 страниц.
+2024-07-29 12:32:14,932 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/realme_10_pro_plus/
+2024-07-29 12:32:16,570 - INFO - Обработано 26 из 583 страниц.
+2024-07-29 12:32:16,570 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/realme_10/
+2024-07-29 12:32:17,472 - INFO - Обработано 27 из 583 страниц.
+2024-07-29 12:32:17,473 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/realme_10_pro/
+2024-07-29 12:32:18,422 - INFO - Обработано 28 из 583 страниц.
+2024-07-29 12:32:18,422 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/realme_11_pro/
+2024-07-29 12:32:19,460 - INFO - Обработано 29 из 583 страниц.
+2024-07-29 12:32:19,460 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/realme_11_pro_plus/
+2024-07-29 12:32:20,974 - INFO - Обработано 30 из 583 страниц.
+2024-07-29 12:32:20,974 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/realme_c55/
+2024-07-29 12:32:21,829 - INFO - Обработано 31 из 583 страниц.
+2024-07-29 12:32:21,829 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/realme_gt_neo_3/
+2024-07-29 12:32:22,769 - INFO - Обработано 32 из 583 страниц.
+2024-07-29 12:32:22,769 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/smartfony_huawei/
+2024-07-29 12:32:27,537 - INFO - Обработано 33 из 583 страниц.
+2024-07-29 12:32:27,537 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/mate_50/
+2024-07-29 12:32:30,128 - INFO - Обработано 34 из 583 страниц.
+2024-07-29 12:32:30,128 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/mate_50_pro/
+2024-07-29 12:32:31,284 - INFO - Обработано 35 из 583 страниц.
+2024-07-29 12:32:31,284 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/mate_xs_2/
+2024-07-29 12:32:32,218 - INFO - Обработано 36 из 583 страниц.
+2024-07-29 12:32:32,218 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/nova_10/
+2024-07-29 12:32:33,060 - INFO - Обработано 37 из 583 страниц.
+2024-07-29 12:32:33,060 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/nova_11/
+2024-07-29 12:32:34,066 - INFO - Обработано 38 из 583 страниц.
+2024-07-29 12:32:34,066 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/nova_11_pro/
+2024-07-29 12:32:34,869 - INFO - Обработано 39 из 583 страниц.
+2024-07-29 12:32:34,869 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/nova_8/
+2024-07-29 12:32:35,696 - INFO - Обработано 40 из 583 страниц.
+2024-07-29 12:32:35,697 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/nova_9_se/
+2024-07-29 12:32:36,624 - INFO - Обработано 41 из 583 страниц.
+2024-07-29 12:32:36,624 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/nova_y61/
+2024-07-29 12:32:37,791 - INFO - Обработано 42 из 583 страниц.
+2024-07-29 12:32:37,791 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/nova_y70/
+2024-07-29 12:32:38,646 - INFO - Обработано 43 из 583 страниц.
+2024-07-29 12:32:38,646 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/nova_y90/
+2024-07-29 12:32:39,537 - INFO - Обработано 44 из 583 страниц.
+2024-07-29 12:32:39,537 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/p50/
+2024-07-29 12:32:40,516 - INFO - Обработано 45 из 583 страниц.
+2024-07-29 12:32:40,516 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/p50_pocket%20Premium%20Edition/
+2024-07-29 12:32:41,142 - INFO - Обработано 46 из 583 страниц.
+2024-07-29 12:32:41,142 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/p50_pro/
+2024-07-29 12:32:42,039 - INFO - Обработано 47 из 583 страниц.
+2024-07-29 12:32:42,039 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/smartfony_google/
+2024-07-29 12:32:43,927 - INFO - Обработано 48 из 583 страниц.
+2024-07-29 12:32:43,927 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/pixel_7/
+2024-07-29 12:32:44,822 - INFO - Обработано 49 из 583 страниц.
+2024-07-29 12:32:44,822 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/pixel_7_pro/
+2024-07-29 12:32:45,830 - INFO - Обработано 50 из 583 страниц.
+2024-07-29 12:32:45,830 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/google_pixel_8/
+2024-07-29 12:32:46,733 - INFO - Обработано 51 из 583 страниц.
+2024-07-29 12:32:46,733 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/pixel_8_pro/
+2024-07-29 12:32:47,753 - INFO - Обработано 52 из 583 страниц.
+2024-07-29 12:32:47,753 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/smartfony_honor/
+2024-07-29 12:32:49,974 - INFO - Обработано 53 из 583 страниц.
+2024-07-29 12:32:49,974 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/honor_90/
+2024-07-29 12:32:50,884 - INFO - Обработано 54 из 583 страниц.
+2024-07-29 12:32:50,885 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/honor_90_lite/
+2024-07-29 12:32:51,898 - INFO - Обработано 55 из 583 страниц.
+2024-07-29 12:32:51,898 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/smartfony_asus/
+2024-07-29 12:32:55,244 - INFO - Обработано 56 из 583 страниц.
+2024-07-29 12:32:55,244 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/zenfone_9/
+2024-07-29 12:32:56,111 - INFO - Обработано 57 из 583 страниц.
+2024-07-29 12:32:56,111 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/zenfone_10/
+2024-07-29 12:32:56,979 - INFO - Обработано 58 из 583 страниц.
+2024-07-29 12:32:56,979 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/zenfone_8/
+2024-07-29 12:32:57,834 - INFO - Обработано 59 из 583 страниц.
+2024-07-29 12:32:57,834 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/smartfony_nothing_phone/
+2024-07-29 12:32:58,885 - INFO - Обработано 60 из 583 страниц.
+2024-07-29 12:32:58,885 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/nothing_phone_2/
+2024-07-29 12:32:59,837 - INFO - Обработано 61 из 583 страниц.
+2024-07-29 12:32:59,837 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/smartfony_xiaomi_/
+2024-07-29 12:33:12,672 - INFO - Обработано 62 из 583 страниц.
+2024-07-29 12:33:12,672 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/poco/
+2024-07-29 12:33:16,940 - INFO - Обработано 63 из 583 страниц.
+2024-07-29 12:33:16,941 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/redmi_/
+2024-07-29 12:33:18,069 - INFO - Обработано 64 из 583 страниц.
+2024-07-29 12:33:18,069 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/xiaomi_mi_13/
+2024-07-29 12:33:20,046 - INFO - Обработано 65 из 583 страниц.
+2024-07-29 12:33:20,046 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/chasy/
+2024-07-29 12:33:23,326 - INFO - Обработано 66 из 583 страниц.
+2024-07-29 12:33:23,326 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/smart_chasy_samsung/
+2024-07-29 12:33:29,027 - INFO - Обработано 67 из 583 страниц.
+2024-07-29 12:33:29,027 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/samsung_galaxy_watch_5_pro/
+2024-07-29 12:33:30,132 - INFO - Обработано 68 из 583 страниц.
+2024-07-29 12:33:30,132 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/samsung_galaxy_watch_6/
+2024-07-29 12:33:31,020 - INFO - Обработано 69 из 583 страниц.
+2024-07-29 12:33:31,020 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/samsung_galaxy_watch_6_classic/
+2024-07-29 12:33:31,945 - INFO - Обработано 70 из 583 страниц.
+2024-07-29 12:33:31,945 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/watch/
+2024-07-29 12:33:35,161 - INFO - Обработано 71 из 583 страниц.
+2024-07-29 12:33:35,161 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_watch_se_2/
+2024-07-29 12:33:36,070 - INFO - Обработано 72 из 583 страниц.
+2024-07-29 12:33:36,071 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_watch_series_8/
+2024-07-29 12:33:36,938 - INFO - Обработано 73 из 583 страниц.
+2024-07-29 12:33:36,938 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_watch_series_9/
+2024-07-29 12:33:38,536 - INFO - Обработано 74 из 583 страниц.
+2024-07-29 12:33:38,536 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_watch_ultra_2/
+2024-07-29 12:33:42,823 - INFO - Обработано 75 из 583 страниц.
+2024-07-29 12:33:42,823 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/garmin/
+2024-07-29 12:33:44,185 - INFO - Обработано 76 из 583 страниц.
+2024-07-29 12:33:44,186 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/epix_gen_2_sapphire/
+2024-07-29 12:33:45,159 - INFO - Обработано 77 из 583 страниц.
+2024-07-29 12:33:45,159 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/fenix_7/
+2024-07-29 12:33:45,980 - INFO - Обработано 78 из 583 страниц.
+2024-07-29 12:33:45,980 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/fenix_7_sapphire_solar/
+2024-07-29 12:33:47,058 - INFO - Обработано 79 из 583 страниц.
+2024-07-29 12:33:47,058 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/fenix_7_solar/
+2024-07-29 12:33:48,040 - INFO - Обработано 80 из 583 страниц.
+2024-07-29 12:33:48,040 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/fenix_7s/
+2024-07-29 12:33:48,912 - INFO - Обработано 81 из 583 страниц.
+2024-07-29 12:33:48,912 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/fenix_7s_sapphire_solar/
+2024-07-29 12:33:49,786 - INFO - Обработано 82 из 583 страниц.
+2024-07-29 12:33:49,786 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/fenix_7s_solar/
+2024-07-29 12:33:50,684 - INFO - Обработано 83 из 583 страниц.
+2024-07-29 12:33:50,684 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/fenix_7x_solar/
+2024-07-29 12:33:52,147 - INFO - Обработано 84 из 583 страниц.
+2024-07-29 12:33:52,147 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/fenix_epix_2/
+2024-07-29 12:33:53,065 - INFO - Обработано 85 из 583 страниц.
+2024-07-29 12:33:53,066 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/forerunner_255/
+2024-07-29 12:33:53,889 - INFO - Обработано 86 из 583 страниц.
+2024-07-29 12:33:53,889 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/forerunner_255s_music/
+2024-07-29 12:33:54,846 - INFO - Обработано 87 из 583 страниц.
+2024-07-29 12:33:54,846 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/forerunner_55/
+2024-07-29 12:33:55,773 - INFO - Обработано 88 из 583 страниц.
+2024-07-29 12:33:55,773 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/forerunner_745/
+2024-07-29 12:33:56,627 - INFO - Обработано 89 из 583 страниц.
+2024-07-29 12:33:56,627 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/forerunner_955/
+2024-07-29 12:33:57,760 - INFO - Обработано 90 из 583 страниц.
+2024-07-29 12:33:57,760 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/garmin_fenix_6x_pro/
+2024-07-29 12:33:59,053 - INFO - Обработано 91 из 583 страниц.
+2024-07-29 12:33:59,053 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/garmin_tactix_7/
+2024-07-29 12:34:00,346 - INFO - Обработано 92 из 583 страниц.
+2024-07-29 12:34:00,346 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/garmin_tactix_7_pro/
+2024-07-29 12:34:01,376 - INFO - Обработано 93 из 583 страниц.
+2024-07-29 12:34:01,376 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/garmin_tactix_delta_sapphire_edition/
+2024-07-29 12:34:02,355 - INFO - Обработано 94 из 583 страниц.
+2024-07-29 12:34:02,355 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/garmin_tactix_delta_solar_dlc/
+2024-07-29 12:34:03,239 - INFO - Обработано 95 из 583 страниц.
+2024-07-29 12:34:03,240 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/instinct_2_solar/
+2024-07-29 12:34:04,142 - INFO - Обработано 96 из 583 страниц.
+2024-07-29 12:34:04,142 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/instinct_2_solar_tactical_edition/
+2024-07-29 12:34:05,128 - INFO - Обработано 97 из 583 страниц.
+2024-07-29 12:34:05,128 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/marq_adventure_gen_2/
+2024-07-29 12:34:06,009 - INFO - Обработано 98 из 583 страниц.
+2024-07-29 12:34:06,009 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/marq_athlete_gen_2/
+2024-07-29 12:34:07,157 - INFO - Обработано 99 из 583 страниц.
+2024-07-29 12:34:07,157 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/marq_aviator_gen_2/
+2024-07-29 12:34:08,234 - INFO - Обработано 100 из 583 страниц.
+2024-07-29 12:34:08,234 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/marq_captain_gen_2/
+2024-07-29 12:34:09,188 - INFO - Обработано 101 из 583 страниц.
+2024-07-29 12:34:09,188 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/tactix_7_pro_ballistics_edition/
+2024-07-29 12:34:10,477 - INFO - Обработано 102 из 583 страниц.
+2024-07-29 12:34:10,477 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/vivoactive_4/
+2024-07-29 12:34:11,568 - INFO - Обработано 103 из 583 страниц.
+2024-07-29 12:34:11,568 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/smart_chasy/
+2024-07-29 12:34:12,707 - INFO - Обработано 104 из 583 страниц.
+2024-07-29 12:34:12,707 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/planshety/
+2024-07-29 12:34:14,046 - INFO - Обработано 105 из 583 страниц.
+2024-07-29 12:34:14,046 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/ipad/
+2024-07-29 12:34:16,599 - INFO - Обработано 106 из 583 страниц.
+2024-07-29 12:34:16,599 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/ipad_10_2_2021/
+2024-07-29 12:34:17,558 - INFO - Обработано 107 из 583 страниц.
+2024-07-29 12:34:17,558 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/ipad_10_9_2022/
+2024-07-29 12:34:18,767 - INFO - Обработано 108 из 583 страниц.
+2024-07-29 12:34:18,767 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/ipad_air_10_9_2022/
+2024-07-29 12:34:20,651 - INFO - Обработано 109 из 583 страниц.
+2024-07-29 12:34:20,651 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/ipad_air_11_2024/
+2024-07-29 12:34:22,008 - INFO - Обработано 110 из 583 страниц.
+2024-07-29 12:34:22,008 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/ipad_mini_2021/
+2024-07-29 12:34:23,363 - INFO - Обработано 111 из 583 страниц.
+2024-07-29 12:34:23,364 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/ipad_pro_11_m2_2022/
+2024-07-29 12:34:25,237 - INFO - Обработано 112 из 583 страниц.
+2024-07-29 12:34:25,237 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/ipad_pro_11_m4_2024/
+2024-07-29 12:34:26,244 - INFO - Обработано 113 из 583 страниц.
+2024-07-29 12:34:26,244 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/ipad_pro_12_9_m2_2022/
+2024-07-29 12:34:27,751 - INFO - Обработано 114 из 583 страниц.
+2024-07-29 12:34:27,751 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/ipad_pro_13_m4_2024/
+2024-07-29 12:34:28,772 - INFO - Обработано 115 из 583 страниц.
+2024-07-29 12:34:28,772 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/planshety_samsung/
+2024-07-29 12:34:29,906 - INFO - Обработано 116 из 583 страниц.
+2024-07-29 12:34:29,906 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/galaxy_tab_a7_lite/
+2024-07-29 12:34:31,504 - INFO - Обработано 117 из 583 страниц.
+2024-07-29 12:34:31,504 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/galaxy_tab_a8/
+2024-07-29 12:34:33,384 - INFO - Обработано 118 из 583 страниц.
+2024-07-29 12:34:33,384 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/galaxy_tab_a9/
+2024-07-29 12:34:34,554 - INFO - Обработано 119 из 583 страниц.
+2024-07-29 12:34:34,554 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/galaxy_tab_s8_plus/
+2024-07-29 12:34:36,183 - INFO - Обработано 120 из 583 страниц.
+2024-07-29 12:34:36,183 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/galaxy_tab_s9/
+2024-07-29 12:34:37,245 - INFO - Обработано 121 из 583 страниц.
+2024-07-29 12:34:37,245 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/galaxy_tab_s9_fe/
+2024-07-29 12:34:38,447 - INFO - Обработано 122 из 583 страниц.
+2024-07-29 12:34:38,447 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/galaxy_tab_s9_fe_plus/
+2024-07-29 12:34:39,362 - INFO - Обработано 123 из 583 страниц.
+2024-07-29 12:34:39,362 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/galaxy_tab_s9_plus/
+2024-07-29 12:34:40,878 - INFO - Обработано 124 из 583 страниц.
+2024-07-29 12:34:40,878 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/galaxy_tab_s9_ultra/
+2024-07-29 12:34:42,121 - INFO - Обработано 125 из 583 страниц.
+2024-07-29 12:34:42,121 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/xiaomi/
+2024-07-29 12:34:43,645 - INFO - Обработано 126 из 583 страниц.
+2024-07-29 12:34:43,645 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/mi_pad_6/
+2024-07-29 12:34:44,606 - INFO - Обработано 127 из 583 страниц.
+2024-07-29 12:34:44,606 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/redmi_pad_se/
+2024-07-29 12:34:45,586 - INFO - Обработано 128 из 583 страниц.
+2024-07-29 12:34:45,586 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/kompyutery/
+2024-07-29 12:34:51,272 - INFO - Обработано 129 из 583 страниц.
+2024-07-29 12:34:51,272 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/imac/
+2024-07-29 12:34:53,085 - INFO - Обработано 130 из 583 страниц.
+2024-07-29 12:34:53,085 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_imac_24_2023/
+2024-07-29 12:34:54,282 - INFO - Обработано 131 из 583 страниц.
+2024-07-29 12:34:54,282 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_imac_24_retina_4_5k/
+2024-07-29 12:34:55,380 - INFO - Обработано 132 из 583 страниц.
+2024-07-29 12:34:55,380 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/mac_mini/
+2024-07-29 12:34:56,582 - INFO - Обработано 133 из 583 страниц.
+2024-07-29 12:34:56,582 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/mac_mini_2023/
+2024-07-29 12:34:57,363 - INFO - Обработано 134 из 583 страниц.
+2024-07-29 12:34:57,363 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/mac_mini_m1/
+2024-07-29 12:34:58,270 - INFO - Обработано 135 из 583 страниц.
+2024-07-29 12:34:58,270 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/macbook/
+2024-07-29 12:35:01,727 - INFO - Обработано 136 из 583 страниц.
+2024-07-29 12:35:01,727 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/macbook_air_13_2020_m1/
+2024-07-29 12:35:02,870 - INFO - Обработано 137 из 583 страниц.
+2024-07-29 12:35:02,870 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/macbook_air_13_2022_m2/
+2024-07-29 12:35:04,235 - INFO - Обработано 138 из 583 страниц.
+2024-07-29 12:35:04,235 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/macbook_air_13_2024_m3/
+2024-07-29 12:35:05,331 - INFO - Обработано 139 из 583 страниц.
+2024-07-29 12:35:05,331 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/macbook_air_15_2023_m2/
+2024-07-29 12:35:06,900 - INFO - Обработано 140 из 583 страниц.
+2024-07-29 12:35:06,900 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/macbook_air_15_2024_m3/
+2024-07-29 12:35:08,073 - INFO - Обработано 141 из 583 страниц.
+2024-07-29 12:35:08,073 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/macbook_pro_13_2022_m2/
+2024-07-29 12:35:10,078 - INFO - Обработано 142 из 583 страниц.
+2024-07-29 12:35:10,078 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/macbook_pro_14_2021/
+2024-07-29 12:35:10,881 - INFO - Обработано 143 из 583 страниц.
+2024-07-29 12:35:10,882 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/macbook_pro_14_2023/
+2024-07-29 12:35:12,916 - INFO - Обработано 144 из 583 страниц.
+2024-07-29 12:35:12,916 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/macbook_pro_14_m1/
+2024-07-29 12:35:13,686 - INFO - Обработано 145 из 583 страниц.
+2024-07-29 12:35:13,686 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/macbook_pro_16_2021/
+2024-07-29 12:35:14,998 - INFO - Обработано 146 из 583 страниц.
+2024-07-29 12:35:14,998 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/macbook_pro_16_2023/
+2024-07-29 12:35:15,897 - INFO - Обработано 147 из 583 страниц.
+2024-07-29 12:35:15,897 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/macbook_pro_16_m3_max_2023/
+2024-07-29 12:35:16,806 - INFO - Обработано 148 из 583 страниц.
+2024-07-29 12:35:16,806 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/macbook_pro_16_m3_pro_2023/
+2024-07-29 12:35:17,799 - INFO - Обработано 149 из 583 страниц.
+2024-07-29 12:35:17,800 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/aksessuar/
+2024-07-29 12:35:19,606 - INFO - Обработано 150 из 583 страниц.
+2024-07-29 12:35:19,606 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/airtag/
+2024-07-29 12:35:20,540 - INFO - Обработано 151 из 583 страниц.
+2024-07-29 12:35:20,540 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/powerbank_magsafe/
+2024-07-29 12:35:21,450 - INFO - Обработано 152 из 583 страниц.
+2024-07-29 12:35:21,450 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/adaptery/
+2024-07-29 12:35:22,290 - INFO - Обработано 153 из 583 страниц.
+2024-07-29 12:35:22,290 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/bloki_pitaniya/
+2024-07-29 12:35:23,153 - INFO - Обработано 154 из 583 страниц.
+2024-07-29 12:35:23,153 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/kabeli_apple/
+2024-07-29 12:35:24,034 - INFO - Обработано 155 из 583 страниц.
+2024-07-29 12:35:24,034 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/klaviatury/
+2024-07-29 12:35:24,895 - INFO - Обработано 156 из 583 страниц.
+2024-07-29 12:35:24,895 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/myshi/
+2024-07-29 12:35:25,758 - INFO - Обработано 157 из 583 страниц.
+2024-07-29 12:35:25,758 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/stilusy/
+2024-07-29 12:35:26,671 - INFO - Обработано 158 из 583 страниц.
+2024-07-29 12:35:26,671 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/trekpady/
+2024-07-29 12:35:27,570 - INFO - Обработано 159 из 583 страниц.
+2024-07-29 12:35:27,570 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/besprovodnye_naushniki/
+2024-07-29 12:35:29,702 - INFO - Обработано 160 из 583 страниц.
+2024-07-29 12:35:29,702 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/besprovodnye_pylesosy/
+2024-07-29 12:35:30,866 - INFO - Обработано 161 из 583 страниц.
+2024-07-29 12:35:30,866 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/vypryamiteli_dlya_volos/
+2024-07-29 12:35:32,815 - INFO - Обработано 162 из 583 страниц.
+2024-07-29 12:35:32,815 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/gadzhe/
+2024-07-29 12:35:37,909 - INFO - Обработано 163 из 583 страниц.
+2024-07-29 12:35:37,909 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/gopro/
+2024-07-29 12:35:39,674 - INFO - Обработано 164 из 583 страниц.
+2024-07-29 12:35:39,674 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/_hero11_black_edition/
+2024-07-29 12:35:40,401 - INFO - Обработано 165 из 583 страниц.
+2024-07-29 12:35:40,401 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/hero10_black_edition/
+2024-07-29 12:35:41,268 - INFO - Обработано 166 из 583 страниц.
+2024-07-29 12:35:41,268 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/hero12_black_edition/
+2024-07-29 12:35:42,111 - INFO - Обработано 167 из 583 страниц.
+2024-07-29 12:35:42,111 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/hero9_black_edition/
+2024-07-29 12:35:42,966 - INFO - Обработано 168 из 583 страниц.
+2024-07-29 12:35:42,966 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/kvadrokoptery/
+2024-07-29 12:35:44,597 - INFO - Обработано 169 из 583 страниц.
+2024-07-29 12:35:44,597 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dji_mavic_3_classic_pult_upravleniya_dji_rc/
+2024-07-29 12:35:45,453 - INFO - Обработано 170 из 583 страниц.
+2024-07-29 12:35:45,454 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dji_air_2s_combo/
+2024-07-29 12:35:46,355 - INFO - Обработано 171 из 583 страниц.
+2024-07-29 12:35:46,355 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dji_avata_fly_smart_combo/
+2024-07-29 12:35:47,257 - INFO - Обработано 172 из 583 страниц.
+2024-07-29 12:35:47,257 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dji_fpv_combo/
+2024-07-29 12:35:48,163 - INFO - Обработано 173 из 583 страниц.
+2024-07-29 12:35:48,163 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dji_matrice_30t/
+2024-07-29 12:35:49,181 - INFO - Обработано 174 из 583 страниц.
+2024-07-29 12:35:49,181 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dji_mavic_2_enterprise_zoom/
+2024-07-29 12:35:50,229 - INFO - Обработано 175 из 583 страниц.
+2024-07-29 12:35:50,229 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dji_mavic_3/
+2024-07-29 12:35:51,075 - INFO - Обработано 176 из 583 страниц.
+2024-07-29 12:35:51,075 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dji_mavic_3_combo/
+2024-07-29 12:35:51,939 - INFO - Обработано 177 из 583 страниц.
+2024-07-29 12:35:51,939 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dji_mavic_air_2/
+2024-07-29 12:35:52,908 - INFO - Обработано 178 из 583 страниц.
+2024-07-29 12:35:52,908 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dji_mini_2/
+2024-07-29 12:35:53,695 - INFO - Обработано 179 из 583 страниц.
+2024-07-29 12:35:53,695 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dji_mini_2_fly_more_combo/
+2024-07-29 12:35:54,621 - INFO - Обработано 180 из 583 страниц.
+2024-07-29 12:35:54,621 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dji_mini_3_pro/
+2024-07-29 12:35:55,518 - INFO - Обработано 181 из 583 страниц.
+2024-07-29 12:35:55,518 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/mediapleery/
+2024-07-29 12:35:56,411 - INFO - Обработано 182 из 583 страниц.
+2024-07-29 12:35:56,411 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/mediapleer_apple_tv_4k_2021/
+2024-07-29 12:35:57,269 - INFO - Обработано 183 из 583 страниц.
+2024-07-29 12:35:57,269 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/mediapleer_apple_tv_4k_2022/
+2024-07-29 12:35:58,266 - INFO - Обработано 184 из 583 страниц.
+2024-07-29 12:35:58,266 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/portativnaya_akustika/
+2024-07-29 12:35:59,430 - INFO - Обработано 185 из 583 страниц.
+2024-07-29 12:35:59,430 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/_jbl_flip_5/
+2024-07-29 12:36:11,326 - INFO - Обработано 186 из 583 страниц.
+2024-07-29 12:36:11,326 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_homepod_mini/
+2024-07-29 12:36:16,154 - INFO - Обработано 187 из 583 страниц.
+2024-07-29 12:36:16,154 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/jbl_boombox_3/
+2024-07-29 12:36:18,304 - INFO - Обработано 188 из 583 страниц.
+2024-07-29 12:36:18,304 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/jbl_charge_5/
+2024-07-29 12:36:26,055 - INFO - Обработано 189 из 583 страниц.
+2024-07-29 12:36:26,055 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/jbl_clip_4/
+2024-07-29 12:36:26,868 - INFO - Обработано 190 из 583 страниц.
+2024-07-29 12:36:26,868 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/jbl_flip_6/
+2024-07-29 12:36:30,145 - INFO - Обработано 191 из 583 страниц.
+2024-07-29 12:36:30,145 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/jbl_go_3/
+2024-07-29 12:36:30,977 - INFO - Обработано 192 из 583 страниц.
+2024-07-29 12:36:30,977 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/jbl_link_music_yandex/
+2024-07-29 12:36:32,020 - INFO - Обработано 193 из 583 страниц.
+2024-07-29 12:36:32,020 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/jbl_partybox_1000/
+2024-07-29 12:36:32,857 - INFO - Обработано 194 из 583 страниц.
+2024-07-29 12:36:32,857 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/jbl_partybox_on_the_go/
+2024-07-29 12:36:33,658 - INFO - Обработано 195 из 583 страниц.
+2024-07-29 12:36:33,658 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/jbl_pulse_4/
+2024-07-29 12:36:34,441 - INFO - Обработано 196 из 583 страниц.
+2024-07-29 12:36:34,441 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/jbl_pulse_5/
+2024-07-29 12:36:35,301 - INFO - Обработано 197 из 583 страниц.
+2024-07-29 12:36:35,301 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/jbl_wind_2/
+2024-07-29 12:36:36,174 - INFO - Обработано 198 из 583 страниц.
+2024-07-29 12:36:36,174 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/jbl_xtreme_3/
+2024-07-29 12:36:37,665 - INFO - Обработано 199 из 583 страниц.
+2024-07-29 12:36:37,665 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/marshall_kilburn_ii/
+2024-07-29 12:36:38,669 - INFO - Обработано 200 из 583 страниц.
+2024-07-29 12:36:38,669 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/yandex_station_lite/
+2024-07-29 12:36:40,063 - INFO - Обработано 201 из 583 страниц.
+2024-07-29 12:36:40,063 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/yandex_station_max/
+2024-07-29 12:36:42,272 - INFO - Обработано 202 из 583 страниц.
+2024-07-29 12:36:42,272 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/yandex_station_midi/
+2024-07-29 12:36:43,376 - INFO - Обработано 203 из 583 страниц.
+2024-07-29 12:36:43,376 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/yandex_station_mini_plus/
+2024-07-29 12:36:44,965 - INFO - Обработано 204 из 583 страниц.
+2024-07-29 12:36:44,965 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/umnaya_kolonka_apple_homepod_2_go_pokoleniya_2023/
+2024-07-29 12:36:46,784 - INFO - Обработано 205 из 583 страниц.
+2024-07-29 12:36:46,784 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/yandekc_stantsiya_duo_maks/
+2024-07-29 12:36:48,437 - INFO - Обработано 206 из 583 страниц.
+2024-07-29 12:36:48,437 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/yandeks_stantsiya_2/
+2024-07-29 12:36:55,958 - INFO - Обработано 207 из 583 страниц.
+2024-07-29 12:36:55,958 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/igrovye_pristavk/
+2024-07-29 12:36:59,343 - INFO - Обработано 208 из 583 страниц.
+2024-07-29 12:36:59,343 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/microsoft_xbox/
+2024-07-29 12:37:00,166 - INFO - Обработано 209 из 583 страниц.
+2024-07-29 12:37:00,166 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/microsoft_xbox_series_s/
+2024-07-29 12:37:01,138 - INFO - Обработано 210 из 583 страниц.
+2024-07-29 12:37:01,138 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/microsoft_xbox_series_x/
+2024-07-29 12:37:02,181 - INFO - Обработано 211 из 583 страниц.
+2024-07-29 12:37:02,181 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/nintendo_switch/
+2024-07-29 12:37:04,783 - INFO - Обработано 212 из 583 страниц.
+2024-07-29 12:37:04,783 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/nintendo_switch_lite/
+2024-07-29 12:37:05,970 - INFO - Обработано 213 из 583 страниц.
+2024-07-29 12:37:05,970 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/nintendo_switch_oled/
+2024-07-29 12:37:07,009 - INFO - Обработано 214 из 583 страниц.
+2024-07-29 12:37:07,009 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/nintendo_switchh/
+2024-07-29 12:37:08,096 - INFO - Обработано 215 из 583 страниц.
+2024-07-29 12:37:08,096 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/sony_playstation/
+2024-07-29 12:37:09,902 - INFO - Обработано 216 из 583 страниц.
+2024-07-29 12:37:09,902 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/sony_playstation_5/
+2024-07-29 12:37:10,971 - INFO - Обработано 217 из 583 страниц.
+2024-07-29 12:37:10,971 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/sony_playstation_5_digital_edition/
+2024-07-29 12:37:12,002 - INFO - Обработано 218 из 583 страниц.
+2024-07-29 12:37:12,002 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/sony_playstation_5_slim/
+2024-07-29 12:37:13,117 - INFO - Обработано 219 из 583 страниц.
+2024-07-29 12:37:13,117 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/sony_playstation_portal/
+2024-07-29 12:37:14,160 - INFO - Обработано 220 из 583 страниц.
+2024-07-29 12:37:14,160 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/valve/
+2024-07-29 12:37:15,261 - INFO - Обработано 221 из 583 страниц.
+2024-07-29 12:37:15,261 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/steam_deck/
+2024-07-29 12:37:16,154 - INFO - Обработано 222 из 583 страниц.
+2024-07-29 12:37:16,154 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/igrovye_aksessuary/
+2024-07-29 12:37:17,235 - INFO - Обработано 223 из 583 страниц.
+2024-07-29 12:37:17,235 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/shlem_virtualnoy_realnosti_playstation_vr2/
+2024-07-29 12:37:18,071 - INFO - Обработано 224 из 583 страниц.
+2024-07-29 12:37:18,071 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/besprovodnaya_garnitura_sony_pulse_3d_dlya_ps5/
+2024-07-29 12:37:19,083 - INFO - Обработано 225 из 583 страниц.
+2024-07-29 12:37:19,083 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/besprovodnoy_kontroller_sony_dualshock_4/
+2024-07-29 12:37:21,378 - INFO - Обработано 226 из 583 страниц.
+2024-07-29 12:37:21,378 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/geympad_microsoft_xbox_wireless_controller/
+2024-07-29 12:37:22,203 - INFO - Обработано 227 из 583 страниц.
+2024-07-29 12:37:22,203 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/geympad_sony_playstation_5_dualsense/
+2024-07-29 12:37:23,244 - INFO - Обработано 228 из 583 страниц.
+2024-07-29 12:37:23,244 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dva_kontrollera_sony_move_motion_controller_twin_pack/
+2024-07-29 12:37:24,185 - INFO - Обработано 229 из 583 страниц.
+2024-07-29 12:37:24,185 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/naushnik/
+2024-07-29 12:37:26,784 - INFO - Обработано 230 из 583 страниц.
+2024-07-29 12:37:26,784 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/naushniki_samsung/
+2024-07-29 12:37:27,858 - INFO - Обработано 231 из 583 страниц.
+2024-07-29 12:37:27,858 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/galaxy_buds_live_mystic/
+2024-07-29 12:37:28,866 - INFO - Обработано 232 из 583 страниц.
+2024-07-29 12:37:28,866 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/samsung_buds_2/
+2024-07-29 12:37:29,929 - INFO - Обработано 233 из 583 страниц.
+2024-07-29 12:37:29,929 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/samsung_buds_pro/
+2024-07-29 12:37:30,889 - INFO - Обработано 234 из 583 страниц.
+2024-07-29 12:37:30,890 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/samsung_buds_pro_2/
+2024-07-29 12:37:31,780 - INFO - Обработано 235 из 583 страниц.
+2024-07-29 12:37:31,781 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/samsung_galaxy_buds_fe/
+2024-07-29 12:37:32,712 - INFO - Обработано 236 из 583 страниц.
+2024-07-29 12:37:32,712 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/samsung_galaxy_buds/
+2024-07-29 12:37:33,933 - INFO - Обработано 237 из 583 страниц.
+2024-07-29 12:37:33,933 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/airpods/
+2024-07-29 12:37:36,074 - INFO - Обработано 238 из 583 страниц.
+2024-07-29 12:37:36,074 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_airpods_2/
+2024-07-29 12:37:36,812 - INFO - Обработано 239 из 583 страниц.
+2024-07-29 12:37:36,812 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_airpods_3/
+2024-07-29 12:37:37,745 - INFO - Обработано 240 из 583 страниц.
+2024-07-29 12:37:37,745 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_airpods_max/
+2024-07-29 12:37:39,084 - INFO - Обработано 241 из 583 страниц.
+2024-07-29 12:37:39,084 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_airpods_pro/
+2024-07-29 12:37:40,096 - INFO - Обработано 242 из 583 страниц.
+2024-07-29 12:37:40,096 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_airpods_pro_2nd_generation/
+2024-07-29 12:37:40,922 - INFO - Обработано 243 из 583 страниц.
+2024-07-29 12:37:40,922 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_earpods_3_5_mm/
+2024-07-29 12:37:41,752 - INFO - Обработано 244 из 583 страниц.
+2024-07-29 12:37:41,752 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_earpods_lightning/
+2024-07-29 12:37:42,843 - INFO - Обработано 245 из 583 страниц.
+2024-07-29 12:37:42,843 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple_airpods_3_magsafe_case/
+2024-07-29 12:37:43,825 - INFO - Обработано 246 из 583 страниц.
+2024-07-29 12:37:43,825 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/marshall/
+2024-07-29 12:37:44,742 - INFO - Обработано 247 из 583 страниц.
+2024-07-29 12:37:44,742 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/naushniki_sony_/
+2024-07-29 12:37:45,838 - INFO - Обработано 248 из 583 страниц.
+2024-07-29 12:37:45,838 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/sony_linkbuds_s/
+2024-07-29 12:37:46,682 - INFO - Обработано 249 из 583 страниц.
+2024-07-29 12:37:46,682 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/sony_wh_1000xm4/
+2024-07-29 12:37:47,586 - INFO - Обработано 250 из 583 страниц.
+2024-07-29 12:37:47,586 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/sony_wh_1000xm5/
+2024-07-29 12:37:48,572 - INFO - Обработано 251 из 583 страниц.
+2024-07-29 12:37:48,572 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/staylery/
+2024-07-29 12:37:50,119 - INFO - Обработано 252 из 583 страниц.
+2024-07-29 12:37:50,119 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/feny/
+2024-07-29 12:37:51,859 - INFO - Обработано 253 из 583 страниц.
+2024-07-29 12:37:51,859 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dyson/
+2024-07-29 12:37:52,912 - INFO - Обработано 254 из 583 страниц.
+2024-07-29 12:37:52,912 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/vypryamitel_dyson/
+2024-07-29 12:37:53,845 - INFO - Обработано 255 из 583 страниц.
+2024-07-29 12:37:53,845 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dyson_corrale_hs03/
+2024-07-29 12:37:54,762 - INFO - Обработано 256 из 583 страниц.
+2024-07-29 12:37:54,762 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/stayler_dyson/
+2024-07-29 12:37:55,680 - INFO - Обработано 257 из 583 страниц.
+2024-07-29 12:37:55,680 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/long/
+2024-07-29 12:37:56,525 - INFO - Обработано 258 из 583 страниц.
+2024-07-29 12:37:56,525 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/short/
+2024-07-29 12:37:57,275 - INFO - Обработано 259 из 583 страниц.
+2024-07-29 12:37:57,275 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/fen_dyson/
+2024-07-29 12:37:58,189 - INFO - Обработано 260 из 583 страниц.
+2024-07-29 12:37:58,189 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/supersonic_hd12/
+2024-07-29 12:37:58,955 - INFO - Обработано 261 из 583 страниц.
+2024-07-29 12:37:58,956 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/supersonic_hd07/
+2024-07-29 12:37:59,877 - INFO - Обработано 262 из 583 страниц.
+2024-07-29 12:37:59,877 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/supersonic_hd08/
+2024-07-29 12:38:00,688 - INFO - Обработано 263 из 583 страниц.
+2024-07-29 12:38:00,688 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/supersonic_hd15/
+2024-07-29 12:38:01,618 - INFO - Обработано 264 из 583 страниц.
+2024-07-29 12:38:01,618 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/besprovodnoy_pylesos_dyson/
+2024-07-29 12:38:03,593 - INFO - Обработано 265 из 583 страниц.
+2024-07-29 12:38:03,593 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/_dyson_v10/
+2024-07-29 12:38:04,431 - INFO - Обработано 266 из 583 страниц.
+2024-07-29 12:38:04,431 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dyson_gen_5_detect_absolute/
+2024-07-29 12:38:05,582 - INFO - Обработано 267 из 583 страниц.
+2024-07-29 12:38:05,582 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dyson_v11/
+2024-07-29 12:38:06,463 - INFO - Обработано 268 из 583 страниц.
+2024-07-29 12:38:06,463 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dyson_v12/
+2024-07-29 12:38:07,363 - INFO - Обработано 269 из 583 страниц.
+2024-07-29 12:38:07,363 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dyson_v15/
+2024-07-29 12:38:08,220 - INFO - Обработано 270 из 583 страниц.
+2024-07-29 12:38:08,220 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/dyson_v8/
+2024-07-29 12:38:09,082 - INFO - Обработано 271 из 583 страниц.
+2024-07-29 12:38:09,082 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/apple/
+2024-07-29 12:38:10,020 - INFO - Обработано 272 из 583 страниц.
+2024-07-29 12:38:10,020 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/samsung/
+2024-07-29 12:38:11,060 - INFO - Обработано 273 из 583 страниц.
+2024-07-29 12:38:11,060 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/
+2024-07-29 12:38:13,089 - INFO - Обработано 274 из 583 страниц.
+2024-07-29 12:38:13,089 - INFO - Обрабатываем страницу: https://orel.ispace-shop.ru/
+2024-07-29 12:38:15,436 - INFO - Обработано 275 из 583 страниц.
+2024-07-29 12:38:15,436 - INFO - Обрабатываем страницу: https://belgorod.ispace-shop.ru/
+2024-07-29 12:38:17,633 - INFO - Обработано 276 из 583 страниц.
+2024-07-29 12:38:17,633 - INFO - Обрабатываем страницу: https://ispace-shop.ru/offers/apple_iphone_14_plus_512gb_red/
+2024-07-29 12:38:20,880 - INFO - Обработано 277 из 583 страниц.
+2024-07-29 12:38:20,880 - INFO - Обрабатываем страницу: https://ispace-shop.ru/offers/apple_iphone_15_plus_256gb_pink_esim/
+2024-07-29 12:38:22,725 - INFO - Обработано 278 из 583 страниц.
+2024-07-29 12:38:22,725 - INFO - Обрабатываем страницу: https://ispace-shop.ru/offers/apple_iphone_15_pro_128gb_natural_titanium_esim/
+2024-07-29 12:38:25,127 - INFO - Обработано 279 из 583 страниц.
+2024-07-29 12:38:25,127 - INFO - Обрабатываем страницу: https://ispace-shop.ru/actions/ustanovim-udalennye-prilozheniya/
+2024-07-29 12:38:25,907 - INFO - Обработано 280 из 583 страниц.
+2024-07-29 12:38:25,908 - INFO - Обрабатываем страницу: https://ispace-shop.ru/catalog/
+2024-07-29 12:38:27,056 - INFO - Обработано 281 из 583 страниц.
+2024-07-29 12:38:27,056 - INFO - Обрабатываем страницу: https://ispace-shop.ru/#footer
+2024-07-29 12:38:27,895 - INFO - Обработано 282 из 583 страниц.
+2024-07-29 12:38:27,895 - INFO - Обрабатываем страницу: https://ispace-shop.ru/actions/
+2024-07-29 12:38:28,600 - INFO - Обработано 283 из 583 страниц.
+2024-07-29 12:38:28,600 - INFO - Обрабатываем страницу: https://ispace-shop.ru/credit/
+2024-07-29 12:38:29,783 - INFO - Обработано 284 из 583 страниц.
+2024-07-29 12:38:29,783 - INFO - Обрабатываем страницу: https://ispace-shop.ru/dilivery/
+2024-07-29 12:38:30,423 - INFO - Обработано 285 из 583 страниц.
+2024-07-29 12:38:30,423 - INFO - Обрабатываем страницу: https://ispace-shop.ru/trade-in/
+2024-07-29 12:38:31,114 - INFO - Обработано 286 из 583 страниц.
+2024-07-29 12:38:31,115 - INFO - Обрабатываем страницу: https://ispace-shop.ru/about/product/
+2024-07-29 12:38:31,803 - INFO - Обработано 287 из 583 страниц.
+2024-07-29 12:38:31,803 - INFO - Обрабатываем страницу: https://ispace-shop.ru/purchase-returns/
+2024-07-29 12:38:32,474 - INFO - Обработано 288 из 583 страниц.
+2024-07-29 12:38:32,474 - INFO - Обрабатываем страницу: https://ispace-shop.ru/pickup/
+2024-07-29 12:38:33,744 - INFO - Обработано 289 из 583 страниц.
+2024-07-29 12:38:33,744 - INFO - Обрабатываем страницу: https://ispace-shop.ru/guarantees/
+2024-07-29 12:38:34,434 - INFO - Обработано 290 из 583 страниц.
+2024-07-29 12:38:34,434 - INFO - Обрабатываем страницу: https://ispace-shop.ru/about/
+2024-07-29 12:38:38,791 - INFO - Обработано 291 из 583 страниц.
+2024-07-29 12:38:38,791 - INFO - Обрабатываем страницу: https://ispace-shop.ru/about/contacts/
+2024-07-29 12:38:40,027 - INFO - Обработано 292 из 583 страниц.
+2024-07-29 12:38:40,027 - INFO - Обрабатываем страницу: https://ispace-shop.ru/privacy-policy/
+2024-07-29 12:38:40,747 - INFO - Обработано 293 из 583 страниц.
+2024-07-29 12:38:40,747 - INFO - Обрабатываем страницу: https://ispace-shop.ru/public-offer/
+2024-07-29 12:38:41,388 - INFO - Обработано 294 из 583 страниц.
+2024-07-29 12:38:41,388 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/agreement/
+2024-07-29 12:38:42,084 - INFO - Обработано 295 из 583 страниц.
+2024-07-29 12:38:42,084 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/agreement/#body
+2024-07-29 12:38:42,142 - INFO - Обработано 296 из 583 страниц.
+2024-07-29 12:38:42,142 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/auth/
+2024-07-29 12:38:42,790 - INFO - Обработано 297 из 583 страниц.
+2024-07-29 12:38:42,790 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/favorites/
+2024-07-29 12:38:43,470 - INFO - Обработано 298 из 583 страниц.
+2024-07-29 12:38:43,470 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/personal/cart/
+2024-07-29 12:38:44,195 - INFO - Обработано 299 из 583 страниц.
+2024-07-29 12:38:44,195 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/smartfon/
+2024-07-29 12:38:47,382 - INFO - Обработано 300 из 583 страниц.
+2024-07-29 12:38:47,382 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/smartfony_samsung/
+2024-07-29 12:38:51,722 - INFO - Обработано 301 из 583 страниц.
+2024-07-29 12:38:51,722 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/galaxy_z/
+2024-07-29 12:38:52,758 - INFO - Обработано 302 из 583 страниц.
+2024-07-29 12:38:52,758 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/samsung_galaxy_a/
+2024-07-29 12:38:53,792 - INFO - Обработано 303 из 583 страниц.
+2024-07-29 12:38:53,792 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/samsung_galaxy_s/
+2024-07-29 12:38:55,455 - INFO - Обработано 304 из 583 страниц.
+2024-07-29 12:38:55,455 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/iphone/
+2024-07-29 12:38:57,635 - INFO - Обработано 305 из 583 страниц.
+2024-07-29 12:38:57,635 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_iphone_15/
+2024-07-29 12:38:58,760 - INFO - Обработано 306 из 583 страниц.
+2024-07-29 12:38:58,760 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_iphone_15_plus/
+2024-07-29 12:38:59,884 - INFO - Обработано 307 из 583 страниц.
+2024-07-29 12:38:59,884 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_iphone_15_pro/
+2024-07-29 12:39:01,489 - INFO - Обработано 308 из 583 страниц.
+2024-07-29 12:39:01,490 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_iphone_15_pro_max/
+2024-07-29 12:39:03,631 - INFO - Обработано 309 из 583 страниц.
+2024-07-29 12:39:03,632 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_iphone_14/
+2024-07-29 12:39:07,868 - INFO - Обработано 310 из 583 страниц.
+2024-07-29 12:39:07,868 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_iphone_14_plus/
+2024-07-29 12:39:09,352 - INFO - Обработано 311 из 583 страниц.
+2024-07-29 12:39:09,352 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_iphone_13/
+2024-07-29 12:39:12,510 - INFO - Обработано 312 из 583 страниц.
+2024-07-29 12:39:12,510 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_iphone_13_mini/
+2024-07-29 12:39:14,566 - INFO - Обработано 313 из 583 страниц.
+2024-07-29 12:39:14,566 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_iphone_12/
+2024-07-29 12:39:16,374 - INFO - Обработано 314 из 583 страниц.
+2024-07-29 12:39:16,374 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_iphone_11/
+2024-07-29 12:39:17,280 - INFO - Обработано 315 из 583 страниц.
+2024-07-29 12:39:17,280 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/smartfony_realme/
+2024-07-29 12:39:21,203 - INFO - Обработано 316 из 583 страниц.
+2024-07-29 12:39:21,203 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/realme_10_pro_plus/
+2024-07-29 12:39:23,236 - INFO - Обработано 317 из 583 страниц.
+2024-07-29 12:39:23,236 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/realme_10/
+2024-07-29 12:39:24,084 - INFO - Обработано 318 из 583 страниц.
+2024-07-29 12:39:24,084 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/realme_10_pro/
+2024-07-29 12:39:25,020 - INFO - Обработано 319 из 583 страниц.
+2024-07-29 12:39:25,020 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/realme_11_pro/
+2024-07-29 12:39:26,725 - INFO - Обработано 320 из 583 страниц.
+2024-07-29 12:39:26,725 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/realme_11_pro_plus/
+2024-07-29 12:39:27,684 - INFO - Обработано 321 из 583 страниц.
+2024-07-29 12:39:27,684 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/realme_c55/
+2024-07-29 12:39:28,615 - INFO - Обработано 322 из 583 страниц.
+2024-07-29 12:39:28,615 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/realme_gt_neo_3/
+2024-07-29 12:39:29,529 - INFO - Обработано 323 из 583 страниц.
+2024-07-29 12:39:29,529 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/smartfony_huawei/
+2024-07-29 12:39:32,254 - INFO - Обработано 324 из 583 страниц.
+2024-07-29 12:39:32,254 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/mate_50/
+2024-07-29 12:39:34,708 - INFO - Обработано 325 из 583 страниц.
+2024-07-29 12:39:34,708 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/mate_50_pro/
+2024-07-29 12:39:35,758 - INFO - Обработано 326 из 583 страниц.
+2024-07-29 12:39:35,758 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/mate_xs_2/
+2024-07-29 12:39:36,708 - INFO - Обработано 327 из 583 страниц.
+2024-07-29 12:39:36,708 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/nova_10/
+2024-07-29 12:39:37,594 - INFO - Обработано 328 из 583 страниц.
+2024-07-29 12:39:37,594 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/nova_11/
+2024-07-29 12:39:38,467 - INFO - Обработано 329 из 583 страниц.
+2024-07-29 12:39:38,467 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/nova_11_pro/
+2024-07-29 12:39:39,355 - INFO - Обработано 330 из 583 страниц.
+2024-07-29 12:39:39,355 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/nova_8/
+2024-07-29 12:39:40,259 - INFO - Обработано 331 из 583 страниц.
+2024-07-29 12:39:40,259 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/nova_9_se/
+2024-07-29 12:39:41,092 - INFO - Обработано 332 из 583 страниц.
+2024-07-29 12:39:41,092 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/nova_y61/
+2024-07-29 12:39:41,918 - INFO - Обработано 333 из 583 страниц.
+2024-07-29 12:39:41,918 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/nova_y70/
+2024-07-29 12:39:42,790 - INFO - Обработано 334 из 583 страниц.
+2024-07-29 12:39:42,791 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/nova_y90/
+2024-07-29 12:39:43,674 - INFO - Обработано 335 из 583 страниц.
+2024-07-29 12:39:43,674 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/p50/
+2024-07-29 12:39:45,073 - INFO - Обработано 336 из 583 страниц.
+2024-07-29 12:39:45,074 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/p50_pocket%20Premium%20Edition/
+2024-07-29 12:39:45,661 - INFO - Обработано 337 из 583 страниц.
+2024-07-29 12:39:45,661 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/p50_pro/
+2024-07-29 12:39:46,604 - INFO - Обработано 338 из 583 страниц.
+2024-07-29 12:39:46,604 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/smartfony_google/
+2024-07-29 12:39:48,878 - INFO - Обработано 339 из 583 страниц.
+2024-07-29 12:39:48,878 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/pixel_7/
+2024-07-29 12:39:49,679 - INFO - Обработано 340 из 583 страниц.
+2024-07-29 12:39:49,679 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/pixel_7_pro/
+2024-07-29 12:39:50,547 - INFO - Обработано 341 из 583 страниц.
+2024-07-29 12:39:50,547 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/google_pixel_8/
+2024-07-29 12:39:51,499 - INFO - Обработано 342 из 583 страниц.
+2024-07-29 12:39:51,499 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/pixel_8_pro/
+2024-07-29 12:39:53,157 - INFO - Обработано 343 из 583 страниц.
+2024-07-29 12:39:53,158 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/smartfony_honor/
+2024-07-29 12:39:56,100 - INFO - Обработано 344 из 583 страниц.
+2024-07-29 12:39:56,100 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/honor_90/
+2024-07-29 12:39:57,005 - INFO - Обработано 345 из 583 страниц.
+2024-07-29 12:39:57,005 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/honor_90_lite/
+2024-07-29 12:39:57,882 - INFO - Обработано 346 из 583 страниц.
+2024-07-29 12:39:57,882 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/smartfony_asus/
+2024-07-29 12:40:00,037 - INFO - Обработано 347 из 583 страниц.
+2024-07-29 12:40:00,037 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/zenfone_9/
+2024-07-29 12:40:01,699 - INFO - Обработано 348 из 583 страниц.
+2024-07-29 12:40:01,699 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/zenfone_10/
+2024-07-29 12:40:02,638 - INFO - Обработано 349 из 583 страниц.
+2024-07-29 12:40:02,638 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/zenfone_8/
+2024-07-29 12:40:03,678 - INFO - Обработано 350 из 583 страниц.
+2024-07-29 12:40:03,678 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/smartfony_nothing_phone/
+2024-07-29 12:40:05,448 - INFO - Обработано 351 из 583 страниц.
+2024-07-29 12:40:05,448 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/nothing_phone_2/
+2024-07-29 12:40:06,449 - INFO - Обработано 352 из 583 страниц.
+2024-07-29 12:40:06,449 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/smartfony_xiaomi_/
+2024-07-29 12:40:15,861 - INFO - Обработано 353 из 583 страниц.
+2024-07-29 12:40:15,861 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/poco/
+2024-07-29 12:40:20,314 - INFO - Обработано 354 из 583 страниц.
+2024-07-29 12:40:20,314 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/redmi_/
+2024-07-29 12:40:22,447 - INFO - Обработано 355 из 583 страниц.
+2024-07-29 12:40:22,447 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/xiaomi_mi_13/
+2024-07-29 12:40:24,495 - INFO - Обработано 356 из 583 страниц.
+2024-07-29 12:40:24,495 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/chasy/
+2024-07-29 12:40:26,081 - INFO - Обработано 357 из 583 страниц.
+2024-07-29 12:40:26,081 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/smart_chasy_samsung/
+2024-07-29 12:40:28,682 - INFO - Обработано 358 из 583 страниц.
+2024-07-29 12:40:28,682 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/samsung_galaxy_watch_5_pro/
+2024-07-29 12:40:29,543 - INFO - Обработано 359 из 583 страниц.
+2024-07-29 12:40:29,543 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/samsung_galaxy_watch_6/
+2024-07-29 12:40:30,593 - INFO - Обработано 360 из 583 страниц.
+2024-07-29 12:40:30,594 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/samsung_galaxy_watch_6_classic/
+2024-07-29 12:40:31,339 - INFO - Обработано 361 из 583 страниц.
+2024-07-29 12:40:31,339 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/watch/
+2024-07-29 12:40:33,310 - INFO - Обработано 362 из 583 страниц.
+2024-07-29 12:40:33,310 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_watch_se_2/
+2024-07-29 12:40:34,167 - INFO - Обработано 363 из 583 страниц.
+2024-07-29 12:40:34,167 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_watch_series_8/
+2024-07-29 12:40:35,161 - INFO - Обработано 364 из 583 страниц.
+2024-07-29 12:40:35,161 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_watch_series_9/
+2024-07-29 12:40:36,238 - INFO - Обработано 365 из 583 страниц.
+2024-07-29 12:40:36,238 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_watch_ultra_2/
+2024-07-29 12:40:41,500 - INFO - Обработано 366 из 583 страниц.
+2024-07-29 12:40:41,500 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/garmin/
+2024-07-29 12:40:42,501 - INFO - Обработано 367 из 583 страниц.
+2024-07-29 12:40:42,501 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/epix_gen_2_sapphire/
+2024-07-29 12:40:43,371 - INFO - Обработано 368 из 583 страниц.
+2024-07-29 12:40:43,371 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/fenix_7/
+2024-07-29 12:40:44,130 - INFO - Обработано 369 из 583 страниц.
+2024-07-29 12:40:44,130 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/fenix_7_sapphire_solar/
+2024-07-29 12:40:45,014 - INFO - Обработано 370 из 583 страниц.
+2024-07-29 12:40:45,014 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/fenix_7_solar/
+2024-07-29 12:40:45,824 - INFO - Обработано 371 из 583 страниц.
+2024-07-29 12:40:45,824 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/fenix_7s/
+2024-07-29 12:40:46,658 - INFO - Обработано 372 из 583 страниц.
+2024-07-29 12:40:46,659 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/fenix_7s_sapphire_solar/
+2024-07-29 12:40:47,424 - INFO - Обработано 373 из 583 страниц.
+2024-07-29 12:40:47,424 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/fenix_7s_solar/
+2024-07-29 12:40:48,304 - INFO - Обработано 374 из 583 страниц.
+2024-07-29 12:40:48,304 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/fenix_7x_solar/
+2024-07-29 12:40:49,144 - INFO - Обработано 375 из 583 страниц.
+2024-07-29 12:40:49,145 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/fenix_epix_2/
+2024-07-29 12:40:50,027 - INFO - Обработано 376 из 583 страниц.
+2024-07-29 12:40:50,027 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/forerunner_255/
+2024-07-29 12:40:50,847 - INFO - Обработано 377 из 583 страниц.
+2024-07-29 12:40:50,847 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/forerunner_255s_music/
+2024-07-29 12:40:51,766 - INFO - Обработано 378 из 583 страниц.
+2024-07-29 12:40:51,766 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/forerunner_55/
+2024-07-29 12:40:52,682 - INFO - Обработано 379 из 583 страниц.
+2024-07-29 12:40:52,682 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/forerunner_745/
+2024-07-29 12:40:53,570 - INFO - Обработано 380 из 583 страниц.
+2024-07-29 12:40:53,570 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/forerunner_955/
+2024-07-29 12:40:54,396 - INFO - Обработано 381 из 583 страниц.
+2024-07-29 12:40:54,396 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/garmin_fenix_6x_pro/
+2024-07-29 12:40:56,079 - INFO - Обработано 382 из 583 страниц.
+2024-07-29 12:40:56,079 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/garmin_tactix_7/
+2024-07-29 12:40:57,504 - INFO - Обработано 383 из 583 страниц.
+2024-07-29 12:40:57,504 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/garmin_tactix_7_pro/
+2024-07-29 12:40:58,505 - INFO - Обработано 384 из 583 страниц.
+2024-07-29 12:40:58,506 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/garmin_tactix_delta_sapphire_edition/
+2024-07-29 12:40:59,427 - INFO - Обработано 385 из 583 страниц.
+2024-07-29 12:40:59,427 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/garmin_tactix_delta_solar_dlc/
+2024-07-29 12:41:00,200 - INFO - Обработано 386 из 583 страниц.
+2024-07-29 12:41:00,200 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/instinct_2_solar/
+2024-07-29 12:41:01,121 - INFO - Обработано 387 из 583 страниц.
+2024-07-29 12:41:01,121 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/instinct_2_solar_tactical_edition/
+2024-07-29 12:41:01,997 - INFO - Обработано 388 из 583 страниц.
+2024-07-29 12:41:01,997 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/marq_adventure_gen_2/
+2024-07-29 12:41:02,889 - INFO - Обработано 389 из 583 страниц.
+2024-07-29 12:41:02,889 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/marq_athlete_gen_2/
+2024-07-29 12:41:03,785 - INFO - Обработано 390 из 583 страниц.
+2024-07-29 12:41:03,786 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/marq_aviator_gen_2/
+2024-07-29 12:41:04,667 - INFO - Обработано 391 из 583 страниц.
+2024-07-29 12:41:04,667 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/marq_captain_gen_2/
+2024-07-29 12:41:05,533 - INFO - Обработано 392 из 583 страниц.
+2024-07-29 12:41:05,534 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/tactix_7_pro_ballistics_edition/
+2024-07-29 12:41:06,632 - INFO - Обработано 393 из 583 страниц.
+2024-07-29 12:41:06,632 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/vivoactive_4/
+2024-07-29 12:41:07,517 - INFO - Обработано 394 из 583 страниц.
+2024-07-29 12:41:07,517 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/smart_chasy/
+2024-07-29 12:41:08,582 - INFO - Обработано 395 из 583 страниц.
+2024-07-29 12:41:08,582 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/planshety/
+2024-07-29 12:41:09,727 - INFO - Обработано 396 из 583 страниц.
+2024-07-29 12:41:09,727 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/ipad/
+2024-07-29 12:41:14,071 - INFO - Обработано 397 из 583 страниц.
+2024-07-29 12:41:14,071 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/ipad_10_2_2021/
+2024-07-29 12:41:15,647 - INFO - Обработано 398 из 583 страниц.
+2024-07-29 12:41:15,647 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/ipad_10_9_2022/
+2024-07-29 12:41:17,175 - INFO - Обработано 399 из 583 страниц.
+2024-07-29 12:41:17,175 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/ipad_air_10_9_2022/
+2024-07-29 12:41:21,290 - INFO - Обработано 400 из 583 страниц.
+2024-07-29 12:41:21,290 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/ipad_air_11_2024/
+2024-07-29 12:41:22,978 - INFO - Обработано 401 из 583 страниц.
+2024-07-29 12:41:22,978 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/ipad_mini_2021/
+2024-07-29 12:41:24,906 - INFO - Обработано 402 из 583 страниц.
+2024-07-29 12:41:24,906 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/ipad_pro_11_m2_2022/
+2024-07-29 12:41:27,355 - INFO - Обработано 403 из 583 страниц.
+2024-07-29 12:41:27,355 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/ipad_pro_11_m4_2024/
+2024-07-29 12:41:28,462 - INFO - Обработано 404 из 583 страниц.
+2024-07-29 12:41:28,463 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/ipad_pro_12_9_m2_2022/
+2024-07-29 12:41:31,703 - INFO - Обработано 405 из 583 страниц.
+2024-07-29 12:41:31,703 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/ipad_pro_13_m4_2024/
+2024-07-29 12:41:33,543 - INFO - Обработано 406 из 583 страниц.
+2024-07-29 12:41:33,543 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/planshety_samsung/
+2024-07-29 12:41:34,607 - INFO - Обработано 407 из 583 страниц.
+2024-07-29 12:41:34,607 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_a7_lite/
+2024-07-29 12:41:36,248 - INFO - Обработано 408 из 583 страниц.
+2024-07-29 12:41:36,248 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_a8/
+2024-07-29 12:41:38,251 - INFO - Обработано 409 из 583 страниц.
+2024-07-29 12:41:38,251 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_a9/
+2024-07-29 12:41:39,433 - INFO - Обработано 410 из 583 страниц.
+2024-07-29 12:41:39,433 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_s8_plus/
+2024-07-29 12:41:41,096 - INFO - Обработано 411 из 583 страниц.
+2024-07-29 12:41:41,096 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_s9/
+2024-07-29 12:41:42,472 - INFO - Обработано 412 из 583 страниц.
+2024-07-29 12:41:42,472 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_s9_fe/
+2024-07-29 12:41:43,349 - INFO - Обработано 413 из 583 страниц.
+2024-07-29 12:41:43,349 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_s9_fe_plus/
+2024-07-29 12:41:44,392 - INFO - Обработано 414 из 583 страниц.
+2024-07-29 12:41:44,392 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_s9_plus/
+2024-07-29 12:41:45,430 - INFO - Обработано 415 из 583 страниц.
+2024-07-29 12:41:45,430 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/galaxy_tab_s9_ultra/
+2024-07-29 12:41:46,517 - INFO - Обработано 416 из 583 страниц.
+2024-07-29 12:41:46,517 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/xiaomi/
+2024-07-29 12:41:47,847 - INFO - Обработано 417 из 583 страниц.
+2024-07-29 12:41:47,847 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/mi_pad_6/
+2024-07-29 12:41:48,890 - INFO - Обработано 418 из 583 страниц.
+2024-07-29 12:41:48,890 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/redmi_pad_se/
+2024-07-29 12:41:50,102 - INFO - Обработано 419 из 583 страниц.
+2024-07-29 12:41:50,102 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/kompyutery/
+2024-07-29 12:41:56,933 - INFO - Обработано 420 из 583 страниц.
+2024-07-29 12:41:56,933 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/imac/
+2024-07-29 12:41:58,548 - INFO - Обработано 421 из 583 страниц.
+2024-07-29 12:41:58,548 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_imac_24_2023/
+2024-07-29 12:41:59,576 - INFO - Обработано 422 из 583 страниц.
+2024-07-29 12:41:59,576 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_imac_24_retina_4_5k/
+2024-07-29 12:42:00,670 - INFO - Обработано 423 из 583 страниц.
+2024-07-29 12:42:00,670 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/mac_mini/
+2024-07-29 12:42:01,543 - INFO - Обработано 424 из 583 страниц.
+2024-07-29 12:42:01,544 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/mac_mini_2023/
+2024-07-29 12:42:02,622 - INFO - Обработано 425 из 583 страниц.
+2024-07-29 12:42:02,622 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/mac_mini_m1/
+2024-07-29 12:42:03,563 - INFO - Обработано 426 из 583 страниц.
+2024-07-29 12:42:03,563 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/macbook/
+2024-07-29 12:42:05,790 - INFO - Обработано 427 из 583 страниц.
+2024-07-29 12:42:05,790 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/macbook_air_13_2020_m1/
+2024-07-29 12:42:06,759 - INFO - Обработано 428 из 583 страниц.
+2024-07-29 12:42:06,759 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/macbook_air_13_2022_m2/
+2024-07-29 12:42:07,732 - INFO - Обработано 429 из 583 страниц.
+2024-07-29 12:42:07,732 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/macbook_air_13_2024_m3/
+2024-07-29 12:42:08,732 - INFO - Обработано 430 из 583 страниц.
+2024-07-29 12:42:08,732 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/macbook_air_15_2023_m2/
+2024-07-29 12:42:09,883 - INFO - Обработано 431 из 583 страниц.
+2024-07-29 12:42:09,883 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/macbook_air_15_2024_m3/
+2024-07-29 12:42:10,799 - INFO - Обработано 432 из 583 страниц.
+2024-07-29 12:42:10,799 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/macbook_pro_13_2022_m2/
+2024-07-29 12:42:12,304 - INFO - Обработано 433 из 583 страниц.
+2024-07-29 12:42:12,304 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/macbook_pro_14_2021/
+2024-07-29 12:42:13,091 - INFO - Обработано 434 из 583 страниц.
+2024-07-29 12:42:13,091 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/macbook_pro_14_2023/
+2024-07-29 12:42:16,231 - INFO - Обработано 435 из 583 страниц.
+2024-07-29 12:42:16,231 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/macbook_pro_14_m1/
+2024-07-29 12:42:17,046 - INFO - Обработано 436 из 583 страниц.
+2024-07-29 12:42:17,046 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/macbook_pro_16_2021/
+2024-07-29 12:42:18,814 - INFO - Обработано 437 из 583 страниц.
+2024-07-29 12:42:18,814 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/macbook_pro_16_2023/
+2024-07-29 12:42:19,940 - INFO - Обработано 438 из 583 страниц.
+2024-07-29 12:42:19,940 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/macbook_pro_16_m3_max_2023/
+2024-07-29 12:42:20,928 - INFO - Обработано 439 из 583 страниц.
+2024-07-29 12:42:20,928 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/macbook_pro_16_m3_pro_2023/
+2024-07-29 12:42:21,899 - INFO - Обработано 440 из 583 страниц.
+2024-07-29 12:42:21,899 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/aksessuar/
+2024-07-29 12:42:25,071 - INFO - Обработано 441 из 583 страниц.
+2024-07-29 12:42:25,071 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/airtag/
+2024-07-29 12:42:25,932 - INFO - Обработано 442 из 583 страниц.
+2024-07-29 12:42:25,932 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/powerbank_magsafe/
+2024-07-29 12:42:26,771 - INFO - Обработано 443 из 583 страниц.
+2024-07-29 12:42:26,771 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/adaptery/
+2024-07-29 12:42:27,652 - INFO - Обработано 444 из 583 страниц.
+2024-07-29 12:42:27,653 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/bloki_pitaniya/
+2024-07-29 12:42:28,586 - INFO - Обработано 445 из 583 страниц.
+2024-07-29 12:42:28,586 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/kabeli_apple/
+2024-07-29 12:42:29,525 - INFO - Обработано 446 из 583 страниц.
+2024-07-29 12:42:29,525 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/klaviatury/
+2024-07-29 12:42:30,680 - INFO - Обработано 447 из 583 страниц.
+2024-07-29 12:42:30,680 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/myshi/
+2024-07-29 12:42:31,453 - INFO - Обработано 448 из 583 страниц.
+2024-07-29 12:42:31,453 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/stilusy/
+2024-07-29 12:42:32,431 - INFO - Обработано 449 из 583 страниц.
+2024-07-29 12:42:32,431 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/trekpady/
+2024-07-29 12:42:33,356 - INFO - Обработано 450 из 583 страниц.
+2024-07-29 12:42:33,356 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/besprovodnye_naushniki/
+2024-07-29 12:42:35,551 - INFO - Обработано 451 из 583 страниц.
+2024-07-29 12:42:35,551 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/besprovodnye_pylesosy/
+2024-07-29 12:42:36,752 - INFO - Обработано 452 из 583 страниц.
+2024-07-29 12:42:36,752 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/vypryamiteli_dlya_volos/
+2024-07-29 12:42:38,412 - INFO - Обработано 453 из 583 страниц.
+2024-07-29 12:42:38,412 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/gadzhe/
+2024-07-29 12:42:46,022 - INFO - Обработано 454 из 583 страниц.
+2024-07-29 12:42:46,022 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/gopro/
+2024-07-29 12:42:48,503 - INFO - Обработано 455 из 583 страниц.
+2024-07-29 12:42:48,503 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/_hero11_black_edition/
+2024-07-29 12:42:49,343 - INFO - Обработано 456 из 583 страниц.
+2024-07-29 12:42:49,343 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/hero10_black_edition/
+2024-07-29 12:42:50,244 - INFO - Обработано 457 из 583 страниц.
+2024-07-29 12:42:50,244 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/hero12_black_edition/
+2024-07-29 12:42:51,160 - INFO - Обработано 458 из 583 страниц.
+2024-07-29 12:42:51,160 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/hero9_black_edition/
+2024-07-29 12:42:52,069 - INFO - Обработано 459 из 583 страниц.
+2024-07-29 12:42:52,069 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/kvadrokoptery/
+2024-07-29 12:42:54,888 - INFO - Обработано 460 из 583 страниц.
+2024-07-29 12:42:54,888 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dji_mavic_3_classic_pult_upravleniya_dji_rc/
+2024-07-29 12:42:55,759 - INFO - Обработано 461 из 583 страниц.
+2024-07-29 12:42:55,759 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dji_air_2s_combo/
+2024-07-29 12:42:56,632 - INFO - Обработано 462 из 583 страниц.
+2024-07-29 12:42:56,633 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dji_avata_fly_smart_combo/
+2024-07-29 12:42:57,565 - INFO - Обработано 463 из 583 страниц.
+2024-07-29 12:42:57,565 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dji_fpv_combo/
+2024-07-29 12:42:58,593 - INFO - Обработано 464 из 583 страниц.
+2024-07-29 12:42:58,594 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dji_matrice_30t/
+2024-07-29 12:42:59,564 - INFO - Обработано 465 из 583 страниц.
+2024-07-29 12:42:59,564 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dji_mavic_2_enterprise_zoom/
+2024-07-29 12:43:00,435 - INFO - Обработано 466 из 583 страниц.
+2024-07-29 12:43:00,435 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dji_mavic_3/
+2024-07-29 12:43:01,311 - INFO - Обработано 467 из 583 страниц.
+2024-07-29 12:43:01,311 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dji_mavic_3_combo/
+2024-07-29 12:43:02,421 - INFO - Обработано 468 из 583 страниц.
+2024-07-29 12:43:02,421 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dji_mavic_air_2/
+2024-07-29 12:43:03,541 - INFO - Обработано 469 из 583 страниц.
+2024-07-29 12:43:03,541 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dji_mini_2/
+2024-07-29 12:43:04,583 - INFO - Обработано 470 из 583 страниц.
+2024-07-29 12:43:04,583 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dji_mini_2_fly_more_combo/
+2024-07-29 12:43:05,436 - INFO - Обработано 471 из 583 страниц.
+2024-07-29 12:43:05,436 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dji_mini_3_pro/
+2024-07-29 12:43:06,324 - INFO - Обработано 472 из 583 страниц.
+2024-07-29 12:43:06,324 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/mediapleery/
+2024-07-29 12:43:07,234 - INFO - Обработано 473 из 583 страниц.
+2024-07-29 12:43:07,234 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/mediapleer_apple_tv_4k_2021/
+2024-07-29 12:43:08,176 - INFO - Обработано 474 из 583 страниц.
+2024-07-29 12:43:08,176 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/mediapleer_apple_tv_4k_2022/
+2024-07-29 12:43:09,015 - INFO - Обработано 475 из 583 страниц.
+2024-07-29 12:43:09,015 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/portativnaya_akustika/
+2024-07-29 12:43:10,161 - INFO - Обработано 476 из 583 страниц.
+2024-07-29 12:43:10,161 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/_jbl_flip_5/
+2024-07-29 12:43:16,069 - INFO - Обработано 477 из 583 страниц.
+2024-07-29 12:43:16,069 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_homepod_mini/
+2024-07-29 12:43:17,280 - INFO - Обработано 478 из 583 страниц.
+2024-07-29 12:43:17,280 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/jbl_boombox_3/
+2024-07-29 12:43:18,258 - INFO - Обработано 479 из 583 страниц.
+2024-07-29 12:43:18,258 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/jbl_charge_5/
+2024-07-29 12:43:19,807 - INFO - Обработано 480 из 583 страниц.
+2024-07-29 12:43:19,807 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/jbl_clip_4/
+2024-07-29 12:43:20,678 - INFO - Обработано 481 из 583 страниц.
+2024-07-29 12:43:20,678 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/jbl_flip_6/
+2024-07-29 12:43:22,793 - INFO - Обработано 482 из 583 страниц.
+2024-07-29 12:43:22,793 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/jbl_go_3/
+2024-07-29 12:43:23,668 - INFO - Обработано 483 из 583 страниц.
+2024-07-29 12:43:23,668 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/jbl_link_music_yandex/
+2024-07-29 12:43:24,576 - INFO - Обработано 484 из 583 страниц.
+2024-07-29 12:43:24,576 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/jbl_partybox_1000/
+2024-07-29 12:43:25,346 - INFO - Обработано 485 из 583 страниц.
+2024-07-29 12:43:25,346 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/jbl_partybox_on_the_go/
+2024-07-29 12:43:27,117 - INFO - Обработано 486 из 583 страниц.
+2024-07-29 12:43:27,117 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/jbl_pulse_4/
+2024-07-29 12:43:28,187 - INFO - Обработано 487 из 583 страниц.
+2024-07-29 12:43:28,187 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/jbl_pulse_5/
+2024-07-29 12:43:29,184 - INFO - Обработано 488 из 583 страниц.
+2024-07-29 12:43:29,184 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/jbl_wind_2/
+2024-07-29 12:43:30,121 - INFO - Обработано 489 из 583 страниц.
+2024-07-29 12:43:30,121 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/jbl_xtreme_3/
+2024-07-29 12:43:32,073 - INFO - Обработано 490 из 583 страниц.
+2024-07-29 12:43:32,073 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/marshall_kilburn_ii/
+2024-07-29 12:43:32,994 - INFO - Обработано 491 из 583 страниц.
+2024-07-29 12:43:32,995 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/yandex_station_lite/
+2024-07-29 12:43:34,009 - INFO - Обработано 492 из 583 страниц.
+2024-07-29 12:43:34,009 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/yandex_station_max/
+2024-07-29 12:43:36,454 - INFO - Обработано 493 из 583 страниц.
+2024-07-29 12:43:36,454 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/yandex_station_midi/
+2024-07-29 12:43:37,228 - INFO - Обработано 494 из 583 страниц.
+2024-07-29 12:43:37,228 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/yandex_station_mini_plus/
+2024-07-29 12:43:38,658 - INFO - Обработано 495 из 583 страниц.
+2024-07-29 12:43:38,658 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/umnaya_kolonka_apple_homepod_2_go_pokoleniya_2023/
+2024-07-29 12:43:39,561 - INFO - Обработано 496 из 583 страниц.
+2024-07-29 12:43:39,561 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/yandekc_stantsiya_duo_maks/
+2024-07-29 12:43:40,951 - INFO - Обработано 497 из 583 страниц.
+2024-07-29 12:43:40,951 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/yandeks_stantsiya_2/
+2024-07-29 12:43:44,858 - INFO - Обработано 498 из 583 страниц.
+2024-07-29 12:43:44,858 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/igrovye_pristavk/
+2024-07-29 12:43:46,996 - INFO - Обработано 499 из 583 страниц.
+2024-07-29 12:43:46,996 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/microsoft_xbox/
+2024-07-29 12:43:47,825 - INFO - Обработано 500 из 583 страниц.
+2024-07-29 12:43:47,825 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/microsoft_xbox_series_s/
+2024-07-29 12:43:48,686 - INFO - Обработано 501 из 583 страниц.
+2024-07-29 12:43:48,686 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/microsoft_xbox_series_x/
+2024-07-29 12:43:49,551 - INFO - Обработано 502 из 583 страниц.
+2024-07-29 12:43:49,551 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/nintendo_switch/
+2024-07-29 12:43:50,593 - INFO - Обработано 503 из 583 страниц.
+2024-07-29 12:43:50,593 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/nintendo_switch_lite/
+2024-07-29 12:43:51,534 - INFO - Обработано 504 из 583 страниц.
+2024-07-29 12:43:51,534 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/nintendo_switch_oled/
+2024-07-29 12:43:52,432 - INFO - Обработано 505 из 583 страниц.
+2024-07-29 12:43:52,432 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/nintendo_switchh/
+2024-07-29 12:43:53,312 - INFO - Обработано 506 из 583 страниц.
+2024-07-29 12:43:53,312 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/sony_playstation/
+2024-07-29 12:43:54,357 - INFO - Обработано 507 из 583 страниц.
+2024-07-29 12:43:54,357 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/sony_playstation_5/
+2024-07-29 12:43:55,174 - INFO - Обработано 508 из 583 страниц.
+2024-07-29 12:43:55,174 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/sony_playstation_5_digital_edition/
+2024-07-29 12:43:56,058 - INFO - Обработано 509 из 583 страниц.
+2024-07-29 12:43:56,058 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/sony_playstation_5_slim/
+2024-07-29 12:43:56,954 - INFO - Обработано 510 из 583 страниц.
+2024-07-29 12:43:56,954 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/sony_playstation_portal/
+2024-07-29 12:43:57,893 - INFO - Обработано 511 из 583 страниц.
+2024-07-29 12:43:57,893 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/valve/
+2024-07-29 12:43:58,731 - INFO - Обработано 512 из 583 страниц.
+2024-07-29 12:43:58,731 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/steam_deck/
+2024-07-29 12:43:59,593 - INFO - Обработано 513 из 583 страниц.
+2024-07-29 12:43:59,594 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/igrovye_aksessuary/
+2024-07-29 12:44:00,568 - INFO - Обработано 514 из 583 страниц.
+2024-07-29 12:44:00,568 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/shlem_virtualnoy_realnosti_playstation_vr2/
+2024-07-29 12:44:01,508 - INFO - Обработано 515 из 583 страниц.
+2024-07-29 12:44:01,508 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/besprovodnaya_garnitura_sony_pulse_3d_dlya_ps5/
+2024-07-29 12:44:02,449 - INFO - Обработано 516 из 583 страниц.
+2024-07-29 12:44:02,449 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/besprovodnoy_kontroller_sony_dualshock_4/
+2024-07-29 12:44:03,433 - INFO - Обработано 517 из 583 страниц.
+2024-07-29 12:44:03,433 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/geympad_microsoft_xbox_wireless_controller/
+2024-07-29 12:44:04,445 - INFO - Обработано 518 из 583 страниц.
+2024-07-29 12:44:04,446 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/geympad_sony_playstation_5_dualsense/
+2024-07-29 12:44:05,418 - INFO - Обработано 519 из 583 страниц.
+2024-07-29 12:44:05,418 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dva_kontrollera_sony_move_motion_controller_twin_pack/
+2024-07-29 12:44:06,193 - INFO - Обработано 520 из 583 страниц.
+2024-07-29 12:44:06,193 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/naushnik/
+2024-07-29 12:44:07,428 - INFO - Обработано 521 из 583 страниц.
+2024-07-29 12:44:07,428 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/naushniki_samsung/
+2024-07-29 12:44:08,326 - INFO - Обработано 522 из 583 страниц.
+2024-07-29 12:44:08,326 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/galaxy_buds_live_mystic/
+2024-07-29 12:44:09,216 - INFO - Обработано 523 из 583 страниц.
+2024-07-29 12:44:09,216 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/samsung_buds_2/
+2024-07-29 12:44:10,317 - INFO - Обработано 524 из 583 страниц.
+2024-07-29 12:44:10,317 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/samsung_buds_pro/
+2024-07-29 12:44:11,175 - INFO - Обработано 525 из 583 страниц.
+2024-07-29 12:44:11,175 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/samsung_buds_pro_2/
+2024-07-29 12:44:12,101 - INFO - Обработано 526 из 583 страниц.
+2024-07-29 12:44:12,101 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/samsung_galaxy_buds_fe/
+2024-07-29 12:44:12,944 - INFO - Обработано 527 из 583 страниц.
+2024-07-29 12:44:12,944 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/samsung_galaxy_buds/
+2024-07-29 12:44:13,856 - INFO - Обработано 528 из 583 страниц.
+2024-07-29 12:44:13,856 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/airpods/
+2024-07-29 12:44:15,001 - INFO - Обработано 529 из 583 страниц.
+2024-07-29 12:44:15,001 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_airpods_2/
+2024-07-29 12:44:15,870 - INFO - Обработано 530 из 583 страниц.
+2024-07-29 12:44:15,870 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_airpods_3/
+2024-07-29 12:44:16,824 - INFO - Обработано 531 из 583 страниц.
+2024-07-29 12:44:16,824 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_airpods_max/
+2024-07-29 12:44:17,761 - INFO - Обработано 532 из 583 страниц.
+2024-07-29 12:44:17,761 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_airpods_pro/
+2024-07-29 12:44:18,595 - INFO - Обработано 533 из 583 страниц.
+2024-07-29 12:44:18,595 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_airpods_pro_2nd_generation/
+2024-07-29 12:44:19,425 - INFO - Обработано 534 из 583 страниц.
+2024-07-29 12:44:19,425 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_earpods_3_5_mm/
+2024-07-29 12:44:20,329 - INFO - Обработано 535 из 583 страниц.
+2024-07-29 12:44:20,329 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_earpods_lightning/
+2024-07-29 12:44:21,213 - INFO - Обработано 536 из 583 страниц.
+2024-07-29 12:44:21,213 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple_airpods_3_magsafe_case/
+2024-07-29 12:44:22,132 - INFO - Обработано 537 из 583 страниц.
+2024-07-29 12:44:22,132 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/marshall/
+2024-07-29 12:44:22,998 - INFO - Обработано 538 из 583 страниц.
+2024-07-29 12:44:22,998 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/naushniki_sony_/
+2024-07-29 12:44:23,838 - INFO - Обработано 539 из 583 страниц.
+2024-07-29 12:44:23,838 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/sony_linkbuds_s/
+2024-07-29 12:44:24,652 - INFO - Обработано 540 из 583 страниц.
+2024-07-29 12:44:24,652 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/sony_wh_1000xm4/
+2024-07-29 12:44:25,590 - INFO - Обработано 541 из 583 страниц.
+2024-07-29 12:44:25,590 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/sony_wh_1000xm5/
+2024-07-29 12:44:26,454 - INFO - Обработано 542 из 583 страниц.
+2024-07-29 12:44:26,454 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/staylery/
+2024-07-29 12:44:28,002 - INFO - Обработано 543 из 583 страниц.
+2024-07-29 12:44:28,002 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/feny/
+2024-07-29 12:44:29,857 - INFO - Обработано 544 из 583 страниц.
+2024-07-29 12:44:29,857 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dyson/
+2024-07-29 12:44:30,840 - INFO - Обработано 545 из 583 страниц.
+2024-07-29 12:44:30,840 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/vypryamitel_dyson/
+2024-07-29 12:44:32,042 - INFO - Обработано 546 из 583 страниц.
+2024-07-29 12:44:32,042 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dyson_corrale_hs03/
+2024-07-29 12:44:32,951 - INFO - Обработано 547 из 583 страниц.
+2024-07-29 12:44:32,952 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/stayler_dyson/
+2024-07-29 12:44:35,129 - INFO - Обработано 548 из 583 страниц.
+2024-07-29 12:44:35,129 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/long/
+2024-07-29 12:44:36,373 - INFO - Обработано 549 из 583 страниц.
+2024-07-29 12:44:36,373 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/short/
+2024-07-29 12:44:37,584 - INFO - Обработано 550 из 583 страниц.
+2024-07-29 12:44:37,584 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/fen_dyson/
+2024-07-29 12:44:38,622 - INFO - Обработано 551 из 583 страниц.
+2024-07-29 12:44:38,622 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/supersonic_hd12/
+2024-07-29 12:44:40,654 - INFO - Обработано 552 из 583 страниц.
+2024-07-29 12:44:40,654 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/supersonic_hd07/
+2024-07-29 12:44:41,826 - INFO - Обработано 553 из 583 страниц.
+2024-07-29 12:44:41,826 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/supersonic_hd08/
+2024-07-29 12:44:44,096 - INFO - Обработано 554 из 583 страниц.
+2024-07-29 12:44:44,096 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/supersonic_hd15/
+2024-07-29 12:44:45,598 - INFO - Обработано 555 из 583 страниц.
+2024-07-29 12:44:45,599 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/besprovodnoy_pylesos_dyson/
+2024-07-29 12:44:47,247 - INFO - Обработано 556 из 583 страниц.
+2024-07-29 12:44:47,247 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/_dyson_v10/
+2024-07-29 12:44:48,897 - INFO - Обработано 557 из 583 страниц.
+2024-07-29 12:44:48,898 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dyson_gen_5_detect_absolute/
+2024-07-29 12:44:49,927 - INFO - Обработано 558 из 583 страниц.
+2024-07-29 12:44:49,927 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dyson_v11/
+2024-07-29 12:44:50,962 - INFO - Обработано 559 из 583 страниц.
+2024-07-29 12:44:50,962 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dyson_v12/
+2024-07-29 12:44:51,846 - INFO - Обработано 560 из 583 страниц.
+2024-07-29 12:44:51,846 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dyson_v15/
+2024-07-29 12:44:52,802 - INFO - Обработано 561 из 583 страниц.
+2024-07-29 12:44:52,802 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/dyson_v8/
+2024-07-29 12:44:53,840 - INFO - Обработано 562 из 583 страниц.
+2024-07-29 12:44:53,840 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/apple/
+2024-07-29 12:44:55,433 - INFO - Обработано 563 из 583 страниц.
+2024-07-29 12:44:55,433 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/samsung/
+2024-07-29 12:44:56,683 - INFO - Обработано 564 из 583 страниц.
+2024-07-29 12:44:56,683 - INFO - Обрабатываем страницу: https://orel.ispace-shop.ru/agreement/
+2024-07-29 12:44:57,553 - INFO - Обработано 565 из 583 страниц.
+2024-07-29 12:44:57,553 - INFO - Обрабатываем страницу: https://belgorod.ispace-shop.ru/agreement/
+2024-07-29 12:44:58,443 - INFO - Обработано 566 из 583 страниц.
+2024-07-29 12:44:58,443 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/catalog/
+2024-07-29 12:45:00,471 - INFO - Обработано 567 из 583 страниц.
+2024-07-29 12:45:00,471 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/agreement/#footer
+2024-07-29 12:45:01,262 - INFO - Обработано 568 из 583 страниц.
+2024-07-29 12:45:01,262 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/actions/
+2024-07-29 12:45:02,209 - INFO - Обработано 569 из 583 страниц.
+2024-07-29 12:45:02,209 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/credit/
+2024-07-29 12:45:06,372 - INFO - Обработано 570 из 583 страниц.
+2024-07-29 12:45:06,372 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/dilivery/
+2024-07-29 12:45:07,240 - INFO - Обработано 571 из 583 страниц.
+2024-07-29 12:45:07,240 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/trade-in/
+2024-07-29 12:45:08,171 - INFO - Обработано 572 из 583 страниц.
+2024-07-29 12:45:08,171 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/about/product/
+2024-07-29 12:45:08,872 - INFO - Обработано 573 из 583 страниц.
+2024-07-29 12:45:08,872 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/purchase-returns/
+2024-07-29 12:45:09,535 - INFO - Обработано 574 из 583 страниц.
+2024-07-29 12:45:09,535 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/pickup/
+2024-07-29 12:45:10,263 - INFO - Обработано 575 из 583 страниц.
+2024-07-29 12:45:10,263 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/guarantees/
+2024-07-29 12:45:10,995 - INFO - Обработано 576 из 583 страниц.
+2024-07-29 12:45:10,995 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/about/
+2024-07-29 12:45:20,675 - INFO - Обработано 577 из 583 страниц.
+2024-07-29 12:45:20,675 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/about/contacts/
+2024-07-29 12:45:21,950 - INFO - Обработано 578 из 583 страниц.
+2024-07-29 12:45:21,950 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/privacy-policy/
+2024-07-29 12:45:22,701 - INFO - Обработано 579 из 583 страниц.
+2024-07-29 12:45:22,701 - INFO - Обрабатываем страницу: https://lipetsk.ispace-shop.ru/public-offer/
+2024-07-29 12:45:23,346 - INFO - Обработано 580 из 583 страниц.
+2024-07-29 12:45:23,347 - INFO - Обрабатываем страницу: https://ispace-shop.ru/agreement/#footer
+2024-07-29 12:45:24,200 - INFO - Обработано 581 из 583 страниц.
+2024-07-29 12:45:24,200 - INFO - Обрабатываем страницу: https://ispace-shop.ru#body
+2024-07-29 12:45:25,094 - INFO - Обработано 582 из 583 страниц.
+2024-07-29 12:45:25,094 - INFO - Обрабатываем страницу: https://ispace-shop.ru#footer
+2024-07-29 12:45:25,160 - INFO - Обработано 583 из 583 страниц.

@@ -1,0 +1,11 @@
+2024-07-29 11:49:10,894 - INFO - Начинаем сканирование сайта...
+2024-07-29 11:49:10,894 - INFO - Сканирование страницы: https://uaeassets.com на глубине 0
+2024-07-29 11:49:10,894 - INFO - Запрос страницы: https://uaeassets.com
+2024-07-29 11:49:11,513 - INFO - Найдено 0 новых ссылок на странице https://uaeassets.com
+2024-07-29 11:49:11,513 - INFO - Всего страниц для проверки: 1
+2024-07-29 11:49:11,513 - INFO - ====== WebDriver manager ======
+2024-07-29 11:49:11,600 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-29 11:49:11,880 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-29 11:49:12,165 - INFO - Driver [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-arm64/chromedriver] found in cache
+2024-07-29 11:49:12,751 - INFO - Обрабатываем страницу: https://uaeassets.com
+2024-07-29 11:49:24,296 - INFO - Обработано 1 из 1 страниц.

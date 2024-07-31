@@ -1,0 +1,1 @@
+http://www.zhuravlev.info/modules.php?name=Your_Account&op=new_user

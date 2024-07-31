@@ -1,0 +1,12 @@
+http://abz.by/
+http://ap.by/board/add.html
+http://auto.infox.by/add
+http://auto.oko.by/add_auto.html
+http://autogrodno.by/add-auto/user/edit.html?return=aW5kZXgucGhwP29wdGlvbj1jb21fZXhwYXV0b3Nwcm8mdmlldz1leHBhZGQmbGF5b3V0PWVkaXQ=
+http://av.by/advpublic/advpublic.php?event=Pre_Form
+http://www.abw.by/index.php?act=new_log
+http://www.ao.by/login/quick/
+http://www.autobrest.eu/index.php?log=add_auto
+http://www.drive.by/users/?mode=authorisation
+http://www.myauto.by/new_adv/
+http://www.zapaska.by/bulletin_board_add.php

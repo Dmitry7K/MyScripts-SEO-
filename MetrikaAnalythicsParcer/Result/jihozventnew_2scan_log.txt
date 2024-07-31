@@ -1,0 +1,970 @@
+2024-07-24 20:54:25,280 - INFO - Начинаем сканирование сайта...
+2024-07-24 20:54:25,280 - INFO - Сканирование страницы: https://jihozvent.uz/ на глубине 0
+2024-07-24 20:54:25,281 - INFO - Запрос страницы: https://jihozvent.uz/
+2024-07-24 20:54:27,997 - INFO - Найдено 83 новых ссылок на странице https://jihozvent.uz/
+2024-07-24 20:54:27,997 - INFO - Сканирование страницы: https://jihozvent.uz/catalog/ на глубине 1
+2024-07-24 20:54:27,997 - INFO - Запрос страницы: https://jihozvent.uz/catalog/
+2024-07-24 20:54:33,600 - INFO - Найдено 98 новых ссылок на странице https://jihozvent.uz/catalog/
+2024-07-24 20:54:33,600 - INFO - Сканирование страницы: https://jihozvent.uz/vrf-air-conditioning-systems/ на глубине 2
+2024-07-24 20:54:33,600 - INFO - Запрос страницы: https://jihozvent.uz/vrf-air-conditioning-systems/
+2024-07-24 20:54:36,686 - INFO - Найдено 84 новых ссылок на странице https://jihozvent.uz/vrf-air-conditioning-systems/
+2024-07-24 20:54:36,686 - INFO - Сканирование страницы: https://jihozvent.uz/cooling-units/ на глубине 3
+2024-07-24 20:54:36,686 - INFO - Запрос страницы: https://jihozvent.uz/cooling-units/
+2024-07-24 20:54:40,514 - INFO - Найдено 79 новых ссылок на странице https://jihozvent.uz/cooling-units/
+2024-07-24 20:54:40,514 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/heating-equipment/
+2024-07-24 20:54:40,514 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/heat-transfering-units/
+2024-07-24 20:54:40,514 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/duct-units/
+2024-07-24 20:54:40,514 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/fans/
+2024-07-24 20:54:40,514 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/aspirating-units/
+2024-07-24 20:54:40,514 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/flame-arresters/
+2024-07-24 20:54:40,514 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilation-grilles/
+2024-07-24 20:54:40,514 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/noise-silensers/
+2024-07-24 20:54:40,514 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilation-articles/
+2024-07-24 20:54:40,514 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/filtres/
+2024-07-24 20:54:40,514 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/accessory-components/
+2024-07-24 20:54:40,514 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/programma/
+2024-07-24 20:54:40,514 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/programma/register/
+2024-07-24 20:54:40,514 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/about-us/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/services/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/media/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/blog
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/contacts/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ru/cooling-units/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/cooling-units/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/cooling-units/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/vrf-air-conditioning-systems/external-vrf-unit/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/vrf-air-conditioning-systems/vrf-indoor-unit/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/vrf-air-conditioning-systems/chiller-fan-coil/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/vrf-air-conditioning-systems/central-air-conditioning/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/duct-units/for-circular-channels/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/duct-units/for-rectangular-channels/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/duct-units/for-square-channels/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/fans/centrifugal-fans/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/fans/axial-fans/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/fans/roof-fans/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/fans/dust-fans/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/fans/special-fans/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/fans/traction-machines/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/fans/duct-fans/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/flame-arresters/fire-protection-valves/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/flame-arresters/general-industrial-valves/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/flame-arresters/special-valves/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/noise-silensers/lamellar/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/noise-silensers/tubular/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/chiller-mashina-holodilnaya-jv/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/kompressorno-kondensatornyj-blok-jvk-kkb/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/gradirnya-vg/
+2024-07-24 20:54:40,515 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/blog/
+2024-07-24 20:54:40,515 - INFO - Сканирование страницы: https://jihozvent.uz/ru/vrf-air-conditioning-systems/ на глубине 3
+2024-07-24 20:54:40,515 - INFO - Запрос страницы: https://jihozvent.uz/ru/vrf-air-conditioning-systems/
+2024-07-24 20:54:45,511 - INFO - Найдено 79 новых ссылок на странице https://jihozvent.uz/ru/vrf-air-conditioning-systems/
+2024-07-24 20:54:45,511 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/vrf-air-conditioning-systems/
+2024-07-24 20:54:45,511 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/vrf-air-conditioning-systems/
+2024-07-24 20:54:45,511 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/naruzhnyj-blok-hi-flexi-s-mavo/
+2024-07-24 20:54:45,511 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/naruzhnyj-blok-hi-smart-h/
+2024-07-24 20:54:45,511 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/vnutrennij-4-potochnyj-kassetnyj-blok/
+2024-07-24 20:54:45,511 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/kondiczioner-czentralnyj-karkasno-panelnyj-kczkp/
+2024-07-24 20:54:45,511 - INFO - Сканирование страницы: https://jihozvent.uz/ru/catalog/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80 на глубине 2
+2024-07-24 20:54:45,511 - INFO - Запрос страницы: https://jihozvent.uz/ru/catalog/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:54:51,245 - INFO - Найдено 90 новых ссылок на странице https://jihozvent.uz/ru/catalog/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:54:51,245 - INFO - Сканирование страницы: https://jihozvent.uz/en/catalog/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80 на глубине 3
+2024-07-24 20:54:51,245 - INFO - Запрос страницы: https://jihozvent.uz/en/catalog/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:54:53,299 - INFO - Найдено 101 новых ссылок на странице https://jihozvent.uz/en/catalog/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/catalog/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/heating-equipment/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/heat-transfering-units/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/duct-units/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/fans/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/aspirating-units/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/flame-arresters/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/ventilation-grilles/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/noise-silensers/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/ventilation-articles/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/filtres/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/accessory-components/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/programma/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/programma/register/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/about-us/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/services/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/media/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/blog
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/contacts/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/catalog/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/vrf-air-conditioning-systems/external-vrf-unit/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/vrf-air-conditioning-systems/vrf-indoor-unit/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/vrf-air-conditioning-systems/chiller-fan-coil/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/vrf-air-conditioning-systems/central-air-conditioning/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/duct-units/for-circular-channels/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/duct-units/for-rectangular-channels/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/duct-units/for-square-channels/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/fans/centrifugal-fans/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/fans/axial-fans/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/fans/roof-fans/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/fans/dust-fans/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/fans/special-fans/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/fans/traction-machines/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/fans/duct-fans/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/flame-arresters/fire-protection-valves/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/flame-arresters/general-industrial-valves/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/flame-arresters/special-valves/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/noise-silensers/lamellar/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/noise-silensers/tubular/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/naruzhnyj-blok-hi-flexi-s-mavo/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/naruzhnyj-blok-hi-smart-h/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/vnutrennij-4-potochnyj-kassetnyj-blok/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/chiller-mashina-holodilnaya-jv/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/kondiczioner-czentralnyj-karkasno-panelnyj-kczkp/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/kompressorno-kondensatornyj-blok-jvk-kkb/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/ventilyator-vc-4-75/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/ventilyator-vc-14-46/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/ventilyator-vr-6-28/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/ventilyator-vr-12-26/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/ventilyator-vc-4-75-isp-5/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/ventilyator-vc-14-46-isp-5/
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/catalog/page/2/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:54:53,299 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/catalog/page/3/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:54:53,300 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/catalog/page/11/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:54:53,300 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/blog/
+2024-07-24 20:54:53,300 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/catalog/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 20:54:53,300 - INFO - Сканирование страницы: https://jihozvent.uz/ventilyator-vc-4-75/ на глубине 3
+2024-07-24 20:54:53,300 - INFO - Запрос страницы: https://jihozvent.uz/ventilyator-vc-4-75/
+2024-07-24 20:55:00,729 - INFO - Найдено 60 новых ссылок на странице https://jihozvent.uz/ventilyator-vc-4-75/
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ru/ventilyator-vc-4-75/
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/ventilyator-vc-4-75/
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75/#tab2
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75/#tab1
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75/#tab5
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75/#tab7
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75/#tab8
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75/#tab4
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75/#tab0-0
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75/#tab1-0
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75/#tab2-0
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75/#tab3-0
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75/#tab4-0
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75/#tab5-0
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75/#tab6-0
+2024-07-24 20:55:00,729 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75/#tab7-0
+2024-07-24 20:55:00,729 - INFO - Сканирование страницы: https://jihozvent.uz/ventilyator-vc-14-46/ на глубине 3
+2024-07-24 20:55:00,729 - INFO - Запрос страницы: https://jihozvent.uz/ventilyator-vc-14-46/
+2024-07-24 20:55:04,623 - INFO - Найдено 59 новых ссылок на странице https://jihozvent.uz/ventilyator-vc-14-46/
+2024-07-24 20:55:04,623 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ru/ventilyator-vc-14-46/
+2024-07-24 20:55:04,623 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/ventilyator-vc-14-46/
+2024-07-24 20:55:04,623 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46/#tab2
+2024-07-24 20:55:04,623 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46/#tab1
+2024-07-24 20:55:04,623 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46/#tab5
+2024-07-24 20:55:04,623 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46/#tab7
+2024-07-24 20:55:04,623 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46/#tab8
+2024-07-24 20:55:04,623 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46/#tab4
+2024-07-24 20:55:04,623 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46/#tab0-0
+2024-07-24 20:55:04,623 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46/#tab1-0
+2024-07-24 20:55:04,623 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46/#tab2-0
+2024-07-24 20:55:04,623 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46/#tab3-0
+2024-07-24 20:55:04,623 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46/#tab4-0
+2024-07-24 20:55:04,623 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46/#tab5-0
+2024-07-24 20:55:04,623 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46/#tab6-0
+2024-07-24 20:55:04,623 - INFO - Сканирование страницы: https://jihozvent.uz/ventilyator-vr-6-28/ на глубине 3
+2024-07-24 20:55:04,623 - INFO - Запрос страницы: https://jihozvent.uz/ventilyator-vr-6-28/
+2024-07-24 20:55:10,273 - INFO - Найдено 63 новых ссылок на странице https://jihozvent.uz/ventilyator-vr-6-28/
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ru/ventilyator-vr-6-28/
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/ventilyator-vr-6-28/
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab2
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab1
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab5
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab7
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab8
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab4
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab0-0
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab1-0
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab2-0
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab3-0
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab4-0
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab5-0
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab6-0
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab7-0
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab8-0
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab9-0
+2024-07-24 20:55:10,273 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28/#tab10-0
+2024-07-24 20:55:10,273 - INFO - Сканирование страницы: https://jihozvent.uz/ventilyator-vr-12-26/ на глубине 3
+2024-07-24 20:55:10,273 - INFO - Запрос страницы: https://jihozvent.uz/ventilyator-vr-12-26/
+2024-07-24 20:55:19,132 - INFO - Найдено 58 новых ссылок на странице https://jihozvent.uz/ventilyator-vr-12-26/
+2024-07-24 20:55:19,132 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ru/ventilyator-vr-12-26/
+2024-07-24 20:55:19,132 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/ventilyator-vr-12-26/
+2024-07-24 20:55:19,132 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-12-26/#tab2
+2024-07-24 20:55:19,132 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-12-26/#tab1
+2024-07-24 20:55:19,132 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-12-26/#tab5
+2024-07-24 20:55:19,132 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-12-26/#tab7
+2024-07-24 20:55:19,132 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-12-26/#tab8
+2024-07-24 20:55:19,132 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-12-26/#tab4
+2024-07-24 20:55:19,132 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-12-26/#tab0-0
+2024-07-24 20:55:19,132 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-12-26/#tab1-0
+2024-07-24 20:55:19,132 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-12-26/#tab2-0
+2024-07-24 20:55:19,132 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-12-26/#tab3-0
+2024-07-24 20:55:19,132 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-12-26/#tab4-0
+2024-07-24 20:55:19,132 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-12-26/#tab5-0
+2024-07-24 20:55:19,132 - INFO - Сканирование страницы: https://jihozvent.uz/ventilyator-vc-4-75-isp-5/ на глубине 3
+2024-07-24 20:55:19,132 - INFO - Запрос страницы: https://jihozvent.uz/ventilyator-vc-4-75-isp-5/
+2024-07-24 20:55:21,763 - INFO - Найдено 56 новых ссылок на странице https://jihozvent.uz/ventilyator-vc-4-75-isp-5/
+2024-07-24 20:55:21,763 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ru/ventilyator-vc-4-75-isp-5/
+2024-07-24 20:55:21,763 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/ventilyator-vc-4-75-isp-5/
+2024-07-24 20:55:21,763 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab2
+2024-07-24 20:55:21,763 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab1
+2024-07-24 20:55:21,763 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab5
+2024-07-24 20:55:21,763 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab7
+2024-07-24 20:55:21,763 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab0-0
+2024-07-24 20:55:21,763 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab1-0
+2024-07-24 20:55:21,763 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab2-0
+2024-07-24 20:55:21,763 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab3-0
+2024-07-24 20:55:21,763 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab4-0
+2024-07-24 20:55:21,763 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab5-0
+2024-07-24 20:55:21,763 - INFO - Сканирование страницы: https://jihozvent.uz/ventilyator-vc-14-46-isp-5/ на глубине 3
+2024-07-24 20:55:21,763 - INFO - Запрос страницы: https://jihozvent.uz/ventilyator-vc-14-46-isp-5/
+2024-07-24 20:55:30,639 - INFO - Найдено 54 новых ссылок на странице https://jihozvent.uz/ventilyator-vc-14-46-isp-5/
+2024-07-24 20:55:30,639 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ru/ventilyator-vc-14-46-isp-5/
+2024-07-24 20:55:30,639 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/ventilyator-vc-14-46-isp-5/
+2024-07-24 20:55:30,639 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab2
+2024-07-24 20:55:30,639 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab1
+2024-07-24 20:55:30,639 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab5
+2024-07-24 20:55:30,639 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab7
+2024-07-24 20:55:30,639 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab0-0
+2024-07-24 20:55:30,639 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab1-0
+2024-07-24 20:55:30,639 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab2-0
+2024-07-24 20:55:30,639 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab3-0
+2024-07-24 20:55:30,639 - INFO - Сканирование страницы: https://jihozvent.uz/catalog/page/2/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80 на глубине 3
+2024-07-24 20:55:30,639 - INFO - Запрос страницы: https://jihozvent.uz/catalog/page/2/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:55:32,577 - INFO - Найдено 94 новых ссылок на странице https://jihozvent.uz/catalog/page/2/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:55:32,577 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ru/catalog/page/2/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:55:32,577 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/catalog/page/2/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:55:32,577 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/catalog/page/2/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vc-9-55-isp-5/
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28-isp-3/
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vr-6-28-isp-5/
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vo-06-300/
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vo-12-300/
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vo-30-160/
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vod/
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-shahtnyj-mestnogo-provetrivaniya-svm/
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vkr/
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vkrv/
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vkop/
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ventilyator-vcp-6-46/
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/catalog/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/catalog/page/3/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/catalog/page/4/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:55:32,578 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/catalog/page/11/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 20:55:32,578 - INFO - Сканирование страницы: https://jihozvent.uz/ru/ на глубине 1
+2024-07-24 20:55:32,578 - INFO - Запрос страницы: https://jihozvent.uz/ru/
+2024-07-24 20:55:35,578 - INFO - Найдено 71 новых ссылок на странице https://jihozvent.uz/ru/
+2024-07-24 20:55:35,578 - INFO - Сканирование страницы: https://jihozvent.uz/uz/ на глубине 2
+2024-07-24 20:55:35,578 - INFO - Запрос страницы: https://jihozvent.uz/uz/
+2024-07-24 20:55:45,113 - INFO - Найдено 84 новых ссылок на странице https://jihozvent.uz/uz/
+2024-07-24 20:55:45,113 - INFO - Сканирование страницы: https://jihozvent.uz/uz/catalog/ на глубине 3
+2024-07-24 20:55:45,113 - INFO - Запрос страницы: https://jihozvent.uz/uz/catalog/
+2024-07-24 20:55:47,265 - INFO - Найдено 98 новых ссылок на странице https://jihozvent.uz/uz/catalog/
+2024-07-24 20:55:47,265 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/heating-equipment/
+2024-07-24 20:55:47,265 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/heat-transfering-units/
+2024-07-24 20:55:47,265 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/duct-units/
+2024-07-24 20:55:47,265 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/fans/
+2024-07-24 20:55:47,265 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/aspirating-units/
+2024-07-24 20:55:47,265 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/flame-arresters/
+2024-07-24 20:55:47,265 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/ventilation-grilles/
+2024-07-24 20:55:47,265 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/noise-silensers/
+2024-07-24 20:55:47,265 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/ventilation-articles/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/filtres/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/accessory-components/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/programma/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/programma/register/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/about-us/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/services/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/media/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/blog
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/contacts/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ru/catalog/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/vrf-air-conditioning-systems/external-vrf-unit/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/vrf-air-conditioning-systems/vrf-indoor-unit/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/vrf-air-conditioning-systems/chiller-fan-coil/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/vrf-air-conditioning-systems/central-air-conditioning/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/duct-units/for-circular-channels/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/duct-units/for-rectangular-channels/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/duct-units/for-square-channels/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/fans/centrifugal-fans/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/fans/axial-fans/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/fans/roof-fans/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/fans/dust-fans/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/fans/special-fans/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/fans/traction-machines/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/fans/duct-fans/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/flame-arresters/fire-protection-valves/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/flame-arresters/general-industrial-valves/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/flame-arresters/special-valves/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/noise-silensers/lamellar/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/noise-silensers/tubular/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/naruzhnyj-blok-hi-flexi-s-mavo/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/naruzhnyj-blok-hi-smart-h/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/vnutrennij-4-potochnyj-kassetnyj-blok/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/chiller-mashina-holodilnaya-jv/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/kondiczioner-czentralnyj-karkasno-panelnyj-kczkp/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/kompressorno-kondensatornyj-blok-jvk-kkb/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/catalog/page/2/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/catalog/page/3/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/catalog/page/11/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/blog/
+2024-07-24 20:55:47,266 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/catalog/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 20:55:47,266 - INFO - Сканирование страницы: https://jihozvent.uz/ru/?fbclid=PAZXh0bgNhZW0BMQABpl6jcS7lMQ1bZqrM7ifFwPI5reRH-3mZqv8_o3gCNSeMfRLlnobEhVn2aA_aem_Adl9amKy5bMQWruUludhpXxX1xyWTEvNynmWxXnQ-w0m77g6Qz73z5ddadH0x4kNj-A на глубине 3
+2024-07-24 20:55:47,266 - INFO - Запрос страницы: https://jihozvent.uz/ru/?fbclid=PAZXh0bgNhZW0BMQABpl6jcS7lMQ1bZqrM7ifFwPI5reRH-3mZqv8_o3gCNSeMfRLlnobEhVn2aA_aem_Adl9amKy5bMQWruUludhpXxX1xyWTEvNynmWxXnQ-w0m77g6Qz73z5ddadH0x4kNj-A
+2024-07-24 20:55:54,762 - INFO - Найдено 69 новых ссылок на странице https://jihozvent.uz/ru/?fbclid=PAZXh0bgNhZW0BMQABpl6jcS7lMQ1bZqrM7ifFwPI5reRH-3mZqv8_o3gCNSeMfRLlnobEhVn2aA_aem_Adl9amKy5bMQWruUludhpXxX1xyWTEvNynmWxXnQ-w0m77g6Qz73z5ddadH0x4kNj-A
+2024-07-24 20:55:54,762 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/orebryonnye-truby/
+2024-07-24 20:55:54,762 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/catalog
+2024-07-24 20:55:54,762 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/about-us
+2024-07-24 20:55:54,762 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/services
+2024-07-24 20:55:54,762 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/blog/torzhestvennaya-czeremoniya-jihozvent/
+2024-07-24 20:55:54,762 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/blog/kak-rabotaet-chiller/
+2024-07-24 20:55:54,762 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/blog/ustanovka-i-montazh-sistem-kondiczionirovaniya-v-tashkente/
+2024-07-24 20:55:54,762 - INFO - Сканирование страницы: https://jihozvent.uz/en/?fbclid=PAZXh0bgNhZW0BMQABpl6jcS7lMQ1bZqrM7ifFwPI5reRH-3mZqv8_o3gCNSeMfRLlnobEhVn2aA_aem_Adl9amKy5bMQWruUludhpXxX1xyWTEvNynmWxXnQ-w0m77g6Qz73z5ddadH0x4kNj-A на глубине 3
+2024-07-24 20:55:54,762 - INFO - Запрос страницы: https://jihozvent.uz/en/?fbclid=PAZXh0bgNhZW0BMQABpl6jcS7lMQ1bZqrM7ifFwPI5reRH-3mZqv8_o3gCNSeMfRLlnobEhVn2aA_aem_Adl9amKy5bMQWruUludhpXxX1xyWTEvNynmWxXnQ-w0m77g6Qz73z5ddadH0x4kNj-A
+2024-07-24 20:56:04,939 - INFO - Найдено 81 новых ссылок на странице https://jihozvent.uz/en/?fbclid=PAZXh0bgNhZW0BMQABpl6jcS7lMQ1bZqrM7ifFwPI5reRH-3mZqv8_o3gCNSeMfRLlnobEhVn2aA_aem_Adl9amKy5bMQWruUludhpXxX1xyWTEvNynmWxXnQ-w0m77g6Qz73z5ddadH0x4kNj-A
+2024-07-24 20:56:04,939 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/?fbclid=PAZXh0bgNhZW0BMQABpl6jcS7lMQ1bZqrM7ifFwPI5reRH-3mZqv8_o3gCNSeMfRLlnobEhVn2aA_aem_Adl9amKy5bMQWruUludhpXxX1xyWTEvNynmWxXnQ-w0m77g6Qz73z5ddadH0x4kNj-A
+2024-07-24 20:56:04,939 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/blog/torzhestvennaya-czeremoniya-jihozvent/
+2024-07-24 20:56:04,939 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/blog/kak-rabotaet-chiller/
+2024-07-24 20:56:04,939 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/blog/ustanovka-i-montazh-sistem-kondiczionirovaniya-v-tashkente/
+2024-07-24 20:56:04,939 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 20:56:04,939 - INFO - Сканирование страницы: https://jihozvent.uz/uz/blog/torzhestvennaya-czeremoniya-jihozvent/ на глубине 3
+2024-07-24 20:56:04,939 - INFO - Запрос страницы: https://jihozvent.uz/uz/blog/torzhestvennaya-czeremoniya-jihozvent/
+2024-07-24 20:56:07,971 - INFO - Найдено 51 новых ссылок на странице https://jihozvent.uz/uz/blog/torzhestvennaya-czeremoniya-jihozvent/
+2024-07-24 20:56:07,971 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ru/blog/torzhestvennaya-czeremoniya-jihozvent/
+2024-07-24 20:56:07,972 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/blog/torzhestvennaya-czeremoniya-jihozvent/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 20:56:07,972 - INFO - Сканирование страницы: https://jihozvent.uz/uz/blog/kak-rabotaet-chiller/ на глубине 3
+2024-07-24 20:56:07,972 - INFO - Запрос страницы: https://jihozvent.uz/uz/blog/kak-rabotaet-chiller/
+2024-07-24 20:56:13,530 - INFO - Найдено 51 новых ссылок на странице https://jihozvent.uz/uz/blog/kak-rabotaet-chiller/
+2024-07-24 20:56:13,530 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ru/blog/kak-rabotaet-chiller/
+2024-07-24 20:56:13,531 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/blog/kak-rabotaet-chiller/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 20:56:13,531 - INFO - Сканирование страницы: https://jihozvent.uz/uz/blog/ustanovka-i-montazh-sistem-kondiczionirovaniya-v-tashkente/ на глубине 3
+2024-07-24 20:56:13,531 - INFO - Запрос страницы: https://jihozvent.uz/uz/blog/ustanovka-i-montazh-sistem-kondiczionirovaniya-v-tashkente/
+2024-07-24 20:56:19,455 - INFO - Найдено 51 новых ссылок на странице https://jihozvent.uz/uz/blog/ustanovka-i-montazh-sistem-kondiczionirovaniya-v-tashkente/
+2024-07-24 20:56:19,456 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ru/blog/ustanovka-i-montazh-sistem-kondiczionirovaniya-v-tashkente/
+2024-07-24 20:56:19,456 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/blog/ustanovka-i-montazh-sistem-kondiczionirovaniya-v-tashkente/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 20:56:19,456 - INFO - Сканирование страницы: https://jihozvent.uz/uz/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view на глубине 3
+2024-07-24 20:56:19,456 - INFO - Запрос страницы: https://jihozvent.uz/uz/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 20:56:21,278 - INFO - Найдено 52 новых ссылок на странице https://jihozvent.uz/uz/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 20:56:21,278 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/ru
+2024-07-24 20:56:21,278 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/en
+2024-07-24 20:56:21,278 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz
+2024-07-24 20:56:21,278 - INFO - Достигнут лимит глубины или количества страниц для https://jihozvent.uz/uz/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 20:56:21,278 - INFO - Всего страниц для проверки: 306
+2024-07-24 20:56:21,278 - INFO - ====== WebDriver manager ======
+2024-07-24 20:56:21,383 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-24 20:56:21,815 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-24 20:56:22,120 - INFO - Driver [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-arm64/chromedriver] found in cache
+2024-07-24 20:56:22,547 - INFO - Обрабатываем страницу: https://jihozvent.uz/
+2024-07-24 20:56:35,939 - INFO - Обработано 1 из 306 страниц.
+2024-07-24 20:56:35,939 - INFO - Обрабатываем страницу: https://jihozvent.uz/catalog/
+2024-07-24 20:56:45,516 - INFO - Обработано 2 из 306 страниц.
+2024-07-24 20:56:45,516 - INFO - Обрабатываем страницу: https://jihozvent.uz/vrf-air-conditioning-systems/
+2024-07-24 20:56:52,471 - INFO - Обработано 3 из 306 страниц.
+2024-07-24 20:56:52,471 - INFO - Обрабатываем страницу: https://jihozvent.uz/cooling-units/
+2024-07-24 20:56:56,414 - INFO - Обработано 4 из 306 страниц.
+2024-07-24 20:56:56,414 - INFO - Обрабатываем страницу: https://jihozvent.uz/heating-equipment/
+2024-07-24 20:57:02,448 - INFO - Обработано 5 из 306 страниц.
+2024-07-24 20:57:02,448 - INFO - Обрабатываем страницу: https://jihozvent.uz/heat-transfering-units/
+2024-07-24 20:57:07,216 - INFO - Обработано 6 из 306 страниц.
+2024-07-24 20:57:07,216 - INFO - Обрабатываем страницу: https://jihozvent.uz/duct-units/
+2024-07-24 20:57:08,944 - INFO - Обработано 7 из 306 страниц.
+2024-07-24 20:57:08,944 - INFO - Обрабатываем страницу: https://jihozvent.uz/fans/
+2024-07-24 20:57:10,682 - INFO - Обработано 8 из 306 страниц.
+2024-07-24 20:57:10,682 - INFO - Обрабатываем страницу: https://jihozvent.uz/aspirating-units/
+2024-07-24 20:57:11,958 - INFO - Обработано 9 из 306 страниц.
+2024-07-24 20:57:11,958 - INFO - Обрабатываем страницу: https://jihozvent.uz/flame-arresters/
+2024-07-24 20:57:18,102 - INFO - Обработано 10 из 306 страниц.
+2024-07-24 20:57:18,102 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilation-grilles/
+2024-07-24 20:57:23,216 - INFO - Обработано 11 из 306 страниц.
+2024-07-24 20:57:23,216 - INFO - Обрабатываем страницу: https://jihozvent.uz/noise-silensers/
+2024-07-24 20:57:30,032 - INFO - Обработано 12 из 306 страниц.
+2024-07-24 20:57:30,032 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilation-articles/
+2024-07-24 20:57:35,837 - INFO - Обработано 13 из 306 страниц.
+2024-07-24 20:57:35,837 - INFO - Обрабатываем страницу: https://jihozvent.uz/filtres/
+2024-07-24 20:57:43,224 - INFO - Обработано 14 из 306 страниц.
+2024-07-24 20:57:43,224 - INFO - Обрабатываем страницу: https://jihozvent.uz/accessory-components/
+2024-07-24 20:57:47,119 - INFO - Обработано 15 из 306 страниц.
+2024-07-24 20:57:47,119 - INFO - Обрабатываем страницу: https://jihozvent.uz/programma/
+2024-07-24 20:57:49,276 - INFO - Обработано 16 из 306 страниц.
+2024-07-24 20:57:49,276 - INFO - Обрабатываем страницу: https://jihozvent.uz/programma/register/
+2024-07-24 20:57:51,417 - INFO - Обработано 17 из 306 страниц.
+2024-07-24 20:57:51,417 - INFO - Обрабатываем страницу: https://jihozvent.uz/about-us/
+2024-07-24 20:58:01,574 - INFO - Обработано 18 из 306 страниц.
+2024-07-24 20:58:01,574 - INFO - Обрабатываем страницу: https://jihozvent.uz/services/
+2024-07-24 20:58:05,528 - INFO - Обработано 19 из 306 страниц.
+2024-07-24 20:58:05,528 - INFO - Обрабатываем страницу: https://jihozvent.uz/media/
+2024-07-24 20:58:07,026 - INFO - Обработано 20 из 306 страниц.
+2024-07-24 20:58:07,026 - INFO - Обрабатываем страницу: https://jihozvent.uz/blog
+2024-07-24 20:58:35,923 - INFO - Обработано 21 из 306 страниц.
+2024-07-24 20:58:35,923 - INFO - Обрабатываем страницу: https://jihozvent.uz/contacts/
+2024-07-24 20:58:38,817 - INFO - Обработано 22 из 306 страниц.
+2024-07-24 20:58:38,817 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/cooling-units/
+2024-07-24 20:58:42,154 - INFO - Обработано 23 из 306 страниц.
+2024-07-24 20:58:42,154 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/cooling-units/
+2024-07-24 20:58:44,012 - INFO - Обработано 24 из 306 страниц.
+2024-07-24 20:58:44,013 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/cooling-units/
+2024-07-24 20:58:47,248 - INFO - Обработано 25 из 306 страниц.
+2024-07-24 20:58:47,248 - INFO - Обрабатываем страницу: https://jihozvent.uz/vrf-air-conditioning-systems/external-vrf-unit/
+2024-07-24 20:58:49,576 - INFO - Обработано 26 из 306 страниц.
+2024-07-24 20:58:49,576 - INFO - Обрабатываем страницу: https://jihozvent.uz/vrf-air-conditioning-systems/vrf-indoor-unit/
+2024-07-24 20:58:51,206 - INFO - Обработано 27 из 306 страниц.
+2024-07-24 20:58:51,206 - INFO - Обрабатываем страницу: https://jihozvent.uz/vrf-air-conditioning-systems/chiller-fan-coil/
+2024-07-24 20:58:54,889 - INFO - Обработано 28 из 306 страниц.
+2024-07-24 20:58:54,889 - INFO - Обрабатываем страницу: https://jihozvent.uz/vrf-air-conditioning-systems/central-air-conditioning/
+2024-07-24 20:59:01,706 - INFO - Обработано 29 из 306 страниц.
+2024-07-24 20:59:01,706 - INFO - Обрабатываем страницу: https://jihozvent.uz/duct-units/for-circular-channels/
+2024-07-24 20:59:12,869 - INFO - Обработано 30 из 306 страниц.
+2024-07-24 20:59:12,869 - INFO - Обрабатываем страницу: https://jihozvent.uz/duct-units/for-rectangular-channels/
+2024-07-24 20:59:26,706 - INFO - Обработано 31 из 306 страниц.
+2024-07-24 20:59:26,706 - INFO - Обрабатываем страницу: https://jihozvent.uz/duct-units/for-square-channels/
+2024-07-24 20:59:32,387 - INFO - Обработано 32 из 306 страниц.
+2024-07-24 20:59:32,387 - INFO - Обрабатываем страницу: https://jihozvent.uz/fans/centrifugal-fans/
+2024-07-24 20:59:50,556 - INFO - Обработано 33 из 306 страниц.
+2024-07-24 20:59:50,556 - INFO - Обрабатываем страницу: https://jihozvent.uz/fans/axial-fans/
+2024-07-24 20:59:52,331 - INFO - Обработано 34 из 306 страниц.
+2024-07-24 20:59:52,331 - INFO - Обрабатываем страницу: https://jihozvent.uz/fans/roof-fans/
+2024-07-24 21:00:20,439 - INFO - Обработано 35 из 306 страниц.
+2024-07-24 21:00:20,439 - INFO - Обрабатываем страницу: https://jihozvent.uz/fans/dust-fans/
+2024-07-24 21:00:35,177 - INFO - Обработано 36 из 306 страниц.
+2024-07-24 21:00:35,177 - INFO - Обрабатываем страницу: https://jihozvent.uz/fans/special-fans/
+2024-07-24 21:00:38,089 - INFO - Обработано 37 из 306 страниц.
+2024-07-24 21:00:38,089 - INFO - Обрабатываем страницу: https://jihozvent.uz/fans/traction-machines/
+2024-07-24 21:00:45,204 - INFO - Обработано 38 из 306 страниц.
+2024-07-24 21:00:45,204 - INFO - Обрабатываем страницу: https://jihozvent.uz/fans/duct-fans/
+2024-07-24 21:00:47,881 - INFO - Обработано 39 из 306 страниц.
+2024-07-24 21:00:47,882 - INFO - Обрабатываем страницу: https://jihozvent.uz/flame-arresters/fire-protection-valves/
+2024-07-24 21:00:52,792 - INFO - Обработано 40 из 306 страниц.
+2024-07-24 21:00:52,792 - INFO - Обрабатываем страницу: https://jihozvent.uz/flame-arresters/general-industrial-valves/
+2024-07-24 21:00:57,073 - INFO - Обработано 41 из 306 страниц.
+2024-07-24 21:00:57,073 - INFO - Обрабатываем страницу: https://jihozvent.uz/flame-arresters/special-valves/
+2024-07-24 21:01:00,058 - INFO - Обработано 42 из 306 страниц.
+2024-07-24 21:01:00,058 - INFO - Обрабатываем страницу: https://jihozvent.uz/noise-silensers/lamellar/
+2024-07-24 21:01:04,367 - INFO - Обработано 43 из 306 страниц.
+2024-07-24 21:01:04,367 - INFO - Обрабатываем страницу: https://jihozvent.uz/noise-silensers/tubular/
+2024-07-24 21:01:06,829 - INFO - Обработано 44 из 306 страниц.
+2024-07-24 21:01:06,829 - INFO - Обрабатываем страницу: https://jihozvent.uz/chiller-mashina-holodilnaya-jv/
+2024-07-24 21:01:11,304 - INFO - Обработано 45 из 306 страниц.
+2024-07-24 21:01:11,304 - INFO - Обрабатываем страницу: https://jihozvent.uz/kompressorno-kondensatornyj-blok-jvk-kkb/
+2024-07-24 21:01:15,919 - INFO - Обработано 46 из 306 страниц.
+2024-07-24 21:01:15,919 - INFO - Обрабатываем страницу: https://jihozvent.uz/gradirnya-vg/
+2024-07-24 21:01:19,568 - INFO - Обработано 47 из 306 страниц.
+2024-07-24 21:01:19,569 - INFO - Обрабатываем страницу: https://jihozvent.uz/blog/
+2024-07-24 21:01:20,953 - INFO - Обработано 48 из 306 страниц.
+2024-07-24 21:01:20,953 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/vrf-air-conditioning-systems/
+2024-07-24 21:01:23,035 - INFO - Обработано 49 из 306 страниц.
+2024-07-24 21:01:23,035 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/vrf-air-conditioning-systems/
+2024-07-24 21:01:24,684 - INFO - Обработано 50 из 306 страниц.
+2024-07-24 21:01:24,684 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/vrf-air-conditioning-systems/
+2024-07-24 21:01:28,935 - INFO - Обработано 51 из 306 страниц.
+2024-07-24 21:01:28,935 - INFO - Обрабатываем страницу: https://jihozvent.uz/naruzhnyj-blok-hi-flexi-s-mavo/
+2024-07-24 21:01:33,259 - INFO - Обработано 52 из 306 страниц.
+2024-07-24 21:01:33,259 - INFO - Обрабатываем страницу: https://jihozvent.uz/naruzhnyj-blok-hi-smart-h/
+2024-07-24 21:01:36,131 - INFO - Обработано 53 из 306 страниц.
+2024-07-24 21:01:36,131 - INFO - Обрабатываем страницу: https://jihozvent.uz/vnutrennij-4-potochnyj-kassetnyj-blok/
+2024-07-24 21:01:40,733 - INFO - Обработано 54 из 306 страниц.
+2024-07-24 21:01:40,733 - INFO - Обрабатываем страницу: https://jihozvent.uz/kondiczioner-czentralnyj-karkasno-panelnyj-kczkp/
+2024-07-24 21:01:43,801 - INFO - Обработано 55 из 306 страниц.
+2024-07-24 21:01:43,801 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/catalog/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 21:01:47,860 - INFO - Обработано 56 из 306 страниц.
+2024-07-24 21:01:47,860 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/catalog/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 21:01:49,388 - INFO - Обработано 57 из 306 страниц.
+2024-07-24 21:01:49,388 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/catalog/
+2024-07-24 21:01:51,105 - INFO - Обработано 58 из 306 страниц.
+2024-07-24 21:01:51,105 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/heating-equipment/
+2024-07-24 21:01:55,218 - INFO - Обработано 59 из 306 страниц.
+2024-07-24 21:01:55,218 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/heat-transfering-units/
+2024-07-24 21:01:57,490 - INFO - Обработано 60 из 306 страниц.
+2024-07-24 21:01:57,490 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/duct-units/
+2024-07-24 21:02:01,653 - INFO - Обработано 61 из 306 страниц.
+2024-07-24 21:02:01,653 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/fans/
+2024-07-24 21:02:06,106 - INFO - Обработано 62 из 306 страниц.
+2024-07-24 21:02:06,106 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/aspirating-units/
+2024-07-24 21:02:09,521 - INFO - Обработано 63 из 306 страниц.
+2024-07-24 21:02:09,521 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/flame-arresters/
+2024-07-24 21:02:14,116 - INFO - Обработано 64 из 306 страниц.
+2024-07-24 21:02:14,116 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/ventilation-grilles/
+2024-07-24 21:02:16,585 - INFO - Обработано 65 из 306 страниц.
+2024-07-24 21:02:16,585 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/noise-silensers/
+2024-07-24 21:02:19,035 - INFO - Обработано 66 из 306 страниц.
+2024-07-24 21:02:19,035 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/ventilation-articles/
+2024-07-24 21:02:20,881 - INFO - Обработано 67 из 306 страниц.
+2024-07-24 21:02:20,881 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/filtres/
+2024-07-24 21:02:25,488 - INFO - Обработано 68 из 306 страниц.
+2024-07-24 21:02:25,488 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/accessory-components/
+2024-07-24 21:02:27,686 - INFO - Обработано 69 из 306 страниц.
+2024-07-24 21:02:27,686 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/programma/
+2024-07-24 21:02:31,113 - INFO - Обработано 70 из 306 страниц.
+2024-07-24 21:02:31,113 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/programma/register/
+2024-07-24 21:02:34,996 - INFO - Обработано 71 из 306 страниц.
+2024-07-24 21:02:34,997 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/about-us/
+2024-07-24 21:02:37,600 - INFO - Обработано 72 из 306 страниц.
+2024-07-24 21:02:37,600 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/services/
+2024-07-24 21:02:44,056 - INFO - Обработано 73 из 306 страниц.
+2024-07-24 21:02:44,056 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/media/
+2024-07-24 21:02:52,188 - INFO - Обработано 74 из 306 страниц.
+2024-07-24 21:02:52,188 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/blog
+2024-07-24 21:02:54,863 - INFO - Обработано 75 из 306 страниц.
+2024-07-24 21:02:54,863 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/contacts/
+2024-07-24 21:02:59,377 - INFO - Обработано 76 из 306 страниц.
+2024-07-24 21:02:59,377 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/catalog/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 21:03:02,545 - INFO - Обработано 77 из 306 страниц.
+2024-07-24 21:03:02,545 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/
+2024-07-24 21:03:06,237 - INFO - Обработано 78 из 306 страниц.
+2024-07-24 21:03:06,237 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/vrf-air-conditioning-systems/external-vrf-unit/
+2024-07-24 21:03:11,767 - INFO - Обработано 79 из 306 страниц.
+2024-07-24 21:03:11,767 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/vrf-air-conditioning-systems/vrf-indoor-unit/
+2024-07-24 21:03:16,773 - INFO - Обработано 80 из 306 страниц.
+2024-07-24 21:03:16,773 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/vrf-air-conditioning-systems/chiller-fan-coil/
+2024-07-24 21:03:19,315 - INFO - Обработано 81 из 306 страниц.
+2024-07-24 21:03:19,315 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/vrf-air-conditioning-systems/central-air-conditioning/
+2024-07-24 21:03:21,561 - INFO - Обработано 82 из 306 страниц.
+2024-07-24 21:03:21,561 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/duct-units/for-circular-channels/
+2024-07-24 21:03:23,745 - INFO - Обработано 83 из 306 страниц.
+2024-07-24 21:03:23,745 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/duct-units/for-rectangular-channels/
+2024-07-24 21:03:25,701 - INFO - Обработано 84 из 306 страниц.
+2024-07-24 21:03:25,701 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/duct-units/for-square-channels/
+2024-07-24 21:03:29,068 - INFO - Обработано 85 из 306 страниц.
+2024-07-24 21:03:29,068 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/fans/centrifugal-fans/
+2024-07-24 21:03:34,491 - INFO - Обработано 86 из 306 страниц.
+2024-07-24 21:03:34,491 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/fans/axial-fans/
+2024-07-24 21:04:16,875 - INFO - Обработано 87 из 306 страниц.
+2024-07-24 21:04:16,875 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/fans/roof-fans/
+2024-07-24 21:04:20,066 - INFO - Обработано 88 из 306 страниц.
+2024-07-24 21:04:20,066 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/fans/dust-fans/
+2024-07-24 21:04:22,239 - INFO - Обработано 89 из 306 страниц.
+2024-07-24 21:04:22,239 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/fans/special-fans/
+2024-07-24 21:04:43,516 - INFO - Обработано 90 из 306 страниц.
+2024-07-24 21:04:43,516 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/fans/traction-machines/
+2024-07-24 21:04:45,761 - INFO - Обработано 91 из 306 страниц.
+2024-07-24 21:04:45,761 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/fans/duct-fans/
+2024-07-24 21:04:47,255 - INFO - Обработано 92 из 306 страниц.
+2024-07-24 21:04:47,255 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/flame-arresters/fire-protection-valves/
+2024-07-24 21:04:48,221 - INFO - Обработано 93 из 306 страниц.
+2024-07-24 21:04:48,221 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/flame-arresters/general-industrial-valves/
+2024-07-24 21:04:54,397 - INFO - Обработано 94 из 306 страниц.
+2024-07-24 21:04:54,397 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/flame-arresters/special-valves/
+2024-07-24 21:04:58,338 - INFO - Обработано 95 из 306 страниц.
+2024-07-24 21:04:58,338 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/noise-silensers/lamellar/
+2024-07-24 21:05:00,214 - INFO - Обработано 96 из 306 страниц.
+2024-07-24 21:05:00,214 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/noise-silensers/tubular/
+2024-07-24 21:05:02,046 - INFO - Обработано 97 из 306 страниц.
+2024-07-24 21:05:02,046 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/naruzhnyj-blok-hi-flexi-s-mavo/
+2024-07-24 21:05:04,706 - INFO - Обработано 98 из 306 страниц.
+2024-07-24 21:05:04,706 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/naruzhnyj-blok-hi-smart-h/
+2024-07-24 21:05:06,751 - INFO - Обработано 99 из 306 страниц.
+2024-07-24 21:05:06,751 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/vnutrennij-4-potochnyj-kassetnyj-blok/
+2024-07-24 21:05:09,981 - INFO - Обработано 100 из 306 страниц.
+2024-07-24 21:05:09,981 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/chiller-mashina-holodilnaya-jv/
+2024-07-24 21:05:12,508 - INFO - Обработано 101 из 306 страниц.
+2024-07-24 21:05:12,508 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/kondiczioner-czentralnyj-karkasno-panelnyj-kczkp/
+2024-07-24 21:05:16,190 - INFO - Обработано 102 из 306 страниц.
+2024-07-24 21:05:16,190 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/kompressorno-kondensatornyj-blok-jvk-kkb/
+2024-07-24 21:05:17,724 - INFO - Обработано 103 из 306 страниц.
+2024-07-24 21:05:17,724 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/ventilyator-vc-4-75/
+2024-07-24 21:05:20,156 - INFO - Обработано 104 из 306 страниц.
+2024-07-24 21:05:20,156 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/ventilyator-vc-14-46/
+2024-07-24 21:05:22,292 - INFO - Обработано 105 из 306 страниц.
+2024-07-24 21:05:22,292 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/ventilyator-vr-6-28/
+2024-07-24 21:05:25,466 - INFO - Обработано 106 из 306 страниц.
+2024-07-24 21:05:25,466 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/ventilyator-vr-12-26/
+2024-07-24 21:05:27,379 - INFO - Обработано 107 из 306 страниц.
+2024-07-24 21:05:27,379 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/ventilyator-vc-4-75-isp-5/
+2024-07-24 21:05:32,761 - INFO - Обработано 108 из 306 страниц.
+2024-07-24 21:05:32,762 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/ventilyator-vc-14-46-isp-5/
+2024-07-24 21:05:41,286 - INFO - Обработано 109 из 306 страниц.
+2024-07-24 21:05:41,286 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/catalog/page/2/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 21:05:42,455 - INFO - Обработано 110 из 306 страниц.
+2024-07-24 21:05:42,455 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/catalog/page/3/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 21:05:44,058 - INFO - Обработано 111 из 306 страниц.
+2024-07-24 21:05:44,058 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/catalog/page/11/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 21:05:50,308 - INFO - Обработано 112 из 306 страниц.
+2024-07-24 21:05:50,308 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/blog/
+2024-07-24 21:05:51,556 - INFO - Обработано 113 из 306 страниц.
+2024-07-24 21:05:51,556 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/catalog/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 21:05:53,349 - INFO - Обработано 114 из 306 страниц.
+2024-07-24 21:05:53,349 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75/
+2024-07-24 21:05:57,621 - INFO - Обработано 115 из 306 страниц.
+2024-07-24 21:05:57,621 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/ventilyator-vc-4-75/
+2024-07-24 21:06:00,854 - INFO - Обработано 116 из 306 страниц.
+2024-07-24 21:06:00,854 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/ventilyator-vc-4-75/
+2024-07-24 21:06:03,070 - INFO - Обработано 117 из 306 страниц.
+2024-07-24 21:06:03,070 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75/#tab2
+2024-07-24 21:06:06,445 - INFO - Обработано 118 из 306 страниц.
+2024-07-24 21:06:06,445 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75/#tab1
+2024-07-24 21:06:09,908 - INFO - Обработано 119 из 306 страниц.
+2024-07-24 21:06:09,908 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75/#tab5
+2024-07-24 21:06:16,969 - INFO - Обработано 120 из 306 страниц.
+2024-07-24 21:06:16,969 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75/#tab7
+2024-07-24 21:06:22,188 - INFO - Обработано 121 из 306 страниц.
+2024-07-24 21:06:22,188 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75/#tab8
+2024-07-24 21:06:28,191 - INFO - Обработано 122 из 306 страниц.
+2024-07-24 21:06:28,191 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75/#tab4
+2024-07-24 21:06:35,437 - INFO - Обработано 123 из 306 страниц.
+2024-07-24 21:06:35,437 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75/#tab0-0
+2024-07-24 21:06:42,928 - INFO - Обработано 124 из 306 страниц.
+2024-07-24 21:06:42,928 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75/#tab1-0
+2024-07-24 21:06:46,254 - INFO - Обработано 125 из 306 страниц.
+2024-07-24 21:06:46,255 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75/#tab2-0
+2024-07-24 21:06:51,654 - INFO - Обработано 126 из 306 страниц.
+2024-07-24 21:06:51,654 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75/#tab3-0
+2024-07-24 21:06:56,462 - INFO - Обработано 127 из 306 страниц.
+2024-07-24 21:06:56,462 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75/#tab4-0
+2024-07-24 21:07:02,546 - INFO - Обработано 128 из 306 страниц.
+2024-07-24 21:07:02,546 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75/#tab5-0
+2024-07-24 21:07:08,771 - INFO - Обработано 129 из 306 страниц.
+2024-07-24 21:07:08,771 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75/#tab6-0
+2024-07-24 21:07:14,098 - INFO - Обработано 130 из 306 страниц.
+2024-07-24 21:07:14,098 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75/#tab7-0
+2024-07-24 21:07:19,721 - INFO - Обработано 131 из 306 страниц.
+2024-07-24 21:07:19,721 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46/
+2024-07-24 21:07:23,089 - INFO - Обработано 132 из 306 страниц.
+2024-07-24 21:07:23,089 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/ventilyator-vc-14-46/
+2024-07-24 21:07:26,294 - INFO - Обработано 133 из 306 страниц.
+2024-07-24 21:07:26,294 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/ventilyator-vc-14-46/
+2024-07-24 21:07:28,292 - INFO - Обработано 134 из 306 страниц.
+2024-07-24 21:07:28,292 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46/#tab2
+2024-07-24 21:07:34,717 - INFO - Обработано 135 из 306 страниц.
+2024-07-24 21:07:34,717 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46/#tab1
+2024-07-24 21:07:38,895 - INFO - Обработано 136 из 306 страниц.
+2024-07-24 21:07:38,895 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46/#tab5
+2024-07-24 21:07:41,625 - INFO - Обработано 137 из 306 страниц.
+2024-07-24 21:07:41,625 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46/#tab7
+2024-07-24 21:07:45,090 - INFO - Обработано 138 из 306 страниц.
+2024-07-24 21:07:45,090 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46/#tab8
+2024-07-24 21:07:48,320 - INFO - Обработано 139 из 306 страниц.
+2024-07-24 21:07:48,320 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46/#tab4
+2024-07-24 21:07:51,674 - INFO - Обработано 140 из 306 страниц.
+2024-07-24 21:07:51,674 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46/#tab0-0
+2024-07-24 21:07:55,301 - INFO - Обработано 141 из 306 страниц.
+2024-07-24 21:07:55,301 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46/#tab1-0
+2024-07-24 21:08:00,664 - INFO - Обработано 142 из 306 страниц.
+2024-07-24 21:08:00,665 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46/#tab2-0
+2024-07-24 21:08:04,849 - INFO - Обработано 143 из 306 страниц.
+2024-07-24 21:08:04,849 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46/#tab3-0
+2024-07-24 21:08:08,307 - INFO - Обработано 144 из 306 страниц.
+2024-07-24 21:08:08,307 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46/#tab4-0
+2024-07-24 21:08:12,674 - INFO - Обработано 145 из 306 страниц.
+2024-07-24 21:08:12,674 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46/#tab5-0
+2024-07-24 21:08:18,317 - INFO - Обработано 146 из 306 страниц.
+2024-07-24 21:08:18,317 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46/#tab6-0
+2024-07-24 21:08:22,787 - INFO - Обработано 147 из 306 страниц.
+2024-07-24 21:08:22,787 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/
+2024-07-24 21:08:26,215 - INFO - Обработано 148 из 306 страниц.
+2024-07-24 21:08:26,215 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/ventilyator-vr-6-28/
+2024-07-24 21:08:30,395 - INFO - Обработано 149 из 306 страниц.
+2024-07-24 21:08:30,395 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/ventilyator-vr-6-28/
+2024-07-24 21:08:33,190 - INFO - Обработано 150 из 306 страниц.
+2024-07-24 21:08:33,190 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab2
+2024-07-24 21:08:39,796 - INFO - Обработано 151 из 306 страниц.
+2024-07-24 21:08:39,796 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab1
+2024-07-24 21:08:42,605 - INFO - Обработано 152 из 306 страниц.
+2024-07-24 21:08:42,605 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab5
+2024-07-24 21:08:46,165 - INFO - Обработано 153 из 306 страниц.
+2024-07-24 21:08:46,165 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab7
+2024-07-24 21:08:49,454 - INFO - Обработано 154 из 306 страниц.
+2024-07-24 21:08:49,454 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab8
+2024-07-24 21:08:56,624 - INFO - Обработано 155 из 306 страниц.
+2024-07-24 21:08:56,624 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab4
+2024-07-24 21:09:00,615 - INFO - Обработано 156 из 306 страниц.
+2024-07-24 21:09:00,615 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab0-0
+2024-07-24 21:09:05,962 - INFO - Обработано 157 из 306 страниц.
+2024-07-24 21:09:05,962 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab1-0
+2024-07-24 21:09:09,111 - INFO - Обработано 158 из 306 страниц.
+2024-07-24 21:09:09,111 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab2-0
+2024-07-24 21:09:15,766 - INFO - Обработано 159 из 306 страниц.
+2024-07-24 21:09:15,766 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab3-0
+2024-07-24 21:09:21,831 - INFO - Обработано 160 из 306 страниц.
+2024-07-24 21:09:21,831 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab4-0
+2024-07-24 21:09:28,510 - INFO - Обработано 161 из 306 страниц.
+2024-07-24 21:09:28,510 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab5-0
+2024-07-24 21:09:33,296 - INFO - Обработано 162 из 306 страниц.
+2024-07-24 21:09:33,296 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab6-0
+2024-07-24 21:09:36,799 - INFO - Обработано 163 из 306 страниц.
+2024-07-24 21:09:36,800 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab7-0
+2024-07-24 21:09:42,777 - INFO - Обработано 164 из 306 страниц.
+2024-07-24 21:09:42,777 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab8-0
+2024-07-24 21:09:46,322 - INFO - Обработано 165 из 306 страниц.
+2024-07-24 21:09:46,323 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab9-0
+2024-07-24 21:09:50,316 - INFO - Обработано 166 из 306 страниц.
+2024-07-24 21:09:50,316 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28/#tab10-0
+2024-07-24 21:09:54,122 - INFO - Обработано 167 из 306 страниц.
+2024-07-24 21:09:54,122 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-12-26/
+2024-07-24 21:09:58,238 - INFO - Обработано 168 из 306 страниц.
+2024-07-24 21:09:58,238 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/ventilyator-vr-12-26/
+2024-07-24 21:10:03,687 - INFO - Обработано 169 из 306 страниц.
+2024-07-24 21:10:03,687 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/ventilyator-vr-12-26/
+2024-07-24 21:10:06,189 - INFO - Обработано 170 из 306 страниц.
+2024-07-24 21:10:06,189 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-12-26/#tab2
+2024-07-24 21:10:09,769 - INFO - Обработано 171 из 306 страниц.
+2024-07-24 21:10:09,769 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-12-26/#tab1
+2024-07-24 21:10:13,649 - INFO - Обработано 172 из 306 страниц.
+2024-07-24 21:10:13,649 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-12-26/#tab5
+2024-07-24 21:10:15,446 - INFO - Обработано 173 из 306 страниц.
+2024-07-24 21:10:15,446 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-12-26/#tab7
+2024-07-24 21:10:18,047 - INFO - Обработано 174 из 306 страниц.
+2024-07-24 21:10:18,047 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-12-26/#tab8
+2024-07-24 21:10:20,549 - INFO - Обработано 175 из 306 страниц.
+2024-07-24 21:10:20,549 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-12-26/#tab4
+2024-07-24 21:10:23,850 - INFO - Обработано 176 из 306 страниц.
+2024-07-24 21:10:23,850 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-12-26/#tab0-0
+2024-07-24 21:10:26,311 - INFO - Обработано 177 из 306 страниц.
+2024-07-24 21:10:26,312 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-12-26/#tab1-0
+2024-07-24 21:10:30,201 - INFO - Обработано 178 из 306 страниц.
+2024-07-24 21:10:30,201 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-12-26/#tab2-0
+2024-07-24 21:10:36,265 - INFO - Обработано 179 из 306 страниц.
+2024-07-24 21:10:36,265 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-12-26/#tab3-0
+2024-07-24 21:10:40,552 - INFO - Обработано 180 из 306 страниц.
+2024-07-24 21:10:40,552 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-12-26/#tab4-0
+2024-07-24 21:10:45,473 - INFO - Обработано 181 из 306 страниц.
+2024-07-24 21:10:45,473 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-12-26/#tab5-0
+2024-07-24 21:10:50,480 - INFO - Обработано 182 из 306 страниц.
+2024-07-24 21:10:50,480 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75-isp-5/
+2024-07-24 21:10:55,765 - INFO - Обработано 183 из 306 страниц.
+2024-07-24 21:10:55,765 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/ventilyator-vc-4-75-isp-5/
+2024-07-24 21:11:00,291 - INFO - Обработано 184 из 306 страниц.
+2024-07-24 21:11:00,291 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/ventilyator-vc-4-75-isp-5/
+2024-07-24 21:11:02,986 - INFO - Обработано 185 из 306 страниц.
+2024-07-24 21:11:02,986 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab2
+2024-07-24 21:11:05,289 - INFO - Обработано 186 из 306 страниц.
+2024-07-24 21:11:05,289 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab1
+2024-07-24 21:11:09,744 - INFO - Обработано 187 из 306 страниц.
+2024-07-24 21:11:09,744 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab5
+2024-07-24 21:11:13,417 - INFO - Обработано 188 из 306 страниц.
+2024-07-24 21:11:13,417 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab7
+2024-07-24 21:11:16,284 - INFO - Обработано 189 из 306 страниц.
+2024-07-24 21:11:16,284 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab0-0
+2024-07-24 21:11:19,662 - INFO - Обработано 190 из 306 страниц.
+2024-07-24 21:11:19,662 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab1-0
+2024-07-24 21:11:22,111 - INFO - Обработано 191 из 306 страниц.
+2024-07-24 21:11:22,111 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab2-0
+2024-07-24 21:11:25,955 - INFO - Обработано 192 из 306 страниц.
+2024-07-24 21:11:25,955 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab3-0
+2024-07-24 21:11:30,301 - INFO - Обработано 193 из 306 страниц.
+2024-07-24 21:11:30,301 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab4-0
+2024-07-24 21:11:33,839 - INFO - Обработано 194 из 306 страниц.
+2024-07-24 21:11:33,839 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-4-75-isp-5/#tab5-0
+2024-07-24 21:11:36,869 - INFO - Обработано 195 из 306 страниц.
+2024-07-24 21:11:36,869 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46-isp-5/
+2024-07-24 21:11:40,210 - INFO - Обработано 196 из 306 страниц.
+2024-07-24 21:11:40,210 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/ventilyator-vc-14-46-isp-5/
+2024-07-24 21:11:44,674 - INFO - Обработано 197 из 306 страниц.
+2024-07-24 21:11:44,674 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/ventilyator-vc-14-46-isp-5/
+2024-07-24 21:11:46,950 - INFO - Обработано 198 из 306 страниц.
+2024-07-24 21:11:46,950 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab2
+2024-07-24 21:11:49,963 - INFO - Обработано 199 из 306 страниц.
+2024-07-24 21:11:49,963 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab1
+2024-07-24 21:11:53,767 - INFO - Обработано 200 из 306 страниц.
+2024-07-24 21:11:53,768 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab5
+2024-07-24 21:11:57,105 - INFO - Обработано 201 из 306 страниц.
+2024-07-24 21:11:57,105 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab7
+2024-07-24 21:12:02,386 - INFO - Обработано 202 из 306 страниц.
+2024-07-24 21:12:02,386 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab0-0
+2024-07-24 21:12:05,919 - INFO - Обработано 203 из 306 страниц.
+2024-07-24 21:12:05,919 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab1-0
+2024-07-24 21:12:08,751 - INFO - Обработано 204 из 306 страниц.
+2024-07-24 21:12:08,751 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab2-0
+2024-07-24 21:12:11,445 - INFO - Обработано 205 из 306 страниц.
+2024-07-24 21:12:11,445 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-14-46-isp-5/#tab3-0
+2024-07-24 21:12:15,797 - INFO - Обработано 206 из 306 страниц.
+2024-07-24 21:12:15,797 - INFO - Обрабатываем страницу: https://jihozvent.uz/catalog/page/2/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 21:12:31,540 - INFO - Обработано 207 из 306 страниц.
+2024-07-24 21:12:31,540 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/catalog/page/2/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 21:12:32,804 - INFO - Обработано 208 из 306 страниц.
+2024-07-24 21:12:32,804 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/catalog/page/2/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 21:12:34,094 - INFO - Обработано 209 из 306 страниц.
+2024-07-24 21:12:34,094 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/catalog/page/2/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex%20%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 21:12:37,682 - INFO - Обработано 210 из 306 страниц.
+2024-07-24 21:12:37,682 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vc-9-55-isp-5/
+2024-07-24 21:12:40,771 - INFO - Обработано 211 из 306 страниц.
+2024-07-24 21:12:40,771 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28-isp-3/
+2024-07-24 21:12:43,282 - INFO - Обработано 212 из 306 страниц.
+2024-07-24 21:12:43,282 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vr-6-28-isp-5/
+2024-07-24 21:12:45,856 - INFO - Обработано 213 из 306 страниц.
+2024-07-24 21:12:45,856 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vo-06-300/
+2024-07-24 21:12:49,679 - INFO - Обработано 214 из 306 страниц.
+2024-07-24 21:12:49,679 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vo-12-300/
+2024-07-24 21:12:53,254 - INFO - Обработано 215 из 306 страниц.
+2024-07-24 21:12:53,254 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vo-30-160/
+2024-07-24 21:12:57,065 - INFO - Обработано 216 из 306 страниц.
+2024-07-24 21:12:57,065 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vod/
+2024-07-24 21:13:00,231 - INFO - Обработано 217 из 306 страниц.
+2024-07-24 21:13:00,231 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-shahtnyj-mestnogo-provetrivaniya-svm/
+2024-07-24 21:13:02,921 - INFO - Обработано 218 из 306 страниц.
+2024-07-24 21:13:02,921 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vkr/
+2024-07-24 21:13:04,805 - INFO - Обработано 219 из 306 страниц.
+2024-07-24 21:13:04,805 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vkrv/
+2024-07-24 21:13:07,809 - INFO - Обработано 220 из 306 страниц.
+2024-07-24 21:13:07,809 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vkop/
+2024-07-24 21:13:13,485 - INFO - Обработано 221 из 306 страниц.
+2024-07-24 21:13:13,485 - INFO - Обрабатываем страницу: https://jihozvent.uz/ventilyator-vcp-6-46/
+2024-07-24 21:13:16,213 - INFO - Обработано 222 из 306 страниц.
+2024-07-24 21:13:16,213 - INFO - Обрабатываем страницу: https://jihozvent.uz/catalog/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 21:13:17,626 - INFO - Обработано 223 из 306 страниц.
+2024-07-24 21:13:17,626 - INFO - Обрабатываем страницу: https://jihozvent.uz/catalog/page/3/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 21:13:20,113 - INFO - Обработано 224 из 306 страниц.
+2024-07-24 21:13:20,113 - INFO - Обрабатываем страницу: https://jihozvent.uz/catalog/page/4/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 21:13:22,999 - INFO - Обработано 225 из 306 страниц.
+2024-07-24 21:13:22,999 - INFO - Обрабатываем страницу: https://jihozvent.uz/catalog/page/11/?utm_source=google&utm_medium=cpc&utm_campaign=general&utm_term=dantex+%D1%87%D0%B8%D0%BB%D0%BB%D0%B5%D1%80
+2024-07-24 21:13:26,724 - INFO - Обработано 226 из 306 страниц.
+2024-07-24 21:13:26,724 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/
+2024-07-24 21:13:29,427 - INFO - Обработано 227 из 306 страниц.
+2024-07-24 21:13:29,427 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/
+2024-07-24 21:13:30,482 - INFO - Обработано 228 из 306 страниц.
+2024-07-24 21:13:30,482 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/catalog/
+2024-07-24 21:13:31,562 - INFO - Обработано 229 из 306 страниц.
+2024-07-24 21:13:31,562 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/heating-equipment/
+2024-07-24 21:13:34,489 - INFO - Обработано 230 из 306 страниц.
+2024-07-24 21:13:34,489 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/heat-transfering-units/
+2024-07-24 21:13:37,686 - INFO - Обработано 231 из 306 страниц.
+2024-07-24 21:13:37,686 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/duct-units/
+2024-07-24 21:13:39,982 - INFO - Обработано 232 из 306 страниц.
+2024-07-24 21:13:39,982 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/fans/
+2024-07-24 21:13:40,926 - INFO - Обработано 233 из 306 страниц.
+2024-07-24 21:13:40,926 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/aspirating-units/
+2024-07-24 21:13:42,477 - INFO - Обработано 234 из 306 страниц.
+2024-07-24 21:13:42,477 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/flame-arresters/
+2024-07-24 21:13:43,925 - INFO - Обработано 235 из 306 страниц.
+2024-07-24 21:13:43,925 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/ventilation-grilles/
+2024-07-24 21:13:46,270 - INFO - Обработано 236 из 306 страниц.
+2024-07-24 21:13:46,270 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/noise-silensers/
+2024-07-24 21:13:47,518 - INFO - Обработано 237 из 306 страниц.
+2024-07-24 21:13:47,519 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/ventilation-articles/
+2024-07-24 21:13:49,848 - INFO - Обработано 238 из 306 страниц.
+2024-07-24 21:13:49,849 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/filtres/
+2024-07-24 21:13:52,559 - INFO - Обработано 239 из 306 страниц.
+2024-07-24 21:13:52,559 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/accessory-components/
+2024-07-24 21:13:56,318 - INFO - Обработано 240 из 306 страниц.
+2024-07-24 21:13:56,318 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/programma/
+2024-07-24 21:13:59,666 - INFO - Обработано 241 из 306 страниц.
+2024-07-24 21:13:59,666 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/programma/register/
+2024-07-24 21:14:02,128 - INFO - Обработано 242 из 306 страниц.
+2024-07-24 21:14:02,128 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/about-us/
+2024-07-24 21:14:06,425 - INFO - Обработано 243 из 306 страниц.
+2024-07-24 21:14:06,425 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/services/
+2024-07-24 21:14:08,854 - INFO - Обработано 244 из 306 страниц.
+2024-07-24 21:14:08,854 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/media/
+2024-07-24 21:14:10,505 - INFO - Обработано 245 из 306 страниц.
+2024-07-24 21:14:10,505 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/blog
+2024-07-24 21:14:13,470 - INFO - Обработано 246 из 306 страниц.
+2024-07-24 21:14:13,470 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/contacts/
+2024-07-24 21:14:16,216 - INFO - Обработано 247 из 306 страниц.
+2024-07-24 21:14:16,216 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/catalog/
+2024-07-24 21:14:17,338 - INFO - Обработано 248 из 306 страниц.
+2024-07-24 21:14:17,338 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/vrf-air-conditioning-systems/external-vrf-unit/
+2024-07-24 21:14:19,956 - INFO - Обработано 249 из 306 страниц.
+2024-07-24 21:14:19,957 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/vrf-air-conditioning-systems/vrf-indoor-unit/
+2024-07-24 21:14:21,841 - INFO - Обработано 250 из 306 страниц.
+2024-07-24 21:14:21,841 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/vrf-air-conditioning-systems/chiller-fan-coil/
+2024-07-24 21:14:23,738 - INFO - Обработано 251 из 306 страниц.
+2024-07-24 21:14:23,738 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/vrf-air-conditioning-systems/central-air-conditioning/
+2024-07-24 21:14:25,590 - INFO - Обработано 252 из 306 страниц.
+2024-07-24 21:14:25,590 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/duct-units/for-circular-channels/
+2024-07-24 21:14:27,720 - INFO - Обработано 253 из 306 страниц.
+2024-07-24 21:14:27,720 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/duct-units/for-rectangular-channels/
+2024-07-24 21:14:31,526 - INFO - Обработано 254 из 306 страниц.
+2024-07-24 21:14:31,527 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/duct-units/for-square-channels/
+2024-07-24 21:14:33,289 - INFO - Обработано 255 из 306 страниц.
+2024-07-24 21:14:33,290 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/fans/centrifugal-fans/
+2024-07-24 21:14:34,891 - INFO - Обработано 256 из 306 страниц.
+2024-07-24 21:14:34,891 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/fans/axial-fans/
+2024-07-24 21:14:36,200 - INFO - Обработано 257 из 306 страниц.
+2024-07-24 21:14:36,200 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/fans/roof-fans/
+2024-07-24 21:14:38,648 - INFO - Обработано 258 из 306 страниц.
+2024-07-24 21:14:38,648 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/fans/dust-fans/
+2024-07-24 21:14:40,437 - INFO - Обработано 259 из 306 страниц.
+2024-07-24 21:14:40,437 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/fans/special-fans/
+2024-07-24 21:14:43,494 - INFO - Обработано 260 из 306 страниц.
+2024-07-24 21:14:43,494 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/fans/traction-machines/
+2024-07-24 21:14:48,962 - INFO - Обработано 261 из 306 страниц.
+2024-07-24 21:14:48,962 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/fans/duct-fans/
+2024-07-24 21:14:50,661 - INFO - Обработано 262 из 306 страниц.
+2024-07-24 21:14:50,661 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/flame-arresters/fire-protection-valves/
+2024-07-24 21:14:52,204 - INFO - Обработано 263 из 306 страниц.
+2024-07-24 21:14:52,204 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/flame-arresters/general-industrial-valves/
+2024-07-24 21:14:55,696 - INFO - Обработано 264 из 306 страниц.
+2024-07-24 21:14:55,696 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/flame-arresters/special-valves/
+2024-07-24 21:14:58,549 - INFO - Обработано 265 из 306 страниц.
+2024-07-24 21:14:58,549 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/noise-silensers/lamellar/
+2024-07-24 21:15:00,433 - INFO - Обработано 266 из 306 страниц.
+2024-07-24 21:15:00,433 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/noise-silensers/tubular/
+2024-07-24 21:15:04,120 - INFO - Обработано 267 из 306 страниц.
+2024-07-24 21:15:04,120 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/naruzhnyj-blok-hi-flexi-s-mavo/
+2024-07-24 21:15:05,962 - INFO - Обработано 268 из 306 страниц.
+2024-07-24 21:15:05,963 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/naruzhnyj-blok-hi-smart-h/
+2024-07-24 21:15:06,957 - INFO - Обработано 269 из 306 страниц.
+2024-07-24 21:15:06,957 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/vnutrennij-4-potochnyj-kassetnyj-blok/
+2024-07-24 21:15:09,723 - INFO - Обработано 270 из 306 страниц.
+2024-07-24 21:15:09,723 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/chiller-mashina-holodilnaya-jv/
+2024-07-24 21:15:11,442 - INFO - Обработано 271 из 306 страниц.
+2024-07-24 21:15:11,442 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/kondiczioner-czentralnyj-karkasno-panelnyj-kczkp/
+2024-07-24 21:15:12,935 - INFO - Обработано 272 из 306 страниц.
+2024-07-24 21:15:12,936 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/kompressorno-kondensatornyj-blok-jvk-kkb/
+2024-07-24 21:15:15,146 - INFO - Обработано 273 из 306 страниц.
+2024-07-24 21:15:15,146 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/catalog/page/2/
+2024-07-24 21:15:15,831 - INFO - Обработано 274 из 306 страниц.
+2024-07-24 21:15:15,831 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/catalog/page/3/
+2024-07-24 21:15:17,408 - INFO - Обработано 275 из 306 страниц.
+2024-07-24 21:15:17,408 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/catalog/page/11/
+2024-07-24 21:15:19,558 - INFO - Обработано 276 из 306 страниц.
+2024-07-24 21:15:19,558 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/blog/
+2024-07-24 21:15:21,008 - INFO - Обработано 277 из 306 страниц.
+2024-07-24 21:15:21,008 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/catalog/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 21:15:27,309 - INFO - Обработано 278 из 306 страниц.
+2024-07-24 21:15:27,309 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/?fbclid=PAZXh0bgNhZW0BMQABpl6jcS7lMQ1bZqrM7ifFwPI5reRH-3mZqv8_o3gCNSeMfRLlnobEhVn2aA_aem_Adl9amKy5bMQWruUludhpXxX1xyWTEvNynmWxXnQ-w0m77g6Qz73z5ddadH0x4kNj-A
+2024-07-24 21:15:34,570 - INFO - Обработано 279 из 306 страниц.
+2024-07-24 21:15:34,570 - INFO - Обрабатываем страницу: https://jihozvent.uz/orebryonnye-truby/
+2024-07-24 21:15:58,888 - INFO - Обработано 280 из 306 страниц.
+2024-07-24 21:15:58,888 - INFO - Обрабатываем страницу: https://jihozvent.uz/catalog
+2024-07-24 21:15:59,903 - INFO - Обработано 281 из 306 страниц.
+2024-07-24 21:15:59,903 - INFO - Обрабатываем страницу: https://jihozvent.uz/about-us
+2024-07-24 21:16:05,762 - INFO - Обработано 282 из 306 страниц.
+2024-07-24 21:16:05,762 - INFO - Обрабатываем страницу: https://jihozvent.uz/services
+2024-07-24 21:16:10,271 - INFO - Обработано 283 из 306 страниц.
+2024-07-24 21:16:10,271 - INFO - Обрабатываем страницу: https://jihozvent.uz/blog/torzhestvennaya-czeremoniya-jihozvent/
+2024-07-24 21:17:25,625 - INFO - Обработано 284 из 306 страниц.
+2024-07-24 21:17:25,625 - INFO - Обрабатываем страницу: https://jihozvent.uz/blog/kak-rabotaet-chiller/
+2024-07-24 21:17:36,889 - INFO - Обработано 285 из 306 страниц.
+2024-07-24 21:17:36,889 - INFO - Обрабатываем страницу: https://jihozvent.uz/blog/ustanovka-i-montazh-sistem-kondiczionirovaniya-v-tashkente/
+2024-07-24 21:17:50,490 - INFO - Обработано 286 из 306 страниц.
+2024-07-24 21:17:50,490 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/?fbclid=PAZXh0bgNhZW0BMQABpl6jcS7lMQ1bZqrM7ifFwPI5reRH-3mZqv8_o3gCNSeMfRLlnobEhVn2aA_aem_Adl9amKy5bMQWruUludhpXxX1xyWTEvNynmWxXnQ-w0m77g6Qz73z5ddadH0x4kNj-A
+2024-07-24 21:17:52,465 - INFO - Обработано 287 из 306 страниц.
+2024-07-24 21:17:52,465 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/?fbclid=PAZXh0bgNhZW0BMQABpl6jcS7lMQ1bZqrM7ifFwPI5reRH-3mZqv8_o3gCNSeMfRLlnobEhVn2aA_aem_Adl9amKy5bMQWruUludhpXxX1xyWTEvNynmWxXnQ-w0m77g6Qz73z5ddadH0x4kNj-A
+2024-07-24 21:17:53,363 - INFO - Обработано 288 из 306 страниц.
+2024-07-24 21:17:53,363 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/blog/torzhestvennaya-czeremoniya-jihozvent/
+2024-07-24 21:17:55,096 - INFO - Обработано 289 из 306 страниц.
+2024-07-24 21:17:55,096 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/blog/kak-rabotaet-chiller/
+2024-07-24 21:17:56,168 - INFO - Обработано 290 из 306 страниц.
+2024-07-24 21:17:56,168 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/blog/ustanovka-i-montazh-sistem-kondiczionirovaniya-v-tashkente/
+2024-07-24 21:17:59,516 - INFO - Обработано 291 из 306 страниц.
+2024-07-24 21:17:59,516 - INFO - Обрабатываем страницу: https://jihozvent.uz/en/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 21:18:04,921 - INFO - Обработано 292 из 306 страниц.
+2024-07-24 21:18:04,921 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/blog/torzhestvennaya-czeremoniya-jihozvent/
+2024-07-24 21:18:07,530 - INFO - Обработано 293 из 306 страниц.
+2024-07-24 21:18:07,530 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/blog/torzhestvennaya-czeremoniya-jihozvent/
+2024-07-24 21:18:09,355 - INFO - Обработано 294 из 306 страниц.
+2024-07-24 21:18:09,355 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/blog/torzhestvennaya-czeremoniya-jihozvent/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 21:18:10,321 - INFO - Обработано 295 из 306 страниц.
+2024-07-24 21:18:10,321 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/blog/kak-rabotaet-chiller/
+2024-07-24 21:18:13,024 - INFO - Обработано 296 из 306 страниц.
+2024-07-24 21:18:13,025 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/blog/kak-rabotaet-chiller/
+2024-07-24 21:18:16,276 - INFO - Обработано 297 из 306 страниц.
+2024-07-24 21:18:16,276 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/blog/kak-rabotaet-chiller/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 21:18:19,173 - INFO - Обработано 298 из 306 страниц.
+2024-07-24 21:18:19,173 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/blog/ustanovka-i-montazh-sistem-kondiczionirovaniya-v-tashkente/
+2024-07-24 21:18:22,964 - INFO - Обработано 299 из 306 страниц.
+2024-07-24 21:18:22,964 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru/blog/ustanovka-i-montazh-sistem-kondiczionirovaniya-v-tashkente/
+2024-07-24 21:18:26,665 - INFO - Обработано 300 из 306 страниц.
+2024-07-24 21:18:26,665 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/blog/ustanovka-i-montazh-sistem-kondiczionirovaniya-v-tashkente/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 21:18:28,063 - INFO - Обработано 301 из 306 страниц.
+2024-07-24 21:18:28,063 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 21:18:29,757 - INFO - Обработано 302 из 306 страниц.
+2024-07-24 21:18:29,757 - INFO - Обрабатываем страницу: https://jihozvent.uz/ru
+2024-07-24 21:18:33,367 - INFO - Обработано 303 из 306 страниц.
+2024-07-24 21:18:33,367 - INFO - Обрабатываем страницу: https://jihozvent.uz/en
+2024-07-24 21:18:35,151 - INFO - Обработано 304 из 306 страниц.
+2024-07-24 21:18:35,151 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz
+2024-07-24 21:18:39,399 - INFO - Обработано 305 из 306 страниц.
+2024-07-24 21:18:39,399 - INFO - Обрабатываем страницу: https://jihozvent.uz/uz/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/(Ру) https:/drive.google.com/file/d/1ym3ll6b6u8Jzg9CYajsi1EkdUqC0iF7A/view
+2024-07-24 21:18:41,833 - INFO - Обработано 306 из 306 страниц.

@@ -1,0 +1,2 @@
+http://uksrb.ru/auth/?register=yes&backurl=%2Fforum%2F
+http://www.art-oboi.ru/register.php

@@ -1,0 +1,4 @@
+http://idvor.by/index.php/blogs
+http://miragro.com/blog
+http://www.agro.ru/blog/?th=0
+http://www.agrobook.ru/user/login?destination=node/add/blog

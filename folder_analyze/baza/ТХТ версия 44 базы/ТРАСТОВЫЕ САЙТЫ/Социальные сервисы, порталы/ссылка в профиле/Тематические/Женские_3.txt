@@ -1,0 +1,3 @@
+http://eva.ru/jsf/user/registration.xhtml
+http://www.koolinar.ru/user/add
+http://www.lobzik.pri.ee/register.php

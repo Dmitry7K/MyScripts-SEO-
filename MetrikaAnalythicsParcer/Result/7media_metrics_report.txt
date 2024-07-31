@@ -1,0 +1,65 @@
+Всего страниц: 17
+Страниц со всеми метриками: 6 (35.29%)
+Страниц без метрик: 0 (0.00%)
+Страниц с частичными метриками: 11 (64.71%)
+Страниц с Яндекс Вебмастером: 16 (94.12%)
+Страниц с Google Search Console: 16 (94.12%)
+
+Страницы со всеми метриками:
+https://7media.uz
+https://7media.uz/blog/
+https://7media.uz/
+https://7media.uz/uz/
+https://7media.uz/en/
+https://7media.uz#1522322738697-88e8c59b-61cc
+
+Страницы без метрик:
+
+Страницы с частичными метриками:
+https://7media.uz#about - Яндекс: Да, Google: Нет, GTM: Да
+https://7media.uz#gradus - Яндекс: Да, Google: Нет, GTM: Да
+https://7media.uz#ekrani - Яндекс: Да, Google: Нет, GTM: Да
+https://7media.uz#calculator - Яндекс: Да, Google: Нет, GTM: Да
+https://www.instagram.com/7media.uz/ - Яндекс: Да, Google: Нет, GTM: Нет
+https://7media.uz#1522322738697-88e8c59b-62cc - Яндекс: Да, Google: Нет, GTM: Да
+https://7media.uz#1522322738697-88e8c59b-63cc - Яндекс: Да, Google: Нет, GTM: Да
+https://7media.uz#1522322738697-88e8c59b-64cc - Яндекс: Да, Google: Нет, GTM: Да
+https://7media.uz#1522322738697-88e8c59b-65cc - Яндекс: Да, Google: Нет, GTM: Да
+https://7media.uz#1522322738697-88e8c59b-66cc - Яндекс: Да, Google: Нет, GTM: Да
+https://7media.uz#1522322738697-88e8c59b-67cc - Яндекс: Да, Google: Нет, GTM: Да
+
+Страницы с Яндекс Вебмастером:
+https://7media.uz
+https://7media.uz#about
+https://7media.uz#gradus
+https://7media.uz#ekrani
+https://7media.uz#calculator
+https://7media.uz/blog/
+https://7media.uz/
+https://7media.uz/uz/
+https://7media.uz/en/
+https://7media.uz#1522322738697-88e8c59b-61cc
+https://7media.uz#1522322738697-88e8c59b-62cc
+https://7media.uz#1522322738697-88e8c59b-63cc
+https://7media.uz#1522322738697-88e8c59b-64cc
+https://7media.uz#1522322738697-88e8c59b-65cc
+https://7media.uz#1522322738697-88e8c59b-66cc
+https://7media.uz#1522322738697-88e8c59b-67cc
+
+Страницы с Google Search Console:
+https://7media.uz
+https://7media.uz#about
+https://7media.uz#gradus
+https://7media.uz#ekrani
+https://7media.uz#calculator
+https://7media.uz/blog/
+https://7media.uz/
+https://7media.uz/uz/
+https://7media.uz/en/
+https://7media.uz#1522322738697-88e8c59b-61cc
+https://7media.uz#1522322738697-88e8c59b-62cc
+https://7media.uz#1522322738697-88e8c59b-63cc
+https://7media.uz#1522322738697-88e8c59b-64cc
+https://7media.uz#1522322738697-88e8c59b-65cc
+https://7media.uz#1522322738697-88e8c59b-66cc
+https://7media.uz#1522322738697-88e8c59b-67cc

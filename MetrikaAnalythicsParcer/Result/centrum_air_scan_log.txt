@@ -1,0 +1,85 @@
+2024-07-24 22:06:31,018 - INFO - Начинаем сканирование сайта...
+2024-07-24 22:06:31,018 - INFO - Сканирование страницы: https://centrum-air.com на глубине 0
+2024-07-24 22:06:31,018 - INFO - Запрос страницы: https://centrum-air.com
+2024-07-24 22:06:32,652 - INFO - Найдено 76 новых ссылок на странице https://centrum-air.com
+2024-07-24 22:06:32,652 - INFO - Сканирование страницы: https://centrum-air.com/ на глубине 1
+2024-07-24 22:06:32,652 - INFO - Запрос страницы: https://centrum-air.com/
+2024-07-24 22:06:34,098 - INFO - Найдено 73 новых ссылок на странице https://centrum-air.com/
+2024-07-24 22:06:34,098 - INFO - Сканирование страницы: https://booking.centrum-air.com/ibe/C6/home/?language=uz#searchForm на глубине 2
+2024-07-24 22:06:34,098 - INFO - Запрос страницы: https://booking.centrum-air.com/ibe/C6/home/?language=uz#searchForm
+2024-07-24 22:06:35,228 - INFO - Найдено 0 новых ссылок на странице https://booking.centrum-air.com/ibe/C6/home/?language=uz#searchForm
+2024-07-24 22:06:35,228 - INFO - Сканирование страницы: https://booking.centrum-air.com/ibe/C6/home?language=uz#/guest/search на глубине 2
+2024-07-24 22:06:35,228 - INFO - Запрос страницы: https://booking.centrum-air.com/ibe/C6/home?language=uz#/guest/search
+2024-07-24 22:06:36,125 - INFO - Найдено 0 новых ссылок на странице https://booking.centrum-air.com/ibe/C6/home?language=uz#/guest/search
+2024-07-24 22:06:36,125 - INFO - Сканирование страницы: https://centrum-air.com/flight-graph на глубине 2
+2024-07-24 22:06:36,125 - INFO - Запрос страницы: https://centrum-air.com/flight-graph
+2024-07-24 22:06:37,103 - INFO - Найдено 46 новых ссылок на странице https://centrum-air.com/flight-graph
+2024-07-24 22:06:37,103 - INFO - Сканирование страницы: https://centrum-air.com/contacts на глубине 3
+2024-07-24 22:06:37,103 - INFO - Запрос страницы: https://centrum-air.com/contacts
+2024-07-24 22:06:37,990 - INFO - Найдено 37 новых ссылок на странице https://centrum-air.com/contacts
+2024-07-24 22:06:37,990 - INFO - Достигнут лимит глубины или количества страниц для https://centrum-air.com/website-map
+2024-07-24 22:06:37,990 - INFO - Достигнут лимит глубины или количества страниц для https://centrum-air.com/about
+2024-07-24 22:06:37,990 - INFO - Достигнут лимит глубины или количества страниц для https://centrum-air.com/journal
+2024-07-24 22:06:37,990 - INFO - Достигнут лимит глубины или количества страниц для https://centrum-air.com/vacancies
+2024-07-24 22:06:37,990 - INFO - Достигнут лимит глубины или количества страниц для https://centrum-air.com/service/extra-baggage
+2024-07-24 22:06:37,990 - INFO - Достигнут лимит глубины или количества страниц для https://centrum-air.com/service/seat-selection
+2024-07-24 22:06:37,990 - INFO - Достигнут лимит глубины или количества страниц для https://centrum-air.com/service/on-board-meals
+2024-07-24 22:06:37,990 - INFO - Достигнут лимит глубины или количества страниц для https://centrum-air.com/service/wheelchair-rental
+2024-07-24 22:06:37,990 - INFO - Достигнут лимит глубины или количества страниц для https://hotels.centrum-air.com
+2024-07-24 22:06:37,990 - INFO - Достигнут лимит глубины или количества страниц для https://centrum-air.com/online-scoreboard
+2024-07-24 22:06:37,990 - INFO - Достигнут лимит глубины или количества страниц для https://centrum-air.com/development
+2024-07-24 22:06:37,990 - INFO - Достигнут лимит глубины или количества страниц для https://booking.centrum-air.com/ibe/C6/home?language=uz#/guest/login
+2024-07-24 22:06:37,990 - INFO - Достигнут лимит глубины или количества страниц для https://centrum-air.com/docs/carriege-contract-uz.pdf
+2024-07-24 22:06:37,990 - INFO - Сканирование страницы: https://centrum-air.com/additional-services на глубине 2
+2024-07-24 22:06:37,990 - INFO - Запрос страницы: https://centrum-air.com/additional-services
+2024-07-24 22:06:39,170 - INFO - Найдено 37 новых ссылок на странице https://centrum-air.com/additional-services
+2024-07-24 22:06:39,170 - INFO - Сканирование страницы: https://centrum-air.com/news на глубине 2
+2024-07-24 22:06:39,171 - INFO - Запрос страницы: https://centrum-air.com/news
+2024-07-24 22:06:40,334 - INFO - Найдено 37 новых ссылок на странице https://centrum-air.com/news
+2024-07-24 22:06:40,335 - INFO - Всего страниц для проверки: 21
+2024-07-24 22:06:40,335 - INFO - ====== WebDriver manager ======
+2024-07-24 22:06:40,485 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-24 22:06:40,778 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-24 22:06:41,084 - INFO - Driver [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-arm64/chromedriver] found in cache
+2024-07-24 22:06:41,957 - INFO - Обрабатываем страницу: https://centrum-air.com
+2024-07-24 22:06:45,673 - INFO - Обработано 1 из 21 страниц.
+2024-07-24 22:06:45,674 - INFO - Обрабатываем страницу: https://centrum-air.com/
+2024-07-24 22:06:46,874 - INFO - Обработано 2 из 21 страниц.
+2024-07-24 22:06:46,875 - INFO - Обрабатываем страницу: https://booking.centrum-air.com/ibe/C6/home/?language=uz#searchForm
+2024-07-24 22:06:53,124 - INFO - Обработано 3 из 21 страниц.
+2024-07-24 22:06:53,124 - INFO - Обрабатываем страницу: https://booking.centrum-air.com/ibe/C6/home?language=uz#/guest/search
+2024-07-24 22:06:53,525 - INFO - Обработано 4 из 21 страниц.
+2024-07-24 22:06:53,525 - INFO - Обрабатываем страницу: https://centrum-air.com/flight-graph
+2024-07-24 22:06:53,930 - INFO - Обработано 5 из 21 страниц.
+2024-07-24 22:06:53,930 - INFO - Обрабатываем страницу: https://centrum-air.com/contacts
+2024-07-24 22:06:55,187 - INFO - Обработано 6 из 21 страниц.
+2024-07-24 22:06:55,187 - INFO - Обрабатываем страницу: https://centrum-air.com/website-map
+2024-07-24 22:06:55,904 - INFO - Обработано 7 из 21 страниц.
+2024-07-24 22:06:55,904 - INFO - Обрабатываем страницу: https://centrum-air.com/about
+2024-07-24 22:06:56,721 - INFO - Обработано 8 из 21 страниц.
+2024-07-24 22:06:56,721 - INFO - Обрабатываем страницу: https://centrum-air.com/journal
+2024-07-24 22:06:57,483 - INFO - Обработано 9 из 21 страниц.
+2024-07-24 22:06:57,483 - INFO - Обрабатываем страницу: https://centrum-air.com/vacancies
+2024-07-24 22:06:58,148 - INFO - Обработано 10 из 21 страниц.
+2024-07-24 22:06:58,148 - INFO - Обрабатываем страницу: https://centrum-air.com/service/extra-baggage
+2024-07-24 22:06:58,988 - INFO - Обработано 11 из 21 страниц.
+2024-07-24 22:06:58,989 - INFO - Обрабатываем страницу: https://centrum-air.com/service/seat-selection
+2024-07-24 22:06:59,706 - INFO - Обработано 12 из 21 страниц.
+2024-07-24 22:06:59,706 - INFO - Обрабатываем страницу: https://centrum-air.com/service/on-board-meals
+2024-07-24 22:07:00,513 - INFO - Обработано 13 из 21 страниц.
+2024-07-24 22:07:00,513 - INFO - Обрабатываем страницу: https://centrum-air.com/service/wheelchair-rental
+2024-07-24 22:07:01,276 - INFO - Обработано 14 из 21 страниц.
+2024-07-24 22:07:01,276 - INFO - Обрабатываем страницу: https://hotels.centrum-air.com
+2024-07-24 22:07:05,205 - INFO - Обработано 15 из 21 страниц.
+2024-07-24 22:07:05,205 - INFO - Обрабатываем страницу: https://centrum-air.com/online-scoreboard
+2024-07-24 22:07:05,646 - INFO - Обработано 16 из 21 страниц.
+2024-07-24 22:07:05,646 - INFO - Обрабатываем страницу: https://centrum-air.com/development
+2024-07-24 22:07:06,259 - INFO - Обработано 17 из 21 страниц.
+2024-07-24 22:07:06,259 - INFO - Обрабатываем страницу: https://booking.centrum-air.com/ibe/C6/home?language=uz#/guest/login
+2024-07-24 22:07:06,547 - INFO - Обработано 18 из 21 страниц.
+2024-07-24 22:07:06,547 - INFO - Обрабатываем страницу: https://centrum-air.com/docs/carriege-contract-uz.pdf
+2024-07-24 22:07:06,959 - INFO - Обработано 19 из 21 страниц.
+2024-07-24 22:07:06,959 - INFO - Обрабатываем страницу: https://centrum-air.com/additional-services
+2024-07-24 22:07:08,169 - INFO - Обработано 20 из 21 страниц.
+2024-07-24 22:07:08,169 - INFO - Обрабатываем страницу: https://centrum-air.com/news
+2024-07-24 22:07:09,183 - INFO - Обработано 21 из 21 страниц.

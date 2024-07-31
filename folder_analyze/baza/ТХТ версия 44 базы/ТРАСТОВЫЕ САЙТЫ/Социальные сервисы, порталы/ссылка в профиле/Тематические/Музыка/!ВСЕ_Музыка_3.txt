@@ -1,0 +1,3 @@
+http://sanfm.ru/users.php?m=register
+http://www.heavymusic.ru/registr/
+http://www.playcast.ru/?module=auth&am_action=register

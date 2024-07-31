@@ -1,0 +1,8 @@
+http://forums.ilounge.com/register.php
+http://promodj.com/register
+http://www.instructables.com/account/gopro
+http://www.theverge.com/forums
+https://bible.org/user/register
+https://login.dpreview.com/ap/register?openid.return_to=https%3A%2F%2Flogin.dpreview.com%2Fpost-login%3FreturnUrl%3D68747470733a2f2f7777772e64707265766965772e636f6d2f706f73742d6c6f67696e&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=dpreview_us&openid.mode=checkid_setup&marketPlaceId=AI2AE4A16O33&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=dpreview_us&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&
+https://sourceforge.net/user/registration
+https://www.phpbb.com/community/ucp.php?mode=register&sid=b956b2c73e1416e013f448562577a99b

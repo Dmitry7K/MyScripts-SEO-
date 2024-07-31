@@ -1,0 +1,41 @@
+Всего страниц: 25
+Страниц со всеми метриками: 23 (92.00%)
+Страниц без метрик: 0 (0.00%)
+Страниц с частичными метриками: 2 (8.00%)
+Страниц с Яндекс Вебмастером: 0 (0.00%)
+Страниц с Google Search Console: 0 (0.00%)
+
+Страницы со всеми метриками:
+https://arton.uz/
+https://arton.uz/contacts
+https://arton.uz/payments
+https://arton.uz/services
+https://arton.uz/about
+https://arton.uz/categories/stenovye-bloki
+https://arton.uz/categories/peregorodochnye-bloki
+https://arton.uz/categories/arton-thermo
+https://arton.uz/categories/u-bloki
+https://arton.uz/categories/gazobetonnaya-kroshka
+https://arton.uz/categories/instrumenty
+https://arton.uz/categories/klej
+https://arton.uz/payments/kak-zakazat
+https://arton.uz/payments/poryadok-oformleniya-zakaza
+https://arton.uz/payments/sposoby-oplaty
+https://arton.uz/payments/dokumenty-o-kachestve
+https://arton.uz/about/company
+https://arton.uz/laboratoriya
+https://arton.uz/photo-gallery
+https://arton.uz/vacancy
+https://arton.uz/news
+https://arton.uz/smi
+https://arton.uz/useful
+
+Страницы без метрик:
+
+Страницы с частичными метриками:
+https://arton.uz/price-list - Яндекс: Да, Google: Нет, GTM: Да
+https://arton.uz/video - Яндекс: Да, Google: Нет, GTM: Да
+
+Страницы с Яндекс Вебмастером:
+
+Страницы с Google Search Console:

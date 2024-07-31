@@ -1,0 +1,3 @@
+http://russiasport.ru/user/register
+http://www.ironworld.ru/auth/index.php?register=yes
+http://www.sports.ru

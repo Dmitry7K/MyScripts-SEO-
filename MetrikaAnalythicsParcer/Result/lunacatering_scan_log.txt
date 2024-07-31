@@ -1,0 +1,323 @@
+2024-07-24 21:31:26,204 - INFO - Начинаем сканирование сайта...
+2024-07-24 21:31:26,204 - INFO - Сканирование страницы: https://lunacatering.uz/ на глубине 0
+2024-07-24 21:31:26,204 - INFO - Запрос страницы: https://lunacatering.uz/
+2024-07-24 21:31:29,684 - INFO - Найдено 36 новых ссылок на странице https://lunacatering.uz/
+2024-07-24 21:31:29,684 - INFO - Сканирование страницы: https://lunacatering.uz/ru/o-kompanii/ на глубине 1
+2024-07-24 21:31:29,684 - INFO - Запрос страницы: https://lunacatering.uz/ru/o-kompanii/
+2024-07-24 21:31:31,783 - INFO - Найдено 11 новых ссылок на странице https://lunacatering.uz/ru/o-kompanii/
+2024-07-24 21:31:31,783 - INFO - Сканирование страницы: https://lunacatering.uz/ru/nashi-uslugi/ на глубине 2
+2024-07-24 21:31:31,783 - INFO - Запрос страницы: https://lunacatering.uz/ru/nashi-uslugi/
+2024-07-24 21:31:33,927 - INFO - Найдено 25 новых ссылок на странице https://lunacatering.uz/ru/nashi-uslugi/
+2024-07-24 21:31:33,927 - INFO - Сканирование страницы: https://lunacatering.uz/ru/galereya/ на глубине 3
+2024-07-24 21:31:33,927 - INFO - Запрос страницы: https://lunacatering.uz/ru/galereya/
+2024-07-24 21:31:35,942 - INFO - Найдено 16 новых ссылок на странице https://lunacatering.uz/ru/galereya/
+2024-07-24 21:31:35,942 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/kontakty/
+2024-07-24 21:31:35,942 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/uz/galereya-1/
+2024-07-24 21:31:35,942 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/en/gallery/
+2024-07-24 21:31:35,942 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/galereya/?page=1
+2024-07-24 21:31:35,943 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/galereya/?page=2
+2024-07-24 21:31:35,943 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/galereya/?page=3
+2024-07-24 21:31:35,943 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/galereya/?page=4
+2024-07-24 21:31:35,943 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/galereya/?page=5
+2024-07-24 21:31:35,943 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/galereya/?page=6
+2024-07-24 21:31:35,943 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/galereya/?page=7
+2024-07-24 21:31:35,943 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/galereya/?page=8
+2024-07-24 21:31:35,943 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/galereya/?page=9
+2024-07-24 21:31:35,943 - INFO - Сканирование страницы: https://lunacatering.uz/uz/bizning-xizmatlarimiz/ на глубине 3
+2024-07-24 21:31:35,943 - INFO - Запрос страницы: https://lunacatering.uz/uz/bizning-xizmatlarimiz/
+2024-07-24 21:31:38,269 - INFO - Найдено 25 новых ссылок на странице https://lunacatering.uz/uz/bizning-xizmatlarimiz/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/uz/kompaniya-haqida/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/uz/kontaktlar/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/en/our-services/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/banket-v-tashkente/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/furshet-v-tashkente/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/kofe-brejk-v-tashkente/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/shvedskij-stol-v-tashkente/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/barbekju-na-prirode-v-tashkente/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/piknik/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/kejtering-na-konferenciju/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/sladkij-stol/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/korporativnoe-obsluzhivanie/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/biznes-zavtrak-delovaya-vstrecha/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/kejtering-dlya-svadby/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/semejnyj-kejtering/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/timbilding/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/pitanie-na-vystavkah/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/kejtering-na-detskij-prazdnik/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/kejtering-dlya-ulichnyh-meropriyatij/
+2024-07-24 21:31:38,269 - INFO - Достигнут лимит глубины или количества страниц для https://lunacatering.uz/ru/kejtering-na-jubilej-kompanii/
+2024-07-24 21:31:38,269 - INFO - Сканирование страницы: https://lunacatering.uz/en/about-us/ на глубине 2
+2024-07-24 21:31:38,269 - INFO - Запрос страницы: https://lunacatering.uz/en/about-us/
+2024-07-24 21:31:40,246 - INFO - Найдено 8 новых ссылок на странице https://lunacatering.uz/en/about-us/
+2024-07-24 21:31:40,246 - INFO - Сканирование страницы: https://lunacatering.uz/en/contacts/ на глубине 3
+2024-07-24 21:31:40,246 - INFO - Запрос страницы: https://lunacatering.uz/en/contacts/
+2024-07-24 21:31:42,231 - INFO - Найдено 8 новых ссылок на странице https://lunacatering.uz/en/contacts/
+2024-07-24 21:31:42,231 - INFO - Сканирование страницы: https://lunacatering.uz/lang/uz на глубине 1
+2024-07-24 21:31:42,231 - INFO - Запрос страницы: https://lunacatering.uz/lang/uz
+2024-07-24 21:31:45,101 - INFO - Найдено 28 новых ссылок на странице https://lunacatering.uz/lang/uz
+2024-07-24 21:31:45,101 - INFO - Сканирование страницы: https://lunacatering.uz/lang/ru на глубине 2
+2024-07-24 21:31:45,101 - INFO - Запрос страницы: https://lunacatering.uz/lang/ru
+2024-07-24 21:31:48,391 - INFO - Найдено 22 новых ссылок на странице https://lunacatering.uz/lang/ru
+2024-07-24 21:31:48,392 - INFO - Сканирование страницы: https://lunacatering.uz/lang/en на глубине 3
+2024-07-24 21:31:48,392 - INFO - Запрос страницы: https://lunacatering.uz/lang/en
+2024-07-24 21:31:51,072 - ERROR - Ошибка при запросе страницы https://lunacatering.uz/lang/en: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-07-24 21:31:51,072 - INFO - Найдено 0 новых ссылок на странице https://lunacatering.uz/lang/en
+2024-07-24 21:31:51,072 - INFO - Сканирование страницы: https://lunacatering.uz/uz/banket-toshkentda/ на глубине 2
+2024-07-24 21:31:51,072 - INFO - Запрос страницы: https://lunacatering.uz/uz/banket-toshkentda/
+2024-07-24 21:31:53,968 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/banket-toshkentda/
+2024-07-24 21:31:53,968 - INFO - Сканирование страницы: https://lunacatering.uz/en/banquet-in-tashkent/ на глубине 3
+2024-07-24 21:31:53,968 - INFO - Запрос страницы: https://lunacatering.uz/en/banquet-in-tashkent/
+2024-07-24 21:31:56,907 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/banquet-in-tashkent/
+2024-07-24 21:31:56,907 - INFO - Сканирование страницы: https://lunacatering.uz/uz/furshet-toshkentda/ на глубине 2
+2024-07-24 21:31:56,907 - INFO - Запрос страницы: https://lunacatering.uz/uz/furshet-toshkentda/
+2024-07-24 21:31:59,377 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/furshet-toshkentda/
+2024-07-24 21:31:59,377 - INFO - Сканирование страницы: https://lunacatering.uz/en/buffet-in-tashkent/ на глубине 3
+2024-07-24 21:31:59,377 - INFO - Запрос страницы: https://lunacatering.uz/en/buffet-in-tashkent/
+2024-07-24 21:32:02,033 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/buffet-in-tashkent/
+2024-07-24 21:32:02,033 - INFO - Сканирование страницы: https://lunacatering.uz/uz/kofe-breyk-toshkentda/ на глубине 2
+2024-07-24 21:32:02,034 - INFO - Запрос страницы: https://lunacatering.uz/uz/kofe-breyk-toshkentda/
+2024-07-24 21:32:04,587 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/kofe-breyk-toshkentda/
+2024-07-24 21:32:04,587 - INFO - Сканирование страницы: https://lunacatering.uz/en/coffee-break-in-tashkent/ на глубине 3
+2024-07-24 21:32:04,587 - INFO - Запрос страницы: https://lunacatering.uz/en/coffee-break-in-tashkent/
+2024-07-24 21:32:07,025 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/coffee-break-in-tashkent/
+2024-07-24 21:32:07,025 - INFO - Сканирование страницы: https://lunacatering.uz/uz/shvedskiy-stol-toshkentda/ на глубине 2
+2024-07-24 21:32:07,025 - INFO - Запрос страницы: https://lunacatering.uz/uz/shvedskiy-stol-toshkentda/
+2024-07-24 21:32:09,306 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/shvedskiy-stol-toshkentda/
+2024-07-24 21:32:09,306 - INFO - Сканирование страницы: https://lunacatering.uz/en/swedish-table-in-tashkent/ на глубине 3
+2024-07-24 21:32:09,306 - INFO - Запрос страницы: https://lunacatering.uz/en/swedish-table-in-tashkent/
+2024-07-24 21:32:12,157 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/swedish-table-in-tashkent/
+2024-07-24 21:32:12,158 - INFO - Сканирование страницы: https://lunacatering.uz/uz/toshkentda-barbekyu/ на глубине 2
+2024-07-24 21:32:12,158 - INFO - Запрос страницы: https://lunacatering.uz/uz/toshkentda-barbekyu/
+2024-07-24 21:32:15,060 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/toshkentda-barbekyu/
+2024-07-24 21:32:15,060 - INFO - Сканирование страницы: https://lunacatering.uz/en/outdoor-barbecue-in-tashkent/ на глубине 3
+2024-07-24 21:32:15,060 - INFO - Запрос страницы: https://lunacatering.uz/en/outdoor-barbecue-in-tashkent/
+2024-07-24 21:32:17,770 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/outdoor-barbecue-in-tashkent/
+2024-07-24 21:32:17,770 - INFO - Сканирование страницы: https://lunacatering.uz/uz/tabiatda-piknik/ на глубине 2
+2024-07-24 21:32:17,770 - INFO - Запрос страницы: https://lunacatering.uz/uz/tabiatda-piknik/
+2024-07-24 21:32:20,372 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/tabiatda-piknik/
+2024-07-24 21:32:20,372 - INFO - Сканирование страницы: https://lunacatering.uz/en/picnic/ на глубине 3
+2024-07-24 21:32:20,372 - INFO - Запрос страницы: https://lunacatering.uz/en/picnic/
+2024-07-24 21:32:22,901 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/picnic/
+2024-07-24 21:32:22,902 - INFO - Сканирование страницы: https://lunacatering.uz/uz/konferensiya-uchun-keytering/ на глубине 2
+2024-07-24 21:32:22,902 - INFO - Запрос страницы: https://lunacatering.uz/uz/konferensiya-uchun-keytering/
+2024-07-24 21:32:25,265 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/konferensiya-uchun-keytering/
+2024-07-24 21:32:25,266 - INFO - Сканирование страницы: https://lunacatering.uz/en/conference-catering/ на глубине 3
+2024-07-24 21:32:25,266 - INFO - Запрос страницы: https://lunacatering.uz/en/conference-catering/
+2024-07-24 21:32:27,657 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/conference-catering/
+2024-07-24 21:32:27,657 - INFO - Сканирование страницы: https://lunacatering.uz/uz/shirin-dasturxon/ на глубине 2
+2024-07-24 21:32:27,657 - INFO - Запрос страницы: https://lunacatering.uz/uz/shirin-dasturxon/
+2024-07-24 21:32:30,110 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/shirin-dasturxon/
+2024-07-24 21:32:30,110 - INFO - Сканирование страницы: https://lunacatering.uz/en/sweet-table/ на глубине 3
+2024-07-24 21:32:30,110 - INFO - Запрос страницы: https://lunacatering.uz/en/sweet-table/
+2024-07-24 21:32:32,417 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/sweet-table/
+2024-07-24 21:32:32,417 - INFO - Сканирование страницы: https://lunacatering.uz/uz/korporativ-xizmat-korsatish/ на глубине 2
+2024-07-24 21:32:32,417 - INFO - Запрос страницы: https://lunacatering.uz/uz/korporativ-xizmat-korsatish/
+2024-07-24 21:32:34,472 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/korporativ-xizmat-korsatish/
+2024-07-24 21:32:34,472 - INFO - Сканирование страницы: https://lunacatering.uz/en/corporate-services/ на глубине 3
+2024-07-24 21:32:34,472 - INFO - Запрос страницы: https://lunacatering.uz/en/corporate-services/
+2024-07-24 21:32:36,639 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/corporate-services/
+2024-07-24 21:32:36,640 - INFO - Сканирование страницы: https://lunacatering.uz/uz/biznes-nonushta-biznes-uchrashuvi/ на глубине 2
+2024-07-24 21:32:36,640 - INFO - Запрос страницы: https://lunacatering.uz/uz/biznes-nonushta-biznes-uchrashuvi/
+2024-07-24 21:32:38,853 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/biznes-nonushta-biznes-uchrashuvi/
+2024-07-24 21:32:38,853 - INFO - Сканирование страницы: https://lunacatering.uz/en/business-breakfast-business-meeting/ на глубине 3
+2024-07-24 21:32:38,853 - INFO - Запрос страницы: https://lunacatering.uz/en/business-breakfast-business-meeting/
+2024-07-24 21:32:41,039 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/business-breakfast-business-meeting/
+2024-07-24 21:32:41,039 - INFO - Сканирование страницы: https://lunacatering.uz/uz/toy-uchun-keytering/ на глубине 2
+2024-07-24 21:32:41,039 - INFO - Запрос страницы: https://lunacatering.uz/uz/toy-uchun-keytering/
+2024-07-24 21:32:43,112 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/toy-uchun-keytering/
+2024-07-24 21:32:43,112 - INFO - Сканирование страницы: https://lunacatering.uz/en/catering-weddings/ на глубине 3
+2024-07-24 21:32:43,112 - INFO - Запрос страницы: https://lunacatering.uz/en/catering-weddings/
+2024-07-24 21:32:45,610 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/catering-weddings/
+2024-07-24 21:32:45,610 - INFO - Сканирование страницы: https://lunacatering.uz/uz/oilaviy-keyting/ на глубине 2
+2024-07-24 21:32:45,610 - INFO - Запрос страницы: https://lunacatering.uz/uz/oilaviy-keyting/
+2024-07-24 21:32:48,005 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/oilaviy-keyting/
+2024-07-24 21:32:48,005 - INFO - Сканирование страницы: https://lunacatering.uz/en/family-catering/ на глубине 3
+2024-07-24 21:32:48,005 - INFO - Запрос страницы: https://lunacatering.uz/en/family-catering/
+2024-07-24 21:32:52,152 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/family-catering/
+2024-07-24 21:32:52,152 - INFO - Сканирование страницы: https://lunacatering.uz/uz/jamoa-tuzish/ на глубине 2
+2024-07-24 21:32:52,152 - INFO - Запрос страницы: https://lunacatering.uz/uz/jamoa-tuzish/
+2024-07-24 21:32:54,574 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/jamoa-tuzish/
+2024-07-24 21:32:54,574 - INFO - Сканирование страницы: https://lunacatering.uz/en/team-building/ на глубине 3
+2024-07-24 21:32:54,575 - INFO - Запрос страницы: https://lunacatering.uz/en/team-building/
+2024-07-24 21:32:57,090 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/team-building/
+2024-07-24 21:32:57,090 - INFO - Сканирование страницы: https://lunacatering.uz/uz/korgazmalarda-ovqatlanish/ на глубине 2
+2024-07-24 21:32:57,091 - INFO - Запрос страницы: https://lunacatering.uz/uz/korgazmalarda-ovqatlanish/
+2024-07-24 21:32:59,550 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/korgazmalarda-ovqatlanish/
+2024-07-24 21:32:59,550 - INFO - Сканирование страницы: https://lunacatering.uz/en/catering-exhibitions/ на глубине 3
+2024-07-24 21:32:59,550 - INFO - Запрос страницы: https://lunacatering.uz/en/catering-exhibitions/
+2024-07-24 21:33:02,174 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/catering-exhibitions/
+2024-07-24 21:33:02,174 - INFO - Сканирование страницы: https://lunacatering.uz/uz/bolalar-bayramiga-ketering/ на глубине 2
+2024-07-24 21:33:02,175 - INFO - Запрос страницы: https://lunacatering.uz/uz/bolalar-bayramiga-ketering/
+2024-07-24 21:33:04,635 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/bolalar-bayramiga-ketering/
+2024-07-24 21:33:04,635 - INFO - Сканирование страницы: https://lunacatering.uz/en/catering-childrens-party/ на глубине 3
+2024-07-24 21:33:04,635 - INFO - Запрос страницы: https://lunacatering.uz/en/catering-childrens-party/
+2024-07-24 21:33:06,844 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/catering-childrens-party/
+2024-07-24 21:33:06,845 - INFO - Сканирование страницы: https://lunacatering.uz/uz/kocha-tadbirlari-uchun-keytering/ на глубине 2
+2024-07-24 21:33:06,845 - INFO - Запрос страницы: https://lunacatering.uz/uz/kocha-tadbirlari-uchun-keytering/
+2024-07-24 21:33:09,143 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/kocha-tadbirlari-uchun-keytering/
+2024-07-24 21:33:09,143 - INFO - Сканирование страницы: https://lunacatering.uz/en/catering-outdoor-events/ на глубине 3
+2024-07-24 21:33:09,143 - INFO - Запрос страницы: https://lunacatering.uz/en/catering-outdoor-events/
+2024-07-24 21:33:11,306 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/catering-outdoor-events/
+2024-07-24 21:33:11,307 - INFO - Сканирование страницы: https://lunacatering.uz/uz/kompaniya-yubileyida-keytering/ на глубине 2
+2024-07-24 21:33:11,307 - INFO - Запрос страницы: https://lunacatering.uz/uz/kompaniya-yubileyida-keytering/
+2024-07-24 21:33:13,721 - INFO - Найдено 10 новых ссылок на странице https://lunacatering.uz/uz/kompaniya-yubileyida-keytering/
+2024-07-24 21:33:13,721 - INFO - Сканирование страницы: https://lunacatering.uz/en/catering-companys-anniversary/ на глубине 3
+2024-07-24 21:33:13,721 - INFO - Запрос страницы: https://lunacatering.uz/en/catering-companys-anniversary/
+2024-07-24 21:33:16,010 - INFO - Найдено 6 новых ссылок на странице https://lunacatering.uz/en/catering-companys-anniversary/
+2024-07-24 21:33:16,010 - INFO - Всего страниц для проверки: 76
+2024-07-24 21:33:16,010 - INFO - ====== WebDriver manager ======
+2024-07-24 21:33:16,117 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-24 21:33:16,404 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-24 21:33:16,708 - INFO - Driver [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-arm64/chromedriver] found in cache
+2024-07-24 21:33:17,296 - INFO - Обрабатываем страницу: https://lunacatering.uz/
+2024-07-24 21:33:55,474 - INFO - Обработано 1 из 76 страниц.
+2024-07-24 21:33:55,474 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/o-kompanii/
+2024-07-24 21:34:22,960 - INFO - Обработано 2 из 76 страниц.
+2024-07-24 21:34:22,960 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/nashi-uslugi/
+2024-07-24 21:34:58,065 - INFO - Обработано 3 из 76 страниц.
+2024-07-24 21:34:58,065 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/galereya/
+2024-07-24 21:35:00,488 - INFO - Обработано 4 из 76 страниц.
+2024-07-24 21:35:00,488 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/kontakty/
+2024-07-24 21:35:03,930 - INFO - Обработано 5 из 76 страниц.
+2024-07-24 21:35:03,930 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/galereya-1/
+2024-07-24 21:35:05,161 - INFO - Обработано 6 из 76 страниц.
+2024-07-24 21:35:05,161 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/gallery/
+2024-07-24 21:35:06,361 - INFO - Обработано 7 из 76 страниц.
+2024-07-24 21:35:06,361 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/galereya/?page=1
+2024-07-24 21:35:07,606 - INFO - Обработано 8 из 76 страниц.
+2024-07-24 21:35:07,606 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/galereya/?page=2
+2024-07-24 21:35:14,464 - INFO - Обработано 9 из 76 страниц.
+2024-07-24 21:35:14,464 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/galereya/?page=3
+2024-07-24 21:35:22,329 - INFO - Обработано 10 из 76 страниц.
+2024-07-24 21:35:22,330 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/galereya/?page=4
+2024-07-24 21:35:24,209 - INFO - Обработано 11 из 76 страниц.
+2024-07-24 21:35:24,209 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/galereya/?page=5
+2024-07-24 21:35:28,071 - INFO - Обработано 12 из 76 страниц.
+2024-07-24 21:35:28,071 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/galereya/?page=6
+2024-07-24 21:35:35,212 - INFO - Обработано 13 из 76 страниц.
+2024-07-24 21:35:35,212 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/galereya/?page=7
+2024-07-24 21:35:38,925 - INFO - Обработано 14 из 76 страниц.
+2024-07-24 21:35:38,925 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/galereya/?page=8
+2024-07-24 21:35:42,185 - INFO - Обработано 15 из 76 страниц.
+2024-07-24 21:35:42,185 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/galereya/?page=9
+2024-07-24 21:35:44,696 - INFO - Обработано 16 из 76 страниц.
+2024-07-24 21:35:44,696 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/bizning-xizmatlarimiz/
+2024-07-24 21:35:45,777 - INFO - Обработано 17 из 76 страниц.
+2024-07-24 21:35:45,777 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/kompaniya-haqida/
+2024-07-24 21:35:46,796 - INFO - Обработано 18 из 76 страниц.
+2024-07-24 21:35:46,796 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/kontaktlar/
+2024-07-24 21:35:50,316 - INFO - Обработано 19 из 76 страниц.
+2024-07-24 21:35:50,316 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/our-services/
+2024-07-24 21:35:52,795 - INFO - Обработано 20 из 76 страниц.
+2024-07-24 21:35:52,795 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/banket-v-tashkente/
+2024-07-24 21:36:05,294 - INFO - Обработано 21 из 76 страниц.
+2024-07-24 21:36:05,294 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/furshet-v-tashkente/
+2024-07-24 21:36:18,161 - INFO - Обработано 22 из 76 страниц.
+2024-07-24 21:36:18,161 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/kofe-brejk-v-tashkente/
+2024-07-24 21:36:30,964 - INFO - Обработано 23 из 76 страниц.
+2024-07-24 21:36:30,964 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/shvedskij-stol-v-tashkente/
+2024-07-24 21:36:40,614 - INFO - Обработано 24 из 76 страниц.
+2024-07-24 21:36:40,614 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/barbekju-na-prirode-v-tashkente/
+2024-07-24 21:36:53,357 - INFO - Обработано 25 из 76 страниц.
+2024-07-24 21:36:53,357 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/piknik/
+2024-07-24 21:36:55,806 - INFO - Обработано 26 из 76 страниц.
+2024-07-24 21:36:55,806 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/kejtering-na-konferenciju/
+2024-07-24 21:36:59,521 - INFO - Обработано 27 из 76 страниц.
+2024-07-24 21:36:59,521 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/sladkij-stol/
+2024-07-24 21:37:01,880 - INFO - Обработано 28 из 76 страниц.
+2024-07-24 21:37:01,880 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/korporativnoe-obsluzhivanie/
+2024-07-24 21:37:09,031 - INFO - Обработано 29 из 76 страниц.
+2024-07-24 21:37:09,031 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/biznes-zavtrak-delovaya-vstrecha/
+2024-07-24 21:37:17,350 - INFO - Обработано 30 из 76 страниц.
+2024-07-24 21:37:17,350 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/kejtering-dlya-svadby/
+2024-07-24 21:37:30,532 - INFO - Обработано 31 из 76 страниц.
+2024-07-24 21:37:30,532 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/semejnyj-kejtering/
+2024-07-24 21:37:48,168 - INFO - Обработано 32 из 76 страниц.
+2024-07-24 21:37:48,168 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/timbilding/
+2024-07-24 21:37:59,695 - INFO - Обработано 33 из 76 страниц.
+2024-07-24 21:37:59,695 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/pitanie-na-vystavkah/
+2024-07-24 21:38:13,272 - INFO - Обработано 34 из 76 страниц.
+2024-07-24 21:38:13,272 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/kejtering-na-detskij-prazdnik/
+2024-07-24 21:38:22,384 - INFO - Обработано 35 из 76 страниц.
+2024-07-24 21:38:22,385 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/kejtering-dlya-ulichnyh-meropriyatij/
+2024-07-24 21:38:28,237 - INFO - Обработано 36 из 76 страниц.
+2024-07-24 21:38:28,237 - INFO - Обрабатываем страницу: https://lunacatering.uz/ru/kejtering-na-jubilej-kompanii/
+2024-07-24 21:38:32,504 - INFO - Обработано 37 из 76 страниц.
+2024-07-24 21:38:32,504 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/about-us/
+2024-07-24 21:38:33,554 - INFO - Обработано 38 из 76 страниц.
+2024-07-24 21:38:33,554 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/contacts/
+2024-07-24 21:38:35,045 - INFO - Обработано 39 из 76 страниц.
+2024-07-24 21:38:35,045 - INFO - Обрабатываем страницу: https://lunacatering.uz/lang/uz
+2024-07-24 21:38:36,339 - INFO - Обработано 40 из 76 страниц.
+2024-07-24 21:38:36,339 - INFO - Обрабатываем страницу: https://lunacatering.uz/lang/ru
+2024-07-24 21:38:37,618 - INFO - Обработано 41 из 76 страниц.
+2024-07-24 21:38:37,618 - INFO - Обрабатываем страницу: https://lunacatering.uz/lang/en
+2024-07-24 21:38:39,109 - INFO - Обработано 42 из 76 страниц.
+2024-07-24 21:38:39,109 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/banket-toshkentda/
+2024-07-24 21:38:39,922 - INFO - Обработано 43 из 76 страниц.
+2024-07-24 21:38:39,922 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/banquet-in-tashkent/
+2024-07-24 21:38:40,612 - INFO - Обработано 44 из 76 страниц.
+2024-07-24 21:38:40,612 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/furshet-toshkentda/
+2024-07-24 21:38:41,132 - INFO - Обработано 45 из 76 страниц.
+2024-07-24 21:38:41,132 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/buffet-in-tashkent/
+2024-07-24 21:38:41,956 - INFO - Обработано 46 из 76 страниц.
+2024-07-24 21:38:41,956 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/kofe-breyk-toshkentda/
+2024-07-24 21:38:42,776 - INFO - Обработано 47 из 76 страниц.
+2024-07-24 21:38:42,776 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/coffee-break-in-tashkent/
+2024-07-24 21:38:43,258 - INFO - Обработано 48 из 76 страниц.
+2024-07-24 21:38:43,258 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/shvedskiy-stol-toshkentda/
+2024-07-24 21:38:44,051 - INFO - Обработано 49 из 76 страниц.
+2024-07-24 21:38:44,051 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/swedish-table-in-tashkent/
+2024-07-24 21:38:44,786 - INFO - Обработано 50 из 76 страниц.
+2024-07-24 21:38:44,786 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/toshkentda-barbekyu/
+2024-07-24 21:38:45,562 - INFO - Обработано 51 из 76 страниц.
+2024-07-24 21:38:45,562 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/outdoor-barbecue-in-tashkent/
+2024-07-24 21:38:46,061 - INFO - Обработано 52 из 76 страниц.
+2024-07-24 21:38:46,061 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/tabiatda-piknik/
+2024-07-24 21:38:46,805 - INFO - Обработано 53 из 76 страниц.
+2024-07-24 21:38:46,805 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/picnic/
+2024-07-24 21:38:47,595 - INFO - Обработано 54 из 76 страниц.
+2024-07-24 21:38:47,595 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/konferensiya-uchun-keytering/
+2024-07-24 21:38:48,117 - INFO - Обработано 55 из 76 страниц.
+2024-07-24 21:38:48,118 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/conference-catering/
+2024-07-24 21:38:48,970 - INFO - Обработано 56 из 76 страниц.
+2024-07-24 21:38:48,970 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/shirin-dasturxon/
+2024-07-24 21:38:49,688 - INFO - Обработано 57 из 76 страниц.
+2024-07-24 21:38:49,688 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/sweet-table/
+2024-07-24 21:38:50,239 - INFO - Обработано 58 из 76 страниц.
+2024-07-24 21:38:50,239 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/korporativ-xizmat-korsatish/
+2024-07-24 21:38:50,933 - INFO - Обработано 59 из 76 страниц.
+2024-07-24 21:38:50,933 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/corporate-services/
+2024-07-24 21:38:51,556 - INFO - Обработано 60 из 76 страниц.
+2024-07-24 21:38:51,557 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/biznes-nonushta-biznes-uchrashuvi/
+2024-07-24 21:38:51,991 - INFO - Обработано 61 из 76 страниц.
+2024-07-24 21:38:51,991 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/business-breakfast-business-meeting/
+2024-07-24 21:38:52,670 - INFO - Обработано 62 из 76 страниц.
+2024-07-24 21:38:52,670 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/toy-uchun-keytering/
+2024-07-24 21:38:53,227 - INFO - Обработано 63 из 76 страниц.
+2024-07-24 21:38:53,228 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/catering-weddings/
+2024-07-24 21:38:54,040 - INFO - Обработано 64 из 76 страниц.
+2024-07-24 21:38:54,041 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/oilaviy-keyting/
+2024-07-24 21:38:55,483 - INFO - Обработано 65 из 76 страниц.
+2024-07-24 21:38:55,483 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/family-catering/
+2024-07-24 21:38:56,274 - INFO - Обработано 66 из 76 страниц.
+2024-07-24 21:38:56,274 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/jamoa-tuzish/
+2024-07-24 21:39:00,028 - INFO - Обработано 67 из 76 страниц.
+2024-07-24 21:39:00,029 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/team-building/
+2024-07-24 21:39:00,845 - INFO - Обработано 68 из 76 страниц.
+2024-07-24 21:39:00,845 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/korgazmalarda-ovqatlanish/
+2024-07-24 21:39:01,867 - INFO - Обработано 69 из 76 страниц.
+2024-07-24 21:39:01,867 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/catering-exhibitions/
+2024-07-24 21:39:02,852 - INFO - Обработано 70 из 76 страниц.
+2024-07-24 21:39:02,852 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/bolalar-bayramiga-ketering/
+2024-07-24 21:39:03,957 - INFO - Обработано 71 из 76 страниц.
+2024-07-24 21:39:03,957 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/catering-childrens-party/
+2024-07-24 21:39:05,155 - INFO - Обработано 72 из 76 страниц.
+2024-07-24 21:39:05,155 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/kocha-tadbirlari-uchun-keytering/
+2024-07-24 21:39:06,513 - INFO - Обработано 73 из 76 страниц.
+2024-07-24 21:39:06,513 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/catering-outdoor-events/
+2024-07-24 21:39:07,647 - INFO - Обработано 74 из 76 страниц.
+2024-07-24 21:39:07,647 - INFO - Обрабатываем страницу: https://lunacatering.uz/uz/kompaniya-yubileyida-keytering/
+2024-07-24 21:39:08,851 - INFO - Обработано 75 из 76 страниц.
+2024-07-24 21:39:08,851 - INFO - Обрабатываем страницу: https://lunacatering.uz/en/catering-companys-anniversary/
+2024-07-24 21:39:10,108 - INFO - Обработано 76 из 76 страниц.

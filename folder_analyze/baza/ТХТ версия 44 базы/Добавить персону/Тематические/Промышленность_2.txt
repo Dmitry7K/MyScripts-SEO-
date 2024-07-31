@@ -1,0 +1,2 @@
+http://www.foodset.ru/persons?act=person_add_update
+http://www.rusnanonet.ru/employees/?show=all

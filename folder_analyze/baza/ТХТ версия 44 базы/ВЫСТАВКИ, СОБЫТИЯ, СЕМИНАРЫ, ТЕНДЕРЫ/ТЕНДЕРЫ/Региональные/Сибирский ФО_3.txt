@@ -1,0 +1,3 @@
+http://barnaul7.ru/tender/?parent=rubricator&child=addtender
+http://irkutsk7.ru/tender/index.php?parent=rubricator&child=addtender
+http://novokuz.net/top/index.php?do=fdd

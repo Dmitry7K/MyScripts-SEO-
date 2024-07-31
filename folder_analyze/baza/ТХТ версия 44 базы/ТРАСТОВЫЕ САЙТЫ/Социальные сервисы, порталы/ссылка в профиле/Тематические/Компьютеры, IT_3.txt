@@ -1,0 +1,3 @@
+http://qube.ru/registration
+http://www.r01.ru/forum.php?register=yes&backurl=%2Fforum.php%3FPAGE_NAME%3Dprofile_view%26UID%3D19233&PAGE_NAME=profile_view&UID=19233
+http://www.starterkit.ru/html/index.php?name=account&op=newuser

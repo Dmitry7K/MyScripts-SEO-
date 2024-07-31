@@ -1,0 +1,11 @@
+2024-07-29 11:47:07,674 - INFO - Начинаем сканирование сайта...
+2024-07-29 11:47:07,674 - INFO - Сканирование страницы: https://emiratesfishingtour.com на глубине 0
+2024-07-29 11:47:07,674 - INFO - Запрос страницы: https://emiratesfishingtour.com
+2024-07-29 11:47:08,264 - INFO - Найдено 0 новых ссылок на странице https://emiratesfishingtour.com
+2024-07-29 11:47:08,264 - INFO - Всего страниц для проверки: 1
+2024-07-29 11:47:08,264 - INFO - ====== WebDriver manager ======
+2024-07-29 11:47:08,351 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-29 11:47:08,842 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-29 11:47:09,421 - INFO - Driver [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-arm64/chromedriver] found in cache
+2024-07-29 11:47:10,036 - INFO - Обрабатываем страницу: https://emiratesfishingtour.com
+2024-07-29 11:47:31,230 - INFO - Обработано 1 из 1 страниц.

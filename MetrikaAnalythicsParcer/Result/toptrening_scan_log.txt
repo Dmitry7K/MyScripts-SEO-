@@ -1,0 +1,451 @@
+2024-07-26 16:35:20,363 - INFO - Начинаем сканирование сайта...
+2024-07-26 16:35:20,363 - INFO - Сканирование страницы: https://toptrening.uz/ на глубине 0
+2024-07-26 16:35:20,363 - INFO - Запрос страницы: https://toptrening.uz/
+2024-07-26 16:35:23,732 - INFO - Найдено 43 новых ссылок на странице https://toptrening.uz/
+2024-07-26 16:35:23,732 - INFO - Сканирование страницы: http://toptrening.uz#preim на глубине 1
+2024-07-26 16:35:23,732 - INFO - Запрос страницы: http://toptrening.uz#preim
+2024-07-26 16:35:26,897 - INFO - Найдено 42 новых ссылок на странице http://toptrening.uz#preim
+2024-07-26 16:35:26,897 - INFO - Сканирование страницы: https://toptrening.uz/treningi-po-prodazham/ на глубине 2
+2024-07-26 16:35:26,897 - INFO - Запрос страницы: https://toptrening.uz/treningi-po-prodazham/
+2024-07-26 16:35:28,773 - INFO - Найдено 26 новых ссылок на странице https://toptrening.uz/treningi-po-prodazham/
+2024-07-26 16:35:28,773 - INFO - Сканирование страницы: https://toptrening.uz/treningi-po-upravleniyu/ на глубине 3
+2024-07-26 16:35:28,773 - INFO - Запрос страницы: https://toptrening.uz/treningi-po-upravleniyu/
+2024-07-26 16:35:30,894 - INFO - Найдено 25 новых ссылок на странице https://toptrening.uz/treningi-po-upravleniyu/
+2024-07-26 16:35:30,895 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/treningi-po-lichnoj-ehffektivnosti/
+2024-07-26 16:35:30,895 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/biznes-igry/
+2024-07-26 16:35:30,895 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz#about
+2024-07-26 16:35:30,895 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz#contacts
+2024-07-26 16:35:30,895 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/author/irina/
+2024-07-26 16:35:30,895 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/planirovanie-delegirovanie-kontrol/
+2024-07-26 16:35:30,895 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/upravlenie-prodazhami/
+2024-07-26 16:35:30,895 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/jeffektivnoe-rukovodstvo/
+2024-07-26 16:35:30,895 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/celepolaganie/
+2024-07-26 16:35:30,895 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/treningi-po-upravleniyu/#1550567497217-1
+2024-07-26 16:35:30,895 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/treningi-po-upravleniyu/#1550567620697-3-5
+2024-07-26 16:35:30,895 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/treningi-po-upravleniyu/#1550567619450-2-10
+2024-07-26 16:35:30,895 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/treningi-po-upravleniyu/#1550568232852-3-5
+2024-07-26 16:35:30,895 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/treningi-po-upravleniyu/#1550568233827-4-5
+2024-07-26 16:35:30,895 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/treningi-po-upravleniyu/#1550568309338-5-3
+2024-07-26 16:35:30,895 - INFO - Сканирование страницы: https://toptrening.uz/iskreniy-servis/ на глубине 3
+2024-07-26 16:35:30,895 - INFO - Запрос страницы: https://toptrening.uz/iskreniy-servis/
+2024-07-26 16:35:32,751 - INFO - Найдено 21 новых ссылок на странице https://toptrening.uz/iskreniy-servis/
+2024-07-26 16:35:32,751 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/iskreniy-servis/#1550567497217-1
+2024-07-26 16:35:32,751 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/iskreniy-servis/#1550567620697-3-5
+2024-07-26 16:35:32,751 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/iskreniy-servis/#1550567619450-2-10
+2024-07-26 16:35:32,751 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/iskreniy-servis/#1550568232852-3-5
+2024-07-26 16:35:32,751 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/iskreniy-servis/#1550568233827-4-5
+2024-07-26 16:35:32,751 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/iskreniy-servis/#1550568309338-5-3
+2024-07-26 16:35:32,751 - INFO - Сканирование страницы: https://toptrening.uz/tehniki-prodazh/ на глубине 3
+2024-07-26 16:35:32,751 - INFO - Запрос страницы: https://toptrening.uz/tehniki-prodazh/
+2024-07-26 16:35:34,749 - INFO - Найдено 21 новых ссылок на странице https://toptrening.uz/tehniki-prodazh/
+2024-07-26 16:35:34,750 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/tehniki-prodazh/#1550567497217-1
+2024-07-26 16:35:34,750 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/tehniki-prodazh/#1550567620697-3-5
+2024-07-26 16:35:34,750 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/tehniki-prodazh/#1550567619450-2-10
+2024-07-26 16:35:34,750 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/tehniki-prodazh/#1550568232852-3-5
+2024-07-26 16:35:34,750 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/tehniki-prodazh/#1550568233827-4-5
+2024-07-26 16:35:34,750 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/tehniki-prodazh/#1550568309338-5-3
+2024-07-26 16:35:34,750 - INFO - Сканирование страницы: https://toptrening.uz/biznes-v-krizis-dlja-prodazh/ на глубине 3
+2024-07-26 16:35:34,750 - INFO - Запрос страницы: https://toptrening.uz/biznes-v-krizis-dlja-prodazh/
+2024-07-26 16:35:36,730 - INFO - Найдено 21 новых ссылок на странице https://toptrening.uz/biznes-v-krizis-dlja-prodazh/
+2024-07-26 16:35:36,730 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/biznes-v-krizis-dlja-prodazh/#1550567497217-1
+2024-07-26 16:35:36,730 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/biznes-v-krizis-dlja-prodazh/#1550567620697-3-5
+2024-07-26 16:35:36,730 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/biznes-v-krizis-dlja-prodazh/#1550567619450-2-10
+2024-07-26 16:35:36,730 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/biznes-v-krizis-dlja-prodazh/#1550568232852-3-5
+2024-07-26 16:35:36,730 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/biznes-v-krizis-dlja-prodazh/#1550568233827-4-5
+2024-07-26 16:35:36,730 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/biznes-v-krizis-dlja-prodazh/#1550568309338-5-3
+2024-07-26 16:35:36,730 - INFO - Сканирование страницы: https://toptrening.uz/treningi-po-prodazham/#1550567497217-1 на глубине 3
+2024-07-26 16:35:36,730 - INFO - Запрос страницы: https://toptrening.uz/treningi-po-prodazham/#1550567497217-1
+2024-07-26 16:35:38,883 - INFO - Найдено 19 новых ссылок на странице https://toptrening.uz/treningi-po-prodazham/#1550567497217-1
+2024-07-26 16:35:38,883 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/treningi-po-prodazham/#1550567620697-3-5
+2024-07-26 16:35:38,883 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/treningi-po-prodazham/#1550567619450-2-10
+2024-07-26 16:35:38,883 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/treningi-po-prodazham/#1550568232852-3-5
+2024-07-26 16:35:38,883 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/treningi-po-prodazham/#1550568233827-4-5
+2024-07-26 16:35:38,883 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/treningi-po-prodazham/#1550568309338-5-3
+2024-07-26 16:35:38,883 - INFO - Сканирование страницы: https://toptrening.uz/jemocionalnyj-intellekt/ на глубине 2
+2024-07-26 16:35:38,883 - INFO - Запрос страницы: https://toptrening.uz/jemocionalnyj-intellekt/
+2024-07-26 16:35:42,076 - INFO - Найдено 21 новых ссылок на странице https://toptrening.uz/jemocionalnyj-intellekt/
+2024-07-26 16:35:42,076 - INFO - Сканирование страницы: https://toptrening.uz/jemocionalnyj-intellekt/#1550567497217-1 на глубине 3
+2024-07-26 16:35:42,076 - INFO - Запрос страницы: https://toptrening.uz/jemocionalnyj-intellekt/#1550567497217-1
+2024-07-26 16:35:45,072 - INFO - Найдено 19 новых ссылок на странице https://toptrening.uz/jemocionalnyj-intellekt/#1550567497217-1
+2024-07-26 16:35:45,072 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/jemocionalnyj-intellekt/#1550567620697-3-5
+2024-07-26 16:35:45,072 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/jemocionalnyj-intellekt/#1550567619450-2-10
+2024-07-26 16:35:45,072 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/jemocionalnyj-intellekt/#1550568232852-3-5
+2024-07-26 16:35:45,072 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/jemocionalnyj-intellekt/#1550568233827-4-5
+2024-07-26 16:35:45,072 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/jemocionalnyj-intellekt/#1550568309338-5-3
+2024-07-26 16:35:45,072 - INFO - Сканирование страницы: https://toptrening.uz/tajm-menedzhment/ на глубине 2
+2024-07-26 16:35:45,072 - INFO - Запрос страницы: https://toptrening.uz/tajm-menedzhment/
+2024-07-26 16:35:47,011 - INFO - Найдено 21 новых ссылок на странице https://toptrening.uz/tajm-menedzhment/
+2024-07-26 16:35:47,011 - INFO - Сканирование страницы: https://toptrening.uz/tajm-menedzhment/#1550567497217-1 на глубине 3
+2024-07-26 16:35:47,011 - INFO - Запрос страницы: https://toptrening.uz/tajm-menedzhment/#1550567497217-1
+2024-07-26 16:35:49,116 - INFO - Найдено 19 новых ссылок на странице https://toptrening.uz/tajm-menedzhment/#1550567497217-1
+2024-07-26 16:35:49,116 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/tajm-menedzhment/#1550567620697-3-5
+2024-07-26 16:35:49,116 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/tajm-menedzhment/#1550567619450-2-10
+2024-07-26 16:35:49,116 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/tajm-menedzhment/#1550568232852-3-5
+2024-07-26 16:35:49,116 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/tajm-menedzhment/#1550568233827-4-5
+2024-07-26 16:35:49,116 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/tajm-menedzhment/#1550568309338-5-3
+2024-07-26 16:35:49,116 - INFO - Сканирование страницы: https://toptrening.uz/stressmenedzhment/ на глубине 2
+2024-07-26 16:35:49,116 - INFO - Запрос страницы: https://toptrening.uz/stressmenedzhment/
+2024-07-26 16:35:52,164 - INFO - Найдено 21 новых ссылок на странице https://toptrening.uz/stressmenedzhment/
+2024-07-26 16:35:52,164 - INFO - Сканирование страницы: https://toptrening.uz/stressmenedzhment/#1550567497217-1 на глубине 3
+2024-07-26 16:35:52,164 - INFO - Запрос страницы: https://toptrening.uz/stressmenedzhment/#1550567497217-1
+2024-07-26 16:35:54,261 - INFO - Найдено 19 новых ссылок на странице https://toptrening.uz/stressmenedzhment/#1550567497217-1
+2024-07-26 16:35:54,261 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/stressmenedzhment/#1550567620697-3-5
+2024-07-26 16:35:54,261 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/stressmenedzhment/#1550567619450-2-10
+2024-07-26 16:35:54,261 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/stressmenedzhment/#1550568232852-3-5
+2024-07-26 16:35:54,261 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/stressmenedzhment/#1550568233827-4-5
+2024-07-26 16:35:54,261 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/stressmenedzhment/#1550568309338-5-3
+2024-07-26 16:35:54,261 - INFO - Сканирование страницы: http://toptrening.uz/geniy-peregovorov/ на глубине 2
+2024-07-26 16:35:54,261 - INFO - Запрос страницы: http://toptrening.uz/geniy-peregovorov/
+2024-07-26 16:35:56,198 - INFO - Найдено 31 новых ссылок на странице http://toptrening.uz/geniy-peregovorov/
+2024-07-26 16:35:56,198 - INFO - Сканирование страницы: https://toptrening.uz/wp-content/uploads/2022/08/9.jpg на глубине 3
+2024-07-26 16:35:56,198 - INFO - Запрос страницы: https://toptrening.uz/wp-content/uploads/2022/08/9.jpg
+2024-07-26 16:35:57,025 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2024-07-26 16:35:57,030 - INFO - Найдено 0 новых ссылок на странице https://toptrening.uz/wp-content/uploads/2022/08/9.jpg
+2024-07-26 16:35:57,030 - INFO - Сканирование страницы: https://toptrening.uz/wp-content/uploads/2022/08/8.jpg на глубине 3
+2024-07-26 16:35:57,030 - INFO - Запрос страницы: https://toptrening.uz/wp-content/uploads/2022/08/8.jpg
+2024-07-26 16:35:57,813 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2024-07-26 16:35:57,817 - INFO - Найдено 0 новых ссылок на странице https://toptrening.uz/wp-content/uploads/2022/08/8.jpg
+2024-07-26 16:35:57,817 - INFO - Сканирование страницы: https://toptrening.uz/wp-content/uploads/2022/08/7.jpg на глубине 3
+2024-07-26 16:35:57,817 - INFO - Запрос страницы: https://toptrening.uz/wp-content/uploads/2022/08/7.jpg
+2024-07-26 16:35:58,176 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2024-07-26 16:35:58,178 - INFO - Найдено 0 новых ссылок на странице https://toptrening.uz/wp-content/uploads/2022/08/7.jpg
+2024-07-26 16:35:58,179 - INFO - Сканирование страницы: https://toptrening.uz/wp-content/uploads/2022/08/6.jpg на глубине 3
+2024-07-26 16:35:58,179 - INFO - Запрос страницы: https://toptrening.uz/wp-content/uploads/2022/08/6.jpg
+2024-07-26 16:35:58,719 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2024-07-26 16:35:58,723 - INFO - Найдено 0 новых ссылок на странице https://toptrening.uz/wp-content/uploads/2022/08/6.jpg
+2024-07-26 16:35:58,723 - INFO - Сканирование страницы: https://toptrening.uz/wp-content/uploads/2022/08/5.jpg на глубине 3
+2024-07-26 16:35:58,723 - INFO - Запрос страницы: https://toptrening.uz/wp-content/uploads/2022/08/5.jpg
+2024-07-26 16:35:59,683 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2024-07-26 16:35:59,684 - INFO - Найдено 0 новых ссылок на странице https://toptrening.uz/wp-content/uploads/2022/08/5.jpg
+2024-07-26 16:35:59,684 - INFO - Сканирование страницы: https://toptrening.uz/wp-content/uploads/2022/08/4.jpg на глубине 3
+2024-07-26 16:35:59,684 - INFO - Запрос страницы: https://toptrening.uz/wp-content/uploads/2022/08/4.jpg
+2024-07-26 16:36:00,195 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2024-07-26 16:36:00,198 - INFO - Найдено 0 новых ссылок на странице https://toptrening.uz/wp-content/uploads/2022/08/4.jpg
+2024-07-26 16:36:00,198 - INFO - Сканирование страницы: https://toptrening.uz/wp-content/uploads/2022/08/3.jpg на глубине 3
+2024-07-26 16:36:00,198 - INFO - Запрос страницы: https://toptrening.uz/wp-content/uploads/2022/08/3.jpg
+2024-07-26 16:36:00,520 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2024-07-26 16:36:00,522 - INFO - Найдено 0 новых ссылок на странице https://toptrening.uz/wp-content/uploads/2022/08/3.jpg
+2024-07-26 16:36:00,522 - INFO - Сканирование страницы: https://toptrening.uz/wp-content/uploads/2022/08/2.jpg на глубине 3
+2024-07-26 16:36:00,522 - INFO - Запрос страницы: https://toptrening.uz/wp-content/uploads/2022/08/2.jpg
+2024-07-26 16:36:01,032 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2024-07-26 16:36:01,035 - INFO - Найдено 0 новых ссылок на странице https://toptrening.uz/wp-content/uploads/2022/08/2.jpg
+2024-07-26 16:36:01,035 - INFO - Сканирование страницы: https://toptrening.uz/wp-content/uploads/2022/08/1.jpg на глубине 3
+2024-07-26 16:36:01,035 - INFO - Запрос страницы: https://toptrening.uz/wp-content/uploads/2022/08/1.jpg
+2024-07-26 16:36:01,352 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2024-07-26 16:36:01,354 - INFO - Найдено 0 новых ссылок на странице https://toptrening.uz/wp-content/uploads/2022/08/1.jpg
+2024-07-26 16:36:01,354 - INFO - Сканирование страницы: https://toptrening.uz/wp-content/uploads/2022/08/10.jpg на глубине 3
+2024-07-26 16:36:01,354 - INFO - Запрос страницы: https://toptrening.uz/wp-content/uploads/2022/08/10.jpg
+2024-07-26 16:36:01,887 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2024-07-26 16:36:01,889 - INFO - Найдено 0 новых ссылок на странице https://toptrening.uz/wp-content/uploads/2022/08/10.jpg
+2024-07-26 16:36:01,889 - INFO - Сканирование страницы: http://toptrening.uz/geniy-peregovorov/#1550567497217-1 на глубине 3
+2024-07-26 16:36:01,889 - INFO - Запрос страницы: http://toptrening.uz/geniy-peregovorov/#1550567497217-1
+2024-07-26 16:36:04,058 - INFO - Найдено 19 новых ссылок на странице http://toptrening.uz/geniy-peregovorov/#1550567497217-1
+2024-07-26 16:36:04,058 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/geniy-peregovorov/#1550567620697-3-5
+2024-07-26 16:36:04,058 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/geniy-peregovorov/#1550567619450-2-10
+2024-07-26 16:36:04,058 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/geniy-peregovorov/#1550568232852-3-5
+2024-07-26 16:36:04,058 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/geniy-peregovorov/#1550568233827-4-5
+2024-07-26 16:36:04,058 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/geniy-peregovorov/#1550568309338-5-3
+2024-07-26 16:36:04,058 - INFO - Сканирование страницы: http://toptrening.uz/prodaji-kak-igra/ на глубине 2
+2024-07-26 16:36:04,058 - INFO - Запрос страницы: http://toptrening.uz/prodaji-kak-igra/
+2024-07-26 16:36:06,053 - INFO - Найдено 40 новых ссылок на странице http://toptrening.uz/prodaji-kak-igra/
+2024-07-26 16:36:06,054 - INFO - Сканирование страницы: http://toptrening.uz/prodaji-kak-igra/#tab-530af33e-1801-7 на глубине 3
+2024-07-26 16:36:06,054 - INFO - Запрос страницы: http://toptrening.uz/prodaji-kak-igra/#tab-530af33e-1801-7
+2024-07-26 16:36:08,025 - INFO - Найдено 39 новых ссылок на странице http://toptrening.uz/prodaji-kak-igra/#tab-530af33e-1801-7
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/prodaji-kak-igra/#tab-1661185565194-1-8
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/prodaji-kak-igra/#tab-1661185566769-2-2
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/prodaji-kak-igra/#tab-1661185567348-3-7
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/prodaji-kak-igra/#tab-1661185868229-4-8
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/prodaji-kak-igra/#tab-1661185984809-5-7
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/prodaji-kak-igra/#tab-1661186046147-6-3
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/wp-content/uploads/2022/08/1-2.jpg
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/wp-content/uploads/2022/08/1-3.jpg
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/wp-content/uploads/2022/08/1-4.jpg
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/wp-content/uploads/2022/08/1-5.jpg
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/wp-content/uploads/2022/08/1-6.jpg
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/wp-content/uploads/2022/08/1-7.jpg
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/wp-content/uploads/2022/08/1-8.jpg
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/wp-content/uploads/2022/08/1-9.jpg
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/wp-content/uploads/2022/08/1-10.jpg
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/wp-content/uploads/2022/08/1-11.jpg
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/wp-content/uploads/2022/08/1-12.jpg
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/wp-content/uploads/2022/08/1-1.jpg
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/prodaji-kak-igra/#1550567497217-1
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/prodaji-kak-igra/#1550567620697-3-5
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/prodaji-kak-igra/#1550567619450-2-10
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/prodaji-kak-igra/#1550568232852-3-5
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/prodaji-kak-igra/#1550568233827-4-5
+2024-07-26 16:36:08,025 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz/prodaji-kak-igra/#1550568309338-5-3
+2024-07-26 16:36:08,025 - INFO - Сканирование страницы: http://toptrening.uz на глубине 2
+2024-07-26 16:36:08,025 - INFO - Запрос страницы: http://toptrening.uz
+2024-07-26 16:36:11,089 - INFO - Найдено 27 новых ссылок на странице http://toptrening.uz
+2024-07-26 16:36:11,090 - INFO - Сканирование страницы: http://toptrening.uz#1550567497217-1 на глубине 3
+2024-07-26 16:36:11,090 - INFO - Запрос страницы: http://toptrening.uz#1550567497217-1
+2024-07-26 16:36:14,285 - INFO - Найдено 25 новых ссылок на странице http://toptrening.uz#1550567497217-1
+2024-07-26 16:36:14,285 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz#1550567620697-3-5
+2024-07-26 16:36:14,285 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz#1550567619450-2-10
+2024-07-26 16:36:14,285 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz#1550568232852-3-5
+2024-07-26 16:36:14,285 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz#1550568233827-4-5
+2024-07-26 16:36:14,285 - INFO - Достигнут лимит глубины или количества страниц для http://toptrening.uz#1550568309338-5-3
+2024-07-26 16:36:14,285 - INFO - Сканирование страницы: https://toptrening.uz/#1550567497217-1 на глубине 1
+2024-07-26 16:36:14,285 - INFO - Запрос страницы: https://toptrening.uz/#1550567497217-1
+2024-07-26 16:36:16,572 - INFO - Найдено 25 новых ссылок на странице https://toptrening.uz/#1550567497217-1
+2024-07-26 16:36:16,572 - INFO - Сканирование страницы: https://toptrening.uz/#1550567620697-3-5 на глубине 2
+2024-07-26 16:36:16,573 - INFO - Запрос страницы: https://toptrening.uz/#1550567620697-3-5
+2024-07-26 16:36:18,726 - INFO - Найдено 23 новых ссылок на странице https://toptrening.uz/#1550567620697-3-5
+2024-07-26 16:36:18,726 - INFO - Сканирование страницы: https://toptrening.uz/#1550567619450-2-10 на глубине 3
+2024-07-26 16:36:18,726 - INFO - Запрос страницы: https://toptrening.uz/#1550567619450-2-10
+2024-07-26 16:36:21,586 - INFO - Найдено 21 новых ссылок на странице https://toptrening.uz/#1550567619450-2-10
+2024-07-26 16:36:21,586 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/#1550568232852-3-5
+2024-07-26 16:36:21,586 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/#1550568233827-4-5
+2024-07-26 16:36:21,586 - INFO - Достигнут лимит глубины или количества страниц для https://toptrening.uz/#1550568309338-5-3
+2024-07-26 16:36:21,586 - INFO - Всего страниц для проверки: 123
+2024-07-26 16:36:21,586 - INFO - ====== WebDriver manager ======
+2024-07-26 16:36:21,673 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-26 16:36:21,965 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-26 16:36:22,269 - INFO - Driver [/Users/dmitrijkovalev/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-arm64/chromedriver] found in cache
+2024-07-26 16:36:22,703 - INFO - Обрабатываем страницу: https://toptrening.uz/
+2024-07-26 16:36:26,703 - INFO - Обработано 1 из 123 страниц.
+2024-07-26 16:36:26,704 - INFO - Обрабатываем страницу: http://toptrening.uz#preim
+2024-07-26 16:36:29,523 - INFO - Обработано 2 из 123 страниц.
+2024-07-26 16:36:29,523 - INFO - Обрабатываем страницу: https://toptrening.uz/treningi-po-prodazham/
+2024-07-26 16:36:32,085 - INFO - Обработано 3 из 123 страниц.
+2024-07-26 16:36:32,085 - INFO - Обрабатываем страницу: https://toptrening.uz/treningi-po-upravleniyu/
+2024-07-26 16:36:34,246 - INFO - Обработано 4 из 123 страниц.
+2024-07-26 16:36:34,246 - INFO - Обрабатываем страницу: https://toptrening.uz/treningi-po-lichnoj-ehffektivnosti/
+2024-07-26 16:36:36,535 - INFO - Обработано 5 из 123 страниц.
+2024-07-26 16:36:36,535 - INFO - Обрабатываем страницу: https://toptrening.uz/biznes-igry/
+2024-07-26 16:36:38,895 - INFO - Обработано 6 из 123 страниц.
+2024-07-26 16:36:38,895 - INFO - Обрабатываем страницу: http://toptrening.uz#about
+2024-07-26 16:36:42,267 - INFO - Обработано 7 из 123 страниц.
+2024-07-26 16:36:42,267 - INFO - Обрабатываем страницу: http://toptrening.uz#contacts
+2024-07-26 16:36:44,544 - INFO - Обработано 8 из 123 страниц.
+2024-07-26 16:36:44,544 - INFO - Обрабатываем страницу: https://toptrening.uz/author/irina/
+2024-07-26 16:36:52,774 - INFO - Обработано 9 из 123 страниц.
+2024-07-26 16:36:52,774 - INFO - Обрабатываем страницу: https://toptrening.uz/planirovanie-delegirovanie-kontrol/
+2024-07-26 16:36:54,798 - INFO - Обработано 10 из 123 страниц.
+2024-07-26 16:36:54,798 - INFO - Обрабатываем страницу: https://toptrening.uz/upravlenie-prodazhami/
+2024-07-26 16:36:57,125 - INFO - Обработано 11 из 123 страниц.
+2024-07-26 16:36:57,125 - INFO - Обрабатываем страницу: https://toptrening.uz/jeffektivnoe-rukovodstvo/
+2024-07-26 16:36:59,366 - INFO - Обработано 12 из 123 страниц.
+2024-07-26 16:36:59,366 - INFO - Обрабатываем страницу: https://toptrening.uz/celepolaganie/
+2024-07-26 16:37:01,363 - INFO - Обработано 13 из 123 страниц.
+2024-07-26 16:37:01,363 - INFO - Обрабатываем страницу: https://toptrening.uz/treningi-po-upravleniyu/#1550567497217-1
+2024-07-26 16:37:03,534 - INFO - Обработано 14 из 123 страниц.
+2024-07-26 16:37:03,534 - INFO - Обрабатываем страницу: https://toptrening.uz/treningi-po-upravleniyu/#1550567620697-3-5
+2024-07-26 16:37:03,565 - INFO - Обработано 15 из 123 страниц.
+2024-07-26 16:37:03,566 - INFO - Обрабатываем страницу: https://toptrening.uz/treningi-po-upravleniyu/#1550567619450-2-10
+2024-07-26 16:37:03,626 - INFO - Обработано 16 из 123 страниц.
+2024-07-26 16:37:03,626 - INFO - Обрабатываем страницу: https://toptrening.uz/treningi-po-upravleniyu/#1550568232852-3-5
+2024-07-26 16:37:03,659 - INFO - Обработано 17 из 123 страниц.
+2024-07-26 16:37:03,659 - INFO - Обрабатываем страницу: https://toptrening.uz/treningi-po-upravleniyu/#1550568233827-4-5
+2024-07-26 16:37:03,691 - INFO - Обработано 18 из 123 страниц.
+2024-07-26 16:37:03,691 - INFO - Обрабатываем страницу: https://toptrening.uz/treningi-po-upravleniyu/#1550568309338-5-3
+2024-07-26 16:37:03,722 - INFO - Обработано 19 из 123 страниц.
+2024-07-26 16:37:03,722 - INFO - Обрабатываем страницу: https://toptrening.uz/iskreniy-servis/
+2024-07-26 16:37:05,780 - INFO - Обработано 20 из 123 страниц.
+2024-07-26 16:37:05,780 - INFO - Обрабатываем страницу: https://toptrening.uz/iskreniy-servis/#1550567497217-1
+2024-07-26 16:37:05,810 - INFO - Обработано 21 из 123 страниц.
+2024-07-26 16:37:05,810 - INFO - Обрабатываем страницу: https://toptrening.uz/iskreniy-servis/#1550567620697-3-5
+2024-07-26 16:37:05,871 - INFO - Обработано 22 из 123 страниц.
+2024-07-26 16:37:05,872 - INFO - Обрабатываем страницу: https://toptrening.uz/iskreniy-servis/#1550567619450-2-10
+2024-07-26 16:37:05,903 - INFO - Обработано 23 из 123 страниц.
+2024-07-26 16:37:05,903 - INFO - Обрабатываем страницу: https://toptrening.uz/iskreniy-servis/#1550568232852-3-5
+2024-07-26 16:37:05,933 - INFO - Обработано 24 из 123 страниц.
+2024-07-26 16:37:05,933 - INFO - Обрабатываем страницу: https://toptrening.uz/iskreniy-servis/#1550568233827-4-5
+2024-07-26 16:37:05,964 - INFO - Обработано 25 из 123 страниц.
+2024-07-26 16:37:05,964 - INFO - Обрабатываем страницу: https://toptrening.uz/iskreniy-servis/#1550568309338-5-3
+2024-07-26 16:37:05,994 - INFO - Обработано 26 из 123 страниц.
+2024-07-26 16:37:05,994 - INFO - Обрабатываем страницу: https://toptrening.uz/tehniki-prodazh/
+2024-07-26 16:37:08,289 - INFO - Обработано 27 из 123 страниц.
+2024-07-26 16:37:08,289 - INFO - Обрабатываем страницу: https://toptrening.uz/tehniki-prodazh/#1550567497217-1
+2024-07-26 16:37:08,333 - INFO - Обработано 28 из 123 страниц.
+2024-07-26 16:37:08,333 - INFO - Обрабатываем страницу: https://toptrening.uz/tehniki-prodazh/#1550567620697-3-5
+2024-07-26 16:37:08,365 - INFO - Обработано 29 из 123 страниц.
+2024-07-26 16:37:08,365 - INFO - Обрабатываем страницу: https://toptrening.uz/tehniki-prodazh/#1550567619450-2-10
+2024-07-26 16:37:08,428 - INFO - Обработано 30 из 123 страниц.
+2024-07-26 16:37:08,428 - INFO - Обрабатываем страницу: https://toptrening.uz/tehniki-prodazh/#1550568232852-3-5
+2024-07-26 16:37:08,459 - INFO - Обработано 31 из 123 страниц.
+2024-07-26 16:37:08,459 - INFO - Обрабатываем страницу: https://toptrening.uz/tehniki-prodazh/#1550568233827-4-5
+2024-07-26 16:37:08,489 - INFO - Обработано 32 из 123 страниц.
+2024-07-26 16:37:08,489 - INFO - Обрабатываем страницу: https://toptrening.uz/tehniki-prodazh/#1550568309338-5-3
+2024-07-26 16:37:08,520 - INFO - Обработано 33 из 123 страниц.
+2024-07-26 16:37:08,520 - INFO - Обрабатываем страницу: https://toptrening.uz/biznes-v-krizis-dlja-prodazh/
+2024-07-26 16:37:10,779 - INFO - Обработано 34 из 123 страниц.
+2024-07-26 16:37:10,779 - INFO - Обрабатываем страницу: https://toptrening.uz/biznes-v-krizis-dlja-prodazh/#1550567497217-1
+2024-07-26 16:37:10,808 - INFO - Обработано 35 из 123 страниц.
+2024-07-26 16:37:10,808 - INFO - Обрабатываем страницу: https://toptrening.uz/biznes-v-krizis-dlja-prodazh/#1550567620697-3-5
+2024-07-26 16:37:10,870 - INFO - Обработано 36 из 123 страниц.
+2024-07-26 16:37:10,870 - INFO - Обрабатываем страницу: https://toptrening.uz/biznes-v-krizis-dlja-prodazh/#1550567619450-2-10
+2024-07-26 16:37:10,901 - INFO - Обработано 37 из 123 страниц.
+2024-07-26 16:37:10,901 - INFO - Обрабатываем страницу: https://toptrening.uz/biznes-v-krizis-dlja-prodazh/#1550568232852-3-5
+2024-07-26 16:37:10,931 - INFO - Обработано 38 из 123 страниц.
+2024-07-26 16:37:10,931 - INFO - Обрабатываем страницу: https://toptrening.uz/biznes-v-krizis-dlja-prodazh/#1550568233827-4-5
+2024-07-26 16:37:10,962 - INFO - Обработано 39 из 123 страниц.
+2024-07-26 16:37:10,962 - INFO - Обрабатываем страницу: https://toptrening.uz/biznes-v-krizis-dlja-prodazh/#1550568309338-5-3
+2024-07-26 16:37:10,992 - INFO - Обработано 40 из 123 страниц.
+2024-07-26 16:37:10,992 - INFO - Обрабатываем страницу: https://toptrening.uz/treningi-po-prodazham/#1550567497217-1
+2024-07-26 16:37:13,184 - INFO - Обработано 41 из 123 страниц.
+2024-07-26 16:37:13,184 - INFO - Обрабатываем страницу: https://toptrening.uz/treningi-po-prodazham/#1550567620697-3-5
+2024-07-26 16:37:13,215 - INFO - Обработано 42 из 123 страниц.
+2024-07-26 16:37:13,215 - INFO - Обрабатываем страницу: https://toptrening.uz/treningi-po-prodazham/#1550567619450-2-10
+2024-07-26 16:37:13,278 - INFO - Обработано 43 из 123 страниц.
+2024-07-26 16:37:13,278 - INFO - Обрабатываем страницу: https://toptrening.uz/treningi-po-prodazham/#1550568232852-3-5
+2024-07-26 16:37:13,309 - INFO - Обработано 44 из 123 страниц.
+2024-07-26 16:37:13,309 - INFO - Обрабатываем страницу: https://toptrening.uz/treningi-po-prodazham/#1550568233827-4-5
+2024-07-26 16:37:13,340 - INFO - Обработано 45 из 123 страниц.
+2024-07-26 16:37:13,340 - INFO - Обрабатываем страницу: https://toptrening.uz/treningi-po-prodazham/#1550568309338-5-3
+2024-07-26 16:37:13,371 - INFO - Обработано 46 из 123 страниц.
+2024-07-26 16:37:13,371 - INFO - Обрабатываем страницу: https://toptrening.uz/jemocionalnyj-intellekt/
+2024-07-26 16:37:16,725 - INFO - Обработано 47 из 123 страниц.
+2024-07-26 16:37:16,725 - INFO - Обрабатываем страницу: https://toptrening.uz/jemocionalnyj-intellekt/#1550567497217-1
+2024-07-26 16:37:19,196 - INFO - Обработано 48 из 123 страниц.
+2024-07-26 16:37:19,197 - INFO - Обрабатываем страницу: https://toptrening.uz/jemocionalnyj-intellekt/#1550567620697-3-5
+2024-07-26 16:37:21,553 - INFO - Обработано 49 из 123 страниц.
+2024-07-26 16:37:21,553 - INFO - Обрабатываем страницу: https://toptrening.uz/jemocionalnyj-intellekt/#1550567619450-2-10
+2024-07-26 16:37:23,803 - INFO - Обработано 50 из 123 страниц.
+2024-07-26 16:37:23,803 - INFO - Обрабатываем страницу: https://toptrening.uz/jemocionalnyj-intellekt/#1550568232852-3-5
+2024-07-26 16:37:25,984 - INFO - Обработано 51 из 123 страниц.
+2024-07-26 16:37:25,984 - INFO - Обрабатываем страницу: https://toptrening.uz/jemocionalnyj-intellekt/#1550568233827-4-5
+2024-07-26 16:37:27,951 - INFO - Обработано 52 из 123 страниц.
+2024-07-26 16:37:27,951 - INFO - Обрабатываем страницу: https://toptrening.uz/jemocionalnyj-intellekt/#1550568309338-5-3
+2024-07-26 16:37:30,067 - INFO - Обработано 53 из 123 страниц.
+2024-07-26 16:37:30,067 - INFO - Обрабатываем страницу: https://toptrening.uz/tajm-menedzhment/
+2024-07-26 16:37:32,267 - INFO - Обработано 54 из 123 страниц.
+2024-07-26 16:37:32,267 - INFO - Обрабатываем страницу: https://toptrening.uz/tajm-menedzhment/#1550567497217-1
+2024-07-26 16:37:32,297 - INFO - Обработано 55 из 123 страниц.
+2024-07-26 16:37:32,297 - INFO - Обрабатываем страницу: https://toptrening.uz/tajm-menedzhment/#1550567620697-3-5
+2024-07-26 16:37:32,361 - INFO - Обработано 56 из 123 страниц.
+2024-07-26 16:37:32,361 - INFO - Обрабатываем страницу: https://toptrening.uz/tajm-menedzhment/#1550567619450-2-10
+2024-07-26 16:37:32,392 - INFO - Обработано 57 из 123 страниц.
+2024-07-26 16:37:32,392 - INFO - Обрабатываем страницу: https://toptrening.uz/tajm-menedzhment/#1550568232852-3-5
+2024-07-26 16:37:32,422 - INFO - Обработано 58 из 123 страниц.
+2024-07-26 16:37:32,423 - INFO - Обрабатываем страницу: https://toptrening.uz/tajm-menedzhment/#1550568233827-4-5
+2024-07-26 16:37:32,453 - INFO - Обработано 59 из 123 страниц.
+2024-07-26 16:37:32,453 - INFO - Обрабатываем страницу: https://toptrening.uz/tajm-menedzhment/#1550568309338-5-3
+2024-07-26 16:37:32,483 - INFO - Обработано 60 из 123 страниц.
+2024-07-26 16:37:32,483 - INFO - Обрабатываем страницу: https://toptrening.uz/stressmenedzhment/
+2024-07-26 16:37:34,633 - INFO - Обработано 61 из 123 страниц.
+2024-07-26 16:37:34,633 - INFO - Обрабатываем страницу: https://toptrening.uz/stressmenedzhment/#1550567497217-1
+2024-07-26 16:37:34,664 - INFO - Обработано 62 из 123 страниц.
+2024-07-26 16:37:34,664 - INFO - Обрабатываем страницу: https://toptrening.uz/stressmenedzhment/#1550567620697-3-5
+2024-07-26 16:37:34,727 - INFO - Обработано 63 из 123 страниц.
+2024-07-26 16:37:34,727 - INFO - Обрабатываем страницу: https://toptrening.uz/stressmenedzhment/#1550567619450-2-10
+2024-07-26 16:37:34,759 - INFO - Обработано 64 из 123 страниц.
+2024-07-26 16:37:34,759 - INFO - Обрабатываем страницу: https://toptrening.uz/stressmenedzhment/#1550568232852-3-5
+2024-07-26 16:37:34,791 - INFO - Обработано 65 из 123 страниц.
+2024-07-26 16:37:34,791 - INFO - Обрабатываем страницу: https://toptrening.uz/stressmenedzhment/#1550568233827-4-5
+2024-07-26 16:37:34,821 - INFO - Обработано 66 из 123 страниц.
+2024-07-26 16:37:34,821 - INFO - Обрабатываем страницу: https://toptrening.uz/stressmenedzhment/#1550568309338-5-3
+2024-07-26 16:37:34,852 - INFO - Обработано 67 из 123 страниц.
+2024-07-26 16:37:34,852 - INFO - Обрабатываем страницу: http://toptrening.uz/geniy-peregovorov/
+2024-07-26 16:37:37,422 - INFO - Обработано 68 из 123 страниц.
+2024-07-26 16:37:37,422 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/9.jpg
+2024-07-26 16:37:37,578 - INFO - Обработано 69 из 123 страниц.
+2024-07-26 16:37:37,578 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/8.jpg
+2024-07-26 16:37:37,627 - INFO - Обработано 70 из 123 страниц.
+2024-07-26 16:37:37,627 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/7.jpg
+2024-07-26 16:37:37,657 - INFO - Обработано 71 из 123 страниц.
+2024-07-26 16:37:37,657 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/6.jpg
+2024-07-26 16:37:37,694 - INFO - Обработано 72 из 123 страниц.
+2024-07-26 16:37:37,694 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/5.jpg
+2024-07-26 16:37:37,751 - INFO - Обработано 73 из 123 страниц.
+2024-07-26 16:37:37,751 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/4.jpg
+2024-07-26 16:37:37,804 - INFO - Обработано 74 из 123 страниц.
+2024-07-26 16:37:37,804 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/3.jpg
+2024-07-26 16:37:37,847 - INFO - Обработано 75 из 123 страниц.
+2024-07-26 16:37:37,847 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/2.jpg
+2024-07-26 16:37:37,880 - INFO - Обработано 76 из 123 страниц.
+2024-07-26 16:37:37,880 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/1.jpg
+2024-07-26 16:37:37,908 - INFO - Обработано 77 из 123 страниц.
+2024-07-26 16:37:37,908 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/10.jpg
+2024-07-26 16:37:37,949 - INFO - Обработано 78 из 123 страниц.
+2024-07-26 16:37:37,949 - INFO - Обрабатываем страницу: http://toptrening.uz/geniy-peregovorov/#1550567497217-1
+2024-07-26 16:37:40,233 - INFO - Обработано 79 из 123 страниц.
+2024-07-26 16:37:40,233 - INFO - Обрабатываем страницу: http://toptrening.uz/geniy-peregovorov/#1550567620697-3-5
+2024-07-26 16:37:42,624 - INFO - Обработано 80 из 123 страниц.
+2024-07-26 16:37:42,624 - INFO - Обрабатываем страницу: http://toptrening.uz/geniy-peregovorov/#1550567619450-2-10
+2024-07-26 16:37:44,903 - INFO - Обработано 81 из 123 страниц.
+2024-07-26 16:37:44,903 - INFO - Обрабатываем страницу: http://toptrening.uz/geniy-peregovorov/#1550568232852-3-5
+2024-07-26 16:37:47,209 - INFO - Обработано 82 из 123 страниц.
+2024-07-26 16:37:47,209 - INFO - Обрабатываем страницу: http://toptrening.uz/geniy-peregovorov/#1550568233827-4-5
+2024-07-26 16:37:49,783 - INFO - Обработано 83 из 123 страниц.
+2024-07-26 16:37:49,783 - INFO - Обрабатываем страницу: http://toptrening.uz/geniy-peregovorov/#1550568309338-5-3
+2024-07-26 16:37:52,035 - INFO - Обработано 84 из 123 страниц.
+2024-07-26 16:37:52,035 - INFO - Обрабатываем страницу: http://toptrening.uz/prodaji-kak-igra/
+2024-07-26 16:37:54,382 - INFO - Обработано 85 из 123 страниц.
+2024-07-26 16:37:54,382 - INFO - Обрабатываем страницу: http://toptrening.uz/prodaji-kak-igra/#tab-530af33e-1801-7
+2024-07-26 16:37:56,759 - INFO - Обработано 86 из 123 страниц.
+2024-07-26 16:37:56,759 - INFO - Обрабатываем страницу: http://toptrening.uz/prodaji-kak-igra/#tab-1661185565194-1-8
+2024-07-26 16:37:59,467 - INFO - Обработано 87 из 123 страниц.
+2024-07-26 16:37:59,468 - INFO - Обрабатываем страницу: http://toptrening.uz/prodaji-kak-igra/#tab-1661185566769-2-2
+2024-07-26 16:38:02,269 - INFO - Обработано 88 из 123 страниц.
+2024-07-26 16:38:02,269 - INFO - Обрабатываем страницу: http://toptrening.uz/prodaji-kak-igra/#tab-1661185567348-3-7
+2024-07-26 16:38:05,452 - INFO - Обработано 89 из 123 страниц.
+2024-07-26 16:38:05,452 - INFO - Обрабатываем страницу: http://toptrening.uz/prodaji-kak-igra/#tab-1661185868229-4-8
+2024-07-26 16:38:08,164 - INFO - Обработано 90 из 123 страниц.
+2024-07-26 16:38:08,164 - INFO - Обрабатываем страницу: http://toptrening.uz/prodaji-kak-igra/#tab-1661185984809-5-7
+2024-07-26 16:38:10,569 - INFO - Обработано 91 из 123 страниц.
+2024-07-26 16:38:10,569 - INFO - Обрабатываем страницу: http://toptrening.uz/prodaji-kak-igra/#tab-1661186046147-6-3
+2024-07-26 16:38:12,997 - INFO - Обработано 92 из 123 страниц.
+2024-07-26 16:38:12,997 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/1-2.jpg
+2024-07-26 16:38:13,154 - INFO - Обработано 93 из 123 страниц.
+2024-07-26 16:38:13,154 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/1-3.jpg
+2024-07-26 16:38:13,200 - INFO - Обработано 94 из 123 страниц.
+2024-07-26 16:38:13,200 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/1-4.jpg
+2024-07-26 16:38:13,244 - INFO - Обработано 95 из 123 страниц.
+2024-07-26 16:38:13,244 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/1-5.jpg
+2024-07-26 16:38:13,278 - INFO - Обработано 96 из 123 страниц.
+2024-07-26 16:38:13,278 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/1-6.jpg
+2024-07-26 16:38:13,308 - INFO - Обработано 97 из 123 страниц.
+2024-07-26 16:38:13,308 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/1-7.jpg
+2024-07-26 16:38:13,353 - INFO - Обработано 98 из 123 страниц.
+2024-07-26 16:38:13,353 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/1-8.jpg
+2024-07-26 16:38:13,398 - INFO - Обработано 99 из 123 страниц.
+2024-07-26 16:38:13,398 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/1-9.jpg
+2024-07-26 16:38:13,435 - INFO - Обработано 100 из 123 страниц.
+2024-07-26 16:38:13,435 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/1-10.jpg
+2024-07-26 16:38:13,463 - INFO - Обработано 101 из 123 страниц.
+2024-07-26 16:38:13,463 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/1-11.jpg
+2024-07-26 16:38:13,488 - INFO - Обработано 102 из 123 страниц.
+2024-07-26 16:38:13,488 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/1-12.jpg
+2024-07-26 16:38:13,522 - INFO - Обработано 103 из 123 страниц.
+2024-07-26 16:38:13,522 - INFO - Обрабатываем страницу: https://toptrening.uz/wp-content/uploads/2022/08/1-1.jpg
+2024-07-26 16:38:13,558 - INFO - Обработано 104 из 123 страниц.
+2024-07-26 16:38:13,558 - INFO - Обрабатываем страницу: http://toptrening.uz/prodaji-kak-igra/#1550567497217-1
+2024-07-26 16:38:16,086 - INFO - Обработано 105 из 123 страниц.
+2024-07-26 16:38:16,086 - INFO - Обрабатываем страницу: http://toptrening.uz/prodaji-kak-igra/#1550567620697-3-5
+2024-07-26 16:38:18,587 - INFO - Обработано 106 из 123 страниц.
+2024-07-26 16:38:18,587 - INFO - Обрабатываем страницу: http://toptrening.uz/prodaji-kak-igra/#1550567619450-2-10
+2024-07-26 16:38:21,561 - INFO - Обработано 107 из 123 страниц.
+2024-07-26 16:38:21,561 - INFO - Обрабатываем страницу: http://toptrening.uz/prodaji-kak-igra/#1550568232852-3-5
+2024-07-26 16:38:24,401 - INFO - Обработано 108 из 123 страниц.
+2024-07-26 16:38:24,401 - INFO - Обрабатываем страницу: http://toptrening.uz/prodaji-kak-igra/#1550568233827-4-5
+2024-07-26 16:38:26,925 - INFO - Обработано 109 из 123 страниц.
+2024-07-26 16:38:26,925 - INFO - Обрабатываем страницу: http://toptrening.uz/prodaji-kak-igra/#1550568309338-5-3
+2024-07-26 16:38:29,272 - INFO - Обработано 110 из 123 страниц.
+2024-07-26 16:38:29,272 - INFO - Обрабатываем страницу: http://toptrening.uz
+2024-07-26 16:38:31,480 - INFO - Обработано 111 из 123 страниц.
+2024-07-26 16:38:31,480 - INFO - Обрабатываем страницу: http://toptrening.uz#1550567497217-1
+2024-07-26 16:38:33,699 - INFO - Обработано 112 из 123 страниц.
+2024-07-26 16:38:33,699 - INFO - Обрабатываем страницу: http://toptrening.uz#1550567620697-3-5
+2024-07-26 16:38:35,968 - INFO - Обработано 113 из 123 страниц.
+2024-07-26 16:38:35,968 - INFO - Обрабатываем страницу: http://toptrening.uz#1550567619450-2-10
+2024-07-26 16:38:38,177 - INFO - Обработано 114 из 123 страниц.
+2024-07-26 16:38:38,177 - INFO - Обрабатываем страницу: http://toptrening.uz#1550568232852-3-5
+2024-07-26 16:38:40,459 - INFO - Обработано 115 из 123 страниц.
+2024-07-26 16:38:40,460 - INFO - Обрабатываем страницу: http://toptrening.uz#1550568233827-4-5
+2024-07-26 16:38:42,690 - INFO - Обработано 116 из 123 страниц.
+2024-07-26 16:38:42,690 - INFO - Обрабатываем страницу: http://toptrening.uz#1550568309338-5-3
+2024-07-26 16:38:44,897 - INFO - Обработано 117 из 123 страниц.
+2024-07-26 16:38:44,897 - INFO - Обрабатываем страницу: https://toptrening.uz/#1550567497217-1
+2024-07-26 16:38:44,970 - INFO - Обработано 118 из 123 страниц.
+2024-07-26 16:38:44,970 - INFO - Обрабатываем страницу: https://toptrening.uz/#1550567620697-3-5
+2024-07-26 16:38:45,004 - INFO - Обработано 119 из 123 страниц.
+2024-07-26 16:38:45,004 - INFO - Обрабатываем страницу: https://toptrening.uz/#1550567619450-2-10
+2024-07-26 16:38:45,038 - INFO - Обработано 120 из 123 страниц.
+2024-07-26 16:38:45,039 - INFO - Обрабатываем страницу: https://toptrening.uz/#1550568232852-3-5
+2024-07-26 16:38:45,073 - INFO - Обработано 121 из 123 страниц.
+2024-07-26 16:38:45,073 - INFO - Обрабатываем страницу: https://toptrening.uz/#1550568233827-4-5
+2024-07-26 16:38:45,106 - INFO - Обработано 122 из 123 страниц.
+2024-07-26 16:38:45,106 - INFO - Обрабатываем страницу: https://toptrening.uz/#1550568309338-5-3
+2024-07-26 16:38:45,140 - INFO - Обработано 123 из 123 страниц.

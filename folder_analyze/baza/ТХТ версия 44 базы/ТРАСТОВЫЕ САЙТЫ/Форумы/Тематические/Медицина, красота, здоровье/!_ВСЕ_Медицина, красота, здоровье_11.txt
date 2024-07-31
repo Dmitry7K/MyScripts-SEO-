@@ -1,0 +1,11 @@
+http://hudeemtut.ru/forum/index.php?app=core&module=global&section=register
+http://invalid24.ru/forum/index.php?register=yes&backurl=%2Fforum%2Findex.php
+http://kuhnyatv.ru/forum/ucp.php?mode=register&sid=8de8646836b1f09b04bca43afc51b500
+http://massage.net.ua/forum/profile.php?mode=register&sid=f0f4a2d831cc67d5b531696246742c1f
+http://medicinarf.ru/forum/?register=yes&backurl=%2Fforum%2F
+http://srcn.ru/communication/forum/?register=yes&backurl=%2Fcommunication%2Fforum%2F
+http://www.china-capsula.ru/forum/index.php?register=yes&backurl=%2Fforum%2Findex.php
+http://www.forum.nedug.ru/register.php
+http://www.medcom.ru/about/auth/reg.php
+http://www.miopatia.ru/forum/index.php?act=Reg&CODE=00
+http://www.narkotiki.ru/forum/register.php?f=1

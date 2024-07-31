@@ -1,0 +1,15 @@
+http://i-tenders.ru/auth/registration
+http://promportal.su/reg.htm
+http://rostender.info/announce.php
+http://smi2go.ru/registration/
+http://tender.bposd.ru/index/0-4
+http://tendergid.ru/
+http://tenderguru.ru/registration/
+http://www.bicotender.ru/registration/
+http://www.businesspartner.ru/index.php?Itemid=65&option=com_wrapper&view=wrapper&tender_parent=rubricator&tender_child=addtender
+http://www.cataloxy.ru/reg.htm
+http://www.komtender.ru/announce.php
+http://www.kpilib.ru/user.php?act=goTender
+http://www.rusopt.ru/tenders/index.php?parent=rubricator&child=addtender
+http://www.tender.pro/registration
+http://www.tenderer.ru/add/

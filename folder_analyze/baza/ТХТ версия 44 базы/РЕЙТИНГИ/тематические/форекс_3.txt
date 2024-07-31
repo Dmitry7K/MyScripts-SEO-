@@ -1,0 +1,3 @@
+http://fxmail.ru/my/sites/?action=addsite
+http://www.fortrader.ru/wp-login.php?action=register
+http://www.fxmag.ru/registration.php

@@ -1,0 +1,2 @@
+http://meinland.ru/member.php?mod=logging&action=login
+http://www.tut-vse.eu/user/login/

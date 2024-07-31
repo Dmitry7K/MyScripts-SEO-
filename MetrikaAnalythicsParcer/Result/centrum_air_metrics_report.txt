@@ -1,0 +1,70 @@
+Всего страниц: 21
+Страниц со всеми метриками: 13 (61.90%)
+Страниц без метрик: 1 (4.76%)
+Страниц с частичными метриками: 7 (33.33%)
+Страниц с Яндекс Вебмастером: 16 (76.19%)
+Страниц с Google Search Console: 17 (80.95%)
+
+Страницы со всеми метриками:
+https://centrum-air.com
+https://centrum-air.com/contacts
+https://centrum-air.com/website-map
+https://centrum-air.com/about
+https://centrum-air.com/journal
+https://centrum-air.com/vacancies
+https://centrum-air.com/service/extra-baggage
+https://centrum-air.com/service/seat-selection
+https://centrum-air.com/service/on-board-meals
+https://centrum-air.com/service/wheelchair-rental
+https://centrum-air.com/development
+https://centrum-air.com/additional-services
+https://centrum-air.com/news
+
+Страницы без метрик:
+https://centrum-air.com/docs/carriege-contract-uz.pdf
+
+Страницы с частичными метриками:
+https://centrum-air.com/ - Яндекс: Да, Google: Нет, GTM: Да
+https://booking.centrum-air.com/ibe/C6/home/?language=uz#searchForm - Яндекс: Да, Google: Да, GTM: Нет
+https://booking.centrum-air.com/ibe/C6/home?language=uz#/guest/search - Яндекс: Нет, Google: Нет, GTM: Да
+https://centrum-air.com/flight-graph - Яндекс: Да, Google: Нет, GTM: Да
+https://hotels.centrum-air.com - Яндекс: Да, Google: Да, GTM: Нет
+https://centrum-air.com/online-scoreboard - Яндекс: Да, Google: Нет, GTM: Да
+https://booking.centrum-air.com/ibe/C6/home?language=uz#/guest/login - Яндекс: Да, Google: Да, GTM: Нет
+
+Страницы с Яндекс Вебмастером:
+https://centrum-air.com
+https://centrum-air.com/
+https://centrum-air.com/flight-graph
+https://centrum-air.com/contacts
+https://centrum-air.com/website-map
+https://centrum-air.com/about
+https://centrum-air.com/journal
+https://centrum-air.com/vacancies
+https://centrum-air.com/service/extra-baggage
+https://centrum-air.com/service/seat-selection
+https://centrum-air.com/service/on-board-meals
+https://centrum-air.com/service/wheelchair-rental
+https://centrum-air.com/online-scoreboard
+https://centrum-air.com/development
+https://centrum-air.com/additional-services
+https://centrum-air.com/news
+
+Страницы с Google Search Console:
+https://centrum-air.com
+https://centrum-air.com/
+https://centrum-air.com/flight-graph
+https://centrum-air.com/contacts
+https://centrum-air.com/website-map
+https://centrum-air.com/about
+https://centrum-air.com/journal
+https://centrum-air.com/vacancies
+https://centrum-air.com/service/extra-baggage
+https://centrum-air.com/service/seat-selection
+https://centrum-air.com/service/on-board-meals
+https://centrum-air.com/service/wheelchair-rental
+https://hotels.centrum-air.com
+https://centrum-air.com/online-scoreboard
+https://centrum-air.com/development
+https://centrum-air.com/additional-services
+https://centrum-air.com/news

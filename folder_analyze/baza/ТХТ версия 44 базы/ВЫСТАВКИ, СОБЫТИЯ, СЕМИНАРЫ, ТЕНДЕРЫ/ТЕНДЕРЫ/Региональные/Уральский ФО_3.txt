@@ -1,0 +1,3 @@
+http://chelyab.ru/tender/index.php?parent=rubricator&child=addtender
+http://eb24.ru/tender/index.php?parent=rubricator&child=addtender
+http://ty24.ru/tender/index.php?parent=rubricator&child=addtender

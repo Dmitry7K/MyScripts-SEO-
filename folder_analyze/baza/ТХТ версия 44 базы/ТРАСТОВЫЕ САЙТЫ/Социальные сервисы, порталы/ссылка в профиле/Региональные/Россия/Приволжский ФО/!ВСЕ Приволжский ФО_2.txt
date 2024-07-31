@@ -1,0 +1,2 @@
+http://ufacity.info/auth/?register=yes&backurl=%2Fclub%2Fuser%2F96034%2F
+http://vologda-portal.ru/auth/registration.php

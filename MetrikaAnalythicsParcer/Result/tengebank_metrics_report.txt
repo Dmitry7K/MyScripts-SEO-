@@ -1,0 +1,281 @@
+Всего страниц: 89
+Страниц со всеми метриками: 72 (80.90%)
+Страниц без метрик: 1 (1.12%)
+Страниц с частичными метриками: 16 (17.98%)
+Страниц с Яндекс Вебмастером: 88 (98.88%)
+Страниц с Google Search Console: 88 (98.88%)
+
+Страницы со всеми метриками:
+https://tengebank.uz/
+https://tengebank.uz/uz/auth
+https://tengebank.uz/uz
+https://tengebank.uz/uz/business
+https://tengebank.uz/organizations/financialinstitution/korrespondentskie-otnosheniya
+https://tengebank.uz/uz/about/press_center
+https://tengebank.uz/uz/more/prava-klientov
+https://tengebank.uz/uz/quiz-polls
+https://tengebank.uz/uz/promo
+https://tengebank.uz/uz/credits/ipoteka
+https://tengebank.uz/uz/credits/mikrozajmy
+https://tengebank.uz/uz/credits/dosrochnoe-pogashenie-kredita
+https://tengebank.uz/uz/cards/debetovye-karty
+https://tengebank.uz/uz/cards/7-yoshdan-bolalar-uchun-kartalar
+https://tengebank.uz/uz/deposit/srochnye-vklady
+https://tengebank.uz/uz/deposit/garantirovanie-vseh-vkladov
+https://tengebank.uz/uz/transfer/mezhdunarodnye-perevody-na-schyot
+https://tengebank.uz/uz/transfer/perevody-v-prilozhenii-halyk
+https://tengebank.uz/uz/transfer/perevody-mezhdu-kartami
+https://tengebank.uz/uz/transfer/perevody-v-kazahstan
+https://tengebank.uz/uz/other/kassovye
+https://tengebank.uz/uz/more/tenge24
+https://tengebank.uz/uz/more/tenge-market
+https://tengebank.uz/uz/cashback
+https://tengebank.uz/uz#nav-private
+https://tengebank.uz/uz/about-bank/kontakty-i-rekvizity
+https://tengebank.uz/uz/business/services/tranzakcionnoe-obsluzhivanie
+https://tengebank.uz/uz/business/acquiring/pos-terminaly
+https://tengebank.uz/uz/business/smelendings/na-lyubye-biznes-celi
+http://tengebank.uz/uz/business/smelending/finansirovanie-na-investicionnye-celi
+https://tengebank.uz/uz/about/property
+https://tengebank.uz/uz/business/tradefinance_categories/garantii
+https://tengebank.uz/uz/business/tradefinance_categories/akkreditivy
+https://tengebank.uz/uz/business/lendingcorporate/investicionnye-celi
+https://tengebank.uz/uz/business/lendingcorporate/na-popolnenie-oborotnyh-sredstv
+https://tengebank.uz/uz/business/service/zarplatnyj-proekt
+https://tengebank.uz/uz/business/services/produkty-kaznachejstva
+https://tengebank.uz/uz/business/more/depozity
+https://tengebank.uz/uz/business/more/tenge-business
+https://tengebank.uz/uz/business/more/tenge-market
+https://tengebank.uz/uz/about-bank/o-banke
+https://tengebank.uz/uz/about-bank/korporativnoe-upravlenie
+https://tengebank.uz/uz/about-bank/virtualnaya-priemnaya
+https://tengebank.uz/uz/about-bank/finansovaya-otchetnost
+https://tengebank.uz/uz/about-bank/upravleniye-vnutrennego-kontrolya
+https://tengebank.uz/uz/about-bank/tendery
+https://tengebank.uz/uz/about-bank/tekushchie-rejtingi
+https://tengebank.uz/uz/about-bank/bezopasnost
+https://tengebank.uz/uz/about-bank/biznes-plan
+https://tengebank.uz/uz/about-bank/vykup-akcij
+https://tengebank.uz/uz/about-bank/dividendlar
+https://tengebank.uz/uz/about-bank/plan-esg
+https://tengebank.uz/uz/about/leadership
+https://tengebank.uz/uz/tenge-bankda-martaba
+https://tengebank.uz/uz/about-bank/informaciya-ob-akcionerah
+https://tengebank.uz/uz/promo/67
+https://tengebank.uz/uz/promo/63
+https://tengebank.uz/uz/promo/74
+https://www.tengebank.uz/uz/credit/ipoteka-na-vtorichnoe-zhile
+https://www.tengebank.uz/uz/deposit/srochnye-vklady
+https://tengebank.uz/uz/exchange-rates
+https://tengebank.uz/uz/tariffs
+https://tengebank.uz/uz/site-map
+https://www.tengebank.uz/t24-download?utm_source=link&utm_medium=site&utm_campaign=tenge24
+https://tengebank.uz/uz/branches_atm/branch#nav-private
+https://tengebank.uz/uz/branches_atm/universal_cash
+https://tengebank.uz/uz/branches_atm
+https://tengebank.uz/uz/branches_atm/cartomat
+https://tengebank.uz/#nav-private
+https://tengebank.uz/#nav-business
+https://tengebank.uz/#nav-organizations
+https://tengebank.uz/#nav-about
+
+Страницы без метрик:
+https://www.facebook.com/tengebank.uz
+
+Страницы с частичными метриками:
+https://tengebank.uz/uz/branches_atm/branch - Яндекс: Да, Google: Нет, GTM: Да
+https://tengebank.uz/uz/transfer/mezhdunarodnye-perevody-nalichnymi - Яндекс: Да, Google: Нет, GTM: Да
+https://tengebank.uz/uz#nav-business - Яндекс: Да, Google: Нет, GTM: Да
+https://tengebank.uz/uz#nav-organizations - Яндекс: Да, Google: Нет, GTM: Да
+https://tengebank.uz/uz#nav-about - Яндекс: Да, Google: Нет, GTM: Да
+https://tengebank.uz/uz/business/acquiring/american-express-ae - Яндекс: Да, Google: Нет, GTM: Да
+https://tengebank.uz/business/smelending/online-business - Яндекс: Да, Google: Нет, GTM: Да
+https://tengebank.uz/uz/organizations/financialinstitutions/korrespondentskie-otnosheniya - Яндекс: Да, Google: Нет, GTM: Да
+https://tengebank.uz/uz/about-bank/akcioneram - Яндекс: Да, Google: Нет, GTM: Да
+https://tengebank.uz/uz/auth#nav-private - Яндекс: Да, Google: Нет, GTM: Да
+https://tengebank.uz/uz/auth#nav-business - Яндекс: Да, Google: Нет, GTM: Да
+https://tengebank.uz/uz/auth#nav-organizations - Яндекс: Да, Google: Нет, GTM: Да
+https://tengebank.uz/uz/auth#nav-about - Яндекс: Да, Google: Нет, GTM: Да
+https://tengebank.uz/uz/branches_atm/branch#nav-business - Яндекс: Да, Google: Нет, GTM: Да
+https://tengebank.uz/uz/branches_atm/branch#nav-organizations - Яндекс: Да, Google: Нет, GTM: Да
+https://tengebank.uz/uz/branches_atm/branch#nav-about - Яндекс: Да, Google: Нет, GTM: Да
+
+Страницы с Яндекс Вебмастером:
+https://tengebank.uz/
+https://tengebank.uz/uz/branches_atm/branch
+https://tengebank.uz/uz/auth
+https://tengebank.uz/uz
+https://tengebank.uz/uz/business
+https://tengebank.uz/organizations/financialinstitution/korrespondentskie-otnosheniya
+https://tengebank.uz/uz/about/press_center
+https://tengebank.uz/uz/more/prava-klientov
+https://tengebank.uz/uz/quiz-polls
+https://tengebank.uz/uz/promo
+https://tengebank.uz/uz/credits/ipoteka
+https://tengebank.uz/uz/credits/mikrozajmy
+https://tengebank.uz/uz/credits/dosrochnoe-pogashenie-kredita
+https://tengebank.uz/uz/cards/debetovye-karty
+https://tengebank.uz/uz/cards/7-yoshdan-bolalar-uchun-kartalar
+https://tengebank.uz/uz/deposit/srochnye-vklady
+https://tengebank.uz/uz/deposit/garantirovanie-vseh-vkladov
+https://tengebank.uz/uz/transfer/mezhdunarodnye-perevody-na-schyot
+https://tengebank.uz/uz/transfer/mezhdunarodnye-perevody-nalichnymi
+https://tengebank.uz/uz/transfer/perevody-v-prilozhenii-halyk
+https://tengebank.uz/uz/transfer/perevody-mezhdu-kartami
+https://tengebank.uz/uz/transfer/perevody-v-kazahstan
+https://tengebank.uz/uz/other/kassovye
+https://tengebank.uz/uz/more/tenge24
+https://tengebank.uz/uz/more/tenge-market
+https://tengebank.uz/uz/cashback
+https://tengebank.uz/uz#nav-private
+https://tengebank.uz/uz#nav-business
+https://tengebank.uz/uz#nav-organizations
+https://tengebank.uz/uz#nav-about
+https://tengebank.uz/uz/about-bank/kontakty-i-rekvizity
+https://tengebank.uz/uz/business/services/tranzakcionnoe-obsluzhivanie
+https://tengebank.uz/uz/business/acquiring/pos-terminaly
+https://tengebank.uz/uz/business/acquiring/american-express-ae
+https://tengebank.uz/uz/business/smelendings/na-lyubye-biznes-celi
+http://tengebank.uz/uz/business/smelending/finansirovanie-na-investicionnye-celi
+https://tengebank.uz/business/smelending/online-business
+https://tengebank.uz/uz/about/property
+https://tengebank.uz/uz/business/tradefinance_categories/garantii
+https://tengebank.uz/uz/business/tradefinance_categories/akkreditivy
+https://tengebank.uz/uz/business/lendingcorporate/investicionnye-celi
+https://tengebank.uz/uz/business/lendingcorporate/na-popolnenie-oborotnyh-sredstv
+https://tengebank.uz/uz/business/service/zarplatnyj-proekt
+https://tengebank.uz/uz/business/services/produkty-kaznachejstva
+https://tengebank.uz/uz/business/more/depozity
+https://tengebank.uz/uz/business/more/tenge-business
+https://tengebank.uz/uz/business/more/tenge-market
+https://tengebank.uz/uz/organizations/financialinstitutions/korrespondentskie-otnosheniya
+https://tengebank.uz/uz/about-bank/o-banke
+https://tengebank.uz/uz/about-bank/akcioneram
+https://tengebank.uz/uz/about-bank/korporativnoe-upravlenie
+https://tengebank.uz/uz/about-bank/virtualnaya-priemnaya
+https://tengebank.uz/uz/about-bank/finansovaya-otchetnost
+https://tengebank.uz/uz/about-bank/upravleniye-vnutrennego-kontrolya
+https://tengebank.uz/uz/about-bank/tendery
+https://tengebank.uz/uz/about-bank/tekushchie-rejtingi
+https://tengebank.uz/uz/about-bank/bezopasnost
+https://tengebank.uz/uz/about-bank/biznes-plan
+https://tengebank.uz/uz/about-bank/vykup-akcij
+https://tengebank.uz/uz/about-bank/dividendlar
+https://tengebank.uz/uz/about-bank/plan-esg
+https://tengebank.uz/uz/about/leadership
+https://tengebank.uz/uz/tenge-bankda-martaba
+https://tengebank.uz/uz/about-bank/informaciya-ob-akcionerah
+https://tengebank.uz/uz/promo/67
+https://tengebank.uz/uz/promo/63
+https://tengebank.uz/uz/promo/74
+https://www.tengebank.uz/uz/credit/ipoteka-na-vtorichnoe-zhile
+https://www.tengebank.uz/uz/deposit/srochnye-vklady
+https://tengebank.uz/uz/exchange-rates
+https://tengebank.uz/uz/tariffs
+https://tengebank.uz/uz/site-map
+https://www.tengebank.uz/t24-download?utm_source=link&utm_medium=site&utm_campaign=tenge24
+https://tengebank.uz/uz/auth#nav-private
+https://tengebank.uz/uz/auth#nav-business
+https://tengebank.uz/uz/auth#nav-organizations
+https://tengebank.uz/uz/auth#nav-about
+https://tengebank.uz/uz/branches_atm/branch#nav-private
+https://tengebank.uz/uz/branches_atm/branch#nav-business
+https://tengebank.uz/uz/branches_atm/branch#nav-organizations
+https://tengebank.uz/uz/branches_atm/branch#nav-about
+https://tengebank.uz/uz/branches_atm/universal_cash
+https://tengebank.uz/uz/branches_atm
+https://tengebank.uz/uz/branches_atm/cartomat
+https://tengebank.uz/#nav-private
+https://tengebank.uz/#nav-business
+https://tengebank.uz/#nav-organizations
+https://tengebank.uz/#nav-about
+
+Страницы с Google Search Console:
+https://tengebank.uz/
+https://tengebank.uz/uz/branches_atm/branch
+https://tengebank.uz/uz/auth
+https://tengebank.uz/uz
+https://tengebank.uz/uz/business
+https://tengebank.uz/organizations/financialinstitution/korrespondentskie-otnosheniya
+https://tengebank.uz/uz/about/press_center
+https://tengebank.uz/uz/more/prava-klientov
+https://tengebank.uz/uz/quiz-polls
+https://tengebank.uz/uz/promo
+https://tengebank.uz/uz/credits/ipoteka
+https://tengebank.uz/uz/credits/mikrozajmy
+https://tengebank.uz/uz/credits/dosrochnoe-pogashenie-kredita
+https://tengebank.uz/uz/cards/debetovye-karty
+https://tengebank.uz/uz/cards/7-yoshdan-bolalar-uchun-kartalar
+https://tengebank.uz/uz/deposit/srochnye-vklady
+https://tengebank.uz/uz/deposit/garantirovanie-vseh-vkladov
+https://tengebank.uz/uz/transfer/mezhdunarodnye-perevody-na-schyot
+https://tengebank.uz/uz/transfer/mezhdunarodnye-perevody-nalichnymi
+https://tengebank.uz/uz/transfer/perevody-v-prilozhenii-halyk
+https://tengebank.uz/uz/transfer/perevody-mezhdu-kartami
+https://tengebank.uz/uz/transfer/perevody-v-kazahstan
+https://tengebank.uz/uz/other/kassovye
+https://tengebank.uz/uz/more/tenge24
+https://tengebank.uz/uz/more/tenge-market
+https://tengebank.uz/uz/cashback
+https://tengebank.uz/uz#nav-private
+https://tengebank.uz/uz#nav-business
+https://tengebank.uz/uz#nav-organizations
+https://tengebank.uz/uz#nav-about
+https://tengebank.uz/uz/about-bank/kontakty-i-rekvizity
+https://tengebank.uz/uz/business/services/tranzakcionnoe-obsluzhivanie
+https://tengebank.uz/uz/business/acquiring/pos-terminaly
+https://tengebank.uz/uz/business/acquiring/american-express-ae
+https://tengebank.uz/uz/business/smelendings/na-lyubye-biznes-celi
+http://tengebank.uz/uz/business/smelending/finansirovanie-na-investicionnye-celi
+https://tengebank.uz/business/smelending/online-business
+https://tengebank.uz/uz/about/property
+https://tengebank.uz/uz/business/tradefinance_categories/garantii
+https://tengebank.uz/uz/business/tradefinance_categories/akkreditivy
+https://tengebank.uz/uz/business/lendingcorporate/investicionnye-celi
+https://tengebank.uz/uz/business/lendingcorporate/na-popolnenie-oborotnyh-sredstv
+https://tengebank.uz/uz/business/service/zarplatnyj-proekt
+https://tengebank.uz/uz/business/services/produkty-kaznachejstva
+https://tengebank.uz/uz/business/more/depozity
+https://tengebank.uz/uz/business/more/tenge-business
+https://tengebank.uz/uz/business/more/tenge-market
+https://tengebank.uz/uz/organizations/financialinstitutions/korrespondentskie-otnosheniya
+https://tengebank.uz/uz/about-bank/o-banke
+https://tengebank.uz/uz/about-bank/akcioneram
+https://tengebank.uz/uz/about-bank/korporativnoe-upravlenie
+https://tengebank.uz/uz/about-bank/virtualnaya-priemnaya
+https://tengebank.uz/uz/about-bank/finansovaya-otchetnost
+https://tengebank.uz/uz/about-bank/upravleniye-vnutrennego-kontrolya
+https://tengebank.uz/uz/about-bank/tendery
+https://tengebank.uz/uz/about-bank/tekushchie-rejtingi
+https://tengebank.uz/uz/about-bank/bezopasnost
+https://tengebank.uz/uz/about-bank/biznes-plan
+https://tengebank.uz/uz/about-bank/vykup-akcij
+https://tengebank.uz/uz/about-bank/dividendlar
+https://tengebank.uz/uz/about-bank/plan-esg
+https://tengebank.uz/uz/about/leadership
+https://tengebank.uz/uz/tenge-bankda-martaba
+https://tengebank.uz/uz/about-bank/informaciya-ob-akcionerah
+https://tengebank.uz/uz/promo/67
+https://tengebank.uz/uz/promo/63
+https://tengebank.uz/uz/promo/74
+https://www.tengebank.uz/uz/credit/ipoteka-na-vtorichnoe-zhile
+https://www.tengebank.uz/uz/deposit/srochnye-vklady
+https://tengebank.uz/uz/exchange-rates
+https://tengebank.uz/uz/tariffs
+https://tengebank.uz/uz/site-map
+https://www.tengebank.uz/t24-download?utm_source=link&utm_medium=site&utm_campaign=tenge24
+https://tengebank.uz/uz/auth#nav-private
+https://tengebank.uz/uz/auth#nav-business
+https://tengebank.uz/uz/auth#nav-organizations
+https://tengebank.uz/uz/auth#nav-about
+https://tengebank.uz/uz/branches_atm/branch#nav-private
+https://tengebank.uz/uz/branches_atm/branch#nav-business
+https://tengebank.uz/uz/branches_atm/branch#nav-organizations
+https://tengebank.uz/uz/branches_atm/branch#nav-about
+https://tengebank.uz/uz/branches_atm/universal_cash
+https://tengebank.uz/uz/branches_atm
+https://tengebank.uz/uz/branches_atm/cartomat
+https://tengebank.uz/#nav-private
+https://tengebank.uz/#nav-business
+https://tengebank.uz/#nav-organizations
+https://tengebank.uz/#nav-about

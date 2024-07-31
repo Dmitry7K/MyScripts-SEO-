@@ -1,0 +1,5 @@
+http://feedage.com/submit.php
+http://netsay.net/index.php?module=rss&action=rss_submit
+http://www.feedbase.net/Add.php
+http://www.icerocket.com/c?p=addblog
+http://www.rssmicro.com/?m=fs#theForm
